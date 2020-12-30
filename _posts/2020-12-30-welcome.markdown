@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Lichfield Library and Curborough Community Centre Code Club"
 date:   2020-12-30 11:38:46 +0000
 categories: jekyll update
 ---
