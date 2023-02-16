@@ -1,2 +1,2 @@
-# Lichfield-Code-Club.github.io
+# Lichfieldcodeclub.uk
 Curborough Community Centre Code Club
