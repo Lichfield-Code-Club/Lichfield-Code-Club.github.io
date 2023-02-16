@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 Update of domain to lichfieldcodeclub.uk.
 And a bit of experimenting expectsome of the website to be down.
+We are still testing.
