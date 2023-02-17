@@ -1,4 +1,4 @@
-# Lichfieldcodeclub.uk
-Curborough Community Centre Code Club
-[Natan's Link to Club Website](http://lichfieldcodeclub.uk/)
-[Code Club Website](https://lichfield-code-club.github.io/)
+# Lichfield Code Club
+# Curborough Community Centre
+# [Natan's Link to Club Website](http://lichfieldcodeclub.uk/)
+# [Original Link](https://lichfield-code-club.github.io/)
