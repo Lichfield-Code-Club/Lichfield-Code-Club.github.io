@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lichfield Library and Curborough Community Centre Code Club
+title: Curborough Community Centre Code Club
 email: lichfieldcodeclub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here we have links to useful resources, examples of work done by our club members and blog postings.
