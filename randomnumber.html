@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Guess the Number Game</title>
+</head>
+<body>
+  <h1>Guess the Number Game</h1>
+  
+  <p>I'm thinking of a number between 1 and 10. Can you guess what it is?</p>
+  
+  <script>
+    // Generate a random number between 1 and 10
+    const randomNumber = Math.floor(Math.random() * 10) + 1;
+
+    // Keep track of the number of guesses
+    let numGuesses = 0;
+
+    // Ask the user to guess the number
+    let guess = parseInt(prompt("I'm thinking of a number between 1 and 10. Can you guess what it is?"));
+
+    // Keep asking for guesses until the user guesses correctly
+    while (guess !== randomNumber) {
+      // Increment the number of guesses
+      numGuesses++;
+
+      // Check if the guess is too high or too low
+      if (guess < randomNumber) {
+        guess = parseInt(prompt("Sorry, that guess was too low. Try again:"));
+      } else {
+        guess = parseInt(prompt("Sorry, that guess was too high. Try again:"));
+      }
+    }
+
+    // The user guessed correctly!
+    numGuesses++;
+    alert(`Congratulations! You guessed the number ${randomNumber} in ${numGuesses} guesses!`);
+  </script>
+</body>
+</html>
