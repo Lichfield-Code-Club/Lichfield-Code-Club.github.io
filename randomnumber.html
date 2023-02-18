@@ -34,6 +34,15 @@
     // The user guessed correctly!
     numGuesses++;
     alert(`Congratulations! You guessed the number ${randomNumber} in ${numGuesses} guesses!`);
+
+    // Add a "Play Again" button
+    const playAgainButton = document.createElement("button");
+    playAgainButton.innerText = "Play Again";
+    playAgainButton.onclick = function() {
+      // Reload the page to start a new game
+      location.reload();
+    };
+    document.body.appendChild(playAgainButton);
   </script>
 </body>
 </html>
