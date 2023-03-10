@@ -18,7 +18,7 @@ email: support@lichfieldcodeclub.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Here we have links to useful resources, examples of work done by our club members and blog postings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lichfieldcodeclub.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lichfieldcodeclub.uk" # the base hostname & protocol for your site, e.g. https://example.com
 facebook_username: LichfieldCoders
 github_username:  Lichfield-Code-Club
 
