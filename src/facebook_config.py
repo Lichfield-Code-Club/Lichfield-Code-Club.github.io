@@ -77,5 +77,8 @@ def main(fname):
                 WriteSecrets(fname=fname, config=secrets)
 
 if __name__ == "__main__":
-    facebook_secrets = "src/.secrets"
-    main(facebook_secrets)
+    facebook_secrets = os.environ['FACEBOOK_CONFIG']
+    if facebook_secrets:
+        main(facebook_secrets)
+    else:
+        print('FACEBOOK_CONFIG not set as an env variable')

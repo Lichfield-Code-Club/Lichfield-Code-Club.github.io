@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "created_time": "2022-09-20T15:16:48+0000",
+      "message": "13th September meeting",
+      "id": "1481985248595237_596868705464888"
+    },
+    {
+      "created_time": "2022-09-20T15:15:49+0000",
+      "message": "Summary of meeting on 13th September \n\nIt was more of a welcome back and what have you been doing than a code club meeting but that was good in itself. \n\nBill updated unity\nNatan did something with linux servers and swap spaces\nAlekz and Thomasz had (manually) copied a pong game which had many bugs and so they did a little debugging.\nThe rest of us had a good chin wag \ud83d\ude0a",
+      "id": "1481985248595237_596868018798290"
+    },
+    {
+      "created_time": "2022-09-06T07:00:04+0000",
+      "message": "Hope you all had a good summer break and are ready to resume normal activities, like Code Club which meets for the first time later today, Tuesday 6th of September, after the summer break.",
+      "id": "1481985248595237_5167482523378806"
+    },
+    {
+      "created_time": "2022-08-13T03:08:56+0000",
+      "message": "Find out more about Code Club\n https://blog.codeclub.org/2022/06/15/say-hello-to-the-code-club-team/",
+      "id": "1481985248595237_5100265490100510"
+    },
+    {
+      "created_time": "2022-08-10T20:33:01+0000",
+      "message": "Although we're not meeting at Curborough Community Centre in August we're still active and giving support on our discord server.\n\nBill is doing some amazing things with Unity. Well done Bill.\n\nhttps://discord.gg/jNSmAxJt4P",
+      "id": "1481985248595237_5094005390726520"
+    },
+    {
+      "created_time": "2022-07-26T14:52:21+0000",
+      "message": "Please note that the club will be NOT be meeting for the whole of August and meetings will restart on Tuesday 6th of September.\n\nHope all have a great summer break and come back eager to come back in September\n\nAll the best from Ania, Stoo & Mark",
+      "id": "1481985248595237_5053329154794144"
+    },
+    {
+      "created_time": "2022-07-17T18:11:42+0000",
+      "message": "Hi Everyone. Due to the heatwave forecast we will not be meeting on Tuesday 19th July. Take care, see you on the 26th July \ud83d\ude0a",
+      "id": "1481985248595237_5030417197085340"
+    },
+    {
+      "created_time": "2022-07-16T14:04:24+0000",
+      "message": "PLEASE NOTE\n\nDue to the high temperatures predicted for Tuesday 19th July, the Community Centre has been advised not to be open. \nConsequently there will \n\nNOT BE A MEETING ON TUESDAY \n\nnext week.",
+      "id": "1481985248595237_5026983710762022"
+    },
+    {
+      "created_time": "2022-07-06T17:01:53+0000",
+      "id": "1481985248595237_4998752053585188"
+    },
+    {
+      "created_time": "2022-07-06T16:56:09+0000",
+      "message": "Summary of our meeting on Tuesday 5th of July\n\nBill had some issues with his parallax settings in Unity which resulted in display update issues with gaps between frames which eventually caught up. We couldn't resolve the issues during the meeting but will try and find time to sort them out before the next meeting.\n\nNatan had issues with his speech/phrase recognition software, which we'll try and reolve before the next meeting.\n\nAlekx and Thomasz further progressed their pico electronics where they were emulating pedestrian crossing, althought the sound didn't work. Also some nice progress on the random but structured vectors graphics drawings.\n\nNataniel and his Dad investigated two BBC MicroBits talking, wirelessly, to each other.",
+      "id": "1481985248595237_4998740306919696"
+    },
+    {
+      "created_time": "2022-06-28T18:07:42+0000",
+      "message": "Summary of Code Club meeting 28th June\n\nA nice evening at today's club \n\nBill worked on 'Certainly Not Flappy Bird' Unity project\n\nNatan looked into using Javascript to create an 'Alexa' type program \n\nNathaniel enjoyed programming a BBC MicroBit, I think his Dad enjoyed it too! \n\nAleks and Thomas are doing some really wonderful things with python graphics and Pico electronics projects. \n\nAll in all, our members are becoming more an more proficient with their projects, which is nice because it gives us, the STEM Ambassadors, time to sit down and talk to each of them and see what they're doing. \n\nAll in all a nice, productive meeting\nMany thanks to Bill for taking the photos",
+      "id": "1481985248595237_4977927665667627"
+    },
+    {
+      "created_time": "2022-06-18T02:32:20+0000",
+      "message": "https://twitter.com/CodeClub/status/1537782383214305283?t=WwEAyr1fT60aUfOc6lZsrw&s=19 \n\nA great idea from Code Club Wales ...",
+      "id": "1481985248595237_4948321888628205"
+    },
+    {
+      "created_time": "2022-06-16T03:51:23+0000",
+      "message": "Tuesday's meeting was a much quieter event which meant time could be spent talking with club members and seeing what they were working on.\n\nPaul, Aleks and Thomasz have done some really good progressive random spiral coding in python as well as making good progress on programming the Raspberry Pi Pico and learning about diodes only allowing current to flow one way. Really good to see them learning so much and becoming more and more confident.\n\nSome really in depth coding of a BBC microbit by Nathaniel. He's really quite adept with the whole microbit programnming interfaces.\n\nBill did some more work on the Unity system and took photos of our meeting.",
+      "id": "1481985248595237_4942912172502510"
+    },
+    {
+      "created_time": "2022-06-15T16:30:45+0000",
+      "message": "Thanks to Mark, Anna and Pawel for taking the club to RAF Cosford Airshow last weekend. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+      "id": "1481985248595237_4941646729295721"
+    },
+    {
+      "created_time": "2022-06-13T10:07:23+0000",
+      "message": "On Sunday our Club represented Staffordshire STEM at the Cosford Air Show.\n\nWe were in hangar 15 and  had a fair bit of interest in what a code club is and where people could find their nearest one, and at least three people were from Lichfield and so may join us.\n\nThe favourite activity was either the robot spider or the mechanical arm. The spider was most popular with the younger children, whilst the mechanical arm was enjoyed by a wide range of age groups and parents :-)\n\nOur slide presentations were running most of the time and many people stood and watched for a while. They sparked a few questions and gave people something to watch whilst waiting for children or friends to finish with the spider or mechanical arm.\n\nWe were unable to get the 3D printer running due to it not being able to read the SD card. Pawel and I tried to get OctoPrint running but the internet connection was far to poor for us to download the software that was needed.\n\nThe show itself was well attended with around 50,000 guests. It was very busy in the hangar most of the time but cleared quite quickly whilst there was an aerial display in progress.\n\nWe were able to look at other exhibits and get some ideas for next time. The main point was that visitors are most receptive when they have something practical to do, and these things need to not need internet connectivity.\n\nMany thanks to Annia and her son Pawel for getting up at 5am and helping throughout the day. It was a great day, but also a long one too..",
+      "id": "1481985248595237_4935466286580432"
+    },
+    {
+      "created_time": "2022-06-08T19:32:30+0000",
+      "message": "Missed 2\nBill's Unity PC and Blender and Pico programming",
+      "id": "1481985248595237_4923129621147432"
+    },
+    {
+      "created_time": "2022-06-08T19:04:23+0000",
+      "message": "3D printer\n... and that is all of the exhibits for the Cosford Air Show \ud83d\ude0a",
+      "id": "1481985248595237_4923071574486570"
+    },
+    {
+      "created_time": "2022-06-08T19:02:07+0000",
+      "message": "Comments from members and parents",
+      "id": "1481985248595237_4923066967820364"
+    },
+    {
+      "created_time": "2022-06-08T19:00:38+0000",
+      "message": "Useful magazines and book",
+      "id": "1481985248595237_4923063967820664"
+    },
+    {
+      "created_time": "2022-06-08T18:52:01+0000",
+      "message": "Line following robot car",
+      "id": "1481985248595237_4923046207822440"
+    },
+    {
+      "created_time": "2022-06-08T18:46:48+0000",
+      "message": "Face recognition and tracking project by Igor",
+      "id": "1481985248595237_4923035424490185"
+    },
+    {
+      "created_time": "2022-06-08T18:05:07+0000",
+      "message": "Another of our displays for Cosford Air Show",
+      "id": "1481985248595237_4922951844498543"
+    },
+    {
+      "created_time": "2022-06-08T17:16:50+0000",
+      "message": "One of our exhibits for the Cosford Air Show on Sunday",
+      "id": "1481985248595237_4922848381175556"
+    },
+    {
+      "created_time": "2022-06-03T06:39:48+0000",
+      "message": "Continuing with the information about the Raspberry Pi Pico \nHere are a few YouTube videos which  will explain how to use the Pico in some interesting projects\n\nhttps://www.youtube.com/watch?v=Zy64kZEM_bg\n\nhttps://www.youtube.com/watch?v=k2thJQxO17w\n\nhttps://www.youtube.com/watch?v=TDj2kcSA-68&t=12s\n\nhttps://www.youtube.com/watch?v=L03jT5slW",
+      "id": "1481985248595237_4907690179358043"
+    },
+    {
+      "created_time": "2022-06-02T06:28:17+0000",
+      "message": "Controlling devices using computers is fun and easy. At the club, which is part of the Raspberry Pi foundation, we naturally favour the Raspberry Pi Pico, although historically the arduino has been the main stay of our projects.\n\nIt's nice that the Pico only costs 6 GBP.\n\nhttps://projects.raspberrypi.org/en/projects/getting-started-with-the-pico\nhttps://www.arduino.cc/en/Guide\nhttps://thepihut.com/products/raspberry-pi-pico-with-pre-soldered-headers\n\nThe photos show the pico and an LCD screen. The screen also has switches and a joystick and so could be used to create hand held games.",
+      "id": "1481985248595237_4904794099647651"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUk9LV3pGUWRHRm41ek5YUGRwdVpsT1ZAyWEUwQjdaVDhOS1ZAxX2ZAvZAVhESWhYdFJZAUnRKN2pxMHFXY2w3ZAE9TTTk3RlNlSzZAJOHVaeFh1MDJjak1DWGlsTFVFZAXVKQ05VeHFMbFFkZAl8yb3lrZA0tfVkJhSHgxSnNQSGlmTUhIaEhPRzF4RzM4WFJHYllpV0VuTzJhYlpoRGI5ajFxb1FsMjhuSFBUN1NlNTNPR3lTdm5ZARWpsQzFTZATdnY19ud3QwMklrbDZAHQjF1RHo2d3luMkpOWjFXbWU5NmFOMnlwbmxqblFyWC13Tm1TR2pZAT0VzTm5CV3JpbHJ0UlQtYTAza1dnYVhSNXZAMcUdINXRPUzdsTGR3Qmd3T2c3NXg0NEItZATZAXTjgxalRCUUZADdlB0WXRLMDJGRmt1eGFpbWZAwWmFJdEY4MFhrQXNmWVNWNEx2Qi1JUVBya09NdmRPaUNUdG9jTmsyVy02bkRiWkJ3c3l2SXZAOZAkZANRlVVLXJ1ZA3F3OFVycFRSS1pEOWdJMFlXRWVLc1AtckwwNEVzOFptX3pTZAG5IUUswWFhFWmdZANUhCUk5lZAXZAhWUZAMN3Q2OHBmbzRyRm8yREYtOUlUX2hJYkQxb3lsQ1dR",
+      "after": "QVFIUlc2cmN1V0FUWXhCdGNZATEdXNUFKZAzhxUndVSmFuTk4yMDlkdE0zZAGlPV2w4STQzS0d2cDVneWVGTkZAoN211Q2RUV3A2dC0yUU1GZAmZAIdk55alc0VXJ6VFBKbUVGOE1JVDl3Ql93aEY1bHBWT1l2TExWcXBPcWpKbTFIOVdjM0VvLWl6YnctbFQ5OEl2bWk5OVVSVWNCamdXSmNHNm1FakZA1WW5mMU9PNmhnVHhIQlBjQzlpZAEFkVnU5eEk1WjNQVng3WE45eVZAscVRUc3BuNF9Ja0JvR21CTHFHOEtBSEJNdzJjc3kzTUREbjdpZA2x1dGNZAZAENNLWYyM3pQVlBQZAEZAjczdXSGxENUtqWERkN3I4SzZAIdnFhMlZAlS0NEQm1KWG1uSFl2V0FHOFIxS3BpY3NpSXBqOWJPRFVzbDhmQm5rbnZAKZAy01NlNtaFJhWThweHBoeTEydXQxV1lRcHp5aWtka1ozRWo2dFlzV1RiMEVPVUpPVWRCTmJySkprQmNRVGduUzFWUDVTSFF0QWJPMEo5OWNkVEY2ZAjN3NDY5b0NOcWdlclRQMFhmWi10bmYxT0w0NUtnOTRYcVFodEZAmMEtEejdtZAWtSbC16RExmLXI3dmIxbGFId3E4a2xPNEkxZAHF4bkVEdmN2Mloya2lxamFnV3VyT3U1by11eW5fN1ZAabUw1VWx1OGpVMFdHWHZANVFVyWXlNUVRWTVZAWV09MZAFY4eHA5S0RQNFNaZAnhOejNaRS1uWEk1aTRtdThqN3NSempJeG8zZAUhaQ0d1dkMxcVR2OXNvQzd6VGpyeWtUSFVzS0VfSjJJaXFsY3NZAc1lFU1pDUS0ySG1CbkdwMHltcktFSHhGM1BwYUpPaGdpMjNyT2lHZAUY4cFFzQ3ZA2QTJ6eVZAuVzdkS2lBcllWd3QwdkhBM3pJd1JuM3NmZAXBTTHBoaEpSNGtzdk00bnduQ2JEZA2gwNlFuTFAtNlRPU1RsTmhVUGhCTWtlV2c3NVozT3J6U1dCWHAwLWVQU2Rnd3lYTUtSTlJxZAjJyd0NnTXpMQnpfcHBYLWUxVWNZAQWVVYXF2YlM1alo2eXVHYVEZD"
+    },
+    "next": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&after=QVFIUlc2cmN1V0FUWXhCdGNZATEdXNUFKZAzhxUndVSmFuTk4yMDlkdE0zZAGlPV2w4STQzS0d2cDVneWVGTkZAoN211Q2RUV3A2dC0yUU1GZAmZAIdk55alc0VXJ6VFBKbUVGOE1JVDl3Ql93aEY1bHBWT1l2TExWcXBPcWpKbTFIOVdjM0VvLWl6YnctbFQ5OEl2bWk5OVVSVWNCamdXSmNHNm1FakZA1WW5mMU9PNmhnVHhIQlBjQzlpZAEFkVnU5eEk1WjNQVng3WE45eVZAscVRUc3BuNF9Ja0JvR21CTHFHOEtBSEJNdzJjc3kzTUREbjdpZA2x1dGNZAZAENNLWYyM3pQVlBQZAEZAjczdXSGxENUtqWERkN3I4SzZAIdnFhMlZAlS0NEQm1KWG1uSFl2V0FHOFIxS3BpY3NpSXBqOWJPRFVzbDhmQm5rbnZAKZAy01NlNtaFJhWThweHBoeTEydXQxV1lRcHp5aWtka1ozRWo2dFlzV1RiMEVPVUpPVWRCTmJySkprQmNRVGduUzFWUDVTSFF0QWJPMEo5OWNkVEY2ZAjN3NDY5b0NOcWdlclRQMFhmWi10bmYxT0w0NUtnOTRYcVFodEZAmMEtEejdtZAWtSbC16RExmLXI3dmIxbGFId3E4a2xPNEkxZAHF4bkVEdmN2Mloya2lxamFnV3VyT3U1by11eW5fN1ZAabUw1VWx1OGpVMFdHWHZANVFVyWXlNUVRWTVZAWV09MZAFY4eHA5S0RQNFNaZAnhOejNaRS1uWEk1aTRtdThqN3NSempJeG8zZAUhaQ0d1dkMxcVR2OXNvQzd6VGpyeWtUSFVzS0VfSjJJaXFsY3NZAc1lFU1pDUS0ySG1CbkdwMHltcktFSHhGM1BwYUpPaGdpMjNyT2lHZAUY4cFFzQ3ZA2QTJ6eVZAuVzdkS2lBcllWd3QwdkhBM3pJd1JuM3NmZAXBTTHBoaEpSNGtzdk00bnduQ2JEZA2gwNlFuTFAtNlRPU1RsTmhVUGhCTWtlV2c3NVozT3J6U1dCWHAwLWVQU2Rnd3lYTUtSTlJxZAjJyd0NnTXpMQnpfcHBYLWUxVWNZAQWVVYXF2YlM1alo2eXVHYVEZD",
+    "previous": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&before=QVFIUk9LV3pGUWRHRm41ek5YUGRwdVpsT1ZAyWEUwQjdaVDhOS1ZAxX2ZAvZAVhESWhYdFJZAUnRKN2pxMHFXY2w3ZAE9TTTk3RlNlSzZAJOHVaeFh1MDJjak1DWGlsTFVFZAXVKQ05VeHFMbFFkZAl8yb3lrZA0tfVkJhSHgxSnNQSGlmTUhIaEhPRzF4RzM4WFJHYllpV0VuTzJhYlpoRGI5ajFxb1FsMjhuSFBUN1NlNTNPR3lTdm5ZARWpsQzFTZATdnY19ud3QwMklrbDZAHQjF1RHo2d3luMkpOWjFXbWU5NmFOMnlwbmxqblFyWC13Tm1TR2pZAT0VzTm5CV3JpbHJ0UlQtYTAza1dnYVhSNXZAMcUdINXRPUzdsTGR3Qmd3T2c3NXg0NEItZATZAXTjgxalRCUUZADdlB0WXRLMDJGRmt1eGFpbWZAwWmFJdEY4MFhrQXNmWVNWNEx2Qi1JUVBya09NdmRPaUNUdG9jTmsyVy02bkRiWkJ3c3l2SXZAOZAkZANRlVVLXJ1ZA3F3OFVycFRSS1pEOWdJMFlXRWVLc1AtckwwNEVzOFptX3pTZAG5IUUswWFhFWmdZANUhCUk5lZAXZAhWUZAMN3Q2OHBmbzRyRm8yREYtOUlUX2hJYkQxb3lsQ1dR"
+  }
+}

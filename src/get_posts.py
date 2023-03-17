@@ -68,10 +68,34 @@ def GetPageToken(config):
             return response
         print('GetPageToken','Failed')
 
+def GetData(response,fname):
+    pageno = 1
+    json_file = fname.replace('.json',f'{pageno}.json')
+    SaveJson(fname=json_file,data=response['posts'])
+
+    if 'next' in response['posts']['paging']:
+        next = response['posts']['paging']['next']
+        try:
+            while(True):
+                response = FacebookRequest(next)
+                if response:
+                    pageno += 1
+                    json_file = fname.replace('.json',f'{pageno}.json')
+                    SaveJson(fname=json_file,data=response)
+                if 'next' in response['paging']:
+                    next = response['paging']['next']
+                else:
+                    break
+                if pageno > 100: break
+        except KeyError:
+            print('No More')
+            pass
+
 def GetPosts(config):
     response = GetPageToken(config=config)
     if response:
         fields = ['posts','photos','picture']
+        fields = ['posts']
         fields = '%2C'.join(fields)
         page_access_token = response['access_token']
         page_id= config['page_id']
@@ -83,7 +107,6 @@ def GetPosts(config):
 
         response = FacebookRequest(fb_request)
         if response: 
-            print('Paging',response['posts']['paging']['next'])
             return response
         else: 
             print('GetPosts Response','Failed')
@@ -95,12 +118,14 @@ def GetFacebookPosts(fname):
     if config:
         facebook_posts = GetPosts(config)
         if facebook_posts:
-            json_filename = config['facebook_posts']
-            SaveJson(fname=json_filename,data=facebook_posts)
+            GetData(response=facebook_posts,fname = config['facebook_posts'])
         else:
             print('GetFacebookPosts Response','Failed')
 
 
 if __name__ == "__main__":
-    secrets_file = 'src/.secrets'
-    GetFacebookPosts(fname=secrets_file)
+    facebook_config = os.environ['FACEBOOK_CONFIG']
+    if facebook_config:
+        GetFacebookPosts(fname=facebook_config)
+    else:
+        print('FACEBOOK_CONFIG not set as an env variable') 
