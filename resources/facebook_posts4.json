@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "created_time": "2022-03-16T18:44:43+0000",
+      "message": "Video didn't upload with previous post ...",
+      "id": "1481985248595237_4696452550481808"
+    },
+    {
+      "created_time": "2022-03-16T18:39:18+0000",
+      "message": "Summary of our meeting on Tuesday 15th of March\n\nThe only PC capable of running Unity was playing up and refused to boot. It kept restarting, so Bill was unable to make any progress on his tree objects. However, he and Stoo had last weeks version and were able to integrate it with Stoo's Oculus VR (Virtual Reality) head set and they had some fun moving around the virtual scene. \n\nTim made great progress on the Robot tank and the main body is now assembled. The motors are next. Unfortunately we didn't have the exact motors that the design called for and the motor spindles are a little shorter than expected. Tim will investigate heating the locking nut hot enough tho melt the PLA (plastic) and embed it in the cog that it needs to hold. \n\nPav and Natan further investigated minecraft anti-cheats and now Stoo and I have a reasonable grasp over what they are and why they're needed. \n\nGreat support, as always, from the community centre staff and mums. Thank you :-)",
+      "id": "1481985248595237_4696443343816062"
+    },
+    {
+      "created_time": "2022-03-13T18:29:46+0000",
+      "message": "Finally managed to use Bill's trees created with Blender, inside a Unity project to run on the Oculus Quest II.",
+      "id": "1481985248595237_4688570197936710"
+    },
+    {
+      "created_time": "2022-03-09T06:07:02+0000",
+      "message": "Summary of meeting Tuesday 8th March \n\nTim discovered the delights of removing supports from the 3D printed tank hull, very small spaces and precious little room to manoeuvre! \nBill made nice progress on extending his tree objects in Blender \nNatan had fun updating our linux server, downloading minecraft client and trying to explain to Stoo and I what anti-cheats were all about, with very little comprehension on my part \nWe thought we might get to the mechanical construction of the robot tank but found that the printed instructions kept referring to YouTube videos BUT ... we had no speakers!! \n\nAll in all a great meeting with some learning opportunities for Stoo and myself.",
+      "id": "1481985248595237_4676517582475305"
+    },
+    {
+      "created_time": "2022-03-09T05:53:05+0000",
+      "message": "Summary of Code Club meeting at Curborough Community Centre Tuesday 8th March\n\nTim discovered the delights of removing supports from the 3D printed tank hull, very small spaces and precious little room to manoeuvre!\n Bill made nice progress on extending his tree objects in Blender \nNatan had fun updating our linux server, downloading minecraft client and trying to explain to Stoo and I what anti-cheats were all about, with very little comprehension on my part\n We thought we might get to the mechanical construction of the robot tank but found that the printed instructions kept referring to YouTube videos BUT ... we had no speakers!!\n\n All in all a great meeting with some learning opportunities for Stoo and myself.",
+      "id": "1481985248595237_4676494612477602"
+    },
+    {
+      "created_time": "2022-02-25T17:09:59+0000",
+      "id": "1481985248595237_4645251378935259"
+    },
+    {
+      "created_time": "2022-02-25T17:06:28+0000",
+      "id": "1481985248595237_4645244508935946"
+    },
+    {
+      "created_time": "2022-02-25T17:05:50+0000",
+      "message": "Summary of the 23rd February club meeting\n\nBill worked on modifying a tree created in blender Blender, using private web browsing and drawing graphs in Windows calculator.\n\nNatan and Stoo had some fun with 2 BBC microbits. \nUsing one to trigger alarms on the other and considered how to handle 'contact bounce' which made the transmitter send multiple connection messages.\n\nPav sorted our printed parts for the robot tank and determined that we had all the plastic parts.\nHowever, Tim decided to reprint the tank hull because one of the key gear supports had partly broken off.\n\nPav went through the electronic components, identifying what each one was and ticking them off the list. \nIt looks like we're missing a few key parts which we'll get before the next meeting.\n\nAll in all, a very good, productive and enjoyable activity.",
+      "id": "1481985248595237_4645243245602739"
+    },
+    {
+      "created_time": "2022-02-17T10:58:30+0000",
+      "message": "Summary of 16th February meeting\nBill had issues retrieving his work and looked at a few aspects of Blender. Natan and Igor worked on updating our linux server and investigating some network connection issues. Tim and I reviewed the progress on our robot tank and identified what still needed to be 3d printed and which electronic components we had.",
+      "id": "1481985248595237_4619841314809599"
+    },
+    {
+      "created_time": "2022-01-29T05:46:08+0000",
+      "message": "A great source of ideas for all skill levels.  Highly recommended https://magpi.raspberrypi.com/articles/discover-practical-programming-in-the-magpi-magazine-issue-114",
+      "id": "1481985248595237_4560747080719023"
+    },
+    {
+      "created_time": "2022-01-27T08:40:47+0000",
+      "message": "A picture of the tank track, printed in one go, by Tim\nEach link moves freely, incredible!",
+      "id": "1481985248595237_4552256054901459"
+    },
+    {
+      "created_time": "2022-01-27T08:07:09+0000",
+      "message": "A summary of the meeting on Wednesday 26th January ...\n\nBill worked on Blender creating tree/grass assets to use with Unity\n\nIgor used Fusion360 and adjusted his design of our robot arm support to accommodate the signal connector we'd not seen in the original image. We'll print this on a resin 3D printer and hopefully have something to hold up a camera and, using computer vision, identify and follow a person in a crowded room.\n\nPav and Igor worked on making a robot arm move properly, found where the unfitted gear should be and got everything working nicely.\n\nStoo had managed to get hold of a microbit v2, which Natan had great fun with, using scratch to write programs that tested sound thresholds for triggering responses. \n\nTim had used his Creatility 3D printer to create some tank tracks for a robot tank project we've started to work on, based on an instructables guide. https://www.instructables.com/3D-Printed-FPV-Arduino-RC-Tank-With-Controller/ The tracks were amazing, printed as a single print the linkages worked, as in moved fairly easily, we'll need to add some grease to make the track move more freely but unbelievable that you can print something with moving parts.",
+      "id": "1481985248595237_4552150318245366"
+    },
+    {
+      "created_time": "2022-01-20T07:27:11+0000",
+      "message": "A summary of January 19th meeting ...\n\nThe model wind power turbine is now at one of the club members home and being used to charge a rechargeable battery. \n\nFusion360 model housing for stepper motor adjusted as the 3D printer slicing software, chitubox, was unhappy with the length of the Y axis. Will test later to see if it's now accepted \n\nThe terrain textures component of Unity was investigated to produce grass in various shades and lighting conditions. Two of the club members worked together, one more experienced and one younger, it was rewarding to see them working collaboratively. \n\nA wifi dongle was fitted and configured on the single linux box we have. This allowed the OS to be updated and used to update one of the members own website.",
+      "id": "1481985248595237_4520716994722032"
+    },
+    {
+      "created_time": "2022-01-12T18:45:07+0000",
+      "message": "Summary of this afternoons activity\nBuilt a model wind power turbine and manually generated enough output to turn an LED on. Had some fun with a meccano spider and our Unity project made good progress initially but then couldn't figure out how to not texture the sides of tiles",
+      "id": "1481985248595237_4487822634678135"
+    },
+    {
+      "created_time": "2022-01-12T05:48:29+0000",
+      "message": "This may be of interest to our members and followers",
+      "id": "1481985248595237_4486212371505828"
+    },
+    {
+      "created_time": "2021-11-28T08:47:30+0000",
+      "id": "1481985248595237_4330174617109605"
+    },
+    {
+      "created_time": "2021-11-28T08:47:09+0000",
+      "id": "1481985248595237_4330173910443009"
+    },
+    {
+      "created_time": "2021-11-28T08:45:54+0000",
+      "id": "1481985248595237_4330171377109929"
+    },
+    {
+      "created_time": "2021-11-20T15:16:13+0000",
+      "id": "1481985248595237_4305980312862369"
+    },
+    {
+      "created_time": "2021-11-11T12:56:11+0000",
+      "message": "Here is our setup at Curborough now. We have tried to ensure we can socially distance and have plenty of hand sanitizer gel for use on keyboards and mice. Thank you to Ania for putting the posters up and to Mark for ensuring we have internet coverage.",
+      "id": "1481985248595237_4276650695795331"
+    },
+    {
+      "created_time": "2021-10-19T10:37:29+0000",
+      "message": "Ready for action! Thank you to Chase Accounting for donating the PCs we will be using at our Code Club. Thank you to Terrafix Limited for supplying keyboard and mice as well as a PAT testing machine to enable us to keep our equipment electrically safety checked.",
+      "id": "1481985248595237_4205165246277210"
+    },
+    {
+      "created_time": "2021-10-02T18:54:00+0000",
+      "message": "Good news everyone. We will soon be able to continue our Code Club at the Curborough Community centre, who have kindly offered us a slot at 5pm on Wednesdays.\n\nWe did contact Lichfield Library and they issued the following statement regarding the current situation.\n\n                             \n\nThanks for calling into the library about code club today.  I hope you are keeping well. We are currently recovering our services slowly and risk assessing each area.  Unfortunately we cannot offer Code Club at this time as we are unable to offer socially distanced areas with computers for groups.  The session running at Stafford library is Raspberry Jam which is run by an independent group outside of library opening hours.  This is possible as the SP1 building is open during the evening.  Unfortunately this is not possible outside of opening hours in the Lichfield Library space.  Stafford\u2019s Code club is currently not running as they are not able to socially distance in their computer area.\n\nWe would like to re-instate Code Club at some point in the future, but the Staffordshire County Council Winter Plan is following Government guidelines and keeping social distancing, and mask wearing everywhere they can to reduce the Covid 19 risk.  When this changes we will look again at what we can offer.  It is unlikely that this will change until Spring 2022 at the earliest.\n\n===========================================\nIf you would be interested in joining us at Code Club, please leave a comment on this page. Age range is typically 7 - 14yrs old.",
+      "id": "1481985248595237_4152877918172610"
+    },
+    {
+      "created_time": "2021-09-19T17:31:02+0000",
+      "message": "We visited Stafford Library on Tuesday 14th September where Cerys Lock was hosting a raspberry jam event.\nAlthough the visit was brief, it was a fact finding mission to see what restrictions were in place to enable\nthe group to meet. Mask wearing was encouraged and there were plenty of hand sanitizer stations dotted around.\nThe night saw around 15 attendees demonstrating various Raspberry Pi projects.\n\nWe are going to approach Lichfield Library in the coming week to see if are able to resume our Code Club meetings.\nI will post the outcome of our meeting as soon as I have any details.",
+      "id": "1481985248595237_4110035529123516"
+    },
+    {
+      "created_time": "2021-09-19T16:52:39+0000",
+      "story": "Curborough Community Centre Code Club updated their cover photo.",
+      "id": "1481985248595237_4109937809133288"
+    },
+    {
+      "created_time": "2021-09-06T09:07:51+0000",
+      "message": "Hi Everyone, trust you are all well. We will be investigating the clubs restart this September hopefully. Stafford Library are starting next week on Tuesday. Going to pop along to see what they are up to. \ud83d\ude0a",
+      "id": "1481985248595237_4067988389994897"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUnFxNG9hcDM0OFBpRkJGcVZAzR1BkbF9BaWFwSUZARTmJJaUhscjNLSmJOQUs4cU9NcWk5QU1mbGlYVVRmOTVGOXZAneFRFeEhiN3pQek5BTkgxVzVUWExMUjE2TUI2czZAEemRmUDVUQW85X3luMzFRdEtSa1FLQ19VQzNFNzVndU93X1VyTWhlcnc3VjVFZAmowWVIySURyVDVDTnRMQVN4MFFscFFTRUlaQl9oY1B4c0I3SnBJN3FjcUtZASndwUlhDd3UxVE9zSk5HU2ZAMRVdkZAEdUNmdKSVJ5c0lYVTF1aEVrYlRmYzB0cUtVT0FDdUttTW5RNVVtSFpiRG9TOEV1NUpiS2hPQXVpeGFzallteGtfTUU5WmN5am5hdEVXMVlkLUQyN3I3Sy1EaXlHb3BuNDZA1dGR2a1V6el9IY1FXQ3V0bDVRM2ZAVWFZAuX3FZAdEFXUlVrNzhkZAHJVVnFrTmJ0ZAlB3Q2ZAnREhXTEpJQUNWWWhLTkdkS2lvTHJiN2JtMjR4ZAFJORFBDd0FuNnFKVC1VMWoxUk1CMm92LTY5TVBicEJwSVRuR3daM29sMDI4VHQxcThPVE43SUxQLUVhZAHZAReVRacTRkVjZAWX1hublhyZAV9lRHljNE1JQ1hETFA1VHpzUllxa2RvOVZABWTZA3S2VXblNoa25xVzBLVmxOZA1l4T2NQSENuZATVxY2stUXE1dmx1Y0tpN0NybnBCdFY0eUJoMVJFZA0tyeUp6MHhzSFluVDF6ZA1VKNGVtaDFsTWUtSHlhWUQwZAi15ZA2JBaTlzN21JUnp2bUdUQVphMFBJQno5bGdzXzVudlhqZA2V4MDlxcU9DYVoxY2Vmam9LY2VTeVotUVVsN2ZAueVpneXpjNVJMbWNueml4N3hQZAGFvUEdldEs3ZATdBOHlLQ0lUMHFUUUE0d1ZAsUXN3NUhSZAFdJUG5fNDk1Q3dKQktiR0FfcHo5QjRSQjhfUGxuRUQ0NmhCV1lxVXdyR1YyVjVKTnFNQkY1VmZAPcUV2bDBEMUxJNTV2LW53ZAUw1V1NiTkJpY3BEODdFMUlWcVRUMEF3ald2LWhPYkVtLWxISm00eFV2eUEZD",
+      "after": "QVFIUmloN21MaWpheWFCVGFIemQzbkthZAk42YXRzNnNWZAnlpMi11NDEwUjBCU1lXMmdOWHRaRWNMN3g4MlR3ZAGR5Q3dNZATFGOEYzbGtfTm1RcTJfbG4yc0FOYS1XbHVTa3liYkZAPUm1xM2pYRTJodTNWZAERlNDFpMFpNOW1lRnc4V25fUmdnSTJlWGdJbUttX0FJdmRadDV0TWR4czJnd3VISFQ3d1l3MzF0MV9HU08xcEF2c2EzLS10UEw3eVBfdkVBZAi16OTZAmaVNrenA5VFNJRm0tLVRwRHdEMDJTdzdrNjVPcUJOdkd0YmlKUnZAfWkxFQ0VabURxMVJJbTVFT0oteFo3UEM5TnJpRGRuMzBweG1sU2Jhc1d5Nlh4aHNRQ2dqQ3gzOE9fM0dXbWhPaUYyNVhBWUVtcllzdzhacjRyaWUzVFk1TWUtRTVoeFBqVkoxblpFMFBtaVJON3hBNWFiT3gxU29fVEc2LU4tdjg2aE54dXQtckZAydjh5aG52STNCR251aTBQOE1WTThxNXBNczFKZAG9SdUVyVFZAkb0lGeEZAiemVSMVpmZAXFDVy1ENk11Skp5VjFfRnBPenNPNU9ZAdl9hM1k5TkczaXZAPZAXZAZASDNyLUJDRGlMRG9jSnlhNnJJYm5RMUp5N1lpMG5Nby1yYkViWlpITzJHT2lvMjlhbWZADaWpnckIzUzBpb09QaV9pbXBHd0pKcFlvTmdzZAE5LSlR3MU1DNUNfaEExR1J1ZAjFJeWhhcllWRGhvTE40THB4Y2ZAsQjBmMUxnZAmtDV01fMnlqTzltZAURwYk5raWFTWGx0ak45ZAFp5QmVSOXBKbF9QQXhmWllBTlloMXhsUVl5UnBJQ3JPNnJobnQ0aUdVVmZApVkpwTVBucUxWOXhZALVR0QVZAIWVo3aHZAQYjZAHVXhCb2lmSWlLVTc1WXNFaTZAxOEFnTTQ4blFUWllwV2JSZA0tZAQ1Q2NXZANd0hDYVNITERCOXNaejdmYks4TVBBYkprQ25ic04xeFR5MUlicnNCekluakRucHdyd1k4a2p6S1pCYllKLU1KWnhlRDQ1VFZAtOW1aUlV3UXlBajVLRTgZD"
+    },
+    "next": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&after=QVFIUmloN21MaWpheWFCVGFIemQzbkthZAk42YXRzNnNWZAnlpMi11NDEwUjBCU1lXMmdOWHRaRWNMN3g4MlR3ZAGR5Q3dNZATFGOEYzbGtfTm1RcTJfbG4yc0FOYS1XbHVTa3liYkZAPUm1xM2pYRTJodTNWZAERlNDFpMFpNOW1lRnc4V25fUmdnSTJlWGdJbUttX0FJdmRadDV0TWR4czJnd3VISFQ3d1l3MzF0MV9HU08xcEF2c2EzLS10UEw3eVBfdkVBZAi16OTZAmaVNrenA5VFNJRm0tLVRwRHdEMDJTdzdrNjVPcUJOdkd0YmlKUnZAfWkxFQ0VabURxMVJJbTVFT0oteFo3UEM5TnJpRGRuMzBweG1sU2Jhc1d5Nlh4aHNRQ2dqQ3gzOE9fM0dXbWhPaUYyNVhBWUVtcllzdzhacjRyaWUzVFk1TWUtRTVoeFBqVkoxblpFMFBtaVJON3hBNWFiT3gxU29fVEc2LU4tdjg2aE54dXQtckZAydjh5aG52STNCR251aTBQOE1WTThxNXBNczFKZAG9SdUVyVFZAkb0lGeEZAiemVSMVpmZAXFDVy1ENk11Skp5VjFfRnBPenNPNU9ZAdl9hM1k5TkczaXZAPZAXZAZASDNyLUJDRGlMRG9jSnlhNnJJYm5RMUp5N1lpMG5Nby1yYkViWlpITzJHT2lvMjlhbWZADaWpnckIzUzBpb09QaV9pbXBHd0pKcFlvTmdzZAE5LSlR3MU1DNUNfaEExR1J1ZAjFJeWhhcllWRGhvTE40THB4Y2ZAsQjBmMUxnZAmtDV01fMnlqTzltZAURwYk5raWFTWGx0ak45ZAFp5QmVSOXBKbF9QQXhmWllBTlloMXhsUVl5UnBJQ3JPNnJobnQ0aUdVVmZApVkpwTVBucUxWOXhZALVR0QVZAIWVo3aHZAQYjZAHVXhCb2lmSWlLVTc1WXNFaTZAxOEFnTTQ4blFUWllwV2JSZA0tZAQ1Q2NXZANd0hDYVNITERCOXNaejdmYks4TVBBYkprQ25ic04xeFR5MUlicnNCekluakRucHdyd1k4a2p6S1pCYllKLU1KWnhlRDQ1VFZAtOW1aUlV3UXlBajVLRTgZD",
+    "previous": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&before=QVFIUnFxNG9hcDM0OFBpRkJGcVZAzR1BkbF9BaWFwSUZARTmJJaUhscjNLSmJOQUs4cU9NcWk5QU1mbGlYVVRmOTVGOXZAneFRFeEhiN3pQek5BTkgxVzVUWExMUjE2TUI2czZAEemRmUDVUQW85X3luMzFRdEtSa1FLQ19VQzNFNzVndU93X1VyTWhlcnc3VjVFZAmowWVIySURyVDVDTnRMQVN4MFFscFFTRUlaQl9oY1B4c0I3SnBJN3FjcUtZASndwUlhDd3UxVE9zSk5HU2ZAMRVdkZAEdUNmdKSVJ5c0lYVTF1aEVrYlRmYzB0cUtVT0FDdUttTW5RNVVtSFpiRG9TOEV1NUpiS2hPQXVpeGFzallteGtfTUU5WmN5am5hdEVXMVlkLUQyN3I3Sy1EaXlHb3BuNDZA1dGR2a1V6el9IY1FXQ3V0bDVRM2ZAVWFZAuX3FZAdEFXUlVrNzhkZAHJVVnFrTmJ0ZAlB3Q2ZAnREhXTEpJQUNWWWhLTkdkS2lvTHJiN2JtMjR4ZAFJORFBDd0FuNnFKVC1VMWoxUk1CMm92LTY5TVBicEJwSVRuR3daM29sMDI4VHQxcThPVE43SUxQLUVhZAHZAReVRacTRkVjZAWX1hublhyZAV9lRHljNE1JQ1hETFA1VHpzUllxa2RvOVZABWTZA3S2VXblNoa25xVzBLVmxOZA1l4T2NQSENuZATVxY2stUXE1dmx1Y0tpN0NybnBCdFY0eUJoMVJFZA0tyeUp6MHhzSFluVDF6ZA1VKNGVtaDFsTWUtSHlhWUQwZAi15ZA2JBaTlzN21JUnp2bUdUQVphMFBJQno5bGdzXzVudlhqZA2V4MDlxcU9DYVoxY2Vmam9LY2VTeVotUVVsN2ZAueVpneXpjNVJMbWNueml4N3hQZAGFvUEdldEs3ZATdBOHlLQ0lUMHFUUUE0d1ZAsUXN3NUhSZAFdJUG5fNDk1Q3dKQktiR0FfcHo5QjRSQjhfUGxuRUQ0NmhCV1lxVXdyR1YyVjVKTnFNQkY1VmZAPcUV2bDBEMUxJNTV2LW53ZAUw1V1NiTkJpY3BEODdFMUlWcVRUMEF3ald2LWhPYkVtLWxISm00eFV2eUEZD"
+  }
+}

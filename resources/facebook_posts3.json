@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "created_time": "2022-06-02T06:10:28+0000",
+      "message": "Comments from our members and their parents\n\nAleks, age 13\nI enjoy learning something new each week. I have more time to work on projects than at school which is never in much detail\n\nIgor, age 20\nI helped people out with problems regarding different softwares\n\nPaul, parent\nCoding club is a great way for my boys to concentrate on programming computers. Here, they can focus without distraction and receive expert and friendly advice.\n\nNatan, age 11\nI'm making a montage. I like code club because we get to code and experiment and destroy computers (digitally).\n\nBill, age 13\nNatan, Igor, Mark, and Stoo are good friends and Mark and Stoo are both knowledgeable about code which is helpful when I have an issue.\n\nThomasz, age 13\nI have enjoyed learning more about Python language and have used it to draw incredible pictures!\n\nThese cards will be on display at the Cosford Air Show where we hope to promote Code Club and encourage other youngsters to join clubs close to where they live.",
+      "id": "1481985248595237_4904761136317614"
+    },
+    {
+      "created_time": "2022-06-02T06:00:33+0000",
+      "message": "Summary of meeting on Tuesday 31st of May\n\nIt was half term and so a few members were not able to attend, we hope they had a good time and look forward to seeing them next week.\n\nPaul, Aleks and Thomasz made good progress on using Thonny to program a Raspberry Pi Pico and created the usual blinking LED and went on to follow the tutorials that came with the pico\n\nBill worked on the Cosford Air Show presentation slides making them far more presentable. Bill also took some photos of the meeting.\n\nWe got club members to fill in some cards to say what they like about the club and why they come. We'll post those separately.\n\nAll in all another good meeting and looking forward to the next one.",
+      "id": "1481985248595237_4904743072986087"
+    },
+    {
+      "created_time": "2022-05-31T11:42:15+0000",
+      "message": "We have created two presentations to use at the Cosford Air Show and would like feedback on whether they work and any comments.\n\nhttps://tinyurl.com/mwz57tsm\nhttps://tinyurl.com/ycx5f27h",
+      "id": "1481985248595237_4899611766832551"
+    },
+    {
+      "created_time": "2022-05-30T09:48:59+0000",
+      "message": "It would be nice if parents of our club members could say what they like about our club,  why their children attend and what benefits there are, or could be.\n\nThe intent would be to have these comments on display at the Cosford Air show and help promote our club and encourage others to join clubs near to where they live.",
+      "id": "1481985248595237_4896456010481460"
+    },
+    {
+      "created_time": "2022-05-29T06:59:09+0000",
+      "message": "As an example of how we help club members outside of the meeting.  This week we have helped Bill with his Unity project, helped Paul get started with micro python on a Raspberry Pi Pico and installed Unity on the linux PC for Natan.\n\nWe're planning what to put on our stand at the Cosford Air Show in two weeks time and will post a write up after the big day.\n\nMany thanks to Entrust and Code Club UK for promotional materials, such as pens, badges and leaflets which we will give away at the air show.\n\nWish us luck as we try to spread the word of what Code Club can do for our members.",
+      "id": "1481985248595237_4892879030839158"
+    },
+    {
+      "created_time": "2022-05-25T16:47:16+0000",
+      "id": "1481985248595237_4882949398498788"
+    },
+    {
+      "created_time": "2022-05-25T16:45:58+0000",
+      "id": "1481985248595237_4882946651832396"
+    },
+    {
+      "created_time": "2022-05-25T16:43:59+0000",
+      "id": "1481985248595237_4882942518499476"
+    },
+    {
+      "created_time": "2022-05-25T07:31:11+0000",
+      "message": "Summary of Tuesday 24th of May meeting\n\nIt was a meeting when not a lot of coding was done but a lot of social interaction occurred, which is equally as good.\n\nNatan was trying to install Unity on his linux server but he keeps running out of time. So we'll do that from home and before the next meeting.\n\nBill has found that his Unity and Blender projects are too large to upload to GitHub so we'll look at Google Drive and similar.\n\nPaul, Thomasz and Aleks had issues trying to get started with the Raspberry Pi Pico and installing micropython. We will also tackle this before the next meeting\n\nAnia was off and Kasia helped us out nicely. Thanks to Kasia we will be able to have a meeting next Tuesday, even though it's half term for many schools.\n\nSome great photos were taken but I don't know how to get them off of our Discord server.  For those who have already joined the Discord channel https://cdn.discordapp.com/attachments/752788182436675646/978731348766384209/unknown.png\nAll are welcome to join https://discord.gg/szz6xGK\n\nIf anyone has any odeas about what they would like to try out at our meetings, please leave comments",
+      "id": "1481985248595237_4881774435282951"
+    },
+    {
+      "created_time": "2022-05-24T18:03:17+0000",
+      "message": "Even though it's a school half term, there will still be a Code Club meeting next Tuesday",
+      "id": "1481985248595237_4880321122094949"
+    },
+    {
+      "created_time": "2022-05-24T11:36:24+0000",
+      "message": "Summary of Club Meeting on Tuesday 17th May\n\nWelcome to our latest new member Adiel, who was initially interested in designing clothes in scratch but chose to switch to programming a robot car. Quite different, but that's partly what we're about, to provide multiple avenues to explore the uses to which computers can be applied,\n\nWe're planning what to put on, and who can do what at the Cosford  Air show next month.\n\nIt was a nice hum of activity with members helping each other out and generally getting on with their projects.\n\nBusy times",
+      "id": "1481985248595237_4879475885512806"
+    },
+    {
+      "created_time": "2022-05-13T03:13:31+0000",
+      "message": "Summary of Tuesday 10th May Meeting\n\nAnother very busy meeting. \nNatan updated his linux server and sorted out some ethernet driver issues \nBill's Unity project is doing very well , the blossom on his trees is still impressive. \nAleks and Tomasz made some progress with python \nTim had some conundrums with the robot tank and resolved to contact the instructables author. \nThe two youngest members were absent due to ill health.\n\nA lot of thought went into what we need to do to be ready for the Cosford Air show",
+      "id": "1481985248595237_4846242022169526"
+    },
+    {
+      "created_time": "2022-05-13T00:31:16+0000",
+      "id": "1481985248595237_4845863988873996"
+    },
+    {
+      "created_time": "2022-05-13T00:31:16+0000",
+      "id": "1481985248595237_4845863982207330"
+    },
+    {
+      "created_time": "2022-05-10T07:24:08+0000",
+      "message": "We will have a stand at RAF Cosford Air Show. It's the first since 2019 due to the covid epidemic.\n\nWe're trying to spread the message about how we operate and what our youngsters do and enjoy.\n\nPLEASE COME AND SAY HELLO\n\nWe will have a number of computers with simple things for people to try out. \n\nHere are some photos of us at the show in 2019\n\nhttps://www.cosfordairshow.co.uk/",
+      "id": "1481985248595237_4838414016285660"
+    },
+    {
+      "created_time": "2022-05-10T07:04:26+0000",
+      "message": "Summary of May 3rd meeting\n\nAnother very busy meeting. \nLots of support needed, and given. \nBill's Unity project is doing very well with recognisable blossom on his trees. \nAlex and Thomas made some progress with python \nPav and Tim considered how we might connect a robot arm to a nano or raspberry pi\nHenry and Nathaniel investigated the Microbit sensors a bit more and seemed to be enjoying making thinks blink and whir\nNatan installed Unity on a linux server\nIgor gave lots of support and encouragement to all.",
+      "id": "1481985248595237_4838378876289174"
+    },
+    {
+      "created_time": "2022-04-29T10:14:14+0000",
+      "message": "Summary of  meeting on Tuesday 26th April\n\nA very busy meeting. \n\nThere's a growing interest in the BBC microbit with two young lads enjoying using scratch to program patterns on the LED matrix and testing out sensors.\n\nBill had an issue with is Unity project but seemed to make good progress. The tree he's working on certainly looks like a tree.\n\nWe had some issues with two PC's not connecting to the internet which marred two lads efforts to learn some python programming. They'll bring their own laptops to the next meeting and we'll get Code, Github and Python setup.\n\nWe'll make sure we have some offline projects that people can work on, as a fall back for when the internet is not available.\n\nTim made good progress on our robot tank, despite a spillage of shrink wrap tubing!\n\nI didn't get time to take any photos :-(",
+      "story": "Curborough Community Centre Code Club is feeling excited.",
+      "id": "1481985248595237_4808903852570010"
+    },
+    {
+      "created_time": "2022-04-27T13:53:34+0000",
+      "message": "https://www3.raspberrypi.org/webmail/800983/304984883/82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e",
+      "id": "1481985248595237_4803989063061489"
+    },
+    {
+      "created_time": "2022-04-13T13:07:33+0000",
+      "message": "Please note we will not be meeting on April 19th due to the Easter holidays. The next scheduled meeting is Tuesday April 26th at 5pm-6pm. Happy Easter everyone.",
+      "id": "1481985248595237_4768058389987890"
+    },
+    {
+      "created_time": "2022-04-13T13:04:42+0000",
+      "message": "BBC Micro BIT reading and displaying a voltage from a mini potentiometer (Trim Pot).",
+      "id": "1481985248595237_4768051243321938"
+    },
+    {
+      "created_time": "2022-04-13T13:01:47+0000",
+      "message": "Code Club activities for April 12th\nThis week we saw the Micro BIT being used with an electronics kit to read and display the voltage from a potentiometer. Thank you to Craig and Henry for building and demonstrating this project.\nMark was not with us tonight, so we will bring news of the Robot Tank when we meet again on April 26th.",
+      "id": "1481985248595237_4768044069989322"
+    },
+    {
+      "created_time": "2022-04-05T20:55:46+0000",
+      "story": "Curborough Community Centre Code Club created an online event.",
+      "id": "6009969352430178_511867717131629"
+    },
+    {
+      "created_time": "2022-04-05T20:46:18+0000",
+      "message": "Summary of Code club activities for 5th April.\n\nTonight we welcomed another new member Henry. \nHenry got straight into Scratch and BBC Micro Bit \nprogramming. Bill continued with his Blender project,\n\nAlex and Thomas wrote some more interesting Python scripts\nand Nathaniel programmed the VEX IQ robot. Natan helped set up\nand assisted with various IT problems including installing\ndrivers for our wireless dongles. Great job Natan!\n\nMark, Tim and Igor continued development of the Robot Tank.\nWe will include an in depth look at this next weeks post.",
+      "id": "1481985248595237_4748347381958991"
+    },
+    {
+      "created_time": "2022-03-29T18:42:35+0000",
+      "message": "Summary of meeting on Tuesday 29th March 2022\n\nTonight saw another new member, Nathan. Nathan built his own Scratch project and his own Micro BIT project during the hour long session. Welcome aboard Nathan. Alex and Thomas were using Python to write a Rock, Paper, Scissors game and a turtle racing game. Bill continued work on his Blender project and Natan continued to investigate the world of Minecraft servers.\n\nWork on the remote control Tank continued with Tim working out what connectors we need for the motors. Mark could not be with us tonight so we are looking forward to more progress next week.\n\nAs ever, thankyou to Pawel and Ania for hosting us and setting up for us.",
+      "id": "1481985248595237_4729988837128179"
+    },
+    {
+      "created_time": "2022-03-23T05:32:20+0000",
+      "message": "Summary of meeting on Tuesday 22nd March 2022\n\nBill seems to be getting on nicely with his Blender work, although I wish I knew more about blender in order to help him :-( \n\nNatan started building an online minecraft server which he intends to setup MySQL and some anticheat services. \n\nPav helped build an IDC cable for the robotic arm. Much trickier than expected and some good practical skills developed. \n\nTim fitted two motors to the Robot Tank and determined we didn't have the right connectors to connect to the rest if the circuitry. These are on order and should be with us by the next meeting. \n\nTwo new lads joined and worked on scratch and python. They came on a busy day and hopefully got enough attention for them to come again.\n\nA busy but productive session, no time for photos!",
+      "id": "1481985248595237_4713046115489118"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUkFQa2NsVlEwODVCeEhGUl9kV0psRHVZALTlIdlFWN2loVzlVenpkbGNDQkpITWduVGlMb0Mtdm5WbjJpOWRQZAko2N0p0dFNaaUxJX0VaOFotSDc0eXNCeFFRd01xZAkpMLWpzMVdZAY3FpdDBEVVAxQVpmaXoteUJWSlZApMEdWVWg0ZAlk0RFhiRUJZAVUVYelFsUzc5UzVndmdJNFZAYanA2MXozaThUYXZAvbE5aT3N3c1RwaVU1YXMzQlowS2wtVEM3RVcwMWdnR0xfXy1yTWVleUV0eUJlQmMtMkRaTFV3M0lPN3FBQVBrOEZALMDN5NGZAnTWJOWnRNTkl2SV83T0p4cnE3SVlxc1hBNGxubjNoUTR6dXRBVEhySDdzSjRnTW5fbVFEOXZALZAVJjM09hVlFCMklYTW5vQVB3Tm1ndUFtOFJ4Tll0cnVaQ25nc2F6YmhmUC1zaGtfZAUktRVpibXZAQS2Y4QjFqUUJpTXdYX1FBQm5PanlHNTZAFOGpKTkdfdWlQYUtDQVNBd3ZAsSTFValZAjaW1Jb05jSnJSWkxGUjVqZAzhHRm5abllVYkZAQdGFtQTlaZAlNPZA2JtcjJGUEl4aHVyVFlrbldyRjZA6WEZAWeFlCVS15YVRLcllQc1AzVWY1S1RQdHA4NEVWdFcyaGlQQ25WUG9pdXpoWVY2STM1N19BenZAIMWUtNWZArUnlpM0dCS0VqVk5rY0NzR2xPVzNKbWp5N25JR3QwcUZA0OWlJQ3hpNEFDX2tSbUp3ZAGhBQmJSYVRra09pc3VnTUI2VGJjZAWtwU2ZAnNTZAsRmRWZADQ5YWpPUHBLZAU1ZAd2MyNndjU0tTX25seHJGczRWRUcxSGV3eE44Q19LeWVweDVLRTVfU1IwSlRIU3FhUktZAT211REVFVnV6Rzd4MUo4eE00aEVncF8zQ2FiNjhUdWJsTnpRVnI4emd1cjRuZAmFUXy0tQnprZAnU5MXdhdERkYlBUX2NkLVg5S0ppZA212di1nUUo5cXJKMkdtVlFXMU5xTTdIMzBpcmI5Ml9tYlhTT2tpbFdrRjV4aFNYU1R4clhuWWpLYTluSEpJcGhhZAWpNNmcxZAXMZD",
+      "after": "QVFIUi1aZAFpEWEJXamdKaHF2UW9DXzFWaTJnRXk5cHNjUmlueGRNbExiQmgwR0NaSHkwY0VEdUlhSURaYmRyM09HaDJwYWpvMVNQcXdFNzRlaE5SSEo5azJ0SVhhMFMwS3N1SVMyVXJHSU12V2xVdDliWmdQX0tVcTc5UmUzWjMzbmgybjBPcEw1bzdCbHVGSi02NkRSU0l1ZAEZAtdXNVSjhOdnQ4ZAGZAJTkFCRk5ZAYUdIYTVpTzBQdnRfdTQzWUxnWHlITXIzZAV9QSzNDVVJORGJidmF4bG1oQXVZAWEFKY3dvNVlsUVE3am9ialBnZAlVfMFFCV01MWVppRUZAMQW1yaGtxWGxKZAEZA2T1c4cUs0S3MzY3Ytbmx5bTZA5b1RvSzE1VU5HRnh1VFRJbHR0VnJfZAk1tSjhlZA0J6d0F2SUs4VmZAyckVydmE1X2RMYkd6c0JOdlVudnQ5eGY2Y216MHJLY19wOWIxbjN2M2xnSjBkcWRJVlBETHdETlNyZAjNBbFhqRDdVRUxjajAwMEV6MEwxc2VrRzNuY1FEWEFUQXRuMkw2dU1xdDJEVnVmLXRySW9BdWJVYS1Vd2lUX3RWVF9EaFhoVmdCMF9aWk8wRURhQTF2SkhkUnJPLTNybEkxTVRxNmxQcmU0dGRHNmRTU0ZArTGFFZAHAwM1pZAMXhxZAjduWlpDcVpub0w2aXpiLS1ERWdFand0eVNNMVJ1QXhwcHlwN3E3TFpCU2Y4Uk1iNDZAkVjFpRHhzUFN2SWppXzFjcmVxdWplVUIzMU9Ea3NtVXMwUE42dllsSHZAVTWN5NEIyVFZAYWHZArR2FBNHVLcEFnTHY0aFJkVXVMZAFZAWeVNkNTN4cnd1RVJaNlpxT3RDM1RfLXVRVTV0aFFET0hNMkJOSWhhWURFODQ2QXd0VEd2N3p5dFdiMEgxNTh3bkRoZA0REQkNvRzVWMDd0RFh6b09WaTgwRTFpbkhxeFhKRXhxVThwTTlscmJ3eldZALXVDTEFHb3Vtam9iRGZA4UnBNVnN0X3FhUGpPSkxlZAzBEb2xuamNqR0pZAd1JRam1vWGtGdEdoSlFteVBSRTlGY0hDNkV3N1UZD"
+    },
+    "next": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&after=QVFIUi1aZAFpEWEJXamdKaHF2UW9DXzFWaTJnRXk5cHNjUmlueGRNbExiQmgwR0NaSHkwY0VEdUlhSURaYmRyM09HaDJwYWpvMVNQcXdFNzRlaE5SSEo5azJ0SVhhMFMwS3N1SVMyVXJHSU12V2xVdDliWmdQX0tVcTc5UmUzWjMzbmgybjBPcEw1bzdCbHVGSi02NkRSU0l1ZAEZAtdXNVSjhOdnQ4ZAGZAJTkFCRk5ZAYUdIYTVpTzBQdnRfdTQzWUxnWHlITXIzZAV9QSzNDVVJORGJidmF4bG1oQXVZAWEFKY3dvNVlsUVE3am9ialBnZAlVfMFFCV01MWVppRUZAMQW1yaGtxWGxKZAEZA2T1c4cUs0S3MzY3Ytbmx5bTZA5b1RvSzE1VU5HRnh1VFRJbHR0VnJfZAk1tSjhlZA0J6d0F2SUs4VmZAyckVydmE1X2RMYkd6c0JOdlVudnQ5eGY2Y216MHJLY19wOWIxbjN2M2xnSjBkcWRJVlBETHdETlNyZAjNBbFhqRDdVRUxjajAwMEV6MEwxc2VrRzNuY1FEWEFUQXRuMkw2dU1xdDJEVnVmLXRySW9BdWJVYS1Vd2lUX3RWVF9EaFhoVmdCMF9aWk8wRURhQTF2SkhkUnJPLTNybEkxTVRxNmxQcmU0dGRHNmRTU0ZArTGFFZAHAwM1pZAMXhxZAjduWlpDcVpub0w2aXpiLS1ERWdFand0eVNNMVJ1QXhwcHlwN3E3TFpCU2Y4Uk1iNDZAkVjFpRHhzUFN2SWppXzFjcmVxdWplVUIzMU9Ea3NtVXMwUE42dllsSHZAVTWN5NEIyVFZAYWHZArR2FBNHVLcEFnTHY0aFJkVXVMZAFZAWeVNkNTN4cnd1RVJaNlpxT3RDM1RfLXVRVTV0aFFET0hNMkJOSWhhWURFODQ2QXd0VEd2N3p5dFdiMEgxNTh3bkRoZA0REQkNvRzVWMDd0RFh6b09WaTgwRTFpbkhxeFhKRXhxVThwTTlscmJ3eldZALXVDTEFHb3Vtam9iRGZA4UnBNVnN0X3FhUGpPSkxlZAzBEb2xuamNqR0pZAd1JRam1vWGtGdEdoSlFteVBSRTlGY0hDNkV3N1UZD",
+    "previous": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&before=QVFIUkFQa2NsVlEwODVCeEhGUl9kV0psRHVZALTlIdlFWN2loVzlVenpkbGNDQkpITWduVGlMb0Mtdm5WbjJpOWRQZAko2N0p0dFNaaUxJX0VaOFotSDc0eXNCeFFRd01xZAkpMLWpzMVdZAY3FpdDBEVVAxQVpmaXoteUJWSlZApMEdWVWg0ZAlk0RFhiRUJZAVUVYelFsUzc5UzVndmdJNFZAYanA2MXozaThUYXZAvbE5aT3N3c1RwaVU1YXMzQlowS2wtVEM3RVcwMWdnR0xfXy1yTWVleUV0eUJlQmMtMkRaTFV3M0lPN3FBQVBrOEZALMDN5NGZAnTWJOWnRNTkl2SV83T0p4cnE3SVlxc1hBNGxubjNoUTR6dXRBVEhySDdzSjRnTW5fbVFEOXZALZAVJjM09hVlFCMklYTW5vQVB3Tm1ndUFtOFJ4Tll0cnVaQ25nc2F6YmhmUC1zaGtfZAUktRVpibXZAQS2Y4QjFqUUJpTXdYX1FBQm5PanlHNTZAFOGpKTkdfdWlQYUtDQVNBd3ZAsSTFValZAjaW1Jb05jSnJSWkxGUjVqZAzhHRm5abllVYkZAQdGFtQTlaZAlNPZA2JtcjJGUEl4aHVyVFlrbldyRjZA6WEZAWeFlCVS15YVRLcllQc1AzVWY1S1RQdHA4NEVWdFcyaGlQQ25WUG9pdXpoWVY2STM1N19BenZAIMWUtNWZArUnlpM0dCS0VqVk5rY0NzR2xPVzNKbWp5N25JR3QwcUZA0OWlJQ3hpNEFDX2tSbUp3ZAGhBQmJSYVRra09pc3VnTUI2VGJjZAWtwU2ZAnNTZAsRmRWZADQ5YWpPUHBLZAU1ZAd2MyNndjU0tTX25seHJGczRWRUcxSGV3eE44Q19LeWVweDVLRTVfU1IwSlRIU3FhUktZAT211REVFVnV6Rzd4MUo4eE00aEVncF8zQ2FiNjhUdWJsTnpRVnI4emd1cjRuZAmFUXy0tQnprZAnU5MXdhdERkYlBUX2NkLVg5S0ppZA212di1nUUo5cXJKMkdtVlFXMU5xTTdIMzBpcmI5Ml9tYlhTT2tpbFdrRjV4aFNYU1R4clhuWWpLYTluSEpJcGhhZAWpNNmcxZAXMZD"
+  }
+}

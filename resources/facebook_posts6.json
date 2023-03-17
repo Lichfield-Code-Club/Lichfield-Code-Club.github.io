@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "created_time": "2020-04-04T05:30:44+0000",
+      "message": "Whilst we're in lock down take a look at online courses for budding computer engineers like the one from the raspberry pi organisation:\n https://www.raspberrypi.org/blog/digital-making-at-home-making-games/",
+      "id": "1481985248595237_2670440239749726"
+    },
+    {
+      "created_time": "2020-03-16T20:38:36+0000",
+      "message": "Hi Everyone. I think Code Club should stop meeting for a while following government advice. Please check with the Library for access to computers. Take care everyone. Stewart and Mark \ud83d\ude0a",
+      "id": "1481985248595237_2630842913709459"
+    },
+    {
+      "created_time": "2020-03-11T12:14:16+0000",
+      "message": "More BBC Micro BIT programming last night. Controlling a line following buggy and a multicolour LED using a Scratch like interface. We also viewed our code as Java Script. Next week we shall be demonstrating a Raspberry PI for those that are thinking of buying one for themselves. \ud83d\ude0a",
+      "id": "1481985248595237_2619615164832234"
+    },
+    {
+      "created_time": "2020-03-03T20:07:35+0000",
+      "message": "Great session tonight. Scratch, HTML, BBC Micro BIT. We had Alexa created with Scratch, a line following robot, some demonstrations of changing HTML on the fly \ud83d\ude09 and as ever some great Scratch games programming. Brilliant effort guys and gals, thanks for attending.",
+      "id": "1481985248595237_2603898853070532"
+    },
+    {
+      "created_time": "2020-02-29T05:39:47+0000",
+      "message": "It's interesting to see which programming languages are popular. Red Monk show that Python and JavaScript are near the top\n\nhttps://redmonk.com/sogrady/2020/02/28/language-rankings-1-20/",
+      "id": "1481985248595237_2596452640481820"
+    },
+    {
+      "created_time": "2020-01-29T19:29:52+0000",
+      "message": "For those who want to get familiar with Python using an IDE, Integrated Development Environment.\nI would recommend Thonny.\nHere's how to install it and get started with a 2D game:\n\nTHONNY\n======\nDownload and install Thonny: https://thonny.org/\nInstall pygame from Tools->Manage Packages\n\nPygame tutorial video\nThere are 10 vidoes which help build a functional game @ https://www.youtube.com/watch?v=i6xMBig-pP4\n\nAny problems ask here or at our next meeting in Lichfield Library\n\nMark",
+      "id": "1481985248595237_2535192743274477"
+    },
+    {
+      "created_time": "2020-01-13T20:31:26+0000",
+      "message": "Thank you to Tim, Bill and Sean for bringing this OWI Robot Arm in last session. We should be able to control it using a Raspberry Pi and either a Motor Controller Board or relays to simulate the switches on the remote controller.",
+      "id": "1481985248595237_2503628716430880"
+    },
+    {
+      "created_time": "2020-01-06T11:54:00+0000",
+      "message": "Code Club starts again Tomorrow at Lichfield Library. 16:50 - 17:50\n\ud83d\ude0a",
+      "id": "1481985248595237_2487485588045193"
+    },
+    {
+      "created_time": "2019-12-18T12:33:19+0000",
+      "message": "The following is a simple program where the user has to reach the ! by pressing keys to move up, down, left and right.\nIt uses the input function which requires the user to press enter. This proves the logic of the game.\nThe challenge is to replace the input function with something that does not requires the user to press enter, eg keyboard \nhttps://github.com/boppreh/keyboard#api\nCopy and paste the following into Idle and run\n\nfrom random import randint\n\nmaze = [\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    ]\nxmax = len(maze[0]) - 1\nymax = len(maze) - 1\n\ndef move(xcur,ycur,xpos,ypos):\n    done = False\n    if xpos >= 0 and xpos <= xmax:\n        if ypos >= 0 and ypos <= ymax:\n            maze[ycur][xcur] = \"X\"\n            done = maze[ypos][xpos] == '!'\n            maze[ypos][xpos] = \"?\"\n    draw()\n    return done\n\ndef draw():\n    for line in maze:\n        l = ''\n        for xp in line: l += xp\n        print(l)\n\ndef init():\n    x = randint(0,xmax)\n    y = randint(0,ymax)\n    maze[y][x] = \"!\"\n    xcur = xpos = randint(0,xmax)\n    ycur = ypos = randint(0,ymax)\n    move(xcur,ycur,xpos,ypos)\n    return xcur,ycur\n\nxpos, ypos = xcur,ycur = init()\ndone = False\nwhile not done:\n    newpos = False\n    \n    print('Next Move')\n    key=input()\n    \n    if key == 'W':\n        if ypos < ymax:\n            ypos += 1\n            newpos = True\n    if key == 'S':\n        if ypos > 0:\n            ypos -= 1\n            newpos = True\n    if key == 'A':\n        if xpos > 0:\n            xpos -= 1\n            newpos = True\n    if key == 'D':\n        if xpos < xmax:\n            xpos += 1\n            newpos = True\n    if newpos:\n        done = move(xcur,ycur,xpos,ypos)\n        xcur = xpos\n        ycur = ypos\nif done:\n    print('Game Over!!')",
+      "id": "1481985248595237_2445918752201877"
+    },
+    {
+      "created_time": "2019-12-18T09:34:52+0000",
+      "message": "To get started with pygame\nOpen a command window, type cmd in the windows search\ntype: pip install pygame\nclose the command window: exit\n\nUsing the python IDE called 'Idle' type:\n import pygame.examples.aliens as aliens\n aliens.main()\nPlay the game, to end or 'get out' type: exit()\nThere's a nice tutorial here: https://www.pygame.org/docs/tut/PygameIntro.html",
+      "id": "1481985248595237_2445661612227591"
+    },
+    {
+      "created_time": "2019-12-18T09:33:05+0000",
+      "message": "Further to the suggestion to install Python on your laptop, here are the steps I went through\nUsing web browser, download the installer: https://www.python.org/ftp/python/3.8.0/python-3.8.0-webinstall.exe\nDouble click on the downloaded file to make it run\nCheck the 'Add Python 3.8 to PATH' at the bottom of the page\nChoose the 'Install Now' option\nAfter a few minutes there will be the option to 'Disable path length limit' which should be done, by clicking on it.\nThere's an IDE (Integrated Development Environment) called 'Idle' but I couldn't find a desktop icon, so I typed 'idle' in the windows search bar, look for a magnifying glass, I then 'pinned to task bar' and 'opened' it\nType this, and press enter, to prove it works:    print('Hello World')\nTo end or 'get out' type: exit()",
+      "id": "1481985248595237_2445657738894645"
+    },
+    {
+      "created_time": "2019-12-18T08:49:20+0000",
+      "message": "Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.\n\nOne youngster used scratch to create a Christmas scene with a countryside back drop, a central doughnut and holly in each of the corners. We made the holly move in towards the doughnut and back out to the corners, and so hopefully gained some insight into screen coordinates and forever loops.\n\nAnother youngster connected to YouTube and played Christmas music, which the library staff said was okay on this occasion. This got everyone into festive spirit .\n\nTwo other youngsters worked independently on their own scratch based project and seem to be doing well making objects move around a maze.\n\nLast, but not least, another youngster was keen to push forward with using repl.it to create his own maze based python program but we found that it did not allow key presses to be captured and acted upon, a limitation of using a cloud based service. To overcome this we will need to download Python for Windows onto his laptop. This can be found at https://www.python.org/downloads/windows/ .\nFor those who want to make games please download the latest version, 3.8.0. During the installation there are options to download it 'for everyone' and that's the best option. You also should install a desktop icon and the pip program. Any questions please ask here or in person next time we meet.\n\nHope you all have a great Christmas, enjoy coding and feel free to ask questions. See you all in 2020.",
+      "story": "Curborough Community Centre Code Club is feeling happy.",
+      "id": "1481985248595237_2445603555566730"
+    },
+    {
+      "created_time": "2019-12-11T17:57:41+0000",
+      "message": "On Tuesday, despite heavy rain several youngsters attended Code Club at Lichfield Library. Where we took a look at Python in particular using the free 'repl' services at https://repl.it/. The site lets you create programs in C#, C++, C, Python, Java, JavaScript and many more.\nWe looked at defining functions,  looping through lists and lists of list to create a maze program and started to add keyboard interaction.\nAnother lad looked at using pygame, but the startup learning curve was quite steep and so next time we'll provide a skeletal game and add functionality.\nThank you to all who came and look forward to seeing you next week.",
+      "id": "1481985248595237_2431888463604906"
+    },
+    {
+      "created_time": "2019-12-01T19:50:15+0000",
+      "message": "Code Club is on this Tuesday as far as I know. Looking forward to using the new computers",
+      "id": "1481985248595237_2410419299085156"
+    },
+    {
+      "created_time": "2019-11-25T20:26:14+0000",
+      "message": "No Code Club tomorrow. Library computers are being upgraded \ud83d\ude0a\ud83d\ude0a",
+      "id": "1481985248595237_2397357463724673"
+    },
+    {
+      "created_time": "2019-11-19T21:28:10+0000",
+      "message": "Here we see a slightly modified VEX IQ Claw Robot. We had to lift part of the structure clear of our proximity sensor as were getting false readings.",
+      "id": "1481985248595237_2384090241718062"
+    },
+    {
+      "created_time": "2019-11-19T21:26:09+0000",
+      "message": "Tonight we programmed the VEX IQ Robot using Code Blocks. Natan and Jacob tested programs they had written at home during the week. Both programs worked a treat! Well done to you both.",
+      "id": "1481985248595237_2384086805051739"
+    },
+    {
+      "created_time": "2019-10-24T19:07:36+0000",
+      "message": "Here is the code from our Robot programming session.",
+      "id": "1481985248595237_2330617700398650"
+    },
+    {
+      "created_time": "2019-10-24T19:05:24+0000",
+      "message": "Well done to Natan, Alex and Thomas. Here is the result of your code from Tuesday night. Sorry we ran out of time to run the program. There was actually nothing wrong with your code, the problems we were seeing was because the motor spindle had worked lose on the lifting arm. Hardware issues!!!",
+      "id": "1481985248595237_2330612860399134"
+    },
+    {
+      "created_time": "2019-10-23T12:25:46+0000",
+      "message": "I have started submitting our competition entries. Good Luck everyone.",
+      "id": "1481985248595237_2327510107376076"
+    },
+    {
+      "created_time": "2019-10-22T20:03:39+0000",
+      "message": "Excellent session tonight. We have four brilliant entries for the Shaun The Sheep competition. Well done!",
+      "id": "1481985248595237_2326165947510492"
+    },
+    {
+      "created_time": "2019-10-21T20:29:20+0000",
+      "message": "Some of our Code Club activities.",
+      "id": "1481985248595237_2324047877722299"
+    },
+    {
+      "created_time": "2019-10-15T19:04:13+0000",
+      "message": "Great turnout again tonight. Our young programmers were continuing work on the Shaun the Sheep project and also programming the VEX IQ Robot with the new Scratch 3 Interface. We also saw some BBC Micro BIT programming. \ud83d\ude0a\ud83d\udcc0\u2328\ufe0f\ud83d\udcbb\ud83d\udcbe",
+      "id": "1481985248595237_2310727085721045"
+    },
+    {
+      "created_time": "2019-10-13T14:21:16+0000",
+      "message": "All updated and ready to go \ud83d\ude0a",
+      "id": "1481985248595237_2306391642821256"
+    },
+    {
+      "created_time": "2019-10-13T14:03:54+0000",
+      "message": "Will bring the VEX Robot to our Tuesday session this week. We can now program the robot using a Scratch 3 Interface.",
+      "id": "1481985248595237_2306364072824013"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUjZAKUFV0UzVSamdyUmJtVktwQUlaYVp2UFJCdEhDSEo0T2g3X3RnU0RvQl9LN21YbTQyVFNoSDhsZAFRrb1FsWVk3d2NWZAlU1OHpON0dfc3ZAKNnYzcy03V1VzQXh2eFpmWDV2ZA2wxYXp2OGt2Mzl1RVJtWE5HVGt1WURweTk1Q0NkRzMyWUtaUG5yYmlyZAl9RMjBTajB0aUViY3BCdzliS1hpdy1NUDVGbDdtWmdHUlVYb2hjVk1PQlNicGpDQ21YcGZATMkhQU1ZAHS2pCYmoxZAUVGR0hDOWtTeUtRaXZAjMFp2WTl6Q2NGcEhNaGV1QmpWN0hQVlFWNEdodFhnUDNoOE5CMjNTTmZA2bkRacFhLM0RuaXdmZA2Y2akkwVHZAUWUNQaWdwQTVJaDRYTldJaWpaWFlzWWhqLVJ4cDJvcW9hcDRPZAGVBYUJpdHYzcXNKQVJ3ZAG9USUhPTllXRTlRZAWNSdVFWd01qMnlZAOWxqU1RwMDJDaXFZAX2FpVW56VFZAoQWk5UjNZAYjNfNWZAGX1pZAN1VsU2pMT0t6ckpmdjRxMUhwZAkExcUVJMXJLQndXbWN0LVhfc28wR2hzN2ljVFl0LUYwOVZAIR3VlekZAzZA29YaDU1NFNTZAG83Y0YwRlQ3VDNlM1BYNDFIWHI3S2FvY1B5WDEwZAmtxRlo2WU5BSGVYLTk5S0xzbEt4ZAkJNM1c5QWtQb3ROX09fUnBVbFZAjbVZAZAMHlzeTlVVTNXemhMQ0dzaGpTSGY5X3VMRzl1RVhrZA3pNZAndxMi1TQXdVRlhzbmhoc3ZAvSEZAJTDNtQWxkU2xVWmZAIT0M1MHlxVFFUc21tb1dNTFk3a1BoV3NIM3JKeWNPM0JqUm9MR2ZAONXBNVUJqWWJ5UHROakFMc3JMWllGaUxINmtVSlMydWJGSE9hbjRLTDhldTAxekRONTI0WGVjUjZAoa3dJcl81TkdIRGdnZAFpKOWI1M1pKcVZAjUjhQVnBlc3gwWmpTdmtJaEVBZAkVYQ3dMUFRuNUNXUlRZAWXNIbHZAQRWJhenNldFVyMTVSNkNKVkkxLXY4M2Jmb01YRjBZAeWZAlazZATWFAtU3JwNURzTHcZD",
+      "after": "QVFIUi1mUlc5UWQ1dmU1RERRQjE2VUhyZADQzZAnZAzVjMyMWVuZAjA3QjVBY3I1VExwVTBIbVVUNS05X3V5S1YtVjFZAUnZAzNVZAaRVFIY0ZARQ3ZAYZAGNMTWZAPdnYxRzBmTEstaVdmN3NqSS1neW5pUlpWNThYUkxEVHU5NkxqbktIdFltcW5tcHVXeURab2pFN2R4OGVSMHhxdHJuQktFLWZAuMndWYld2cGFkVGlfNVUzTW5yWktOdm9vZAk9xSUVHX215aGgtdlk2bExINWtyUms0ZAWpOci1UNHlnOHlZALW9RWjhwSnlCdUlmTVl5VTRwSU9oUlBVVXROTHd0dW9SdWRaR2RZASjM4TWFmcjVueWp5NUhQc1k4eERrZAlJwSVFoZAkZAzLUloeGhDV3U4dnB2bGJrYlVzUWtVY1hoSk5fVm04czJQbXFaSTlja3l6QWdLaTVzei1ZAMlJUQ3NPWUw4UG4tM1UwVGhoeVJJQWZAFcXN1SlFFUlNsQXpSaUplQ0tmYTViSEtVVFdMbWFpMU1vZATdlaUwtallueklMMnk5cWhLakhHSFEtcHRXd2l6VmtjWGNsajlzQnE3MDhucVRWMnVlS2FUTURyajIweUI1a1BTUHBUdV83RFNCRmI1R2FNcW9FbEdXS0l2ZAmhoalZABTmh6dnhYMGx3T1hjMUFKejQ0OVl0VENLX3luUWxhTUhfblhnbTRVMkwwblRzZA0tfRjRGWV9QNDdWUjRJTjBnUVlXX0N0cUFpWVJwRmtiMENOVnJoeTQ2OUM2eUhDS2E4TmJCU1pCMlQwUDZAFU3RIbXFnYTZAxdFZARVHVZAZAHFCRlEyQXFycS14VS1YcGZAWbmRXUUdfTExyd3NjUFZAGYW1GY0hJOE9NSUFiTnh5MU9qNmoyUVZAYMWUtMjE4UWlkN3pxN2d4cnR2d0ZASdnZANMkxzSFFoSWxiemhHQzMwbWpjMVJHNGNzQ1ZAUUFRrOGVRTjU0blpybkdCYkZAFZAU9lc2hsa09Pb2hleTRzbFVvNllZAblNiei01RVdqU18zQmZAQVTZACanFVbUoxcjNscWdfWVZAMN1RQWXgydkhwY2R4ajlLOG9OZAUUZD"
+    },
+    "next": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&after=QVFIUi1mUlc5UWQ1dmU1RERRQjE2VUhyZADQzZAnZAzVjMyMWVuZAjA3QjVBY3I1VExwVTBIbVVUNS05X3V5S1YtVjFZAUnZAzNVZAaRVFIY0ZARQ3ZAYZAGNMTWZAPdnYxRzBmTEstaVdmN3NqSS1neW5pUlpWNThYUkxEVHU5NkxqbktIdFltcW5tcHVXeURab2pFN2R4OGVSMHhxdHJuQktFLWZAuMndWYld2cGFkVGlfNVUzTW5yWktOdm9vZAk9xSUVHX215aGgtdlk2bExINWtyUms0ZAWpOci1UNHlnOHlZALW9RWjhwSnlCdUlmTVl5VTRwSU9oUlBVVXROTHd0dW9SdWRaR2RZASjM4TWFmcjVueWp5NUhQc1k4eERrZAlJwSVFoZAkZAzLUloeGhDV3U4dnB2bGJrYlVzUWtVY1hoSk5fVm04czJQbXFaSTlja3l6QWdLaTVzei1ZAMlJUQ3NPWUw4UG4tM1UwVGhoeVJJQWZAFcXN1SlFFUlNsQXpSaUplQ0tmYTViSEtVVFdMbWFpMU1vZATdlaUwtallueklMMnk5cWhLakhHSFEtcHRXd2l6VmtjWGNsajlzQnE3MDhucVRWMnVlS2FUTURyajIweUI1a1BTUHBUdV83RFNCRmI1R2FNcW9FbEdXS0l2ZAmhoalZABTmh6dnhYMGx3T1hjMUFKejQ0OVl0VENLX3luUWxhTUhfblhnbTRVMkwwblRzZA0tfRjRGWV9QNDdWUjRJTjBnUVlXX0N0cUFpWVJwRmtiMENOVnJoeTQ2OUM2eUhDS2E4TmJCU1pCMlQwUDZAFU3RIbXFnYTZAxdFZARVHVZAZAHFCRlEyQXFycS14VS1YcGZAWbmRXUUdfTExyd3NjUFZAGYW1GY0hJOE9NSUFiTnh5MU9qNmoyUVZAYMWUtMjE4UWlkN3pxN2d4cnR2d0ZASdnZANMkxzSFFoSWxiemhHQzMwbWpjMVJHNGNzQ1ZAUUFRrOGVRTjU0blpybkdCYkZAFZAU9lc2hsa09Pb2hleTRzbFVvNllZAblNiei01RVdqU18zQmZAQVTZACanFVbUoxcjNscWdfWVZAMN1RQWXgydkhwY2R4ajlLOG9OZAUUZD",
+    "previous": "https://graph.facebook.com/v16.0/1481985248595237/posts?access_token=EAAXAOZBk34wEBAFvZCwO1aWhXAZATZCEktoGtoP2brPP8TeLnxW5dJeFgAZCZCaiVpwm2ZBn4wunxavD7dd6hHFhbyZAC0IYkTe34PLD6y3riiYZBSV5NZA0hCKsEefZBmgqJo8gisKrhMfrLoOi5BLlUMWE59qpnC7aSbzYL4KnRzmZBaxY04lNrJQZBZCl6E7MygotUvHPHI2TxYbwZDZD&limit=25&before=QVFIUjZAKUFV0UzVSamdyUmJtVktwQUlaYVp2UFJCdEhDSEo0T2g3X3RnU0RvQl9LN21YbTQyVFNoSDhsZAFRrb1FsWVk3d2NWZAlU1OHpON0dfc3ZAKNnYzcy03V1VzQXh2eFpmWDV2ZA2wxYXp2OGt2Mzl1RVJtWE5HVGt1WURweTk1Q0NkRzMyWUtaUG5yYmlyZAl9RMjBTajB0aUViY3BCdzliS1hpdy1NUDVGbDdtWmdHUlVYb2hjVk1PQlNicGpDQ21YcGZATMkhQU1ZAHS2pCYmoxZAUVGR0hDOWtTeUtRaXZAjMFp2WTl6Q2NGcEhNaGV1QmpWN0hQVlFWNEdodFhnUDNoOE5CMjNTTmZA2bkRacFhLM0RuaXdmZA2Y2akkwVHZAUWUNQaWdwQTVJaDRYTldJaWpaWFlzWWhqLVJ4cDJvcW9hcDRPZAGVBYUJpdHYzcXNKQVJ3ZAG9USUhPTllXRTlRZAWNSdVFWd01qMnlZAOWxqU1RwMDJDaXFZAX2FpVW56VFZAoQWk5UjNZAYjNfNWZAGX1pZAN1VsU2pMT0t6ckpmdjRxMUhwZAkExcUVJMXJLQndXbWN0LVhfc28wR2hzN2ljVFl0LUYwOVZAIR3VlekZAzZA29YaDU1NFNTZAG83Y0YwRlQ3VDNlM1BYNDFIWHI3S2FvY1B5WDEwZAmtxRlo2WU5BSGVYLTk5S0xzbEt4ZAkJNM1c5QWtQb3ROX09fUnBVbFZAjbVZAZAMHlzeTlVVTNXemhMQ0dzaGpTSGY5X3VMRzl1RVhrZA3pNZAndxMi1TQXdVRlhzbmhoc3ZAvSEZAJTDNtQWxkU2xVWmZAIT0M1MHlxVFFUc21tb1dNTFk3a1BoV3NIM3JKeWNPM0JqUm9MR2ZAONXBNVUJqWWJ5UHROakFMc3JMWllGaUxINmtVSlMydWJGSE9hbjRLTDhldTAxekRONTI0WGVjUjZAoa3dJcl81TkdIRGdnZAFpKOWI1M1pKcVZAjUjhQVnBlc3gwWmpTdmtJaEVBZAkVYQ3dMUFRuNUNXUlRZAWXNIbHZAQRWJhenNldFVyMTVSNkNKVkkxLXY4M2Jmb01YRjBZAeWZAlazZATWFAtU3JwNURzTHcZD"
+  }
+}
