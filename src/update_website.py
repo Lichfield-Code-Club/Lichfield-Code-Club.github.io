@@ -3,23 +3,23 @@ import json
 from datetime import datetime
 from glob import glob
 
-md_template = """
----
+md_template = """---
 Date:   #DATE#
 Topic:  #TOPIC#
 Content: #CONTENT#
 ---
 #BODY#
 
-We are open to new members and if you're interested please come along to 
-Curborough Community Centre Code Club at 5:30pm each Wednesday. 
-Bring a laptop with wifi capability if you can
-Look forward to meeting you :-)
+Curborough Community Centre
+WS13 7NY
+Code Club
+Wednesdays 5:30 - 6:30pm
+7 - 15 year olds welcome
 
-Find us:
+Club Links:
 [Code Club Website](https://lichfield-code-club.github.io/)
-[Facebook]
-[Discord]
+[Facebook Page](https://www.facebook.com/LichfieldCoders)
+[Discord club messages](https://discord.gg/szz6xGK)
 """
 
 def ReadJson(fname):
