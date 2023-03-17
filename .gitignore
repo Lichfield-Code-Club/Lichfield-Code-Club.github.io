@@ -1,6 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-.secrets
+.secrets*
 facebook_posts.json
 website
