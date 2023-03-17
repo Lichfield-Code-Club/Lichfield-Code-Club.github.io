@@ -5,14 +5,21 @@ from glob import glob
 
 md_template = """
 ---
-layout: post
-title:  #TITLE#
-date:   #DATE#
-categories: Club Meetings
+Date:   #DATE#
+Topic:  #TOPIC#
+Content: #CONTENT#
 ---
 #BODY#
 
+We are open to new members and if you're interested please come along to 
+Curborough Community Centre Code Club at 5:30pm each Wednesday. 
+Bring a laptop with wifi capability if you can
+Look forward to meeting you :-)
+
+Find us:
 [Code Club Website](https://lichfield-code-club.github.io/)
+[Facebook]
+[Discord]
 """
 
 def ReadJson(fname):
@@ -27,8 +34,9 @@ def CreateWebPost(fname):
         meeting_date = post['created_time'].split('T')[0]
 
         web_post = md_template
-        web_post = web_post.replace('#TITLE#',f'Club Meeting {meeting_date}')
-        web_post = web_post.replace('#DATE#',md_date)
+        web_post = web_post.replace('#TOPIC#','Club Meeting')
+        web_post = web_post.replace('#DATE#',meeting_date)
+        web_post = web_post.replace('#CONTENT#','Summary')
         web_post = web_post.replace('#BODY#',post['message'])
 
         md_file = f'_posts/{meeting_date}-Meeting.md'
