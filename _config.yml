@@ -26,7 +26,7 @@ exclude: [vendor]
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: jekyll-architect-theme
 plugins:
   - jekyll-feed
 
