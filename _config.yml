@@ -26,9 +26,10 @@ exclude: [vendor]
 
 # Build settings
 markdown: kramdown
-theme: jekyll-architect-theme
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
