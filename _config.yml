@@ -23,10 +23,10 @@ facebook_username: LichfieldCoders
 github_username:  Lichfield-Code-Club
 
 exclude: [vendor]
-
+theme: minima
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
