@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chat App</title>
+    <script src="https://cdn.socket.io/4.4.1/socket.io.min.js"></script>
+  </head>
+  <body>
+    <h1>Chat App</h1>
+    <div id="login">
+      <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" value=""><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <input type="submit" value="Login">
+      </form>
+    </div>
+    <div id="chat" style="display:none;">
+      <div id="messages"></div>
+      <form>
+        <input type="text" id="message" name="message">
+        <input type="submit" value="Send">
+      </form>
+    </div>
+
+    <script>
+      // Connect to the server using Socket.io
+      const socket = io();
+
+      // Get references to the HTML elements
+      const loginForm = document.querySelector("#login form");
+      const chatForm = document.querySelector("#chat form");
+      const messagesDiv = document.querySelector("#messages");
+      const chatDiv = document.querySelector("#chat");
+      const usernameInput = document.querySelector("#username");
+
+      // Handle login form submission
+      loginForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const username = event.target.elements.username.value;
+        const password = event.target.elements.password.value;
+        socket.emit("login", { username, password });
+      });
+
+      // Handle successful login
+      socket.on("loginSuccess", () => {
+        console.log("Login successful");
+        loginForm.style.display = "none";
+        chatDiv.style.display = "block";
+      });
+
+      // Handle failed login
+      socket.on("loginError", (errorMessage) => {
+        console.log("Login failed: " + errorMessage);
+        alert("Login failed: " + errorMessage);
+      });
+
+      // Handle chat form submission
+      chatForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const message = event.target.elements.message.value;
+        socket.emit("sendMessage", message);
+        event.target.elements.message.value = "";
+      });
+
+      // Handle received message
+      socket.on("message", (data) => {
+        const { username, text } = data;
+        const messageDiv = document.createElement("div");
+        messageDiv.textContent = username + ": " + text;
+        messagesDiv.appendChild(messageDiv);
+      });
+    </script>
+  </body>
+</html>
