@@ -22,7 +22,7 @@ while my_guess != guess_me and bad_guess < bad_max:
                 my_guess[i] = guess_me[i]
     else:
         bad_guess += 1
-        fname = f'hangman{bad_guess}.jpg'
+        fname = f'learn/img/hangman{bad_guess}.jpg'
         img = mpimg.imread(fname)
         imgplot = plt.imshow(img)
         plt.axis('off')
