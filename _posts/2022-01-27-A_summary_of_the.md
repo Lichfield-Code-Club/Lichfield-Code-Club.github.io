@@ -3,6 +3,8 @@ Date:   2022-01-27
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 A summary of the meeting on Wednesday 26th January ...
 
 Bill worked on Blender creating tree/grass assets to use with Unity

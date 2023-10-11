@@ -3,6 +3,8 @@ Date:   2022-05-31
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 We have created two presentations to use at the Cosford Air Show and would like feedback on whether they work and any comments.
 
 https://tinyurl.com/mwz57tsm

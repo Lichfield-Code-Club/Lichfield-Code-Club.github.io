@@ -3,6 +3,8 @@ Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Well Done everyone. Some great coding and animations over the past few months. 😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1531509153642846/)

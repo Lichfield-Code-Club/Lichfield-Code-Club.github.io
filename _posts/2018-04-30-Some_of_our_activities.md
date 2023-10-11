@@ -3,6 +3,8 @@ Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Some of our activities tonight included Scratch games and an introduction to Python programming.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1531511123642649/)

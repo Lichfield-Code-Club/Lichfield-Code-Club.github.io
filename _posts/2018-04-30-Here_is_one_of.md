@@ -3,6 +3,8 @@ Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Here is one of our coders games in action. Here we are using loops and conditional code to give the illusion of moving traffic.
 
 * [Facebook Link](https://www.facebook.com/720665616418529/videos/1531511846975910)

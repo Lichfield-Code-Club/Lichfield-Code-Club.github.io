@@ -3,6 +3,8 @@ Date:   2023-04-05
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 5th April 2023 meeting
 Thanks to Heather for bringing cupcakes 
 😊🧁👍

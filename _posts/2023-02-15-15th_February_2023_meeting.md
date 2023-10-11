@@ -3,6 +3,8 @@ Date:   2023-02-15
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 15th February 2023 meeting
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/703555554796202)

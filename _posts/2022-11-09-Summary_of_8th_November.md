@@ -3,6 +3,8 @@ Date:   2022-11-09
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 8th November 2022 meeting
 
 Thanks to Igor for covering Mark and Stoo's job of supervising, (who couldn't be there) as well as Ania, whose drink-making abilities have been largely disregarded in these posts.

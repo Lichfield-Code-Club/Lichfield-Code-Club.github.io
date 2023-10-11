@@ -3,6 +3,8 @@ Date:   2018-11-21
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Our largest turnout to date. Thank you so much for attending and showing such enthusiasm. A massive thanks to parents and Library staff for their support this past year. Looking forward to seeing you all at St Marys in the new year. Look out for our starting date. A very Merry Christmas to you all - Stewart, Yvonne, John & Brian. :-)
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1798375423622883/)

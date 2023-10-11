@@ -3,6 +3,8 @@ Date:   2023-05-05
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 3rd May 2023 meeting
 Thanks to Heather again for bringing biscuits  😊
 

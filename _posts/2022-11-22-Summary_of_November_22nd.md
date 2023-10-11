@@ -3,6 +3,8 @@ Date:   2022-11-22
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of November 22nd 2022 meeting
 Mark was not able to attend this week either but Stoo was, who checked out Bill's Unity project.
 Sebastian was back again this week, who researched programming languages, I think

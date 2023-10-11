@@ -3,6 +3,8 @@ Date:   2023-03-15
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Thank you to Lichfield City Council and Curborough Community Centre for our new equipment 😊😊😊 💻
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/719794693172288)

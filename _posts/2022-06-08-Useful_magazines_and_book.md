@@ -3,6 +3,8 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Useful magazines and book
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4923063967820664/)

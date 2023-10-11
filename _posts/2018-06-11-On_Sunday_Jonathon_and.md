@@ -3,6 +3,8 @@ Date:   2018-06-11
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 On Sunday Jonathon and I took Code Club to the Cosford Air Show. A great day was had by all.
 
 * [Facebook Link](https://www.facebook.com/LichfieldCoders/photos/a.1570694216391006/1570694603057634/?type=3)

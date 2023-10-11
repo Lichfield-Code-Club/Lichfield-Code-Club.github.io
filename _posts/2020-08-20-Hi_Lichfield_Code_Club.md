@@ -3,6 +3,8 @@ Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Hi Lichfield Code Club members
 
 Stu and I have set up a GutHub group account where you can create programs and share them with other  Code Club members. This would allow us to help each other if we have problems.

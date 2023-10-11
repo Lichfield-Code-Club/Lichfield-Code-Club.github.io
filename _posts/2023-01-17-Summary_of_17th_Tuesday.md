@@ -3,6 +3,8 @@ Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 17th Tuesday 2023 meeting
 A nice turnout today!
 Natan, Aleks, and Tomasz worked some more on the Improved Clock in Python.

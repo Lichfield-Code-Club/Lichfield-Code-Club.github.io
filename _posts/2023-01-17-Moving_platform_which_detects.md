@@ -3,6 +3,8 @@ Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Moving platform which detects when it's above the player and stops to avoid pushing the player through the ground
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/684416710043420)

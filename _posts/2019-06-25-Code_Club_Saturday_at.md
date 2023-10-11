@@ -3,6 +3,8 @@ Date:   2019-06-25
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Code Club Saturday at Curborough Community Centre 
 13:30 Start.
 

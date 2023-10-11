@@ -3,6 +3,8 @@ Date:   2020-07-01
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Kitronik have got a new buggy that can be controlled by the BBC Micro bit. It has:
 
 2 Motors.

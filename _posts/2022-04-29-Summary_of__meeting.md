@@ -3,6 +3,8 @@ Date:   2022-04-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of  meeting on Tuesday 26th April
 
 A very busy meeting. 

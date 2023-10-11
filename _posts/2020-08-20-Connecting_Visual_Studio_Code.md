@@ -3,6 +3,8 @@ Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Connecting Visual Studio Code to GitHub
 ===========================
 This only has to be done once.

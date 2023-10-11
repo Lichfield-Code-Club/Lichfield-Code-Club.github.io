@@ -3,6 +3,8 @@ Date:   2020-01-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 For those who want to get familiar with Python using an IDE, Integrated Development Environment.
 I would recommend Thonny.
 Here's how to install it and get started with a 2D game:

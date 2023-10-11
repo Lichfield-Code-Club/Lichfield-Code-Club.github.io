@@ -3,6 +3,8 @@ Date:   2022-10-07
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 4th October Meeting
 
 I felt that it was a great meeting with club members helping each other and working together to solve problems, explain what they were doing and generally everyone doing something they were interested in.

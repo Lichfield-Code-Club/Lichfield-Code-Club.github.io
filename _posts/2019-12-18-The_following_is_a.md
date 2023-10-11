@@ -3,6 +3,8 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 The following is a simple program where the user has to reach the ! by pressing keys to move up, down, left and right.
 It uses the input function which requires the user to press enter. This proves the logic of the game.
 The challenge is to replace the input function with something that does not requires the user to press enter, eg keyboard 

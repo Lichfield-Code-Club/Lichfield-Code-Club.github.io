@@ -3,6 +3,8 @@ Date:   2022-11-02
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 1st November meeting 
 
 Paul and Nathaniel programmed the BBC Microbit 

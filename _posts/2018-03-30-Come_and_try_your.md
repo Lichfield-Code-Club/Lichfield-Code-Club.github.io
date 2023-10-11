@@ -3,6 +3,8 @@ Date:   2018-03-30
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Come and try your hand at computer programming.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1502420373218391/)

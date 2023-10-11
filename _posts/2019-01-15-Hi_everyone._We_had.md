@@ -3,6 +3,8 @@ Date:   2019-01-15
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Hi everyone. We had our first session at St Marys tonight. Thank you all for attending. Apologies for being a little late, the traffic from Stoke was appalling. We had a few issues with computers tonight and with the new Scratch 3 site. Other clubs have had issues with the new Scratch also, so hopefully they will be fixed soon.
 
 It was nice to see some of you coding with the BBC Micro Bits and some of you have been lucky enough to get them as gifts for Christmas.   

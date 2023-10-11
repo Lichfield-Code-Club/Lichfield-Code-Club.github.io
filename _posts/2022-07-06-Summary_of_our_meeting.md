@@ -3,6 +3,8 @@ Date:   2022-07-06
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of our meeting on Tuesday 5th of July
 
 Bill had some issues with his parallax settings in Unity which resulted in display update issues with gaps between frames which eventually caught up. We couldn't resolve the issues during the meeting but will try and find time to sort them out before the next meeting.

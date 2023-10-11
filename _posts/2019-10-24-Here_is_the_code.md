@@ -3,6 +3,8 @@ Date:   2019-10-24
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Here is the code from our Robot programming session.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2330617700398650/)

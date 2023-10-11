@@ -3,6 +3,8 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 One of our exhibits for the Cosford Air Show on Sunday
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4922848381175556/)

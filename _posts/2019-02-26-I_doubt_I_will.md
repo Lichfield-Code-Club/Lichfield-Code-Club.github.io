@@ -3,6 +3,8 @@ Date:   2019-02-26
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 I doubt I will make it tonight. Apologies in advance. 😕
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1932703273523430/)

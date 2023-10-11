@@ -3,6 +3,8 @@ Date:   2019-01-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Our first Saturday session will be 2nd Feb 1pm - 3pm
 
 Will have Raspberry Pi, BBC Micro Bit, Arduino, VEX Robot as usual.

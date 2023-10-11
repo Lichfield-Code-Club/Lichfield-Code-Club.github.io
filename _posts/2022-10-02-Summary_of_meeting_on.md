@@ -3,6 +3,8 @@ Date:   2022-10-02
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of meeting on 27th September
 
 We had a great session working on Unity, MicroBit on an Apple Mac and Pong written in Python.

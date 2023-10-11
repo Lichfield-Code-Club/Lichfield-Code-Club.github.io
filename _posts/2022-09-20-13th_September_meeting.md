@@ -3,6 +3,8 @@ Date:   2022-09-20
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 13th September meeting
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/596868705464888)

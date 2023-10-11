@@ -3,6 +3,8 @@ Date:   2019-01-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Code Club on tonight. Be mindful of the weather if travelling.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1891596017634156/)

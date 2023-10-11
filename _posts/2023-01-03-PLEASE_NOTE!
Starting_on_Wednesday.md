@@ -3,6 +3,8 @@ Date:   2023-01-03
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 PLEASE NOTE!
 Starting on Wednesday the 25th, January, Code Club will now be starting on Wednesday, 17:30, rather than Tuesday, 17:00. Just remember it as 1470 minutes later. 
 - Bill 

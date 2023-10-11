@@ -3,6 +3,8 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 To get started with pygame
 Open a command window, type cmd in the windows search
 type: pip install pygame

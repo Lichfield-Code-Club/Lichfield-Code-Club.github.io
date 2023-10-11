@@ -3,6 +3,8 @@ Date:   2019-10-22
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Excellent session tonight. We have four brilliant entries for the Shaun The Sheep competition. Well done!
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2326165947510492/)

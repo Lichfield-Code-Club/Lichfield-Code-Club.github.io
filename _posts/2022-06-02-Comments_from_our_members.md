@@ -3,6 +3,8 @@ Date:   2022-06-02
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Comments from our members and their parents
 
 Aleks, age 13

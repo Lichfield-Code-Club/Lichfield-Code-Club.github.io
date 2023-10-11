@@ -3,6 +3,8 @@ Date:   2020-03-11
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 More BBC Micro BIT programming last night. Controlling a line following buggy and a multicolour LED using a Scratch like interface. We also viewed our code as Java Script. Next week we shall be demonstrating a Raspberry PI for those that are thinking of buying one for themselves. 😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2619615164832234/)

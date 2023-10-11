@@ -3,6 +3,8 @@ Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Nice to see everyone coding tonight. Don’t forget we meet on Wednesday evening from now on. 😊
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/684484416703316)

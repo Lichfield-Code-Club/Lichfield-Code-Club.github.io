@@ -3,6 +3,8 @@ Date:   2018-03-22
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Monday night Code Club. Various Scratch projects in progress.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1494843050642790/)

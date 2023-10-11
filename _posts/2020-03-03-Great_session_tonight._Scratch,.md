@@ -3,6 +3,8 @@ Date:   2020-03-03
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Great session tonight. Scratch, HTML, BBC Micro BIT. We had Alexa created with Scratch, a line following robot, some demonstrations of changing HTML on the fly 😉 and as ever some great Scratch games programming. Brilliant effort guys and gals, thanks for attending.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2603898853070532/)

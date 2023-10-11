@@ -3,6 +3,8 @@ Date:   2019-10-13
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 All updated and ready to go 😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2306391642821256/)

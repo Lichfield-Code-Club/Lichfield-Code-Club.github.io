@@ -3,6 +3,8 @@ Date:   2022-11-30
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 29th November 2022 meeting
 This week, both Mark and Stoo were able to attend. 
 Natan took another colourblind test and playtested Bill's Unity project, on which his brother Igor had previously helped Bill with.

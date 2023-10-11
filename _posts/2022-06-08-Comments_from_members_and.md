@@ -3,6 +3,8 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Comments from members and parents
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4923066967820364/)

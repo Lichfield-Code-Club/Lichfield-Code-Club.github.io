@@ -3,6 +3,8 @@ Date:   2023-01-10
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 If anyone is interested in entering a coding, or maker, competition, please take a look at the link below. All of us at the club will help and support anyone who feels up for the challenge.
 
 

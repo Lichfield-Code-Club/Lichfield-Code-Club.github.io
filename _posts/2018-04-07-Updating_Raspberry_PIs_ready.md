@@ -3,6 +3,8 @@ Date:   2018-04-07
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Updating Raspberry PIs ready for next weeks Saturday session.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/1510159399111155/)

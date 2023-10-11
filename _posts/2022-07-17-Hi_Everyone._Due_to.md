@@ -3,6 +3,8 @@ Date:   2022-07-17
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Hi Everyone. Due to the heatwave forecast we will not be meeting on Tuesday 19th July. Take care, see you on the 26th July 😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/5030417197085340/)

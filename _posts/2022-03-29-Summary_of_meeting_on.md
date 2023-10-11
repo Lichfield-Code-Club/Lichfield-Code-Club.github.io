@@ -3,6 +3,8 @@ Date:   2022-03-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of meeting on Tuesday 29th March 2022
 
 Tonight saw another new member, Nathan. Nathan built his own Scratch project and his own Micro BIT project during the hour long session. Welcome aboard Nathan. Alex and Thomas were using Python to write a Rock, Paper, Scissors game and a turtle racing game. Bill continued work on his Blender project and Natan continued to investigate the world of Minecraft servers.

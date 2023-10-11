@@ -3,6 +3,8 @@ Date:   2022-03-16
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Video didn't upload with previous post ...
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4696452550481808/)

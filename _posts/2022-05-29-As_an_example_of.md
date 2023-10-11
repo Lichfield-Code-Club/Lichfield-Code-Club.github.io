@@ -3,6 +3,8 @@ Date:   2022-05-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 As an example of how we help club members outside of the meeting.  This week we have helped Bill with his Unity project, helped Paul get started with micro python on a Raspberry Pi Pico and installed Unity on the linux PC for Natan.
 
 We're planning what to put on our stand at the Cosford Air Show in two weeks time and will post a write up after the big day.

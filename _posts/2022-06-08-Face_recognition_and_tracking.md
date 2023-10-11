@@ -3,6 +3,8 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Face recognition and tracking project by Igor
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4923035424490185/)

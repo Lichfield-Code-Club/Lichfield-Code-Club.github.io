@@ -3,6 +3,8 @@ Date:   2022-06-02
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of meeting on Tuesday 31st of May
 
 It was half term and so a few members were not able to attend, we hope they had a good time and look forward to seeing them next week.

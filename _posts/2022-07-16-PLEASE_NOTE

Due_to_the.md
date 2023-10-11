@@ -3,6 +3,8 @@ Date:   2022-07-16
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 PLEASE NOTE
 
 Due to the high temperatures predicted for Tuesday 19th July, the Community Centre has been advised not to be open. 
