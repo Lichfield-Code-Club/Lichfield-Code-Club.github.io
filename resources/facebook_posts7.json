@@ -12,15 +12,17 @@
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT3mUe8Hbm2YkVymFmNZtVrc6DA_VvWFpqy8udZIBIr8GE7y2RvsmuTySn_nu1NXcsjf_sOxskDa0k4AfJzoqK_OB2wHXJi1nNB2AdxE_1MUVEOMxkQVFYBnyinFBzH5&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT2xIZBYcqGXB9qOQo3chfCOSfQKYLJ5dubKJ1ZT-poN270JmnAoC6Lp9-YWUWBJc5uR3D8NYgQDx_BwwitfBdf1hcEJCS4QAJ5mcq0dXjUCO7xMOz0CfD4hP9sZ_FWq&s=1"
           },
           "title": "Python Releases for Windows",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT3mUe8Hbm2YkVymFmNZtVrc6DA_VvWFpqy8udZIBIr8GE7y2RvsmuTySn_nu1NXcsjf_sOxskDa0k4AfJzoqK_OB2wHXJi1nNB2AdxE_1MUVEOMxkQVFYBnyinFBzH5&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT2xIZBYcqGXB9qOQo3chfCOSfQKYLJ5dubKJ1ZT-poN270JmnAoC6Lp9-YWUWBJc5uR3D8NYgQDx_BwwitfBdf1hcEJCS4QAJ5mcq0dXjUCO7xMOz0CfD4hP9sZ_FWq&s=1"
         }
       ]
     },
-    "id": "1481985248595237_2445603555566730"
+    "created_time": "2019-12-18T08:49:20+0000",
+    "id": "1481985248595237_2445603555566730",
+    "message": "Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.\n\nOne youngster used scratch to create a Christmas scene with a countryside back drop, a central doughnut and holly in each of the corners. We made the holly move in towards the doughnut and back out to the corners, and so hopefully gained some insight into screen coordinates and forever loops.\n\nAnother youngster connected to YouTube and played Christmas music, which the library staff said was okay on this occasion. This got everyone into festive spirit .\n\nTwo other youngsters worked independently on their own scratch based project and seem to be doing well making objects move around a maze.\n\nLast, but not least, another youngster was keen to push forward with using repl.it to create his own maze based python program but we found that it did not allow key presses to be captured and acted upon, a limitation of using a cloud based service. To overcome this we will need to download Python for Windows onto his laptop. This can be found at https://www.python.org/downloads/windows/ .\nFor those who want to make games please download the latest version, 3.8.0. During the installation there are options to download it 'for everyone' and that's the best option. You also should install a desktop icon and the pip program. Any questions please ask here or in person next time we meet.\n\nHope you all have a great Christmas, enjoy coding and feel free to ask questions. See you all in 2020."
   },
   {
     "attachments": {
@@ -35,21 +37,27 @@
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT0HNuITYlfHufVc5ltWDIHz5yAWiPrmXTgGqbzmxRjpov_O6nUVXl8Kz7RAHaVQAiUBQ34JFzXRgy5agliOoHJCqNOQAQxdu1ADTJaHYCb6E4Dw43wKcv2qqQlczydN&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT1DYDgpHmKUyLjRFXMtW992tyM4gbhWhDI40AK6j5qX0pbIrccnMW9ubd9zXWuGQQu5nhJJ1acXEbjmgHo6WKCtKuLMFpjMPfB5AYPbh5yHw4q08q8y9r6q-02SbTdf&s=1"
           },
           "title": "The world's leading online coding platform",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT0HNuITYlfHufVc5ltWDIHz5yAWiPrmXTgGqbzmxRjpov_O6nUVXl8Kz7RAHaVQAiUBQ34JFzXRgy5agliOoHJCqNOQAQxdu1ADTJaHYCb6E4Dw43wKcv2qqQlczydN&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT1DYDgpHmKUyLjRFXMtW992tyM4gbhWhDI40AK6j5qX0pbIrccnMW9ubd9zXWuGQQu5nhJJ1acXEbjmgHo6WKCtKuLMFpjMPfB5AYPbh5yHw4q08q8y9r6q-02SbTdf&s=1"
         }
       ]
     },
-    "id": "1481985248595237_2431888463604906"
+    "created_time": "2019-12-11T17:57:41+0000",
+    "id": "1481985248595237_2431888463604906",
+    "message": "On Tuesday, despite heavy rain several youngsters attended Code Club at Lichfield Library. Where we took a look at Python in particular using the free 'repl' services at https://repl.it/. The site lets you create programs in C#, C++, C, Python, Java, JavaScript and many more.\nWe looked at defining functions,  looping through lists and lists of list to create a maze program and started to add keyboard interaction.\nAnother lad looked at using pygame, but the startup learning curve was quite steep and so next time we'll provide a skeletal game and add functionality.\nThank you to all who came and look forward to seeing you next week."
   },
   {
-    "id": "1481985248595237_2410419299085156"
+    "created_time": "2019-12-01T19:50:15+0000",
+    "id": "1481985248595237_2410419299085156",
+    "message": "Code Club is on this Tuesday as far as I know. Looking forward to using the new computers"
   },
   {
-    "id": "1481985248595237_2397357463724673"
+    "created_time": "2019-11-25T20:26:14+0000",
+    "id": "1481985248595237_2397357463724673",
+    "message": "No Code Club tomorrow. Library computers are being upgraded \ud83d\ude0a\ud83d\ude0a"
   },
   {
     "attachments": {
@@ -58,10 +66,10 @@
           "media": {
             "image": {
               "height": 403,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/72487461_449018799357981_1419760418183708672_n.jpg?stp=dst-jpg_p403x403&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=L_AYOIPXt1oAX97hD0c&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB_GZkjLh2lHLHCAzZValjZOhmzYnf6lALpGzENVcn2YA&oe=652AE1C0",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/72487461_449018799357981_1419760418183708672_n.jpg?stp=dst-jpg_p403x403&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=L_AYOIPXt1oAX__odL-&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCuMQ6IhbdX-4_QSBgbgOdibbrqBm27AuYaTRq6ZOUIng&oe=652AE1C0",
               "width": 720
             },
-            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t76.42614-2/195965546_134733752183282_385395222560779900_n.mp4?_nc_cat=108&vs=9b0080adb8eb2493&_nc_vs=HBksFQIYKHZpZGVvc19vZXBfYmFja2ZpbGxfcHJvZC84MDQ1NDQ0NTk5NzcxNzQVAALIAQAVABgkR0V1RXJRU3d4T05sWGZnQkFBQUFBQUN0dmxsMmJ2NEdBQUFGFQICyAEASweIEnByb2dyZXNzaXZlX3JlY2lwZQExDXN1YnNhbXBsZV9mcHMAEHZtYWZfZW5hYmxlX25zdWIAIG1lYXN1cmVfb3JpZ2luYWxfcmVzb2x1dGlvbl9zc2ltAChjb21wdXRlX3NzaW1fb25seV9hdF9vcmlnaW5hbF9yZXNvbHV0aW9uAB11c2VfbGFuY3pvc19mb3JfdnFtX3Vwc2NhbGluZwARZGlzYWJsZV9wb3N0X3B2cXMAFQAlAByMF0AAAAAAAAAAEREAAAAmwLma1ZCDiQIVAigCQzMYC3Z0c19wcmV2aWV3HBdAOAhysCDEnBgYZGFzaF92NF9ocTJfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwqIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcwEwDG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQDMTQxEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQPNTgyNzk0OTUyNDkxNDQ0Em9lbV92aWRlb19hc3NldF9pZA81ODI3OTQ5NDI0OTE0NDUVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzU4Mjc5NDkzOTE1ODExMhxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkDzgwNDU0NDQ1OTk3NzE3NA52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMEOTYyMwJjZAoyMDE5LTExLTE5A3JjYgMxMDADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwkyNC4wNTU4NzgCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=0044QdVYHHAAX9P3EBe&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDPZ2D4cl8Z1lmAZJvBT1aKxqOXITEZNqQwGK7knDSNOw&oe=65282535&_nc_rid=831552242849228&_nc_store_type=1"
+            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t76.42614-2/195965546_134733752183282_385395222560779900_n.mp4?_nc_cat=108&vs=9b0080adb8eb2493&_nc_vs=HBksFQIYKHZpZGVvc19vZXBfYmFja2ZpbGxfcHJvZC84MDQ1NDQ0NTk5NzcxNzQVAALIAQAVABgkR0V1RXJRU3d4T05sWGZnQkFBQUFBQUN0dmxsMmJ2NEdBQUFGFQICyAEASweIEnByb2dyZXNzaXZlX3JlY2lwZQExDXN1YnNhbXBsZV9mcHMAEHZtYWZfZW5hYmxlX25zdWIAIG1lYXN1cmVfb3JpZ2luYWxfcmVzb2x1dGlvbl9zc2ltAChjb21wdXRlX3NzaW1fb25seV9hdF9vcmlnaW5hbF9yZXNvbHV0aW9uAB11c2VfbGFuY3pvc19mb3JfdnFtX3Vwc2NhbGluZwARZGlzYWJsZV9wb3N0X3B2cXMAFQAlAByMF0AAAAAAAAAAEREAAAAmwLma1ZCDiQIVAigCQzMYC3Z0c19wcmV2aWV3HBdAOAhysCDEnBgYZGFzaF92NF9ocTJfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwqIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcwEwDG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQDMTQxEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQPNTgyNzk0OTUyNDkxNDQ0Em9lbV92aWRlb19hc3NldF9pZA81ODI3OTQ5NDI0OTE0NDUVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzU4Mjc5NDkzOTE1ODExMhxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkDzgwNDU0NDQ1OTk3NzE3NA52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMEOTYyMwJjZAoyMDE5LTExLTE5A3JjYgMxMDADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwkyNC4wNTU4NzgCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=0044QdVYHHAAX9GHjfH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfADSpKxRFXmuDlFNfdUZT56720HIKGo0UeVH6sopM9-dw&oe=65282535&_nc_rid=831552242849228&_nc_store_type=1"
           },
           "target": {
             "id": "582794952491444",
@@ -73,7 +81,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2384090241718062"
+    "created_time": "2019-11-19T21:28:10+0000",
+    "id": "1481985248595237_2384090241718062",
+    "message": "Here we see a slightly modified VEX IQ Claw Robot. We had to lift part of the structure clear of our proximity sensor as were getting false readings."
   },
   {
     "attachments": {
@@ -82,10 +92,10 @@
           "media": {
             "image": {
               "height": 403,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/70724020_2487223844934090_259646106076446720_n.jpg?stp=dst-jpg_p403x403&_nc_cat=110&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=hVgW2KWq2PIAX-sJkVU&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDuffODfTJTVqBPPJf1F9CxOUNsdV-VTPdl0Cp7vITlyw&oe=652C7C42",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/70724020_2487223844934090_259646106076446720_n.jpg?stp=dst-jpg_p403x403&_nc_cat=110&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=hVgW2KWq2PIAX-0l3hx&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDb9JfN5uf30QDJJJ6cEbALQ3YdAPDuNa2_pKvwVZLCvA&oe=652C7C42",
               "width": 720
             },
-            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t76.42633-2/235221098_581008963280546_4694502314902431014_n.mp4?_nc_cat=110&vs=732f72decc6e49e9&_nc_vs=HBksFQIYKHZpZGVvc19vZXBfYmFja2ZpbGxfcHJvZC83MzAzNDE5OTQxMzAwMTIVAALIAQAVABgkR0lDOXJRUTBFc3pia0VBQ0FBQUFBQUFWaHg1dmJ2NEdBQUFGFQICyAEASweIEnByb2dyZXNzaXZlX3JlY2lwZQExDXN1YnNhbXBsZV9mcHMAEHZtYWZfZW5hYmxlX25zdWIAIG1lYXN1cmVfb3JpZ2luYWxfcmVzb2x1dGlvbl9zc2ltAChjb21wdXRlX3NzaW1fb25seV9hdF9vcmlnaW5hbF9yZXNvbHV0aW9uAB11c2VfbGFuY3pvc19mb3JfdnFtX3Vwc2NhbGluZwARZGlzYWJsZV9wb3N0X3B2cXMAFQAlAByMF0AAAAAAAAAAEREAAAAmnNzjnb2mpwMVAigCQzMYC3Z0c19wcmV2aWV3HBdAPHeNT987ZBgYZGFzaF92NF9ocTJfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwqIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcwEwDG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQDMTQxEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQPOTMwODQ3ODk3MzAxMTc2Em9lbV92aWRlb19hc3NldF9pZA85MzA4NDc4OTM5Njc4NDMVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzkzMDg0Nzg5MDYzNDUxMBxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkDzczMDM0MTk5NDEzMDAxMg52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTY2NQJjZAoyMDE5LTExLTE5A3JjYgMxMDADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwkyOC40OTA4ODkCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=mej9YZIS27kAX_mRFNd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCenZoLmvXfV7lF0tOlHIHAhO-t8ZIVMs_8YtEZwiE8qg&oe=65289F0A&_nc_rid=104725039362163&_nc_store_type=1"
+            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t76.42633-2/235221098_581008963280546_4694502314902431014_n.mp4?_nc_cat=110&vs=732f72decc6e49e9&_nc_vs=HBksFQIYKHZpZGVvc19vZXBfYmFja2ZpbGxfcHJvZC83MzAzNDE5OTQxMzAwMTIVAALIAQAVABgkR0lDOXJRUTBFc3pia0VBQ0FBQUFBQUFWaHg1dmJ2NEdBQUFGFQICyAEASweIEnByb2dyZXNzaXZlX3JlY2lwZQExDXN1YnNhbXBsZV9mcHMAEHZtYWZfZW5hYmxlX25zdWIAIG1lYXN1cmVfb3JpZ2luYWxfcmVzb2x1dGlvbl9zc2ltAChjb21wdXRlX3NzaW1fb25seV9hdF9vcmlnaW5hbF9yZXNvbHV0aW9uAB11c2VfbGFuY3pvc19mb3JfdnFtX3Vwc2NhbGluZwARZGlzYWJsZV9wb3N0X3B2cXMAFQAlAByMF0AAAAAAAAAAEREAAAAmnNzjnb2mpwMVAigCQzMYC3Z0c19wcmV2aWV3HBdAPHeNT987ZBgYZGFzaF92NF9ocTJfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwqIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcwEwDG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQDMTQxEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQPOTMwODQ3ODk3MzAxMTc2Em9lbV92aWRlb19hc3NldF9pZA85MzA4NDc4OTM5Njc4NDMVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzkzMDg0Nzg5MDYzNDUxMBxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkDzczMDM0MTk5NDEzMDAxMg52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTY2NQJjZAoyMDE5LTExLTE5A3JjYgMxMDADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwkyOC40OTA4ODkCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=mej9YZIS27kAX-IjNoS&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC4P8tLIv-qb35yIINNh7SsSAeJ6UxQChlkuzhp3Ufv_A&oe=65289F0A&_nc_rid=104725039362163&_nc_store_type=1"
           },
           "target": {
             "id": "930847897301176",
@@ -97,7 +107,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2384086805051739"
+    "created_time": "2019-11-19T21:26:09+0000",
+    "id": "1481985248595237_2384086805051739",
+    "message": "Tonight we programmed the VEX IQ Robot using Code Blocks. Natan and Jacob tested programs they had written at home during the week. Both programs worked a treat! Well done to you both."
   },
   {
     "attachments": {
@@ -107,7 +119,7 @@
           "media": {
             "image": {
               "height": 1156,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX_NERfE&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfClZJwbNINHxoKDip7w49IumJwxG0olkDMJbjoZi6m31A&oe=654E245E",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX-S0RN1&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAtkS6SZIjtjdIhnNt-PMwdI9s27Yn_KS1TfO7HWJ482A&oe=654E245E",
               "width": 720
             }
           },
@@ -120,7 +132,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2330617700398650"
+    "created_time": "2019-10-24T19:07:36+0000",
+    "id": "1481985248595237_2330617700398650",
+    "message": "Here is the code from our Robot programming session."
   },
   {
     "attachments": {
@@ -129,10 +143,10 @@
           "media": {
             "image": {
               "height": 405,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/71319672_2427800774152767_1491296272479420416_n.jpg?stp=dst-jpg_s720x720&_nc_cat=105&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=Dtv4XlPqlEwAX8pG7kM&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB95aOMX132DLFEN6tZVxJkt9E24x8zDd2CAWZVc2TzGw&oe=652B7BFF",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/71319672_2427800774152767_1491296272479420416_n.jpg?stp=dst-jpg_s720x720&_nc_cat=105&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=Dtv4XlPqlEwAX_gkWn7&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB09oU8CnmWiUC2lL8qgyU_05PA6vkUYU2wQMy87XZkEg&oe=652B7BFF",
               "width": 720
             },
-            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.25447-2/366965449_219344971108904_7945600183150895158_n.mp4?_nc_cat=107&vs=5dbc5bd372b1ff39&_nc_vs=HBksFQAYJEdNbHkzeFVvRWhZN2ZzY0FBRGJnLU50RWNVUnVibWRqQUFBRhUAAsgBABUAGCRHQXp5YlFUTXpmVHRjS29DQUFBQUFBQlg3aFFuYnY0R0FBQUYVAgLIAQBLB4gScHJvZ3Jlc3NpdmVfcmVjaXBlATENc3Vic2FtcGxlX2ZwcwAQdm1hZl9lbmFibGVfbnN1YgAgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AHXVzZV9sYW5jem9zX2Zvcl92cW1fdXBzY2FsaW5nABFkaXNhYmxlX3Bvc3RfcHZxcwAVACUAHIwXQAAAAAAAAAAREQAAACaOt6Oo2fbeARUCKAJDMxgLdnRzX3ByZXZpZXccF0A89P3ztkWiGClkYXNoX2k0bGl0ZWJhc2ljXzVzZWNnb3BfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2Q4ElZJREVPX1ZJRVdfUkVRVUVTVBsKiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMBMAxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50AzE0MRFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzQ5MDIyMjM4NDkwNzMzNBJvZW1fdmlkZW9fYXNzZXRfaWQPNDkwMjIyMzc4MjQwNjY4FW9lbV92aWRlb19yZXNvdXJjZV9pZA80OTAyMjIzNzQ5MDczMzUcb2VtX3NvdXJjZV92aWRlb19lbmNvZGluZ19pZA8yMzk5OTQyMzUxMTUyMjkOdnRzX3JlcXVlc3RfaWQAJQIcACXEARsHiAFzBDg4NzkCY2QKMjAxOS0xMC0yNANyY2IDMTAwA2FwcAVWaWRlbwJjdBlDT05UQUlORURfUE9TVF9BVFRBQ0hNRU5UE29yaWdpbmFsX2R1cmF0aW9uX3MJMjguOTU2NjY3AnRzFXByb2dyZXNzaXZlX2VuY29kaW5ncwA%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=6_fcCPbMt4YAX_kaCL3&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAHM6dfSMD1JwEn4sdVbzW7pde8h2fJ-6ZebfA0-dGguw&oe=652BBC46&_nc_rid=839136223974753&_nc_store_type=0"
+            "source": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.25447-2/366965449_219344971108904_7945600183150895158_n.mp4?_nc_cat=107&vs=5dbc5bd372b1ff39&_nc_vs=HBksFQAYJEdNbHkzeFVvRWhZN2ZzY0FBRGJnLU50RWNVUnVibWRqQUFBRhUAAsgBABUAGCRHQXp5YlFUTXpmVHRjS29DQUFBQUFBQlg3aFFuYnY0R0FBQUYVAgLIAQBLB4gScHJvZ3Jlc3NpdmVfcmVjaXBlATENc3Vic2FtcGxlX2ZwcwAQdm1hZl9lbmFibGVfbnN1YgAgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AHXVzZV9sYW5jem9zX2Zvcl92cW1fdXBzY2FsaW5nABFkaXNhYmxlX3Bvc3RfcHZxcwAVACUAHIwXQAAAAAAAAAAREQAAACaOt6Oo2fbeARUCKAJDMxgLdnRzX3ByZXZpZXccF0A89P3ztkWiGClkYXNoX2k0bGl0ZWJhc2ljXzVzZWNnb3BfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2Q4ElZJREVPX1ZJRVdfUkVRVUVTVBsKiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMBMAxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50AzE0MRFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzQ5MDIyMjM4NDkwNzMzNBJvZW1fdmlkZW9fYXNzZXRfaWQPNDkwMjIyMzc4MjQwNjY4FW9lbV92aWRlb19yZXNvdXJjZV9pZA80OTAyMjIzNzQ5MDczMzUcb2VtX3NvdXJjZV92aWRlb19lbmNvZGluZ19pZA8yMzk5OTQyMzUxMTUyMjkOdnRzX3JlcXVlc3RfaWQAJQIcACXEARsHiAFzBDg4NzkCY2QKMjAxOS0xMC0yNANyY2IDMTAwA2FwcAVWaWRlbwJjdBlDT05UQUlORURfUE9TVF9BVFRBQ0hNRU5UE29yaWdpbmFsX2R1cmF0aW9uX3MJMjguOTU2NjY3AnRzFXByb2dyZXNzaXZlX2VuY29kaW5ncwA%3D&ccb=1-7&_nc_sid=aafc49&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=6_fcCPbMt4YAX9veToh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAVVT6f2Sw9Doknx0U7qMrdRDqml6yeBYur_M7Jhoqfgg&oe=652BBC46&_nc_rid=839136223974753&_nc_store_type=0"
           },
           "target": {
             "id": "490222384907334",
@@ -144,7 +158,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2330612860399134"
+    "created_time": "2019-10-24T19:05:24+0000",
+    "id": "1481985248595237_2330612860399134",
+    "message": "Well done to Natan, Alex and Thomas. Here is the result of your code from Tuesday night. Sorry we ran out of time to run the program. There was actually nothing wrong with your code, the problems we were seeing was because the motor spindle had worked lose on the lifting arm. Hardware issues!!!"
   },
   {
     "attachments": {
@@ -154,7 +170,7 @@
           "media": {
             "image": {
               "height": 549,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72800700_2327509204042833_1368626727990853632_n.png?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=VoSGNsJdzqcAX_UzyBs&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDhA8CHDQsz5jWIEoooWRFkrpIXqzvWBAPK1MEIR8xPcA&oe=654E02FC",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72800700_2327509204042833_1368626727990853632_n.png?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=VoSGNsJdzqcAX8SIQq7&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCKUDc5Sshyaiigzy2ddbao1mBC_6CuoXoNTAboeEUGtA&oe=654E02FC",
               "width": 731
             }
           },
@@ -167,10 +183,14 @@
         }
       ]
     },
-    "id": "1481985248595237_2327510107376076"
+    "created_time": "2019-10-23T12:25:46+0000",
+    "id": "1481985248595237_2327510107376076",
+    "message": "I have started submitting our competition entries. Good Luck everyone."
   },
   {
-    "id": "1481985248595237_2326165947510492"
+    "created_time": "2019-10-22T20:03:39+0000",
+    "id": "1481985248595237_2326165947510492",
+    "message": "Excellent session tonight. We have four brilliant entries for the Shaun The Sheep competition. Well done!"
   },
   {
     "attachments": {
@@ -179,7 +199,7 @@
           "media": {
             "image": {
               "height": 405,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/72989625_2507678559463176_5784878252547899392_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=sVXWTo3u0GEAX_D9fXu&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfA5vBLXzEoT3f5YsoWy63Hv2h0hNn-ThnSEw2kf01iHkw&oe=652B6843",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/72989625_2507678559463176_5784878252547899392_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=sVXWTo3u0GEAX9mmvvX&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCLyS8cb_DGE5Y24RpMqGAx8M2SIsJOgpiShSwu_TuNGw&oe=652B6843",
               "width": 720
             }
           },
@@ -193,7 +213,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2324047877722299"
+    "created_time": "2019-10-21T20:29:20+0000",
+    "id": "1481985248595237_2324047877722299",
+    "message": "Some of our Code Club activities."
   },
   {
     "attachments": {
@@ -202,7 +224,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72567530_2310720285721725_293348834707243008_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=k2vZ358C2McAX8fekDz&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBIje2L8g18nTpyB9maINl2-Z4GXWYuan_CxUgJd3WR6w&oe=654E2C96",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72567530_2310720285721725_293348834707243008_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=k2vZ358C2McAX-pyvHH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDGTgWu9tuWRXmAkrpjfqVPYnRg8g8EJ3YcqlaRA2hwyw&oe=654E2C96",
               "width": 960
             }
           },
@@ -212,7 +234,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72567530_2310720285721725_293348834707243008_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=k2vZ358C2McAX8fekDz&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBIje2L8g18nTpyB9maINl2-Z4GXWYuan_CxUgJd3WR6w&oe=654E2C96",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72567530_2310720285721725_293348834707243008_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=k2vZ358C2McAX-pyvHH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDGTgWu9tuWRXmAkrpjfqVPYnRg8g8EJ3YcqlaRA2hwyw&oe=654E2C96",
                     "width": 960
                   }
                 },
@@ -227,7 +249,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72596886_2310720305721723_4454093557984133120_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=HcktZ3GESKgAX-h-wbk&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCn1RvT6Pl0N2Iv3HNVcLeaOEADb3GD8J5upRPCgyviCA&oe=654E2892",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/72596886_2310720305721723_4454093557984133120_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=HcktZ3GESKgAX-0ZzQ_&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDSVjA13ChED2js60--JeJgR8Y2o3wiZ_9B4_efznkF6g&oe=654E2892",
                     "width": 960
                   }
                 },
@@ -250,7 +272,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2310727085721045"
+    "created_time": "2019-10-15T19:04:13+0000",
+    "id": "1481985248595237_2310727085721045",
+    "message": "Great turnout again tonight. Our young programmers were continuing work on the Shaun the Sheep project and also programming the VEX IQ Robot with the new Scratch 3 Interface. We also saw some BBC Micro BIT programming. \ud83d\ude0a\ud83d\udcc0\u2328\ufe0f\ud83d\udcbb\ud83d\udcbe"
   },
   {
     "attachments": {
@@ -260,7 +284,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/71641015_2306391166154637_3156869686331703296_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Gpq9SRKJwBMAX9Po_Sx&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAf0WyXDF9pFWEGvb3z9Ik8ArmlzEUgSKGv_Sb0D8wMbw&oe=654E04BA",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/71641015_2306391166154637_3156869686331703296_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=Gpq9SRKJwBMAX8cR0od&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBh3G61Ta5KTdI4Pg1hbwMAh1SFhQMrpGcdGctVfF0dAw&oe=654E04BA",
               "width": 960
             }
           },
@@ -273,7 +297,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2306391642821256"
+    "created_time": "2019-10-13T14:21:16+0000",
+    "id": "1481985248595237_2306391642821256",
+    "message": "All updated and ready to go \ud83d\ude0a"
   },
   {
     "attachments": {
@@ -282,7 +308,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73205514_2306362122824208_8490754197883453440_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ZwhwjIYUFv0AX8PrCtK&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAHSxO2bjbgRAupnzo8K0MFo-9huepz-IPDKY3bcaRVLQ&oe=654E1DFC",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73205514_2306362122824208_8490754197883453440_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=ZwhwjIYUFv0AX95tEV7&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBfAtDZ6mq2jbRtg0p0MKJUVB57Nbw9cRFhA7U2SJAsVw&oe=654E1DFC",
               "width": 960
             }
           },
@@ -292,7 +318,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73205514_2306362122824208_8490754197883453440_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ZwhwjIYUFv0AX8PrCtK&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAHSxO2bjbgRAupnzo8K0MFo-9huepz-IPDKY3bcaRVLQ&oe=654E1DFC",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73205514_2306362122824208_8490754197883453440_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=ZwhwjIYUFv0AX95tEV7&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBfAtDZ6mq2jbRtg0p0MKJUVB57Nbw9cRFhA7U2SJAsVw&oe=654E1DFC",
                     "width": 960
                   }
                 },
@@ -307,7 +333,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/71888368_2306362136157540_7734074749529096192_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=D6a9kPMrtPsAX-icm5h&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDoEXTJwl0YbLMp0Npj_HqngLvmJJY9kQN91XXN1nRHTA&oe=654E2C4D",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/71888368_2306362136157540_7734074749529096192_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=D6a9kPMrtPsAX9G4z6m&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBI0SnC874MQQHzZ_LBKXA_oO6Fv-teZTyih1Rmq51BCg&oe=654E2C4D",
                     "width": 960
                   }
                 },
@@ -330,7 +356,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2306364072824013"
+    "created_time": "2019-10-13T14:03:54+0000",
+    "id": "1481985248595237_2306364072824013",
+    "message": "Will bring the VEX Robot to our Tuesday session this week. We can now program the robot using a Scratch 3 Interface."
   },
   {
     "attachments": {
@@ -340,7 +368,7 @@
           "media": {
             "image": {
               "height": 960,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/70942685_2273279572799130_3332403006854397952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=vfmriEkNf4YAX9gVQaD&_nc_oc=AQmkuPM7o8nDEr9b0vRXpZlY6AaMYbYQNi0CmYlXgAvft_8WeSFEdVeDMmBYmAaszUc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB1iwp8Wl6jvD7LoOhA7Y7lnbXWkWmYM0eppj112tIIDQ&oe=654E06AC",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/70942685_2273279572799130_3332403006854397952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=vfmriEkNf4YAX8lVKUP&_nc_oc=AQnnibz7jwxszZhdzkcPRA5oGBUcQStAPh8GnomJmsRZjNKMmBzGqA53JwVPPnLh5io&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDgr9-aiI1ZVPjWUbIOoto8g5PWi7MTfd3iHFWAFc1Qfw&oe=654E06AC",
               "width": 720
             }
           },
@@ -353,7 +381,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2273284899465264"
+    "created_time": "2019-09-25T19:45:43+0000",
+    "id": "1481985248595237_2273284899465264",
+    "message": "Scratch 3 is available as an offline download. If you have a laptop and your parents don\u2019t mind you bringing it in, you might find it better than the desktops we have. Ask me for a free USB stick to transfer project materials."
   },
   {
     "attachments": {
@@ -362,7 +392,7 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=0f0194&_nc_ohc=j-zpR978ddAAX_iLNZn&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCVZIJHP62-fSLFMFp55TWF34C3SaNRXIe8jUNhJBunpQ&oe=652B2749",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=0f0194&_nc_ohc=j-zpR978ddAAX-YY65o&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDKBscjfnj_edQrj9WekP5TzD3B5fjSaZHxxFJ66E8bpA&oe=652B2749",
               "width": 200
             }
           },
@@ -378,11 +408,11 @@
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT3GGw0qcoT4g58xLJBzi1qIDitCwzBXNXtl_BeB5TaPU6wR0twY0R7kug5bjZq4cs9wRiBfo3lmApBBB4yC98npkHLvb8Ir1UdpuubZ1aOoUVfleRTHVDVFBtMtGygs&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT2SqsKFGRaPTyQCXerdjwmRPJ9_5h5tldc5HMQG_g2h5g_f7MTxva15er9asaICWZwkC2h72UXA1hBskpIxaN_UvBZbfrAdcsysxrCWyp0XDXdbLQnk-CQG-7nnPhuf&s=1"
                 },
                 "title": "Shaun the Sheep: Mission to Space - Introduction | Raspberry Pi Projects",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT3GGw0qcoT4g58xLJBzi1qIDitCwzBXNXtl_BeB5TaPU6wR0twY0R7kug5bjZq4cs9wRiBfo3lmApBBB4yC98npkHLvb8Ir1UdpuubZ1aOoUVfleRTHVDVFBtMtGygs&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT2SqsKFGRaPTyQCXerdjwmRPJ9_5h5tldc5HMQG_g2h5g_f7MTxva15er9asaICWZwkC2h72UXA1hBskpIxaN_UvBZbfrAdcsysxrCWyp0XDXdbLQnk-CQG-7nnPhuf&s=1"
               },
               {
                 "description": "You are going to learn how to code your own animation about the global flock-star, Shaun the Sheep, and his new alien-friend Lu-La.",
@@ -394,24 +424,26 @@
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT0ZN3D2Ywx0l9xtI4FinnbrWNYauyOnkF4uyN1XeacJ45fmHBWgiUBU0GNMyrmrq__99ZEP9uKIYAVgGFrepapGUdc_RgH4LaAODsKRDMG0e2XHCmo3ewI_uPZd1mwN&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT0nK9fd-01MKdweGdDhA7z-9D_w0lImr43GR9NrcnuiZNfMNzp7sPa9nNHUsa4SdtEfQo45XNVVuXubjEbokHrL4SgzNZI1VKQl9BTvDax_5qIN2w92ObOjzj5Zm2uo&s=1"
                 },
                 "title": "Shaun the Sheep: Mission to Space - Introduction | Raspberry Pi Projects",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT0ZN3D2Ywx0l9xtI4FinnbrWNYauyOnkF4uyN1XeacJ45fmHBWgiUBU0GNMyrmrq__99ZEP9uKIYAVgGFrepapGUdc_RgH4LaAODsKRDMG0e2XHCmo3ewI_uPZd1mwN&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT0nK9fd-01MKdweGdDhA7z-9D_w0lImr43GR9NrcnuiZNfMNzp7sPa9nNHUsa4SdtEfQo45XNVVuXubjEbokHrL4SgzNZI1VKQl9BTvDax_5qIN2w92ObOjzj5Zm2uo&s=1"
               }
             ]
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT1vhXVFpTfoBdENw5SRue_DpUW7gDdOUEkm_Lpd1wvxaABV77fEM54iL9NCmSL7ODZKaV4zWokq--HwJQNB7lyw6tUIGmsGvwwicaQkESHeJ3lflOw6XlzJ1E1kP5u4&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT2527Gk8fKjhNOXE_5OM4Z-SpmM0or9JKMAyqurkM6iR6kyaqUkbvnXqhYteK18yqaQrM-BxU1RGtLXS2mAwr7l3gFR5sfVS4ftvxLi6MARbagWjZM8cr3j1wAKLZqd&s=1"
           },
           "title": "Shaun the Sheep: Mission to Space - Introduction | Raspberry Pi Projects",
           "type": "multi_share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT1vhXVFpTfoBdENw5SRue_DpUW7gDdOUEkm_Lpd1wvxaABV77fEM54iL9NCmSL7ODZKaV4zWokq--HwJQNB7lyw6tUIGmsGvwwicaQkESHeJ3lflOw6XlzJ1E1kP5u4&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen%2Fprojects%2Fshauns-space-mission&h=AT2527Gk8fKjhNOXE_5OM4Z-SpmM0or9JKMAyqurkM6iR6kyaqUkbvnXqhYteK18yqaQrM-BxU1RGtLXS2mAwr7l3gFR5sfVS4ftvxLi6MARbagWjZM8cr3j1wAKLZqd&s=1"
         }
       ]
     },
-    "id": "1481985248595237_2273261846134236"
+    "created_time": "2019-09-25T19:29:22+0000",
+    "id": "1481985248595237_2273261846134236",
+    "message": "https://projects.raspberrypi.org/en/projects/shauns-space-mission"
   },
   {
     "attachments": {
@@ -427,21 +459,27 @@
             "source": "https://www.youtube.com/embed/_37qYLg_0D0?autoplay=1"
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_37qYLg_0D0%26feature%3Dplayer_embedded&h=AT1Ctr-0-XMN2W_LIeq_9zbldU0YEX4hAdjkODkTL3YOsr68eB7-byF4J8Vwezjny0edoL1ruYFrunhy93eo7hTJB2cf3Gb5MKdAQMD4IQHCYTYvKqKGlM8l2OsYu4yk&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_37qYLg_0D0%26feature%3Dplayer_embedded&h=AT0Vkenv6YBbfngg-OibepMpvg65PnpiyV46hVfHTxXji1oLtMvgQDSXHewOBW9m-rOQzRPfErut0vRwNpCQ-fZid08N2qcHt8w4SRqFPNavpqeDKyvqNWeQ88lLJtrs&s=1"
           },
           "title": "Raspberry Pi has partnered with Shaun the Sheep!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_37qYLg_0D0%26feature%3Dplayer_embedded&h=AT1Ctr-0-XMN2W_LIeq_9zbldU0YEX4hAdjkODkTL3YOsr68eB7-byF4J8Vwezjny0edoL1ruYFrunhy93eo7hTJB2cf3Gb5MKdAQMD4IQHCYTYvKqKGlM8l2OsYu4yk&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_37qYLg_0D0%26feature%3Dplayer_embedded&h=AT0Vkenv6YBbfngg-OibepMpvg65PnpiyV46hVfHTxXji1oLtMvgQDSXHewOBW9m-rOQzRPfErut0vRwNpCQ-fZid08N2qcHt8w4SRqFPNavpqeDKyvqNWeQ88lLJtrs&s=1"
         }
       ]
     },
-    "id": "1481985248595237_2273255982801489"
+    "created_time": "2019-09-25T19:25:11+0000",
+    "id": "1481985248595237_2273255982801489",
+    "message": "Hi everyone. I handed out some leaflets detailing the latest Code club competition last night. I will be posting the link to the Scratch project shortly. As a Club, we can submit individual or group entries for this competition. The closing date is 25th October, so let's get coding!!"
   },
   {
-    "id": "1481985248595237_2258552740938480"
+    "created_time": "2019-09-17T18:40:49+0000",
+    "id": "1481985248595237_2258552740938480",
+    "message": "First day back after the summer break. We have some new faces. Welcome aboard. \ud83d\ude0a"
   },
   {
-    "id": "1481985248595237_2244442152349539"
+    "created_time": "2019-09-09T15:44:53+0000",
+    "id": "1481985248595237_2244442152349539",
+    "message": "Hope you have all had nice holidays. Tuesday Code Club will start on September 17th at Lichfield Library 5pm-6pm. All welcome. Our club is aimed at the 7-12 age group and we use Scratch, Python and the BBC Micro Bit to explore computer programming."
   },
   {
     "attachments": {
@@ -450,7 +488,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nnWNQVxKS9cAX8fy2WW&_nc_oc=AQle01JFPMO4doJP4NMnwxTNkar2UEaSpC7dojm5vSLM_G4EBAQik1-RL0rKC-UvvYQ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCt3Swsb-sx3nRW7Vb2kAgRBSt6wmxZL4wWcGNQ9Msqsw&oe=654E04AE",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=nnWNQVxKS9cAX84T6Oh&_nc_oc=AQn2x6FrBEYj5XE4kbh2dqlsn24BcFJfSDVPBjkOAHVTp7Z4ni31N23-vem0dTR0y-M&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC_0Sx229pRuIsU49j1LBvD4P4nD5efUQzUnZcVwc3SUg&oe=654E04AE",
               "width": 960
             }
           },
@@ -460,7 +498,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nnWNQVxKS9cAX8fy2WW&_nc_oc=AQle01JFPMO4doJP4NMnwxTNkar2UEaSpC7dojm5vSLM_G4EBAQik1-RL0rKC-UvvYQ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCt3Swsb-sx3nRW7Vb2kAgRBSt6wmxZL4wWcGNQ9Msqsw&oe=654E04AE",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=nnWNQVxKS9cAX84T6Oh&_nc_oc=AQn2x6FrBEYj5XE4kbh2dqlsn24BcFJfSDVPBjkOAHVTp7Z4ni31N23-vem0dTR0y-M&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC_0Sx229pRuIsU49j1LBvD4P4nD5efUQzUnZcVwc3SUg&oe=654E04AE",
                     "width": 960
                   }
                 },
@@ -475,7 +513,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66375376_2141741535952935_429709596769124352_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=FWfscJ6q2aMAX_KLSwJ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBHnd-5iA8nQyOaQntP407zyf492n9y0dgQIExFMglv9Q&oe=654E165D",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66375376_2141741535952935_429709596769124352_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=FWfscJ6q2aMAX9Y7bCC&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDjQIjlU0h49-waCTol84C8okOmwuiUFocpN54Rm8NJvQ&oe=654E165D",
                     "width": 745
                   }
                 },
@@ -490,7 +528,7 @@
                 "media": {
                   "image": {
                     "height": 624,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/67200740_2141741659286256_1744544835789914112_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=aioV_lyET5cAX_Jbip0&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDgWDIjkdn1owJSfefxAKUq9lJTdCp_BQod2UEUbJTtrA&oe=654E1C9D",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/67200740_2141741659286256_1744544835789914112_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=aioV_lyET5cAX99D9HF&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC2waSqjtUGkMVr3_ts1PR5Ari-z2EtNIvz6yh3zgvllQ&oe=654E1C9D",
                     "width": 960
                   }
                 },
@@ -505,7 +543,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66325499_2141741775952911_1210242382952398848_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=y-1jBlNQyq8AX_BHWHO&_nc_oc=AQnoB23AHnLFQhEF_BwkfI2XFuxWq3zwIKUZ3pK2-GJ3IjaoYj4hf1GsXvN8hq6sEXM&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAJhXpd7yR-4QU1liQYq1SP-e1iER97XI6aoBK6js1rfA&oe=654E1ED1",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66325499_2141741775952911_1210242382952398848_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=y-1jBlNQyq8AX9iDzeN&_nc_oc=AQnXGZeV7kMk9gBaU8svOyoZcZ-nqYmka5qiAX1vSmg6Z54CnXE4jontF0nUZBCRMDs&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfArjCNcHPl3rnPIavK9mPF6FoVgrng9-iqFbAH9XW8EOA&oe=654E1ED1",
                     "width": 960
                   }
                 },
@@ -520,7 +558,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66528612_2141741929286229_4329121052031451136_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=STBImBezRSAAX-8VOKw&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAjE0wt9aSvU5Nwpxo1ElneQLke5fpVB4GaH9RZYjE7Mg&oe=654E03E7",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66528612_2141741929286229_4329121052031451136_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=STBImBezRSAAX9u3Vfq&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB8y8OtgYB_5QhEdipkfFuAPWRXhOZUIWUD7SFUL4aXxQ&oe=654E03E7",
                     "width": 843
                   }
                 },
@@ -543,7 +581,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2141745239285898"
+    "created_time": "2019-07-11T20:02:21+0000",
+    "id": "1481985248595237_2141745239285898",
+    "message": "This Tuesday we used the Micro BIT to measure the speed of a toy car. We also programmed the Kitronic buggy to respond to the G sensor in the Micro BIT so that it reversed up when it hit the wall. Well done Natan! \ud83d\ude0a"
   },
   {
     "attachments": {
@@ -552,7 +592,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=kq9sf0xK2zkAX9jKm7O&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC4Qro3pfASNskVLXn1wVnX4eQ5cHwybl1ft-UjsX-Kgw&oe=654E0D22",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=kq9sf0xK2zkAX-Pn4XL&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC4GoYIhiQ8IhFQdq8swvuvABKX3K0OZ7kpMmrHuLA-IQ&oe=654E0D22",
               "width": 960
             }
           },
@@ -562,7 +602,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=kq9sf0xK2zkAX9jKm7O&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC4Qro3pfASNskVLXn1wVnX4eQ5cHwybl1ft-UjsX-Kgw&oe=654E0D22",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=kq9sf0xK2zkAX-Pn4XL&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC4GoYIhiQ8IhFQdq8swvuvABKX3K0OZ7kpMmrHuLA-IQ&oe=654E0D22",
                     "width": 960
                   }
                 },
@@ -577,7 +617,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66126371_2127370924056663_4269588480276824064_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-C9iK496ZmgAX9UdqS7&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCb2d9Xl-i4nJq8qTBrpqa5YyazETMwYNaR4EGbN-Y0fQ&oe=654E0E56",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66126371_2127370924056663_4269588480276824064_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=-C9iK496ZmgAX9JKjEG&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDttSsoHvFbPQL8k3U4fb8E3Z5T9Gx_eSDqZ9c5FymYTg&oe=654E0E56",
                     "width": 960
                   }
                 },
@@ -600,9 +640,12 @@
         }
       ]
     },
-    "id": "1481985248595237_2127372384056517"
+    "created_time": "2019-07-02T18:28:28+0000",
+    "id": "1481985248595237_2127372384056517",
+    "message": "Tonight we have been sending messages with the MicroBITs built in radio."
   },
   {
+    "created_time": "2019-07-01T22:29:01+0000",
     "id": "1481985248595237_2126002270860195"
   },
   {
@@ -615,6 +658,7 @@
         }
       ]
     },
+    "created_time": "2019-07-01T22:28:19+0000",
     "id": "1481985248595237_2126001464193609"
   },
   {
@@ -624,7 +668,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65956395_2125979837529105_2700608215191650304_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=7J_-MaYhnH4AX-QdHwM&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDMnpnnnc3H5crqItgGOgNvA8DkdUoolv8A1PqsWZX03g&oe=654E111D",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65956395_2125979837529105_2700608215191650304_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=7J_-MaYhnH4AX8sQxJ4&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD92QWxVhjRwFpdLY9ax3DUaGSyQAlkhgDBD6J-BtHk0g&oe=654E111D",
               "width": 960
             }
           },
@@ -635,7 +679,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65956395_2125979837529105_2700608215191650304_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=7J_-MaYhnH4AX-QdHwM&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDMnpnnnc3H5crqItgGOgNvA8DkdUoolv8A1PqsWZX03g&oe=654E111D",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65956395_2125979837529105_2700608215191650304_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=7J_-MaYhnH4AX8sQxJ4&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD92QWxVhjRwFpdLY9ax3DUaGSyQAlkhgDBD6J-BtHk0g&oe=654E111D",
                     "width": 960
                   }
                 },
@@ -651,7 +695,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66192213_2125979817529107_7378431176584724480_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=EGZcpYf6bvgAX-SrMZL&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCJ7mWQPV8G9LjMNy7NJdxBB2YOjT2llgS4Nmmkge54vw&oe=654E240C",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66192213_2125979817529107_7378431176584724480_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=EGZcpYf6bvgAX9TbjQY&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCUAmJK6_OS-1nIiXkZZK8EXH5uasHS3v1TbY2tFsgiwg&oe=654E240C",
                     "width": 1391
                   }
                 },
@@ -667,7 +711,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65991959_2125979840862438_2208522524914876416_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=SfHMLurUIooAX9MBhc1&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDDipNvjM081UnGPvWr4JRMnYP0rADT9DjROijCl0rQ7Q&oe=654E1C9F",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65991959_2125979840862438_2208522524914876416_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=SfHMLurUIooAX8YpfKh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBn_nPbxgIW4ll38bBLb8DnoUD-tACiBxzLmXk4coycHg&oe=654E1C9F",
                     "width": 836
                   }
                 },
@@ -683,7 +727,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65970762_2125979967529092_6003560678542016512_n.jpg?stp=dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=-Kb_m-HD7E4AX9J0CIV&_nc_oc=AQmtz9KTYEojgYH3smcO1jRzKwbkvQE8mv-_yqGDsavEi1BDxeEFf0UMpKY2A4Q_GOk&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBzTCoi5TmpCa_AUPI0544yBLWx4NVRKG4SBk5awL1lUQ&oe=654E1A3E",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65970762_2125979967529092_6003560678542016512_n.jpg?stp=dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=-Kb_m-HD7E4AX9ydrtQ&_nc_oc=AQnWiVtRvOewT1d4EU58xVhIW-tpM2BXwlZyhCh_p-jVPpHaUTPxMK97oNNteZasUbY&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAFgKpgrVDYumltNUx9dhRH4fA0eoYfJnSN99RS6qTmBw&oe=654E1A3E",
                     "width": 960
                   }
                 },
@@ -699,7 +743,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65489199_2125979977529091_5432969136487530496_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=z26IwIZpYtIAX-EQBrd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDg96l_T0p_o7ttpMuCN7Lcg5mTVPFbUfgE75kyH72HUQ&oe=654E2FAA",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65489199_2125979977529091_5432969136487530496_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=z26IwIZpYtIAX_9lUO-&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBCEBB5FcXrLeUt2LKi8KDt27xm20ZwUOYkUbYSzRtO8g&oe=654E2FAA",
                     "width": 922
                   }
                 },
@@ -715,7 +759,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/62237551_2125979984195757_8381591840209502208_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=t7v1rZKUEXoAX9F4-9i&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAXTlK1OEshIKNCw_plIxnzLuSd3S97qs2Yi1m9QGQoIg&oe=654E102E",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/62237551_2125979984195757_8381591840209502208_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=t7v1rZKUEXoAX88O795&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBx6D5a0Tsq1_aA2ZH_eRvej1uT90KqQWge3h4zwsQwQQ&oe=654E102E",
                     "width": 960
                   }
                 },
@@ -731,7 +775,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66334808_2125980050862417_5802768032581287936_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=IY6x7KB9ceoAX_3Id3a&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCXpx_yIvkX1r3LaXWImszOQVMu8Lo9ILmKK1EQKVzg5A&oe=654E1801",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66334808_2125980050862417_5802768032581287936_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=IY6x7KB9ceoAX91Twdh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAM5XGQlL0wlB_jWynyGzc56smMUflmYyFnkXMNeL1bTQ&oe=654E1801",
                     "width": 920
                   }
                 },
@@ -747,7 +791,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65673126_2125980064195749_4556405176532992000_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=bEpH1bVOifYAX83kkh3&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfABSzdeeLESVWqzoE9JoH2gGrQJmYezCWDiCd6b_gh6Og&oe=654E19EB",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65673126_2125980064195749_4556405176532992000_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=bEpH1bVOifYAX_ePsG2&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDnMWFj_B-2QIEs9juiZKFIcoWtSkwbOjc6gqS3VY18rA&oe=654E19EB",
                     "width": 983
                   }
                 },
@@ -763,7 +807,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65850348_2125980120862410_5457055394687877120_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=7qDIpE1xH4AAX-LRC03&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBL5TH8KZ2UjPYsAQCNVjML2K07MMk5aI4vt6nIry-Tjg&oe=654E1B1F",
+                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65850348_2125980120862410_5457055394687877120_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=7qDIpE1xH4AAX8xuaR8&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAJyWtZhwyPN87pXyHROeWzzXR8Q_xCysnURW7UqBIIzQ&oe=654E1B1F",
                     "width": 912
                   }
                 },
@@ -786,7 +830,9 @@
         }
       ]
     },
-    "id": "1481985248595237_2125982544195501"
+    "created_time": "2019-07-01T22:10:54+0000",
+    "id": "1481985248595237_2125982544195501",
+    "message": "Saturday Code Club. Thank you to everyone that turned up this month. It was beach weather and we all did well to keep cool with all the computers and electronics buzzing away."
   },
   {
     "attachments": {
@@ -796,7 +842,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX_2mZaE&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDn1MsCQDd2fz7XjuH7j_L2b21Ta3AEbndtB_jMl_dcDg&oe=654E0ECB",
+              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX-N4JMh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDSKIputMp0eSa5iWEhVSpt6qjDtSvJcj6M3vOTmUGy6w&oe=654E0ECB",
               "width": 871
             }
           },
@@ -809,6 +855,8 @@
         }
       ]
     },
-    "id": "1481985248595237_2113781135415642"
+    "created_time": "2019-06-25T20:31:55+0000",
+    "id": "1481985248595237_2113781135415642",
+    "message": "Tim and Bill have been busy with their 3D printer and have produced these MicroBIT holders for us. Nice one guys. :-)"
   }
 ]
