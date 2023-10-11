@@ -30,9 +30,6 @@ def FacebookRequest(url):
         r = http.request('GET', url)
         if r.status == 200:
             return json.loads(r.data.decode('utf-8'))
-        print('FacebookRequest',r.status,r.reason)
-        print('Request',url)
-        print('Response',r.data)
 
 def GetAccessToken(fb_url,config):
     if config:
@@ -68,59 +65,37 @@ def GetPageToken(config):
             return response
         print('GetPageToken','Failed')
 
-def GetData(response,fname):
-    pageno = 1
-    json_file = fname.replace('.json',f'{pageno}.json')
-    SaveJson(fname=json_file,data=response['posts'])
-
-    if 'next' in response['posts']['paging']:
-        next = response['posts']['paging']['next']
-        try:
-            while(True):
-                response = FacebookRequest(next)
-                if response:
-                    pageno += 1
-                    json_file = fname.replace('.json',f'{pageno}.json')
-                    SaveJson(fname=json_file,data=response)
-                if 'next' in response['paging']:
-                    next = response['paging']['next']
-                else:
-                    break
-                if pageno > 100: break
-        except KeyError:
-            print('No More')
-            pass
-
 def GetPosts(config):
     response = GetPageToken(config=config)
     if response:
-        fields = ['posts','photos','picture']
-        fields = ['posts']
-        fields = '%2C'.join(fields)
         page_access_token = response['access_token']
         page_id= config['page_id']
         fb_url = config['fb_url']
 
-        fb_request = f'{fb_url}/{page_id}'
-        fb_request += f'?access_token={page_access_token}'
-        fb_request += f'&fields={fields}'
+        fb_request = f'{fb_url}/v18.0/{page_id}/feed'
+        fb_request += '?fields=attachments'
+        fb_request += f'&access_token={page_access_token}'
 
-        response = FacebookRequest(fb_request)
-        if response: 
-            return response
-        else: 
-            print('GetPosts Response','Failed')
-    else:
-        print('GetPageToken','Failed')
+        next = True
+        pageno = 0
+        while next:
+            response = FacebookRequest(fb_request)
+            if response: 
+                pageno += 1
+                if 'data' in response.keys():
+                    json_file = config['facebook_posts'].replace('.json',f'{pageno}.json')
+                    json_data = response['data']
+                    SaveJson(fname=json_file,data=json_data)
+                next = 'paging' in response.keys() and 'next' in response['paging']
+                if next:
+                    fb_request = response['paging']['next']
 
 def GetFacebookPosts(fname):
     config = ReadSecrets(fname)
     if config:
-        facebook_posts = GetPosts(config)
-        if facebook_posts:
-            GetData(response=facebook_posts,fname = config['facebook_posts'])
-        else:
-            print('GetFacebookPosts Response','Failed')
+        GetPosts(config)
+    else:
+        print(f'failed to read config file: {fname}')
 
 
 if __name__ == "__main__":
