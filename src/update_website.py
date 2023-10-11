@@ -9,7 +9,10 @@ Topic:  #TOPIC#
 Content: #CONTENT#
 ---
 #BODY#
-[Facebook Link](#PERMALINK#)
+
+# [Facebook Link](#PERMALINK#)
+
+#
 Curborough Community Centre
 WS13 7NY
 Code Club
@@ -37,6 +40,7 @@ def CreateWebPost(fname):
         else:
             md_date = post['created_time'].split('+')[0].replace('T','-')
             meeting_date = post['created_time'].split('T')[0]
+            md_file = f'_posts/{meeting_date}-Meeting.md'
 
             web_post = md_template
             web_post = web_post.replace('#PERMALINK#',post['permalink_url'])
@@ -45,9 +49,13 @@ def CreateWebPost(fname):
             web_post = web_post.replace('#CONTENT#','Summary')
             if 'message' in post.keys():
                 web_post = web_post.replace('#BODY#',post['message'])
+                tag_line = '_'.join(post['message'].split(' ')[0:4])
+                if not 'http' in tag_line:
+                    md_file = f'_posts/{meeting_date}-{tag_line}.md'
             else:
                 web_post = web_post.replace('#BODY#','')
-            md_file = f'_posts/{meeting_date}-Meeting.md'
+            if os.path.exists(md_file):
+                os.remove(md_file)
             with open(md_file,'w') as fw:
                 fw.write(web_post)
 
