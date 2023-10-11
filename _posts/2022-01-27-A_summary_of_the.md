@@ -15,18 +15,16 @@ Stoo had managed to get hold of a microbit v2, which Natan had great fun with, u
 
 Tim had used his Creatility 3D printer to create some tank tracks for a robot tank project we've started to work on, based on an instructables guide. https://www.instructables.com/3D-Printed-FPV-Arduino-RC-Tank-With-Controller/ The tracks were amazing, printed as a single print the linkages worked, as in moved fairly easily, we'll need to add some grease to make the track move more freely but unbelievable that you can print something with moving parts.
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/4552150318245366/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4552150318245366/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

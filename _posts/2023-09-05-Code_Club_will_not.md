@@ -5,18 +5,16 @@ Content: Summary
 ---
 Code Club will not be on tomorrow 6th September. Very sorry for the late announcement. Mark and I are both working.
 
-# [Facebook Link](https://www.facebook.com/720665616418529/posts/813039193847837)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/813039193847837)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

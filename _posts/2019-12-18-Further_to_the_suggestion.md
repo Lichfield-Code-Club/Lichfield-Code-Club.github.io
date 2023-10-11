@@ -13,18 +13,16 @@ There's an IDE (Integrated Development Environment) called 'Idle' but I couldn't
 Type this, and press enter, to prove it works:    print('Hello World')
 To end or 'get out' type: exit()
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/2445657738894645/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2445657738894645/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

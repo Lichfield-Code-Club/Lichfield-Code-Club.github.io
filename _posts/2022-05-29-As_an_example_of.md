@@ -11,18 +11,16 @@ Many thanks to Entrust and Code Club UK for promotional materials, such as pens,
 
 Wish us luck as we try to spread the word of what Code Club can do for our members.
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/4892879030839158/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4892879030839158/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

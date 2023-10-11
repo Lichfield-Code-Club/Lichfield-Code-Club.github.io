@@ -22,18 +22,16 @@ We're looking forward to Igor being able to help out again. He's back from Polan
 
 Again, thank you Bill for taking some photos this week 👍
 
-# [Facebook Link](https://www.facebook.com/720665616418529/posts/610080950810330)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/610080950810330)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

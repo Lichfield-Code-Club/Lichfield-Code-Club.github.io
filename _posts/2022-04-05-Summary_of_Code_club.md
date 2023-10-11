@@ -17,18 +17,16 @@ drivers for our wireless dongles. Great job Natan!
 Mark, Tim and Igor continued development of the Robot Tank.
 We will include an in depth look at this next weeks post.
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/4748347381958991/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4748347381958991/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

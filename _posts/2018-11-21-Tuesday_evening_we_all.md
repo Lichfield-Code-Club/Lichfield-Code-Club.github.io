@@ -6,18 +6,16 @@ Content: Summary
 Tuesday evening we all had a go at BBC Micro Bit programming. Everybody got the hang of it real quick and we had some brilliant creations.
 We will be using the BBC Micro Bit more next year, so get your thinking caps on.
 
-# [Facebook Link](https://www.facebook.com/LichfieldCoders/photos/a.1798365466957212/1798365523623873/?type=3)
+* [Facebook Link](https://www.facebook.com/LichfieldCoders/photos/a.1798365466957212/1798365523623873/?type=3)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

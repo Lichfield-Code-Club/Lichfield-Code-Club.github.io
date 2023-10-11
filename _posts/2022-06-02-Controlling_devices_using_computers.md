@@ -13,18 +13,16 @@ https://thepihut.com/products/raspberry-pi-pico-with-pre-soldered-headers
 
 The photos show the pico and an LCD screen. The screen also has switches and a joystick and so could be used to create hand held games.
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/4904794099647651/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4904794099647651/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)
