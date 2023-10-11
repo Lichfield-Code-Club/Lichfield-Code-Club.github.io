@@ -3,7 +3,7 @@ Date:   2021-10-02
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Good news everyone. We will soon be able to continue our Code Club at the Curborough Community centre, who have kindly offered us a slot at 5pm on Wednesdays.
 

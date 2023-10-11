@@ -3,7 +3,7 @@ Date:   2023-01-25
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Summary of 25th January 2023
 Bill (I) improved the conveyer belts and camera in Unity.

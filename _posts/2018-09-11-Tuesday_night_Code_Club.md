@@ -3,7 +3,7 @@ Date:   2018-09-11
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Tuesday night Code Club sessions resume tonight.
 

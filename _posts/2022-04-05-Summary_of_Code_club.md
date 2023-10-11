@@ -3,7 +3,7 @@ Date:   2022-04-05
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="877px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/277728518_4748346995292363_1914722342369803848_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vtgRUDvYnZAAX9v0Xj6&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDwGQkoNy6zxcL2T8eD00Ygaxkn2X3HDLzbqyqnJipiCQ&oe=652AD56E/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/277728518_4748346995292363_1914722342369803848_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vtgRUDvYnZAAX9v0Xj6&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDwGQkoNy6zxcL2T8eD00Ygaxkn2X3HDLzbqyqnJipiCQ&oe=652AD56E)
 
 Summary of Code club activities for 5th April.
 

@@ -3,7 +3,7 @@ Date:   2019-06-18
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="720px" height="966" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64677110_2101818126611943_4622304259914858496_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=0UechXCsfeMAX8XPsKB&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCakJV5HiGLO6OM0TAaCnCRmret_ndbclFXsUnj1uRpFw&oe=654E0E1A/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64677110_2101818126611943_4622304259914858496_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=0UechXCsfeMAX8XPsKB&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCakJV5HiGLO6OM0TAaCnCRmret_ndbclFXsUnj1uRpFw&oe=654E0E1A)
 
 Thank you to Tim, Bill and Sean for these amazing 3D Printed MicroBIT Stands. Each one took an hour to print! :-)
 

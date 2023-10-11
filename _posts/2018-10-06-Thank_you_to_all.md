@@ -3,7 +3,7 @@ Date:   2018-10-06
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="960px" height="596" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/43250736_1736718303121929_2832348082069307392_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=ubHpyGqbuFAAX--ySRv&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB95DbqvRUbZnzvxy7IsSB4VZUcvFMU-IwnIp6ybjGYXw&oe=654E0765/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/43250736_1736718303121929_2832348082069307392_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=ubHpyGqbuFAAX--ySRv&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB95DbqvRUbZnzvxy7IsSB4VZUcvFMU-IwnIp6ybjGYXw&oe=654E0765)
 
 Thank you to all that attended todays Code Club. 😊 
 

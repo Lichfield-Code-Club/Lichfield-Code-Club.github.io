@@ -3,7 +3,7 @@ Date:   2023-09-05
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Code Club will not be on tomorrow 6th September. Very sorry for the late announcement. Mark and I are both working.
 

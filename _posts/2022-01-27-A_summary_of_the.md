@@ -3,7 +3,7 @@ Date:   2022-01-27
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="405px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/272788629_1253461081812258_8908253531086011971_n.jpg?stp=dst-jpg_s720x720&_nc_cat=111&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=g2xxbMTtJcAAX__fvGy&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCnD85aQohHeJWf1eM7hopfuiFNcZ4t28P_K3QSroBo7g&oe=652B8E67/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/272788629_1253461081812258_8908253531086011971_n.jpg?stp=dst-jpg_s720x720&_nc_cat=111&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=g2xxbMTtJcAAX__fvGy&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCnD85aQohHeJWf1eM7hopfuiFNcZ4t28P_K3QSroBo7g&oe=652B8E67)
 
 A summary of the meeting on Wednesday 26th January ...
 

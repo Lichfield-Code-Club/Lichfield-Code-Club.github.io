@@ -3,7 +3,7 @@ Date:   2018-11-06
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Saturday Code Club 10th November. 1pm - 3pm
 Scratch, Raspberry Pi, Micro Bit.

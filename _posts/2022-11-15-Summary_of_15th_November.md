@@ -3,7 +3,7 @@ Date:   2022-11-15
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Summary of 15th November 2022 meeting
 Unfortunately, Mark and Stoo couldn't be here again. This week saw the arrival of Sebastian, who coded in Scratch. Bill coded conveyer belts in Unity, and Aleks, Tomasz, and Natan coded in Python.

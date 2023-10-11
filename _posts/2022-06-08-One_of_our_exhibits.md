@@ -3,7 +3,7 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="721px" height="350" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/281255168_386727170158542_8358218543587262907_n.jpg?stp=dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=XMXi9mvdLEYAX9MI6Vh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC3xKoGDRBGsFDvCOO7bTiB1ygRBPYpVnn9HaQYCatSSg&oe=652BF8A9/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/281255168_386727170158542_8358218543587262907_n.jpg?stp=dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=XMXi9mvdLEYAX9MI6Vh&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC3xKoGDRBGsFDvCOO7bTiB1ygRBPYpVnn9HaQYCatSSg&oe=652BF8A9)
 
 One of our exhibits for the Cosford Air Show on Sunday
 

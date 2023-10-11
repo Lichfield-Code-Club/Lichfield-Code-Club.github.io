@@ -3,7 +3,7 @@ Date:   2022-03-16
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="350px" height="721" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/275783981_271916701776034_5793640493590311713_n.jpg?stp=dst-jpg_p350x350&_nc_cat=107&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=l8CDohVcoJQAX8ypwZ2&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfATV5Yorio23-rQodyYE6csPk0ZeQHxZJm5dh6yYDrQZg&oe=652B2D6B/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/275783981_271916701776034_5793640493590311713_n.jpg?stp=dst-jpg_p350x350&_nc_cat=107&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=l8CDohVcoJQAX8ypwZ2&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfATV5Yorio23-rQodyYE6csPk0ZeQHxZJm5dh6yYDrQZg&oe=652B2D6B)
 
 Video didn't upload with previous post ...
 

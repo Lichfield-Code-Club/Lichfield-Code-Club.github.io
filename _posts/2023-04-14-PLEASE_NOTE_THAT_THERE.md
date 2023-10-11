@@ -3,7 +3,7 @@ Date:   2023-04-14
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 PLEASE NOTE THAT THERE WILL NOT BE A CLUB MEETING on WEDNESDAY 19th APRIL
 

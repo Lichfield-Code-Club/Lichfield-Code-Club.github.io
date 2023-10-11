@@ -3,7 +3,7 @@ Date:   2019-02-13
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Hello everyone.
 There will be no Code Club next week. See you all on Tuesday 26th February. Thank you for your continued support.

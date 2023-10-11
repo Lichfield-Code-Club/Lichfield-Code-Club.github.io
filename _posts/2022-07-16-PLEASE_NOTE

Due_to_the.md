@@ -3,7 +3,7 @@ Date:   2022-07-16
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 PLEASE NOTE
 

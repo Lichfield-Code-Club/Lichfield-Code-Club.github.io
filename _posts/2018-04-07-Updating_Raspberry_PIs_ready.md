@@ -3,7 +3,7 @@ Date:   2018-04-07
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/30221668_1510159365777825_3625405284945494016_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=lE__TpFSmDUAX9rAKkv&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAAFV59K0aPRSkU7bvRzfJ0wP3qwrH9h3M5D1UyaAIa1Q&oe=654E1843/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/30221668_1510159365777825_3625405284945494016_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=lE__TpFSmDUAX9rAKkv&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAAFV59K0aPRSkU7bvRzfJ0wP3qwrH9h3M5D1UyaAIa1Q&oe=654E1843)
 
 Updating Raspberry PIs ready for next weeks Saturday session.
 

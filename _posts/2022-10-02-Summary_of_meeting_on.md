@@ -3,7 +3,7 @@ Date:   2022-10-02
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="1280px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/310101422_606283751190050_2055031401775929040_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yXd84kDnyiUAX8PpG13&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBm1ORKAqSQYMQOaNXa46Y2CxCCLHij5dOfUdRdFFeZVw&oe=652B623F/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/310101422_606283751190050_2055031401775929040_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yXd84kDnyiUAX8PpG13&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBm1ORKAqSQYMQOaNXa46Y2CxCCLHij5dOfUdRdFFeZVw&oe=652B623F)
 
 Summary of meeting on 27th September
 
