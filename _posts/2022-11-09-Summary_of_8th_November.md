@@ -3,7 +3,7 @@ Date:   2022-11-09
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="1280px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/313390981_635061748312250_1880116480714937660_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YIiWC5hGz4QAX-7Faks&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBF-JEaHd6HfEshSaZzKOhAlqdQxbjWQ_mr-rxpasnJGQ&oe=652B0F3A/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/313390981_635061748312250_1880116480714937660_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YIiWC5hGz4QAX-7Faks&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBF-JEaHd6HfEshSaZzKOhAlqdQxbjWQ_mr-rxpasnJGQ&oe=652B0F3A)
+[<img width="1280px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/313390981_635061748312250_1880116480714937660_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YIiWC5hGz4QAX-7Faks&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBF-JEaHd6HfEshSaZzKOhAlqdQxbjWQ_mr-rxpasnJGQ&oe=652B0F3A"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/313390981_635061748312250_1880116480714937660_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YIiWC5hGz4QAX-7Faks&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBF-JEaHd6HfEshSaZzKOhAlqdQxbjWQ_mr-rxpasnJGQ&oe=652B0F3A)
 
 Summary of 8th November 2022 meeting
 

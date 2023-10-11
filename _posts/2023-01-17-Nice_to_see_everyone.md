@@ -3,7 +3,7 @@ Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="1280px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/326255316_567787868241539_4919635518056413853_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_ohc=rKf1ZZ3qwT4AX9qUg6G&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0oxJnAPlVb3VeW0TXUDUnt7bMd5D0ggeTUtRq5NfwhA&oe=652AF472/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/326255316_567787868241539_4919635518056413853_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_ohc=rKf1ZZ3qwT4AX9qUg6G&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0oxJnAPlVb3VeW0TXUDUnt7bMd5D0ggeTUtRq5NfwhA&oe=652AF472)
+[<img width="1280px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/326255316_567787868241539_4919635518056413853_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_ohc=rKf1ZZ3qwT4AX9qUg6G&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0oxJnAPlVb3VeW0TXUDUnt7bMd5D0ggeTUtRq5NfwhA&oe=652AF472"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/326255316_567787868241539_4919635518056413853_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_ohc=rKf1ZZ3qwT4AX9qUg6G&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0oxJnAPlVb3VeW0TXUDUnt7bMd5D0ggeTUtRq5NfwhA&oe=652AF472)
 
 Nice to see everyone coding tonight. Don’t forget we meet on Wednesday evening from now on. 😊
 

@@ -3,7 +3,7 @@ Date:   2022-06-02
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/282132247_4904791632981231_9036002961095939907_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wXRGvB4bmbMAX97Pz4c&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5Os8Tu5nhX5CuYI4rWc6wauBskvqT_k3y9DTXNh9_FQ&oe=652B19EA/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/282132247_4904791632981231_9036002961095939907_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wXRGvB4bmbMAX97Pz4c&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5Os8Tu5nhX5CuYI4rWc6wauBskvqT_k3y9DTXNh9_FQ&oe=652B19EA)
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/282132247_4904791632981231_9036002961095939907_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wXRGvB4bmbMAX97Pz4c&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5Os8Tu5nhX5CuYI4rWc6wauBskvqT_k3y9DTXNh9_FQ&oe=652B19EA"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/282132247_4904791632981231_9036002961095939907_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wXRGvB4bmbMAX97Pz4c&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5Os8Tu5nhX5CuYI4rWc6wauBskvqT_k3y9DTXNh9_FQ&oe=652B19EA)
 
 Controlling devices using computers is fun and easy. At the club, which is part of the Raspberry Pi foundation, we naturally favour the Raspberry Pi Pico, although historically the arduino has been the main stay of our projects.
 

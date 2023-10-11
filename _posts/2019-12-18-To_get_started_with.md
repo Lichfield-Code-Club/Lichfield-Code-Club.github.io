@@ -3,7 +3,7 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="720" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbFL0WvNkqbTBXLB2AoEWWq7CSQsZFP5Ex_DZUCUqHebDw&oe=6528347E&_nc_sid=e609ca/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbFL0WvNkqbTBXLB2AoEWWq7CSQsZFP5Ex_DZUCUqHebDw&oe=6528347E&_nc_sid=e609ca)
+[<img width="720px" height="720" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbFL0WvNkqbTBXLB2AoEWWq7CSQsZFP5Ex_DZUCUqHebDw&oe=6528347E&_nc_sid=e609ca"/>](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbFL0WvNkqbTBXLB2AoEWWq7CSQsZFP5Ex_DZUCUqHebDw&oe=6528347E&_nc_sid=e609ca)
 
 To get started with pygame
 Open a command window, type cmd in the windows search

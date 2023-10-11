@@ -3,7 +3,7 @@ Date:   2019-06-25
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="871px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX8qD7gm&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC8WhC7g1Opc5xq0SlmLy-wxzPB6fLZ3nK_lIItqritHQ&oe=654E0ECB/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX8qD7gm&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC8WhC7g1Opc5xq0SlmLy-wxzPB6fLZ3nK_lIItqritHQ&oe=654E0ECB)
+[<img width="871px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX8qD7gm&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC8WhC7g1Opc5xq0SlmLy-wxzPB6fLZ3nK_lIItqritHQ&oe=654E0ECB"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/65208634_2113780225415733_6144141894512279552_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=zAt0ZcAuDfUAX8qD7gm&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC8WhC7g1Opc5xq0SlmLy-wxzPB6fLZ3nK_lIItqritHQ&oe=654E0ECB)
 
 Tim and Bill have been busy with their 3D printer and have produced these MicroBIT holders for us. Nice one guys. :-)
 

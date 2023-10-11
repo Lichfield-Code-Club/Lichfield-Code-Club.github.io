@@ -45,7 +45,7 @@ def HandleAttachments(post_data):
                     media = data_item['media']
                     if 'image' in media.keys():
                         image = media['image']
-                        retval = f'[<img width="{image["width"]}px" height="{image["height"]}" src="{image["src"]}/>"]({image["src"]})'
+                        retval = f'[<img width="{image["width"]}px" height="{image["height"]}" src="{image["src"]}"/>]({image["src"]})'
     return retval
 
 def CreateWebPost(fname):

@@ -3,7 +3,7 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="200px" height="200" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbF59fQPHMxZORc8-oN5cvE9azj31Ls_a194iyRJGaZXmA&oe=65285668&_nc_sid=e609ca/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbF59fQPHMxZORc8-oN5cvE9azj31Ls_a194iyRJGaZXmA&oe=65285668&_nc_sid=e609ca)
+[<img width="200px" height="200" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbF59fQPHMxZORc8-oN5cvE9azj31Ls_a194iyRJGaZXmA&oe=65285668&_nc_sid=e609ca"/>](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbF59fQPHMxZORc8-oN5cvE9azj31Ls_a194iyRJGaZXmA&oe=65285668&_nc_sid=e609ca)
 
 Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.
 

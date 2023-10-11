@@ -3,7 +3,7 @@ Date:   2020-03-11
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=S23kTlZ5XEgAX98XTND&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBiQCMgLtSz6PB5T4qkhMUCsc2TXe_e4dvLSZaUpsBNvA&oe=654E2821/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=S23kTlZ5XEgAX98XTND&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBiQCMgLtSz6PB5T4qkhMUCsc2TXe_e4dvLSZaUpsBNvA&oe=654E2821)
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=S23kTlZ5XEgAX98XTND&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBiQCMgLtSz6PB5T4qkhMUCsc2TXe_e4dvLSZaUpsBNvA&oe=654E2821"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=S23kTlZ5XEgAX98XTND&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBiQCMgLtSz6PB5T4qkhMUCsc2TXe_e4dvLSZaUpsBNvA&oe=654E2821)
 
 More BBC Micro BIT programming last night. Controlling a line following buggy and a multicolour LED using a Scratch like interface. We also viewed our code as Java Script. Next week we shall be demonstrating a Raspberry PI for those that are thinking of buying one for themselves. 😊
 
