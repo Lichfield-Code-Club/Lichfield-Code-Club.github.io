@@ -11,14 +11,16 @@ Why not drop in on Wednesday 11th October to see what we are up to. The sessions
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/830282468790176)
 
+## Location
 
-** Curborough Community Centre
-** WS13 7NY
-** Code Club
-** Wednesdays 5:30 - 6:30pm
-** 7 - 15 year olds welcome
+* Curborough Community Centre
+* WS13 7NY
+* Code Club
+* Wednesdays 5:30 - 6:30pm
+* 7 - 15 year olds welcome
 
-Club Links:
-** [Code Club Website](https://lichfield-code-club.github.io/)
-** [Facebook Page](https://www.facebook.com/LichfieldCoders)
-** [Discord club messages](https://discord.gg/szz6xGK)
+## Club Links
+
+* [Code Club Website](https://lichfield-code-club.github.io/)
+* [Facebook Page](https://www.facebook.com/LichfieldCoders)
+* [Discord club messages](https://discord.gg/szz6xGK)
