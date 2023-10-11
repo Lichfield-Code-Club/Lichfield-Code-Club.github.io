@@ -10,18 +10,16 @@ https://www.stem.org.uk/stem-clubs
 
 If members need any support please use Discord which is monitored and responded to almost daily. To connect to Discord, please use https://discord.gg/PAqSaqkddA
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/3923839611076443/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/3923839611076443/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

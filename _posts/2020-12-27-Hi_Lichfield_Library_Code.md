@@ -15,18 +15,16 @@ Hope you all are having a good Christmas.
 
 Mark
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/3371802869613456/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/3371802869613456/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

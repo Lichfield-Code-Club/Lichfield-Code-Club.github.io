@@ -11,18 +11,16 @@ Some really in depth coding of a BBC microbit by Nathaniel. He's really quite ad
 
 Bill did some more work on the Unity system and took photos of our meeting.
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/4942912172502510/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4942912172502510/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

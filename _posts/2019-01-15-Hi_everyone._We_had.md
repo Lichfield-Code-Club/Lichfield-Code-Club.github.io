@@ -9,18 +9,16 @@ It was nice to see some of you coding with the BBC Micro Bits and some of you ha
 
 Some of you asked where the BBC Micro Bits can be purchased. Try the following store: https://shop.pimoroni.com/  Also https://cpc.Farnell.com and https://www.rapidonline.com
 
-# [Facebook Link](https://www.facebook.com/1481985248595237/posts/1872548622872229/)
+* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1872548622872229/)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)

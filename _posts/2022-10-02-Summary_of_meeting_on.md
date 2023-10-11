@@ -15,18 +15,16 @@ All in all, I'd say that we were working nicely as a group and long may it last.
 
 We are open to new members and if you're interested please come along to the Curborough Community Centre Code Club at 5pm on each Tuesday. Look forward to meeting you :-)
 
-# [Facebook Link](https://www.facebook.com/720665616418529/posts/606283887856703)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/606283887856703)
 
-#
-Curborough Community Centre
-WS13 7NY
-Code Club
-Wednesdays 5:30 - 6:30pm
-7 - 15 year olds welcome
+
+** Curborough Community Centre
+** WS13 7NY
+** Code Club
+** Wednesdays 5:30 - 6:30pm
+** 7 - 15 year olds welcome
 
 Club Links:
-[Code Club Website](https://lichfield-code-club.github.io/)
-
-[Facebook Page](https://www.facebook.com/LichfieldCoders)
-
-[Discord club messages](https://discord.gg/szz6xGK)
+** [Code Club Website](https://lichfield-code-club.github.io/)
+** [Facebook Page](https://www.facebook.com/LichfieldCoders)
+** [Discord club messages](https://discord.gg/szz6xGK)
