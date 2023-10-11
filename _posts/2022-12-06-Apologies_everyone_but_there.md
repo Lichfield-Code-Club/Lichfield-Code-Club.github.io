@@ -3,6 +3,8 @@ Date:   2022-12-06
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Apologies everyone but there will be no Code Club tonight. The last meeting this year will be next Tuesday. Kind Regards Stewart.
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/653992699752488)

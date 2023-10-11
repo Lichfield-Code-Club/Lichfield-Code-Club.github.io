@@ -3,6 +3,8 @@ Date:   2023-03-03
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 1st March 2023
 In addition to Bill's summary
 

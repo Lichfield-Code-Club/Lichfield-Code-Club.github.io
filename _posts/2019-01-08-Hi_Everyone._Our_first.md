@@ -3,6 +3,8 @@ Date:   2019-01-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Hi Everyone. Our first Tuesday Code Club session will be the 15th Jan @ 5pm
 
 We will be looking at the new Scratch 3 editor

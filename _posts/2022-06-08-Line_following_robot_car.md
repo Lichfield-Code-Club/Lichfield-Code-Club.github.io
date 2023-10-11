@@ -3,6 +3,8 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Line following robot car
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4923046207822440/)

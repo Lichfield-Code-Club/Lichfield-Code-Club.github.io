@@ -3,6 +3,8 @@ Date:   2022-03-16
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of our meeting on Tuesday 15th of March
 
 The only PC capable of running Unity was playing up and refused to boot. It kept restarting, so Bill was unable to make any progress on his tree objects. However, he and Stoo had last weeks version and were able to integrate it with Stoo's Oculus VR (Virtual Reality) head set and they had some fun moving around the virtual scene. 

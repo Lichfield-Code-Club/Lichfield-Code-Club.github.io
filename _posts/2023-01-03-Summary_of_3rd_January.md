@@ -3,6 +3,8 @@ Date:   2023-01-03
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 3rd January 2023
 As a new year welcomely drafts upon us, we code.
 Natan, Tom, and Aleks used Python and uploaded it to our Discord server. 

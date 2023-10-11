@@ -3,6 +3,8 @@ Date:   2022-06-15
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Thanks to Mark, Anna and Pawel for taking the club to RAF Cosford Airshow last weekend. 😊😊😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4941646729295721/)

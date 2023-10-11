@@ -3,6 +3,8 @@ Date:   2019-10-21
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Some of our Code Club activities.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2324047877722299/)

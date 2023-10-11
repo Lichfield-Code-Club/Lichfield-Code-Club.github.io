@@ -3,6 +3,8 @@ Date:   2022-05-25
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of Tuesday 24th of May meeting
 
 It was a meeting when not a lot of coding was done but a lot of social interaction occurred, which is equally as good.

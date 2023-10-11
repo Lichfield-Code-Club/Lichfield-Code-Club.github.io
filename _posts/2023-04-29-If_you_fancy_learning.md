@@ -3,6 +3,8 @@ Date:   2023-04-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 If you fancy learning a bit about routers and IP cameras, feel free to have a dabble with this lot.
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/743101074174983)

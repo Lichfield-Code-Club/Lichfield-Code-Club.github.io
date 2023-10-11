@@ -3,6 +3,8 @@ Date:   2018-11-10
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Saturday Code Club on Today.
 All Welcome. As always sessions are free. 😊
 

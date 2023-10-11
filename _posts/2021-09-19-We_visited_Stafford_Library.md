@@ -3,6 +3,8 @@ Date:   2021-09-19
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 We visited Stafford Library on Tuesday 14th September where Cerys Lock was hosting a raspberry jam event.
 Although the visit was brief, it was a fact finding mission to see what restrictions were in place to enable
 the group to meet. Mask wearing was encouraged and there were plenty of hand sanitizer stations dotted around.

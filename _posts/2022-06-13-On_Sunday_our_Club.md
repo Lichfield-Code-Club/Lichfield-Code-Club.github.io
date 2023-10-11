@@ -3,6 +3,8 @@ Date:   2022-06-13
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 On Sunday our Club represented Staffordshire STEM at the Cosford Air Show.
 
 We were in hangar 15 and  had a fair bit of interest in what a code club is and where people could find their nearest one, and at least three people were from Lichfield and so may join us.

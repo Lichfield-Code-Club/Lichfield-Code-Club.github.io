@@ -3,6 +3,8 @@ Date:   2019-05-12
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 This Saturday we were at Curborough Community Centre. A big thank you to our volunteers and young computer coders for making it a successful afternoon. Will post date of next meet soon and hope to see some new faces. Our Tuesday sessions at Lichfield Library continue, so please drop in and see us.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2039567239503699/)

@@ -3,6 +3,8 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.
 
 One youngster used scratch to create a Christmas scene with a countryside back drop, a central doughnut and holly in each of the corners. We made the holly move in towards the doughnut and back out to the corners, and so hopefully gained some insight into screen coordinates and forever loops.

@@ -3,6 +3,8 @@ Date:   2022-04-05
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of Code club activities for 5th April.
 
 Tonight we welcomed another new member Henry. 

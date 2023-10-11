@@ -3,6 +3,8 @@ Date:   2021-03-22
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Many thanks to Chase Accounting who have donated a number of old PC's to Lichfield Code Club. A few weeks ago we were contacted by Anna Kluk, one of the mum's whose son previously attended our weekly meetings at Lichfield Library, because she'd heard about a company who were looking to donate their old PC's to a worthy cause. After liaising with Councillor Dave Robertson and Sue Woodward we were put in contact with Ken Scott-Clegg at Chase Accounting in Cannock and, after the PC's had been scrubbed to reset them to a fresh start, we collected them just over a week ago.
 
 Stewart and I are very happy to see that, even though they're old and maybe not up to scratch for accountancy work, they're perfectly capable of running software to help our members learn how to program. 

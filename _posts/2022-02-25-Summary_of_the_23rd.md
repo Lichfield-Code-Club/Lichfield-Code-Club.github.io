@@ -3,6 +3,8 @@ Date:   2022-02-25
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of the 23rd February club meeting
 
 Bill worked on modifying a tree created in blender Blender, using private web browsing and drawing graphs in Windows calculator.

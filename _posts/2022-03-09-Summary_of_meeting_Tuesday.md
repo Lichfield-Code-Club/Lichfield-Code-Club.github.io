@@ -3,6 +3,8 @@ Date:   2022-03-09
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of meeting Tuesday 8th March 
 
 Tim discovered the delights of removing supports from the 3D printed tank hull, very small spaces and precious little room to manoeuvre! 

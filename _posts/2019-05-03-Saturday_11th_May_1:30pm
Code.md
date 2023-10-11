@@ -3,6 +3,8 @@ Date:   2019-05-03
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Saturday 11th May 1:30pm
 Code Club at
 Curborough Community Centre

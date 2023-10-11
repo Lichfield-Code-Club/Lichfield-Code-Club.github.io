@@ -3,6 +3,8 @@ Date:   2022-06-02
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Controlling devices using computers is fun and easy. At the club, which is part of the Raspberry Pi foundation, we naturally favour the Raspberry Pi Pico, although historically the arduino has been the main stay of our projects.
 
 It's nice that the Pico only costs 6 GBP.

@@ -3,6 +3,8 @@ Date:   2023-03-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of 29th March 2023 meeting
 This week, Natan coded in Lua while Bill programmed a Unity 2D camera system, while Aleks and Tomasz coded in Python.
 Thanks to Heather for bringing biscuits 😊

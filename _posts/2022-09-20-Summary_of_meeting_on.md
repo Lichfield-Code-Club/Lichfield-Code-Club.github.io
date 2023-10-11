@@ -3,6 +3,8 @@ Date:   2022-09-20
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of meeting on 13th September 
 
 It was more of a welcome back and what have you been doing than a code club meeting but that was good in itself. 

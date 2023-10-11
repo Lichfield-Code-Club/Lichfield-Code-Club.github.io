@@ -3,6 +3,8 @@ Date:   2019-10-13
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Will bring the VEX Robot to our Tuesday session this week. We can now program the robot using a Scratch 3 Interface.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2306364072824013/)

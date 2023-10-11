@@ -3,6 +3,8 @@ Date:   2022-08-10
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Although we're not meeting at Curborough Community Centre in August we're still active and giving support on our discord server.
 
 Bill is doing some amazing things with Unity. Well done Bill.

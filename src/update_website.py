@@ -8,6 +8,8 @@ Date:   #DATE#
 Topic:  #TOPIC#
 Content: #CONTENT#
 ---
+#IMAGE#
+
 #BODY#
 
 * [Facebook Link](#PERMALINK#)
@@ -32,12 +34,28 @@ def ReadJson(fname):
         json_data = json.load(fr)
         return json_data
 
+def HandleAttachments(post_data):
+    retval = ''
+    if 'attachments' in post_data.keys():
+        attachments = post_data['attachments']
+        if 'data' in attachments.keys():
+            data = attachments['data']
+            for data_item in data:
+                if 'media' in data_item.keys():
+                    media = data_item['media']
+                    if 'image' in media.keys():
+                        image = media['image']
+                        retval = f'[<img width="{image["width"]}px" height="{image["height"]}" src="{image["src"]}/>"]({image["src"]})'
+    return retval
+
 def CreateWebPost(fname):
     posts = ReadJson(fname=fname)
     for post in posts:
         if not 'created_time' in post.keys():
             print('File has posts with no created_time',fname)
         else:
+            content = HandleAttachments(post_data=post)
+
             md_date = post['created_time'].split('+')[0].replace('T','-')
             meeting_date = post['created_time'].split('T')[0]
             md_file = f'_posts/{meeting_date}-Meeting.md'

@@ -3,6 +3,8 @@ Date:   2020-12-27
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Hi Lichfield Library Code Club members and anyone else who's interested. 
 We'd like people to help build our website, https://lichfield-code-club.github.io/
 It'll be a good way to help youngsters learn how to code and develop collaboration skills.

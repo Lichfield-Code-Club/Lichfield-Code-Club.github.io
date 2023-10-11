@@ -3,6 +3,8 @@ Date:   2023-10-08
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 During our last session on  4th October, we coded games in python, C# and Unity and also dabbled with Discord 
 Bots.
 https://realpython.com/how-to-make-a-discord-bot-python/

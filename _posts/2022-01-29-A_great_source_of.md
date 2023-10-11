@@ -3,6 +3,8 @@ Date:   2022-01-29
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 A great source of ideas for all skill levels.  Highly recommended https://magpi.raspberrypi.com/articles/discover-practical-programming-in-the-magpi-magazine-issue-114
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4560747080719023/)

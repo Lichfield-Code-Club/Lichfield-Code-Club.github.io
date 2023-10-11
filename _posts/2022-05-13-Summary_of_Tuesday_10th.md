@@ -3,6 +3,8 @@ Date:   2022-05-13
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of Tuesday 10th May Meeting
 
 Another very busy meeting. 

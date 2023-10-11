@@ -3,6 +3,8 @@ Date:   2019-07-11
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 This Tuesday we used the Micro BIT to measure the speed of a toy car. We also programmed the Kitronic buggy to respond to the G sensor in the Micro BIT so that it reversed up when it hit the wall. Well done Natan! 😊
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2141745239285898/)

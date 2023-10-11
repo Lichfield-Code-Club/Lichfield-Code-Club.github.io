@@ -3,6 +3,8 @@ Date:   2022-05-24
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Summary of Club Meeting on Tuesday 17th May
 
 Welcome to our latest new member Adiel, who was initially interested in designing clothes in scratch but chose to switch to programming a robot car. Quite different, but that's partly what we're about, to provide multiple avenues to explore the uses to which computers can be applied,

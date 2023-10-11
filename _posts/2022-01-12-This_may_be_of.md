@@ -3,6 +3,8 @@ Date:   2022-01-12
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 This may be of interest to our members and followers
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4486212371505828/)

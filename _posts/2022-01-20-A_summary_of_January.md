@@ -3,6 +3,8 @@ Date:   2022-01-20
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 A summary of January 19th meeting ...
 
 The model wind power turbine is now at one of the club members home and being used to charge a rechargeable battery. 

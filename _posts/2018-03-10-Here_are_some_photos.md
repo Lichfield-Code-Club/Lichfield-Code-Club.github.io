@@ -3,6 +3,8 @@ Date:   2018-03-10
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Here are some photos from our activities over the last few months.
 
 * [Facebook Link](https://www.facebook.com/720665616418529/videos/1482005701926525)

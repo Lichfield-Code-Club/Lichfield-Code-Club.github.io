@@ -3,6 +3,8 @@ Date:   2018-10-06
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Thank you to all that attended todays Code Club. 😊 
 
 We will be back in November and then will take a break while the Library moves to it’s new home in January. 

@@ -3,6 +3,8 @@ Date:   2019-06-09
 Topic:  Club Meeting
 Content: Summary
 ---
+#IMAGE#
+
 Showcasing our Code Club and STEM activities. A big Thank you to Bryan and Mark for their help today. :-)
 
 * [Facebook Link](https://www.facebook.com/LichfieldCoders/photos/a.2086228658170890/2086229684837454/?type=3)
