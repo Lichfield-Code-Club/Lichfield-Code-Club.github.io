@@ -73,7 +73,7 @@ def GetPosts(config):
         fb_url = config['fb_url']
 
         fb_request = f'{fb_url}/v18.0/{page_id}/feed'
-        fb_request += '?fields=attachments,created_time,id,message'
+        fb_request += '?fields=attachments,created_time,id,message,permalink_url'
         fb_request += f'&access_token={page_access_token}'
         #fb_request += f'?access_token={page_access_token}'
 

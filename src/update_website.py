@@ -9,7 +9,7 @@ Topic:  #TOPIC#
 Content: #CONTENT#
 ---
 #BODY#
-
+[Facebook Link](#PERMALINK#)
 Curborough Community Centre
 WS13 7NY
 Code Club
@@ -39,6 +39,7 @@ def CreateWebPost(fname):
             meeting_date = post['created_time'].split('T')[0]
 
             web_post = md_template
+            web_post = web_post.replace('#PERMALINK#',post['permalink_url'])
             web_post = web_post.replace('#TOPIC#','Club Meeting')
             web_post = web_post.replace('#DATE#',meeting_date)
             web_post = web_post.replace('#CONTENT#','Summary')
