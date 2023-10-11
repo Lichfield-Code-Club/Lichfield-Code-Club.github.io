@@ -31,24 +31,30 @@ def ReadJson(fname):
 
 def CreateWebPost(fname):
     posts = ReadJson(fname=fname)
-    for post in posts['data']:
-        md_date = post['created_time'].split('+')[0].replace('T','-')
-        meeting_date = post['created_time'].split('T')[0]
+    for post in posts:
+        if not 'created_time' in post.keys():
+            print('File has posts with no created_time',fname)
+        else:
+            md_date = post['created_time'].split('+')[0].replace('T','-')
+            meeting_date = post['created_time'].split('T')[0]
 
-        web_post = md_template
-        web_post = web_post.replace('#TOPIC#','Club Meeting')
-        web_post = web_post.replace('#DATE#',meeting_date)
-        web_post = web_post.replace('#CONTENT#','Summary')
-        web_post = web_post.replace('#BODY#',post['message'])
-
-        md_file = f'_posts/{meeting_date}-Meeting.md'
-        with open(md_file,'w') as fw:
-            fw.write(web_post)
+            web_post = md_template
+            web_post = web_post.replace('#TOPIC#','Club Meeting')
+            web_post = web_post.replace('#DATE#',meeting_date)
+            web_post = web_post.replace('#CONTENT#','Summary')
+            if 'message' in post.keys():
+                web_post = web_post.replace('#BODY#',post['message'])
+            else:
+                web_post = web_post.replace('#BODY#','')
+            md_file = f'_posts/{meeting_date}-Meeting.md'
+            with open(md_file,'w') as fw:
+                fw.write(web_post)
 
 def UpdateWebsite(fname):
     config = ReadJson(fname)
     if config:
-        filelist = glob('resources/facebook_posts1.json')
+        filelist = glob('resources/facebook_posts*.json')
+        filelist.sort()
         for file in filelist:
             CreateWebPost(fname=file)
     else:
