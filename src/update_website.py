@@ -61,6 +61,7 @@ def CreateWebPost(fname):
             md_file = f'_posts/{meeting_date}-Meeting.md'
 
             web_post = md_template
+            web_post = web_post.replace('#IMAGE#',content)
             web_post = web_post.replace('#PERMALINK#',post['permalink_url'])
             web_post = web_post.replace('#TOPIC#','Club Meeting')
             web_post = web_post.replace('#DATE#',meeting_date)

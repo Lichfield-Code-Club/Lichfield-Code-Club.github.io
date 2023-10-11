@@ -3,7 +3,7 @@ Date:   2021-09-06
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Hi Everyone, trust you are all well. We will be investigating the clubs restart this September hopefully. Stafford Library are starting next week on Tuesday. Going to pop along to see what they are up to. 😊
 

@@ -3,7 +3,7 @@ Date:   2021-08-10
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Another great idea for our members ... https://www.facebook.com/diyodemag/videos/4712012332164561/
 

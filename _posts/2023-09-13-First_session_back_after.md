@@ -3,7 +3,7 @@ Date:   2023-09-13
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 First session back after summer break. Nice to see everyone eager to get coding again. Thanks to Aleks tonight for installing Visual Studio Code and Python on our Mac Book. Bill has made lots of additions to his ‘Darcy’ game since we last met. Shaun and Natan experimented with a Python interface to Discord. Our newcomers were looking at Python and variable types.
 

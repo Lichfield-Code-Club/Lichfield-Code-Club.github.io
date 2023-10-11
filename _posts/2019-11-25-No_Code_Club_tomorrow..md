@@ -3,7 +3,7 @@ Date:   2019-11-25
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 No Code Club tomorrow. Library computers are being upgraded 😊😊
 

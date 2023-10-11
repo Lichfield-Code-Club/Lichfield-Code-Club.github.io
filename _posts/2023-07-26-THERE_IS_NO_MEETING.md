@@ -3,7 +3,7 @@ Date:   2023-07-26
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 THERE IS NO MEETING THIS WEEK
 

@@ -3,7 +3,7 @@ Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="1279px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/323359494_8704133926294336_4379549342175175232_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FZdrUKZaJg4AX_fGa1q&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDTylme7bzBxNHKT0hZ9gUar7OgnGYpkVtaxD-S0x_9Zg&oe=652BDF56/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/323359494_8704133926294336_4379549342175175232_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FZdrUKZaJg4AX_fGa1q&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDTylme7bzBxNHKT0hZ9gUar7OgnGYpkVtaxD-S0x_9Zg&oe=652BDF56)
 
 Summary of 17th Tuesday 2023 meeting
 A nice turnout today!

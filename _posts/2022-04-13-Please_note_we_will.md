@@ -3,7 +3,7 @@ Date:   2022-04-13
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Please note we will not be meeting on April 19th due to the Easter holidays. The next scheduled meeting is Tuesday April 26th at 5pm-6pm. Happy Easter everyone.
 

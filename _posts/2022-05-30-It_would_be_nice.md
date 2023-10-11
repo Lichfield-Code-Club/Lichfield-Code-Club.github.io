@@ -3,7 +3,7 @@ Date:   2022-05-30
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 It would be nice if parents of our club members could say what they like about our club,  why their children attend and what benefits there are, or could be.
 

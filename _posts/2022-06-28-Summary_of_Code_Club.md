@@ -3,7 +3,7 @@ Date:   2022-06-28
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="1080px" height="608" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/290953344_4977926602334400_2672843599090290971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Nr0SQE4i1cAX98MtVr&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1JRXr5C0PM35La1B65d8XZ6_lILArzAZ5FWMcuEy9Ww&oe=652B859C/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/290953344_4977926602334400_2672843599090290971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Nr0SQE4i1cAX98MtVr&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1JRXr5C0PM35La1B65d8XZ6_lILArzAZ5FWMcuEy9Ww&oe=652B859C)
 
 Summary of Code Club meeting 28th June
 

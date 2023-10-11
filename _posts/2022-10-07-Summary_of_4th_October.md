@@ -3,7 +3,7 @@ Date:   2022-10-07
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="720px" height="960" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/311276472_610080450810380_4341027213055411919_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hspqrnjZIHEAX_t4k-N&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAxyQhqhiJK-R4JygZNuFLJqpVhJKyLtPBStv5M81UKeg&oe=652AE8F2/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/311276472_610080450810380_4341027213055411919_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hspqrnjZIHEAX_t4k-N&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAxyQhqhiJK-R4JygZNuFLJqpVhJKyLtPBStv5M81UKeg&oe=652AE8F2)
 
 Summary of 4th October Meeting
 

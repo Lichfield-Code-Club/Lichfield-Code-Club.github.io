@@ -3,7 +3,7 @@ Date:   2022-07-26
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Please note that the club will be NOT be meeting for the whole of August and meetings will restart on Tuesday 6th of September.
 

@@ -3,7 +3,7 @@ Date:   2018-05-09
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Aiming to be in Lichfield Library on Saturday 12th May. 😊
 

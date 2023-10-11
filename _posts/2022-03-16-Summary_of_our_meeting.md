@@ -3,7 +3,7 @@ Date:   2022-03-16
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="720px" height="965" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/275977444_4696442290482834_8525667246920274667_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4gIyofIN-N4AX9wuT0R&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCwEPC8uy__aDV65e5Y5Nvu-Xbrt0Y7wI7Fl6vV4mgI1Q&oe=652AFB1B/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/275977444_4696442290482834_8525667246920274667_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4gIyofIN-N4AX9wuT0R&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCwEPC8uy__aDV65e5Y5Nvu-Xbrt0Y7wI7Fl6vV4mgI1Q&oe=652AFB1B)
 
 Summary of our meeting on Tuesday 15th of March
 

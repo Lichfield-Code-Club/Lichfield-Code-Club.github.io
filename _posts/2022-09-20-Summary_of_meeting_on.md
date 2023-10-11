@@ -3,7 +3,7 @@ Date:   2022-09-20
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Summary of meeting on 13th September 
 

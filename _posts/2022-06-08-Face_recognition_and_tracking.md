@@ -3,7 +3,7 @@ Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="721px" height="350" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/285386105_330225729291776_8425557695856021212_n.jpg?stp=dst-jpg_p235x350&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=oabG0JVxDCQAX9tiMPH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAWoDEzQNcNG5uMRg0RrvDxGo5Hl6soxYEXG6daujcS7Q&oe=652B971B/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/285386105_330225729291776_8425557695856021212_n.jpg?stp=dst-jpg_p235x350&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=oabG0JVxDCQAX9tiMPH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAWoDEzQNcNG5uMRg0RrvDxGo5Hl6soxYEXG6daujcS7Q&oe=652B971B)
 
 Face recognition and tracking project by Igor
 

@@ -3,7 +3,7 @@ Date:   2019-04-09
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 At tonights Code Club, we are going to get our BBC MicroBits to sing!
 

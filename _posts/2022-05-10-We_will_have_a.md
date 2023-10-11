@@ -3,7 +3,7 @@ Date:   2022-05-10
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="316px" height="203" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/279900845_4838412516285810_9152427708557570388_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m3lbminq9tUAX8hjCcD&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAcJ6DrnGpPK8Dn0BA_llty6IzlJPWRIAZAFb4k9ynHBw&oe=652AB971/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/279900845_4838412516285810_9152427708557570388_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m3lbminq9tUAX8hjCcD&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAcJ6DrnGpPK8Dn0BA_llty6IzlJPWRIAZAFb4k9ynHBw&oe=652AB971)
 
 We will have a stand at RAF Cosford Air Show. It's the first since 2019 due to the covid epidemic.
 

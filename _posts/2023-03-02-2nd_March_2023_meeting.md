@@ -3,7 +3,7 @@ Date:   2023-03-02
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="1279px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/331772357_179820988103474_8866537257205187615_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Y2azAmYQlgAX9glb6V&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCcmlfUD-QNjTvxxCq47fX2GbfuOnUEnuLpOiaJDzt6Dw&oe=652ADA49/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/331772357_179820988103474_8866537257205187615_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Y2azAmYQlgAX9glb6V&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCcmlfUD-QNjTvxxCq47fX2GbfuOnUEnuLpOiaJDzt6Dw&oe=652ADA49)
 
 2nd March 2023 meeting
 

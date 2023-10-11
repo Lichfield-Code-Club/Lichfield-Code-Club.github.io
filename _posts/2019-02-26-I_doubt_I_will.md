@@ -3,7 +3,7 @@ Date:   2019-02-26
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="626px" height="960" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/53155154_1932702110190213_5147292122688258048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=jQ3fDOV_PkYAX9a2upA&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDwir-iE9xPqw_OK7P8MLUZncYrmnjbnd3ECUn5S-e0Ww&oe=654E138E/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/53155154_1932702110190213_5147292122688258048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=jQ3fDOV_PkYAX9a2upA&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDwir-iE9xPqw_OK7P8MLUZncYrmnjbnd3ECUn5S-e0Ww&oe=654E138E)
 
 I doubt I will make it tonight. Apologies in advance. 😕
 

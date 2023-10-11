@@ -3,7 +3,7 @@ Date:   2022-07-06
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="1080px" height="608" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/292376239_4998739490253111_1387848272642480253_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q8tV92Oh7kgAX8uP1Kd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC5xWf3XEYm-XG5kQg2z-4CONvY_plwS35BJ0QxDA6Wfg&oe=652C5D1C/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/292376239_4998739490253111_1387848272642480253_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q8tV92Oh7kgAX8uP1Kd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC5xWf3XEYm-XG5kQg2z-4CONvY_plwS35BJ0QxDA6Wfg&oe=652C5D1C)
 
 Summary of our meeting on Tuesday 5th of July
 

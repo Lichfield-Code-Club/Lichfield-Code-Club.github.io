@@ -3,7 +3,7 @@ Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="420px" height="420" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/10769396810181609814?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F231856%3Fs%3D400%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGSiosjIt0nibBxOQd12YtgptHVAvw40-sYJLU74NmlaA&oe=65288D20&_nc_sid=e609ca/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/10769396810181609814?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F231856%3Fs%3D400%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGSiosjIt0nibBxOQd12YtgptHVAvw40-sYJLU74NmlaA&oe=65288D20&_nc_sid=e609ca)
 
 The following is a simple program where the user has to reach the ! by pressing keys to move up, down, left and right.
 It uses the input function which requires the user to press enter. This proves the logic of the game.

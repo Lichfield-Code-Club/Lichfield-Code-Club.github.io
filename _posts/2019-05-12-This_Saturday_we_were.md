@@ -3,7 +3,7 @@ Date:   2019-05-12
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="960px" height="690" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/60022662_2039562236170866_908815500740395008_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=FNgBTWQwM0oAX-GTmPK&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAC1UUrsqH8eSI_BSqGqIGJHjYpb1IEMufjNWx5xYcqxQ&oe=654E1331/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/60022662_2039562236170866_908815500740395008_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=FNgBTWQwM0oAX-GTmPK&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAC1UUrsqH8eSI_BSqGqIGJHjYpb1IEMufjNWx5xYcqxQ&oe=654E1331)
 
 This Saturday we were at Curborough Community Centre. A big thank you to our volunteers and young computer coders for making it a successful afternoon. Will post date of next meet soon and hope to see some new faces. Our Tuesday sessions at Lichfield Library continue, so please drop in and see us.
 

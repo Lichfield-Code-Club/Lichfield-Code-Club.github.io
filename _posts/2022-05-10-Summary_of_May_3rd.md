@@ -3,7 +3,7 @@ Date:   2022-05-10
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="373px" height="460" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8iiEYrsfhbwAX9yIWft&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAqZgj7cn1DbMOBfVnqGWngo0IVZ8m8BNR7KM7WnjfO5w&oe=652B3587/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8iiEYrsfhbwAX9yIWft&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAqZgj7cn1DbMOBfVnqGWngo0IVZ8m8BNR7KM7WnjfO5w&oe=652B3587)
 
 Summary of May 3rd meeting
 

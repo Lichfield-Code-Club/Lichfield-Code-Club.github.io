@@ -3,7 +3,7 @@ Date:   2019-07-02
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=kq9sf0xK2zkAX-bOfCs&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBRTyKFGOocq4lLk4GEkPHQKQyofAgS1OsDFbeRkabrhw&oe=654E0D22/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/66114531_2127370897389999_2461606565208129536_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=kq9sf0xK2zkAX-bOfCs&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBRTyKFGOocq4lLk4GEkPHQKQyofAgS1OsDFbeRkabrhw&oe=654E0D22)
 
 Tonight we have been sending messages with the MicroBITs built in radio.
 

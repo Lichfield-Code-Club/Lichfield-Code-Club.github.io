@@ -3,7 +3,7 @@ Date:   2019-12-01
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+
 
 Code Club is on this Tuesday as far as I know. Looking forward to using the new computers
 

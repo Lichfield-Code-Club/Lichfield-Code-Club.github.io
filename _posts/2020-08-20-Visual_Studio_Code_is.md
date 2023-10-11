@@ -3,7 +3,7 @@ Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="506px" height="506" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/6512927827096492298?url=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-home.png&fb_obo=1&utld=visualstudio.com&stp=c0.5000x0.5000f_dst-emg0_p506x506_q75&ccb=13-1&oh=06_AbFKaEmaCfbVlKd4gfwWfLvrbIS76vilI18BWZmSQ2LUzQ&oe=65282645&_nc_sid=e609ca/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/6512927827096492298?url=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-home.png&fb_obo=1&utld=visualstudio.com&stp=c0.5000x0.5000f_dst-emg0_p506x506_q75&ccb=13-1&oh=06_AbFKaEmaCfbVlKd4gfwWfLvrbIS76vilI18BWZmSQ2LUzQ&oe=65282645&_nc_sid=e609ca)
 
 Visual Studio Code is an IDE, Integrated Development Environment, that is free, easy to install and get started with, and is used by professional programmers.
 

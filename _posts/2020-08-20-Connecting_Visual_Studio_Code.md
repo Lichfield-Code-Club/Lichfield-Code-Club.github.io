@@ -3,7 +3,7 @@ Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
 ---
-#IMAGE#
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/118005860_3017964994997247_2352315816706414406_n.png?stp=dst-png_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=D9agMgOBWZEAX-LNcuJ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDtL5o0wa82P6pginQqlsouhTwd2EvHRPKW4XSkJ_ki3A&oe=654E1C1E/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/118005860_3017964994997247_2352315816706414406_n.png?stp=dst-png_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=D9agMgOBWZEAX-LNcuJ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDtL5o0wa82P6pginQqlsouhTwd2EvHRPKW4XSkJ_ki3A&oe=654E1C1E)
 
 Connecting Visual Studio Code to GitHub
 ===========================
