@@ -3,7 +3,7 @@ Date:   2023-10-08
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="720" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/12121075030561442365?url=https%3A%2F%2Ffiles.realpython.com%2Fmedia%2FHow-to-Make-a-Discord-Bot-With-Python_Watermarked.23887eee3226.jpg&fb_obo=1&utld=realpython.com&stp=c420.0.1080.1080a_dst-emg0_q75_s720x720&ccb=13-1&oh=06_AbGt94e-x02pSIbh70T24LoitSX04JmClSVmJlFoqjahrQ&oe=65282F28&_nc_sid=ff403b/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/12121075030561442365?url=https%3A%2F%2Ffiles.realpython.com%2Fmedia%2FHow-to-Make-a-Discord-Bot-With-Python_Watermarked.23887eee3226.jpg&fb_obo=1&utld=realpython.com&stp=c420.0.1080.1080a_dst-emg0_q75_s720x720&ccb=13-1&oh=06_AbGt94e-x02pSIbh70T24LoitSX04JmClSVmJlFoqjahrQ&oe=65282F28&_nc_sid=ff403b)
+[<img width="720px" height="720" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/12121075030561442365?url=https%3A%2F%2Ffiles.realpython.com%2Fmedia%2FHow-to-Make-a-Discord-Bot-With-Python_Watermarked.23887eee3226.jpg&fb_obo=1&utld=realpython.com&stp=c420.0.1080.1080a_dst-emg0_q75_s720x720&ccb=13-1&oh=06_AbGt94e-x02pSIbh70T24LoitSX04JmClSVmJlFoqjahrQ&oe=65282F28&_nc_sid=ff403b"/>](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/12121075030561442365?url=https%3A%2F%2Ffiles.realpython.com%2Fmedia%2FHow-to-Make-a-Discord-Bot-With-Python_Watermarked.23887eee3226.jpg&fb_obo=1&utld=realpython.com&stp=c420.0.1080.1080a_dst-emg0_q75_s720x720&ccb=13-1&oh=06_AbGt94e-x02pSIbh70T24LoitSX04JmClSVmJlFoqjahrQ&oe=65282F28&_nc_sid=ff403b)
 
 During our last session on  4th October, we coded games in python, C# and Unity and also dabbled with Discord 
 Bots.

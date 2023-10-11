@@ -3,7 +3,7 @@ Date:   2022-06-15
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="1305" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288623535_4941642432629484_232037563423089569_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5614bc&_nc_ohc=SzoBKp1FDwIAX8rVxrb&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB-sMrFl7gybIe5YLjZy0xG9jLJ1LPS0UJybW_GY3YPag&oe=652C8939/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288623535_4941642432629484_232037563423089569_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5614bc&_nc_ohc=SzoBKp1FDwIAX8rVxrb&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB-sMrFl7gybIe5YLjZy0xG9jLJ1LPS0UJybW_GY3YPag&oe=652C8939)
+[<img width="720px" height="1305" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288623535_4941642432629484_232037563423089569_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5614bc&_nc_ohc=SzoBKp1FDwIAX8rVxrb&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB-sMrFl7gybIe5YLjZy0xG9jLJ1LPS0UJybW_GY3YPag&oe=652C8939"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288623535_4941642432629484_232037563423089569_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5614bc&_nc_ohc=SzoBKp1FDwIAX8rVxrb&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfB-sMrFl7gybIe5YLjZy0xG9jLJ1LPS0UJybW_GY3YPag&oe=652C8939)
 
 Thanks to Mark, Anna and Pawel for taking the club to RAF Cosford Airshow last weekend. 😊😊😊
 

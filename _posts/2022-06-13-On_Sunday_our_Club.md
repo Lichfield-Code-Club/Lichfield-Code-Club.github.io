@@ -3,7 +3,7 @@ Date:   2022-06-13
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="960" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/287482354_4935460606581000_6329892229752929518_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KN21giW1p7EAX8VvmXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCW1ef4k_i8PMXCWIL6rP2cDsHDV3HAEKZ1eioCfOIJEg&oe=652C6049/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/287482354_4935460606581000_6329892229752929518_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KN21giW1p7EAX8VvmXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCW1ef4k_i8PMXCWIL6rP2cDsHDV3HAEKZ1eioCfOIJEg&oe=652C6049)
+[<img width="720px" height="960" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/287482354_4935460606581000_6329892229752929518_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KN21giW1p7EAX8VvmXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCW1ef4k_i8PMXCWIL6rP2cDsHDV3HAEKZ1eioCfOIJEg&oe=652C6049"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/287482354_4935460606581000_6329892229752929518_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KN21giW1p7EAX8VvmXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCW1ef4k_i8PMXCWIL6rP2cDsHDV3HAEKZ1eioCfOIJEg&oe=652C6049)
 
 On Sunday our Club represented Staffordshire STEM at the Cosford Air Show.
 

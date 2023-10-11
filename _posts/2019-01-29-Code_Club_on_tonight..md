@@ -3,7 +3,7 @@ Date:   2019-01-29
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="1281" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/51256822_1891594294300995_694682596163977216_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=P9_S4610zHsAX-vfzqS&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDt0TUkg5MRwhDeCy1LaReqcbbhaMrKNb3d0W7s2FDevQ&oe=654E1D48/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/51256822_1891594294300995_694682596163977216_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=P9_S4610zHsAX-vfzqS&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDt0TUkg5MRwhDeCy1LaReqcbbhaMrKNb3d0W7s2FDevQ&oe=654E1D48)
+[<img width="720px" height="1281" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/51256822_1891594294300995_694682596163977216_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=P9_S4610zHsAX-vfzqS&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDt0TUkg5MRwhDeCy1LaReqcbbhaMrKNb3d0W7s2FDevQ&oe=654E1D48"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/51256822_1891594294300995_694682596163977216_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=P9_S4610zHsAX-vfzqS&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDt0TUkg5MRwhDeCy1LaReqcbbhaMrKNb3d0W7s2FDevQ&oe=654E1D48)
 
 Code Club on tonight. Be mindful of the weather if travelling.
 

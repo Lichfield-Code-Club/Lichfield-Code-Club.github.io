@@ -3,7 +3,7 @@ Date:   2020-07-13
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="1242px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=QHbh22oYPZoAX8rnJXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDoxWcYjUaaURKG7kK5pkzTk_hPzrNjXmINgTnvPalBJQ&oe=654E3599/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=QHbh22oYPZoAX8rnJXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDoxWcYjUaaURKG7kK5pkzTk_hPzrNjXmINgTnvPalBJQ&oe=654E3599)
+[<img width="1242px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=QHbh22oYPZoAX8rnJXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDoxWcYjUaaURKG7kK5pkzTk_hPzrNjXmINgTnvPalBJQ&oe=654E3599"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=QHbh22oYPZoAX8rnJXc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDoxWcYjUaaURKG7kK5pkzTk_hPzrNjXmINgTnvPalBJQ&oe=654E3599)
 
 If you want to have a go at programming the VEX IQ robot, you no longer need a physical robot! Head over to https://vr.vex.com/ and start programming. Everything is free!
 

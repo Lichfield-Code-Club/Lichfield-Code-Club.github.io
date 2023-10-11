@@ -3,7 +3,7 @@ Date:   2022-06-16
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288675794_4942910932502634_2136179283496955697_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aniMzEkV8DYAX_Q58hN&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1RX1FNjvOz1DRMfZspWeIqNDu8cLyg-jvaBFJOSX3oA&oe=652AC6E9/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288675794_4942910932502634_2136179283496955697_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aniMzEkV8DYAX_Q58hN&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1RX1FNjvOz1DRMfZspWeIqNDu8cLyg-jvaBFJOSX3oA&oe=652AC6E9)
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288675794_4942910932502634_2136179283496955697_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aniMzEkV8DYAX_Q58hN&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1RX1FNjvOz1DRMfZspWeIqNDu8cLyg-jvaBFJOSX3oA&oe=652AC6E9"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/288675794_4942910932502634_2136179283496955697_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aniMzEkV8DYAX_Q58hN&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD1RX1FNjvOz1DRMfZspWeIqNDu8cLyg-jvaBFJOSX3oA&oe=652AC6E9)
 
 Tuesday's meeting was a much quieter event which meant time could be spent talking with club members and seeing what they were working on.
 

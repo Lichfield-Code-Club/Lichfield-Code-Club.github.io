@@ -3,7 +3,7 @@ Date:   2020-03-03
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=NPuRLbSIVQkAX9ek992&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5e8DLEmjWL8oqKxjt_vanlgRfZ7tjiHzLINAo7AWvwg&oe=654E112E/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=NPuRLbSIVQkAX9ek992&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5e8DLEmjWL8oqKxjt_vanlgRfZ7tjiHzLINAo7AWvwg&oe=654E112E)
+[<img width="960px" height="720" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=NPuRLbSIVQkAX9ek992&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5e8DLEmjWL8oqKxjt_vanlgRfZ7tjiHzLINAo7AWvwg&oe=654E112E"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=NPuRLbSIVQkAX9ek992&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD5e8DLEmjWL8oqKxjt_vanlgRfZ7tjiHzLINAo7AWvwg&oe=654E112E)
 
 Great session tonight. Scratch, HTML, BBC Micro BIT. We had Alexa created with Scratch, a line following robot, some demonstrations of changing HTML on the fly 😉 and as ever some great Scratch games programming. Brilliant effort guys and gals, thanks for attending.
 

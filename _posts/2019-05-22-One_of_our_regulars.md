@@ -3,7 +3,7 @@ Date:   2019-05-22
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="405" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/59769979_472433546830882_4518382999292608512_n.jpg?stp=dst-jpg_s720x720&_nc_cat=102&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=0K3vwBz-faIAX9dubNH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPr15Kk8jioRXPY-AWD4jJdQ1vukqOXWIvKzG4dwZDKg&oe=652AB7CC/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/59769979_472433546830882_4518382999292608512_n.jpg?stp=dst-jpg_s720x720&_nc_cat=102&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=0K3vwBz-faIAX9dubNH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPr15Kk8jioRXPY-AWD4jJdQ1vukqOXWIvKzG4dwZDKg&oe=652AB7CC)
+[<img width="720px" height="405" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/59769979_472433546830882_4518382999292608512_n.jpg?stp=dst-jpg_s720x720&_nc_cat=102&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=0K3vwBz-faIAX9dubNH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPr15Kk8jioRXPY-AWD4jJdQ1vukqOXWIvKzG4dwZDKg&oe=652AB7CC"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.13418-10/59769979_472433546830882_4518382999292608512_n.jpg?stp=dst-jpg_s720x720&_nc_cat=102&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=0K3vwBz-faIAX9dubNH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPr15Kk8jioRXPY-AWD4jJdQ1vukqOXWIvKzG4dwZDKg&oe=652AB7CC)
 
 One of our regulars managed to get the BBC Micro Bit working with his own Scratch 3 game! Very Well done.
 

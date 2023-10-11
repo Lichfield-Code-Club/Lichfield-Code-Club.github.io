@@ -3,7 +3,7 @@ Date:   2022-04-13
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="568px" height="320" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=U7FJClxRqx4AX9MMxUo&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0PxpP-im4dv0yEndwPoJmRhHItzHzeME8L49isWfCOw&oe=652B8329/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=U7FJClxRqx4AX9MMxUo&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0PxpP-im4dv0yEndwPoJmRhHItzHzeME8L49isWfCOw&oe=652B8329)
+[<img width="568px" height="320" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=U7FJClxRqx4AX9MMxUo&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0PxpP-im4dv0yEndwPoJmRhHItzHzeME8L49isWfCOw&oe=652B8329"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=U7FJClxRqx4AX9MMxUo&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC0PxpP-im4dv0yEndwPoJmRhHItzHzeME8L49isWfCOw&oe=652B8329)
 
 BBC Micro BIT reading and displaying a voltage from a mini potentiometer (Trim Pot).
 

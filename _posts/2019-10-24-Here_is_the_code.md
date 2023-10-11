@@ -3,7 +3,7 @@ Date:   2019-10-24
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="720px" height="1156" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX88ES92&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDVB8-9Ir5spa30eKOnrYV_zklV5JN3W1G9DH0_6dma7A&oe=654E245E/>"](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX88ES92&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDVB8-9Ir5spa30eKOnrYV_zklV5JN3W1G9DH0_6dma7A&oe=654E245E)
+[<img width="720px" height="1156" src="https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX88ES92&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDVB8-9Ir5spa30eKOnrYV_zklV5JN3W1G9DH0_6dma7A&oe=654E245E"/>](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/73204606_2330616023732151_3703151816570044416_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=shKD6SzW-9cAX88ES92&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDVB8-9Ir5spa30eKOnrYV_zklV5JN3W1G9DH0_6dma7A&oe=654E245E)
 
 Here is the code from our Robot programming session.
 

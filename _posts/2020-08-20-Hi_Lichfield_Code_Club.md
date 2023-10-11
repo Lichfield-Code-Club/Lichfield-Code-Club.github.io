@@ -3,7 +3,7 @@ Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
 ---
-[<img width="420px" height="420" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGYCLQ-2x2q9uMDWA4b-_X3mBjyYhCWEji1ts7gTFi4Eg&oe=65288F9F&_nc_sid=e609ca/>"](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGYCLQ-2x2q9uMDWA4b-_X3mBjyYhCWEji1ts7gTFi4Eg&oe=65288F9F&_nc_sid=e609ca)
+[<img width="420px" height="420" src="https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGYCLQ-2x2q9uMDWA4b-_X3mBjyYhCWEji1ts7gTFi4Eg&oe=65288F9F&_nc_sid=e609ca"/>](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75&ccb=13-1&oh=06_AbGYCLQ-2x2q9uMDWA4b-_X3mBjyYhCWEji1ts7gTFi4Eg&oe=65288F9F&_nc_sid=e609ca)
 
 Hi Lichfield Code Club members
 
