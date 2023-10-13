@@ -2,6 +2,8 @@
 Date:   2019-01-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Code Club on tonight. Be mindful of the weather if travelling.
 

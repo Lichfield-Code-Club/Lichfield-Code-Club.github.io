@@ -2,6 +2,8 @@
 Date:   2022-04-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 BBC Micro BIT reading and displaying a voltage from a mini potentiometer (Trim Pot).
 

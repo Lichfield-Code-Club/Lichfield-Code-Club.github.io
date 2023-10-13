@@ -2,6 +2,8 @@
 Date:   2022-03-09
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of Code Club meeting at Curborough Community Centre Tuesday 8th March
 

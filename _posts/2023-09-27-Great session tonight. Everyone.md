@@ -2,6 +2,8 @@
 Date:   2023-09-27
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Great session tonight. Everyone engaged in coding. C# with Unity, Python with the Pygame library and a Discord Bot written in JS. Well done to all our young coders. 💻 😊
 

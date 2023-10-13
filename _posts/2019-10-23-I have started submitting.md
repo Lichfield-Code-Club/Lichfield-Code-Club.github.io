@@ -2,6 +2,8 @@
 Date:   2019-10-23
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 I have started submitting our competition entries. Good Luck everyone.
 

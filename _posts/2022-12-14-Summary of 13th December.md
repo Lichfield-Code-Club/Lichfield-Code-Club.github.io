@@ -2,6 +2,8 @@
 Date:   2022-12-14
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 13th December 2022 meeting
 Overall, a slightly quieter meeting than usual.

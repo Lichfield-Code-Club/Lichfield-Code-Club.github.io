@@ -2,6 +2,8 @@
 Date:   2023-07-06
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A busy session tonight (5 July). We welcomed three new members who got straight into some coding using Scratch. We also had some Python coding and C# in Unity. Thank you to our regular helpers and Anna for hosting us.
 

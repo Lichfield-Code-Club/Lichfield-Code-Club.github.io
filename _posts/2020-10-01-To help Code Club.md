@@ -2,6 +2,8 @@
 Date:   2020-10-01
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 To help Code Club and other people remotely during lock down we've create a discord channel. Discord allows us to communicate and help each other far more easily than email or WhatsApp.
 

@@ -2,6 +2,8 @@
 Date:   2022-10-07
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 4th October Meeting
 

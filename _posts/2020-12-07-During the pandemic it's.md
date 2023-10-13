@@ -2,6 +2,8 @@
 Date:   2020-12-07
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 During the pandemic it's easier to get support and chat with us using discord. 
 https://discord.gg/szz6xGK

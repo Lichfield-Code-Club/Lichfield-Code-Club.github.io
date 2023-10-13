@@ -2,6 +2,8 @@
 Date:   2022-06-28
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of Code Club meeting 28th June
 

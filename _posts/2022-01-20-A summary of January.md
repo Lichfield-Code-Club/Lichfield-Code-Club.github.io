@@ -2,6 +2,8 @@
 Date:   2022-01-20
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A summary of January 19th meeting ...
 

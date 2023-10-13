@@ -2,6 +2,8 @@
 Date:   2023-02-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 February 8th 2023 meeting
 

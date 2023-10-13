@@ -2,6 +2,8 @@
 Date:   2023-04-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 If you fancy learning a bit about routers and IP cameras, feel free to have a dabble with this lot.
 

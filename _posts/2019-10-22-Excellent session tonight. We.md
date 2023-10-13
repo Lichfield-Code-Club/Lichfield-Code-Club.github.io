@@ -2,6 +2,8 @@
 Date:   2019-10-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Excellent session tonight. We have four brilliant entries for the Shaun The Sheep competition. Well done!
 

@@ -2,6 +2,8 @@
 Date:   2018-03-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Monday night Code Club. Various Scratch projects in progress.
 

@@ -2,6 +2,8 @@
 Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 One of our exhibits for the Cosford Air Show on Sunday
 

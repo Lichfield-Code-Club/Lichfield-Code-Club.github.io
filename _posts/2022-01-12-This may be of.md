@@ -2,6 +2,8 @@
 Date:   2022-01-12
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 This may be of interest to our members and followers
 

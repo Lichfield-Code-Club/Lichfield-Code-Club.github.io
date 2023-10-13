@@ -2,6 +2,8 @@
 Date:   2022-03-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Finally managed to use Bill's trees created with Blender, inside a Unity project to run on the Oculus Quest II.
 

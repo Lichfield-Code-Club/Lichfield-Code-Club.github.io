@@ -2,6 +2,8 @@
 Date:   2018-04-16
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A great turn out tonight for our Monday Night Code Club sessions. Lots of great ideas going on with Scratch tonight. Home made games and animations. Nice to see everyone using lots of different code constructs such as loops and broadcast events in their code. Well Done everyone. I think we will be dishing out some certificates next week :-)
 

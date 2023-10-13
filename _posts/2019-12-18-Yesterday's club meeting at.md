@@ -2,6 +2,8 @@
 Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.
 

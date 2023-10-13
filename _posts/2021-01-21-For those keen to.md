@@ -2,6 +2,8 @@
 Date:   2021-01-21
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 For those keen to get started with programming, the main Code Club has some impressive projects with lots of support tutorials at https://projects.raspberrypi.org/en
 

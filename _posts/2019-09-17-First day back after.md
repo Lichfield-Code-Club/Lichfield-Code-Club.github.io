@@ -2,6 +2,8 @@
 Date:   2019-09-17
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 First day back after the summer break. We have some new faces. Welcome aboard. 😊
 

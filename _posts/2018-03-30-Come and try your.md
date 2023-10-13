@@ -2,6 +2,8 @@
 Date:   2018-03-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Come and try your hand at computer programming.
 

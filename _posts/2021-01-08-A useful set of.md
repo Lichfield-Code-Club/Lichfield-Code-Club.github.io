@@ -2,6 +2,8 @@
 Date:   2021-01-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A useful set of 10 free tutorials for coders,  including Python, Java, JavaScript and HTML. Some say that they're for complete beginners
 

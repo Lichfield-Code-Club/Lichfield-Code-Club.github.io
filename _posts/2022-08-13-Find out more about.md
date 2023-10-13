@@ -2,6 +2,8 @@
 Date:   2022-08-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Find out more about Code Club
  https://blog.codeclub.org/2022/06/15/say-hello-to-the-code-club-team/

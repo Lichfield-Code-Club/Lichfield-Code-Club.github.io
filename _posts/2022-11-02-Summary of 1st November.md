@@ -2,6 +2,8 @@
 Date:   2022-11-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 1st November meeting 
 

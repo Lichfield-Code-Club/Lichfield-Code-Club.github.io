@@ -2,6 +2,8 @@
 Date:   2019-05-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 One of our regulars managed to get the BBC Micro Bit working with his own Scratch 3 game! Very Well done.
 

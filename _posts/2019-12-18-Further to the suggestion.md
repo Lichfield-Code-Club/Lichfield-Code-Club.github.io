@@ -2,6 +2,8 @@
 Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Further to the suggestion to install Python on your laptop, here are the steps I went through
 Using web browser, download the installer: https://www.python.org/ftp/python/3.8.0/python-3.8.0-webinstall.exe

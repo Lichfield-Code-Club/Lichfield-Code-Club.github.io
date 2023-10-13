@@ -2,6 +2,8 @@
 Date:   2021-10-19
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Ready for action! Thank you to Chase Accounting for donating the PCs we will be using at our Code Club. Thank you to Terrafix Limited for supplying keyboard and mice as well as a PAT testing machine to enable us to keep our equipment electrically safety checked.
 

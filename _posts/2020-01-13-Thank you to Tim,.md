@@ -2,6 +2,8 @@
 Date:   2020-01-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Thank you to Tim, Bill and Sean for bringing this OWI Robot Arm in last session. We should be able to control it using a Raspberry Pi and either a Motor Controller Board or relays to simulate the switches on the remote controller.
 

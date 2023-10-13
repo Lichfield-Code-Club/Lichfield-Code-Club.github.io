@@ -2,6 +2,8 @@
 Date:   2018-04-16
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Saturday Code Club saw us programming the VEX IQ Robot and Johnathon helping with some complex Scratch programming.
 

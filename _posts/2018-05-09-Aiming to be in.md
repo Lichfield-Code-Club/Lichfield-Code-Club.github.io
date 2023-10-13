@@ -2,6 +2,8 @@
 Date:   2018-05-09
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Aiming to be in Lichfield Library on Saturday 12th May. 😊
 

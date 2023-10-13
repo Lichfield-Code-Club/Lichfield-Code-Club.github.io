@@ -2,6 +2,8 @@
 Date:   2019-05-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 We are all set to appear at RAF Cosford Airshow on June 9th. Please buy a Ticket and come see us. Children under 16 Free with a paying adult.
 

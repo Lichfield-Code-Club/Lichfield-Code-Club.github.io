@@ -2,6 +2,8 @@
 Date:   2022-05-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 We will have a stand at RAF Cosford Air Show. It's the first since 2019 due to the covid epidemic.
 

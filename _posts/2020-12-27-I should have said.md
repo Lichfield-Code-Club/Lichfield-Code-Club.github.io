@@ -2,6 +2,8 @@
 Date:   2020-12-27
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 I should have said that if you're interested then leave a message in the 'general' channel of our discord server
 

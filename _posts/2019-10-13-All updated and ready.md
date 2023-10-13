@@ -2,6 +2,8 @@
 Date:   2019-10-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 All updated and ready to go 😊
 

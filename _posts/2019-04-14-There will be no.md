@@ -2,6 +2,8 @@
 Date:   2019-04-14
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 There will be no Code Club on 16th or 23rd. Have a Happy Easter.
 

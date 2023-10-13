@@ -2,6 +2,8 @@
 Date:   2021-01-03
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Folks
 I would like to recommend a YouTube channel to help complete beginners to program computers ...

@@ -2,6 +2,8 @@
 Date:   2019-12-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 On Tuesday, despite heavy rain several youngsters attended Code Club at Lichfield Library. Where we took a look at Python in particular using the free 'repl' services at https://repl.it/. The site lets you create programs in C#, C++, C, Python, Java, JavaScript and many more.
 We looked at defining functions,  looping through lists and lists of list to create a maze program and started to add keyboard interaction.

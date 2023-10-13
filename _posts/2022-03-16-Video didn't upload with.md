@@ -2,6 +2,8 @@
 Date:   2022-03-16
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Video didn't upload with previous post ...
 

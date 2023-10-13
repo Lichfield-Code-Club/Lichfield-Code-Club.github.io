@@ -2,6 +2,8 @@
 Date:   2020-10-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here's an invitation to join our discord channel that doesn't expire https://discord.gg/szz6xGK
 

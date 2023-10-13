@@ -2,6 +2,8 @@
 Date:   2021-01-07
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 There's a chance to win a MicroBIT v2 courtesy of DIYODE
 https://diyodemag.com/win/microbitv2_go_starter_kit

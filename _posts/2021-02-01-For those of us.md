@@ -2,6 +2,8 @@
 Date:   2021-02-01
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 For those of us interested in making computers do things for us, take a look at the many projects at https://mailchi.mp/59219f67f93e/sparking-ideas-issue-41-of-diyode-magazine-available-now-249514?e=92180899ac
 

@@ -2,6 +2,8 @@
 Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Face recognition and tracking project by Igor
 

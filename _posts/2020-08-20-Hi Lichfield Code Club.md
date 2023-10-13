@@ -2,6 +2,8 @@
 Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Lichfield Code Club members
 

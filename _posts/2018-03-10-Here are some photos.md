@@ -2,6 +2,8 @@
 Date:   2018-03-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here are some photos from our activities over the last few months.
 

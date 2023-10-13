@@ -2,6 +2,8 @@
 Date:   2022-08-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Although we're not meeting at Curborough Community Centre in August we're still active and giving support on our discord server.
 

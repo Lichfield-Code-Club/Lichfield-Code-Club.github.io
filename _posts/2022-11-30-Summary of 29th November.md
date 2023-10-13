@@ -2,6 +2,8 @@
 Date:   2022-11-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 29th November 2022 meeting
 This week, both Mark and Stoo were able to attend. 

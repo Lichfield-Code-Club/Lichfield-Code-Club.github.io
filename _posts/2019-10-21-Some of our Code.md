@@ -2,6 +2,8 @@
 Date:   2019-10-21
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Some of our Code Club activities.
 

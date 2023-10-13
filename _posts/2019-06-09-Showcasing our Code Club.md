@@ -2,6 +2,8 @@
 Date:   2019-06-09
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Showcasing our Code Club and STEM activities. A big Thank you to Bryan and Mark for their help today. :-)
 

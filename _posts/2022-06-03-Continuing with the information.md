@@ -2,6 +2,8 @@
 Date:   2022-06-03
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Continuing with the information about the Raspberry Pi Pico 
 Here are a few YouTube videos which  will explain how to use the Pico in some interesting projects

@@ -2,6 +2,8 @@
 Date:   2020-07-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 If you want to have a go at programming the VEX IQ robot, you no longer need a physical robot! Head over to https://vr.vex.com/ and start programming. Everything is free!
 

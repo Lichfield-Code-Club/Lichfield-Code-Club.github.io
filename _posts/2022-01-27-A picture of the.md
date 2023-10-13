@@ -2,6 +2,8 @@
 Date:   2022-01-27
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A picture of the tank track, printed in one go, by Tim
 Each link moves freely, incredible!

@@ -2,6 +2,8 @@
 Date:   2022-01-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 A great source of ideas for all skill levels.  Highly recommended https://magpi.raspberrypi.com/articles/discover-practical-programming-in-the-magpi-magazine-issue-114
 

@@ -2,6 +2,8 @@
 Date:   2019-05-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Our next Saturday Code Club at Curborough Community Centre will be June 29th at 13:30. Please let us know if you wish to attend.
 

@@ -2,6 +2,8 @@
 Date:   2021-06-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Anyone remember Frogger, or would like to code one?
 https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/bunner-master

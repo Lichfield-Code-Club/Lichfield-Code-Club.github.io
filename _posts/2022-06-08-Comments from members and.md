@@ -2,6 +2,8 @@
 Date:   2022-06-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Comments from members and parents
 

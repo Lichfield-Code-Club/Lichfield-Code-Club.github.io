@@ -2,6 +2,8 @@
 Date:   2020-03-16
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Everyone. I think Code Club should stop meeting for a while following government advice. Please check with the Library for access to computers. Take care everyone. Stewart and Mark 😊
 

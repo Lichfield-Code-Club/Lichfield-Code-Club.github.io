@@ -2,6 +2,8 @@
 Date:   2020-08-20
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Visual Studio Code is an IDE, Integrated Development Environment, that is free, easy to install and get started with, and is used by professional programmers.
 

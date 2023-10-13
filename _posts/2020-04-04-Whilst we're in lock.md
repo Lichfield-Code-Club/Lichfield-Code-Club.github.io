@@ -2,6 +2,8 @@
 Date:   2020-04-04
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Whilst we're in lock down take a look at online courses for budding computer engineers like the one from the raspberry pi organisation:
  https://www.raspberrypi.org/blog/digital-making-at-home-making-games/
