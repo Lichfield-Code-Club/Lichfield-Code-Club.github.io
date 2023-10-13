@@ -4,7 +4,7 @@
 
 # layout: home
 
-layout: default
+layout: page
 title: About
 ---
 
