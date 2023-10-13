@@ -27,8 +27,3 @@ Igor gave lots of support and encouragement to all.
 * Wednesdays 5:30 - 6:30pm
 * 7 - 15 year olds welcome
 
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)

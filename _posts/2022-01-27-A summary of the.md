@@ -28,8 +28,3 @@ Tim had used his Creatility 3D printer to create some tank tracks for a robot ta
 * Wednesdays 5:30 - 6:30pm
 * 7 - 15 year olds welcome
 
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)
