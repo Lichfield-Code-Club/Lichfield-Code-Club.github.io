@@ -2,6 +2,8 @@
 Date:   2018-11-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Yesterday we were coding with the VEX IQ Robot, the BBC Micro Bit, Raspberry PI and Scratch. Thank you to all who dropped in, including some new volunteers to help with our sessions.
 

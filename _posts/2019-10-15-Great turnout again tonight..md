@@ -2,6 +2,8 @@
 Date:   2019-10-15
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Great turnout again tonight. Our young programmers were continuing work on the Shaun the Sheep project and also programming the VEX IQ Robot with the new Scratch 3 Interface. We also saw some BBC Micro BIT programming. 😊📀⌨️💻💾
 

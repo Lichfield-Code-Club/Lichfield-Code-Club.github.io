@@ -2,6 +2,8 @@
 Date:   2022-05-24
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Even though it's a school half term, there will still be a Code Club meeting next Tuesday
 

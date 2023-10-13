@@ -2,6 +2,8 @@
 Date:   2022-05-24
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of Club Meeting on Tuesday 17th May
 

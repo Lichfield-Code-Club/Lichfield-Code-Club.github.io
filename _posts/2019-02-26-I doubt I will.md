@@ -2,6 +2,8 @@
 Date:   2019-02-26
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 I doubt I will make it tonight. Apologies in advance. 😕
 

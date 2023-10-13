@@ -2,6 +2,8 @@
 Date:   2022-06-16
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tuesday's meeting was a much quieter event which meant time could be spent talking with club members and seeing what they were working on.
 

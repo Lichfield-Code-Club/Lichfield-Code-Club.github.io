@@ -2,6 +2,8 @@
 Date:   2019-11-19
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here we see a slightly modified VEX IQ Claw Robot. We had to lift part of the structure clear of our proximity sensor as were getting false readings.
 

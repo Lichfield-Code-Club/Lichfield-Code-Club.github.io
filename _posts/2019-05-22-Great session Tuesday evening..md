@@ -2,6 +2,8 @@
 Date:   2019-05-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Great session Tuesday evening. We Welcomed a new young coder who used MicroBit for the first time and did some pretty impressive stuff with the motion sensor.
 

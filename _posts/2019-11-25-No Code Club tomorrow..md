@@ -2,6 +2,8 @@
 Date:   2019-11-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 No Code Club tomorrow. Library computers are being upgraded 😊😊
 

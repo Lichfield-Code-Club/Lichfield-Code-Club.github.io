@@ -2,6 +2,8 @@
 Date:   2019-12-18
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 To get started with pygame
 Open a command window, type cmd in the windows search

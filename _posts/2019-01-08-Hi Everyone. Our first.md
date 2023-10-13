@@ -2,6 +2,8 @@
 Date:   2019-01-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Everyone. Our first Tuesday Code Club session will be the 15th Jan @ 5pm
 

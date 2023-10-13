@@ -2,6 +2,8 @@
 Date:   2018-04-07
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Updating Raspberry PIs ready for next weeks Saturday session.
 

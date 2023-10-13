@@ -2,6 +2,8 @@
 Date:   2019-01-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 This week in our Tuesday Code Club session we saw a BBC Micro Bit interacting with Scratch 3. Follow the link below to see how to connect your Micro Bit to Scratch.
 

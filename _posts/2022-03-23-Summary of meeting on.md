@@ -2,6 +2,8 @@
 Date:   2022-03-23
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of meeting on Tuesday 22nd March 2022
 

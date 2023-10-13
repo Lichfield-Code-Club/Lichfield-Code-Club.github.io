@@ -2,6 +2,8 @@
 Date:   2019-05-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 If you wish to use a BBC Micro BIT with Scratch 3 please look at the following link which explains it all.
 https://support.microbit.org/support/solutions/articles/19000026080-using-the-micro-bit-with-scratch

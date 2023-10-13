@@ -2,6 +2,8 @@
 Date:   2022-02-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of the 23rd February club meeting
 

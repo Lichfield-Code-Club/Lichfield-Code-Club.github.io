@@ -2,6 +2,8 @@
 Date:   2022-07-06
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of our meeting on Tuesday 5th of July
 

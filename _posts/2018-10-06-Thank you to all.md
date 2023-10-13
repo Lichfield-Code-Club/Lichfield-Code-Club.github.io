@@ -2,6 +2,8 @@
 Date:   2018-10-06
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Thank you to all that attended todays Code Club. 😊 
 

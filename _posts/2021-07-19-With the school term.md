@@ -2,6 +2,8 @@
 Date:   2021-07-19
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 With the school term coming to an end, STEM have some nice ideas of what our members can do over the summer holidays.
 https://www.stem.org.uk/news-and-views/news/top-summer-stem-tips

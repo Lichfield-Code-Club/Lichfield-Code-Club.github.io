@@ -2,6 +2,8 @@
 Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Some of our activities tonight included Scratch games and an introduction to Python programming.
 

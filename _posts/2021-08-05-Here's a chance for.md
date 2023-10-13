@@ -2,6 +2,8 @@
 Date:   2021-08-05
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here's a chance for our youngsters to win a raspberry pi zero w ... https://diyodemag.com/win/win_1_or_5_raspberry_pi_w
 

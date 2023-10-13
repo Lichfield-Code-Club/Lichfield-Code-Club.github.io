@@ -2,6 +2,8 @@
 Date:   2019-09-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Scratch 3 is available as an offline download. If you have a laptop and your parents don’t mind you bringing it in, you might find it better than the desktops we have. Ask me for a free USB stick to transfer project materials.
 

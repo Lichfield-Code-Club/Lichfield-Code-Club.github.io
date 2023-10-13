@@ -2,6 +2,8 @@
 Date:   2022-06-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Controlling devices using computers is fun and easy. At the club, which is part of the Raspberry Pi foundation, we naturally favour the Raspberry Pi Pico, although historically the arduino has been the main stay of our projects.
 

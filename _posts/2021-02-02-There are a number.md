@@ -2,6 +2,8 @@
 Date:   2021-02-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 There are a number of competitions and projects on the instructables website that our members might be interested in.
 Besides programming, microcontrollers and IOT there's cooking, jewelry and many more.

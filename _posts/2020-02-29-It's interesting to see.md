@@ -2,6 +2,8 @@
 Date:   2020-02-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 It's interesting to see which programming languages are popular. Red Monk show that Python and JavaScript are near the top
 

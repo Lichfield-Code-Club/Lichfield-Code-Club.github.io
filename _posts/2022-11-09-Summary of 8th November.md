@@ -2,6 +2,8 @@
 Date:   2022-11-09
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 8th November 2022 meeting
 

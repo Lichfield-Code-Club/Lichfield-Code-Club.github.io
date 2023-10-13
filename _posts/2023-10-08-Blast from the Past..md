@@ -2,6 +2,8 @@
 Date:   2023-10-08
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Blast from the Past. Here we are half a decade ago at the Lichfield Library in the Friary building. Some familiar faces here.
 

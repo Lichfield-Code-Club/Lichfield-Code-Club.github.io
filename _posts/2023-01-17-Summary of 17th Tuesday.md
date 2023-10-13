@@ -2,6 +2,8 @@
 Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 17th Tuesday 2023 meeting
 A nice turnout today!

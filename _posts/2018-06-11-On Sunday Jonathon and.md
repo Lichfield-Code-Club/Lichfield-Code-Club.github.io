@@ -2,6 +2,8 @@
 Date:   2018-06-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 On Sunday Jonathon and I took Code Club to the Cosford Air Show. A great day was had by all.
 

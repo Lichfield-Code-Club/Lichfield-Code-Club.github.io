@@ -2,6 +2,8 @@
 Date:   2020-12-27
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Lichfield Library Code Club members and anyone else who's interested. 
 We'd like people to help build our website, https://lichfield-code-club.github.io/

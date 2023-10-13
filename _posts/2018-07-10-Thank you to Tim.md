@@ -2,6 +2,8 @@
 Date:   2018-07-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Thank you to Tim Wilson, Midlands Code Club Co-ordinator for visiting our club last Tuesday evening. 😊
 

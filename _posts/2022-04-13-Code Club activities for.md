@@ -2,6 +2,8 @@
 Date:   2022-04-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Code Club activities for April 12th
 This week we saw the Micro BIT being used with an electronics kit to read and display the voltage from a potentiometer. Thank you to Craig and Henry for building and demonstrating this project.

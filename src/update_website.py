@@ -7,6 +7,8 @@ md_template = """---
 Date:   #DATE#
 Topic:  #TOPIC#
 Content: #CONTENT#
+layout: post
+author: Mark
 ---
 #BODY#
 

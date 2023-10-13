@@ -2,6 +2,8 @@
 Date:   2020-07-01
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Kitronik have got a new buggy that can be controlled by the BBC Micro bit. It has:
 

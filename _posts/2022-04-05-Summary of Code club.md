@@ -2,6 +2,8 @@
 Date:   2022-04-05
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of Code club activities for 5th April.
 

@@ -2,6 +2,8 @@
 Date:   2019-06-18
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Thank you to Tim, Bill and Sean for these amazing 3D Printed MicroBIT Stands. Each one took an hour to print! :-)
 

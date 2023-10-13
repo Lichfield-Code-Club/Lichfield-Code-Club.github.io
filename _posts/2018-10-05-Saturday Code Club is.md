@@ -2,6 +2,8 @@
 Date:   2018-10-05
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Saturday Code Club is on tomorrow 1pm - 3pm
 in Lichfield Library.

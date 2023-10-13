@@ -2,6 +2,8 @@
 Date:   2019-02-26
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi everyone, please check out this link for the BBC Micro BIT.   https://www.makeuseof.com/tag/bbc-microbit-beginner-projects/
 

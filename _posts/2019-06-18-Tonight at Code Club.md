@@ -2,6 +2,8 @@
 Date:   2019-06-18
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tonight at Code Club we used the MicroBIT Code editor to control a Kitronic Line Following Robot. Weather permitting, at the next Curborough meeting we will program the Tello Micro Drone using Scratch!!
 

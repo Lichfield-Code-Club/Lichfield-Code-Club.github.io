@@ -2,6 +2,8 @@
 Date:   2022-06-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 On Sunday our Club represented Staffordshire STEM at the Cosford Air Show.
 

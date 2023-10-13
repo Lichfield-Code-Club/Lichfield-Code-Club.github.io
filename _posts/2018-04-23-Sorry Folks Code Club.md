@@ -2,6 +2,8 @@
 Date:   2018-04-23
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Sorry Folks Code Club is cancelled tonight. See you all next week.
 

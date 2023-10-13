@@ -2,6 +2,8 @@
 Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Well Done everyone. Some great coding and animations over the past few months. 😊
 

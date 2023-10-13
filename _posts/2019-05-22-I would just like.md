@@ -2,6 +2,8 @@
 Date:   2019-05-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 I would just like to thank everyone who has helped with both the Lichfield Library sessions and more recently the session we ran at Curborough Community Centre. I would in future, like to mention you all by name as the site seems a bit anonymous at the moment. We do respect our members privacy and always ask before posting pictures of the children involved in the club. My thanks go to the Library Staff, our new STEM Ambassadors, the parents who stay and assist including Ania, who secured our sessions at Curborough Community Centre.
 

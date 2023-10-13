@@ -2,6 +2,8 @@
 Date:   2023-01-17
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Nice to see everyone coding tonight. Don’t forget we meet on Wednesday evening from now on. 😊
 

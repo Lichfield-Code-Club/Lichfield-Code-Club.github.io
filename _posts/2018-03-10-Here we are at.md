@@ -2,6 +2,8 @@
 Date:   2018-03-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here we are at 'Mad Science'. Come and have a look between the shows from 12pm - 2pm. We have Raspberry Pi's, MicroBits and a few Scratch Terminals. The library also now have stock of some super Computer Programming books for young people.
 

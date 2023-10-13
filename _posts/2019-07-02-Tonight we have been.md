@@ -2,6 +2,8 @@
 Date:   2019-07-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tonight we have been sending messages with the MicroBITs built in radio.
 

@@ -2,6 +2,8 @@
 Date:   2023-03-10
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 8th March 2023 meeting
 Oscar and Igor developed a Python project, using ChatGPT as help, while Unity slopes were fixed and microbit and pico kits were unboxed.

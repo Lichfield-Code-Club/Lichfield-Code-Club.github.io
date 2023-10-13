@@ -2,6 +2,8 @@
 Date:   2020-08-22
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Follow the tutorial below to create a simple C# console program...
 

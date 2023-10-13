@@ -2,6 +2,8 @@
 Date:   2019-06-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tim and Bill have been busy with their 3D printer and have produced these MicroBIT holders for us. Nice one guys. :-)
 

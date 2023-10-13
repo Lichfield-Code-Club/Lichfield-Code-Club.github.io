@@ -2,6 +2,8 @@
 Date:   2018-11-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 We modified our VEX Robot to have flashing lights and a siren. Well done guys. Next time we are going to investigate the colour sensor and precise turning using the Gyro.
 

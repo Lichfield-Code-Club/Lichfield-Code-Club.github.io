@@ -2,6 +2,8 @@
 Date:   2019-10-24
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here is the code from our Robot programming session.
 

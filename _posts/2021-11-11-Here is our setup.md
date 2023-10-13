@@ -2,6 +2,8 @@
 Date:   2021-11-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here is our setup at Curborough now. We have tried to ensure we can socially distance and have plenty of hand sanitizer gel for use on keyboards and mice. Thank you to Ania for putting the posters up and to Mark for ensuring we have internet coverage.
 

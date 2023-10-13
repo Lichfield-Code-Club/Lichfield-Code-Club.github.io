@@ -2,6 +2,8 @@
 Date:   2019-09-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi everyone. I handed out some leaflets detailing the latest Code club competition last night. I will be posting the link to the Scratch project shortly. As a Club, we can submit individual or group entries for this competition. The closing date is 25th October, so let's get coding!!
 

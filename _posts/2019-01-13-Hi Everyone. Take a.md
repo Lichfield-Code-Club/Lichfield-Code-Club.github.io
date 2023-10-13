@@ -2,6 +2,8 @@
 Date:   2019-01-13
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi Everyone. Take a look at the new Code Club Book of Scratch. The hardback is £9.99 and the PDF version is a free download. :-)
 

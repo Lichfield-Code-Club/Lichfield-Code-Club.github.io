@@ -2,6 +2,8 @@
 Date:   2019-05-03
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Saturday 11th May 1:30pm
 Code Club at

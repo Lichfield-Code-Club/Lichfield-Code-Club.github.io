@@ -2,6 +2,8 @@
 Date:   2018-09-11
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tuesday night Code Club sessions resume tonight.
 

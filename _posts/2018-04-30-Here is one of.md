@@ -2,6 +2,8 @@
 Date:   2018-04-30
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Here is one of our coders games in action. Here we are using loops and conditional code to give the illusion of moving traffic.
 

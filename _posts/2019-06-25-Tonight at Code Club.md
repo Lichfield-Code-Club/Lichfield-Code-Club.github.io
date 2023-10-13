@@ -2,6 +2,8 @@
 Date:   2019-06-25
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Tonight at Code Club we measured magnetic fields with the BBC Micro BIT and Our Scratch coders were wondering how to simulate the effect of gravity on their characters.
 

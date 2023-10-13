@@ -2,6 +2,8 @@
 Date:   2019-01-15
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Hi everyone. We had our first session at St Marys tonight. Thank you all for attending. Apologies for being a little late, the traffic from Stoke was appalling. We had a few issues with computers tonight and with the new Scratch 3 site. Other clubs have had issues with the new Scratch also, so hopefully they will be fixed soon.
 

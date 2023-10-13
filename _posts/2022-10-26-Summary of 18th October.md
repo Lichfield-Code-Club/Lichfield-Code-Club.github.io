@@ -2,6 +2,8 @@
 Date:   2022-10-26
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of 18th October Meeting More focus on debugging and Unity this week, the members seemed to be in a mood for doing so. Great meeting with lots of lessons learnt regarding different ways to solve programming issues
 

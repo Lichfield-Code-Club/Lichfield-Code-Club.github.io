@@ -2,6 +2,8 @@
 Date:   2022-10-02
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 Summary of meeting on 27th September
 

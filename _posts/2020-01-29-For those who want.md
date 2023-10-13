@@ -2,6 +2,8 @@
 Date:   2020-01-29
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 For those who want to get familiar with Python using an IDE, Integrated Development Environment.
 I would recommend Thonny.

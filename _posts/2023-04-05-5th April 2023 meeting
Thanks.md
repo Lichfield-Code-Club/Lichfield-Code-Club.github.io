@@ -2,6 +2,8 @@
 Date:   2023-04-05
 Topic:  Club Meeting
 Content: Summary
+layout: post
+author: Mark
 ---
 5th April 2023 meeting
 Thanks to Heather for bringing cupcakes 
