@@ -17,4 +17,16 @@ https://kitronik.co.uk/products/5683-kitronik-move-motor-for-the-bbc-micro-bit?_
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2882075738586174/)
 
+## Location
 
+* Curborough Community Centre
+* WS13 7NY
+* Code Club
+* Wednesdays 5:30 - 6:30pm
+* 7 - 15 year olds welcome
+
+## Club Links
+
+* [Code Club Website](https://lichfield-code-club.github.io/)
+* [Facebook Page](https://www.facebook.com/LichfieldCoders)
+* [Discord club messages](https://discord.gg/szz6xGK)
