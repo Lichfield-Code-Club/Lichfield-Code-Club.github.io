@@ -1,5 +1,4 @@
 ---
-Date:   2020-03-11
 Topic:  Club Meeting
 Content: Summary
 layout: post
@@ -11,16 +10,4 @@ More BBC Micro BIT programming last night. Controlling a line following buggy an
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/2619615164832234/)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)

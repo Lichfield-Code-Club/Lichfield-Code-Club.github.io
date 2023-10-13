@@ -1,5 +1,4 @@
 ---
-Date:   2022-01-20
 Topic:  Club Meeting
 Content: Summary
 layout: post
@@ -19,16 +18,4 @@ A wifi dongle was fitted and configured on the single linux box we have. This al
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4520716994722032/)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)

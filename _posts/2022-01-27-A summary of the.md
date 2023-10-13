@@ -1,5 +1,4 @@
 ---
-Date:   2022-01-27
 Topic:  Club Meeting
 Content: Summary
 layout: post
@@ -21,16 +20,4 @@ Tim had used his Creatility 3D printer to create some tank tracks for a robot ta
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4552150318245366/)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)
