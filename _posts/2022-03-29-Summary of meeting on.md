@@ -1,5 +1,4 @@
 ---
-Date:   2022-03-29
 Topic:  Club Meeting
 Content: Summary
 layout: post
@@ -17,16 +16,4 @@ As ever, thankyou to Pawel and Ania for hosting us and setting up for us.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4729988837128179/)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)

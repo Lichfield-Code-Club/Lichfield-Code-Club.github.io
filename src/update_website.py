@@ -4,7 +4,6 @@ from datetime import datetime
 from glob import glob
 
 md_template = """---
-Date:   #DATE#
 Topic:  #TOPIC#
 Content: #CONTENT#
 layout: post
@@ -16,19 +15,7 @@ author: Mark
 
 * [Facebook Link](#PERMALINK#)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)
 """
 
 def ReadJson(fname):
@@ -71,7 +58,6 @@ def CreateWebPost(fname):
                 web_post = web_post.replace('#IMAGE#',content)
                 web_post = web_post.replace('#PERMALINK#',post['permalink_url'])
                 web_post = web_post.replace('#TOPIC#','Club Meeting')
-                web_post = web_post.replace('#DATE#',meeting_date)
                 web_post = web_post.replace('#CONTENT#','Summary')
                 if 'message' in post.keys():
                     web_post = web_post.replace('#BODY#',post['message'])

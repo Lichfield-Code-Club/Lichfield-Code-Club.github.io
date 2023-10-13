@@ -1,5 +1,4 @@
 ---
-Date:   2022-04-05
 Topic:  Club Meeting
 Content: Summary
 layout: post
@@ -23,16 +22,4 @@ We will include an in depth look at this next weeks post.
 
 * [Facebook Link](https://www.facebook.com/1481985248595237/posts/4748347381958991/)
 
-## Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
-
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)
