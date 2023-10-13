@@ -7,7 +7,7 @@ title: Facebook
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.date }} {{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}
