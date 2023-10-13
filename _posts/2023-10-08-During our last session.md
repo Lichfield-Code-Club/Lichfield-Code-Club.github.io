@@ -22,8 +22,3 @@ Why not drop in on Wednesday 11th October to see what we are up to. The sessions
 * Wednesdays 5:30 - 6:30pm
 * 7 - 15 year olds welcome
 
-## Club Links
-
-* [Code Club Website](https://lichfield-code-club.github.io/)
-* [Facebook Page](https://www.facebook.com/LichfieldCoders)
-* [Discord club messages](https://discord.gg/szz6xGK)
