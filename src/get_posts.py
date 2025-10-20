@@ -1,6 +1,7 @@
 import urllib3
 import os
 import json
+from datetime import datetime, timezone
 
 Usage = """
 https://developers.facebook.com/docs/pages/access-tokens/
@@ -15,13 +16,16 @@ Get A Short Lived Access Token
     The Facebook Login Dialog       
 """
 
-def SaveJson(fname,data):
-    with open(fname,'w') as fw:
+def SaveJson(fname, data):
+    # Add 'retrieved_time' to each item in the list
+    for item in data:
+        item['retrieved_time'] = datetime.now(timezone.utc).isoformat()
+    with open(fname, 'w') as fw:
         fw.write(json.dumps(data, indent=2))
-        print('JSON Written to File',fname)
+        print('JSON Written to File', fname)
 
 def ReadSecrets(fname):
-    with open(fname,'r') as fr:
+    with open(fname, 'r') as fr:
         json_data = json.load(fr)
         return json_data
 
@@ -31,7 +35,7 @@ def FacebookRequest(url):
         if r.status == 200:
             return json.loads(r.data.decode('utf-8'))
 
-def GetAccessToken(fb_url,config):
+def GetAccessToken(fb_url, config):
     if config:
         grant_type = 'grant_type=fb_exchange_token'
         client_id = f"client_id={config['app_id']}"
@@ -47,13 +51,13 @@ def GetAccessToken(fb_url,config):
         response = FacebookRequest(fb_request)
         if response: 
             return response
-        print('GetAccessToken','Failed')
+        print('GetAccessToken', 'Failed')
 
 def GetPageToken(config):
     if config:
         fb_url = config['fb_url']
-        page_id=config['page_id']
-        access_token=f"access_token={config['long_lived_access_token']}"
+        page_id = config['page_id']
+        access_token = f"access_token={config['long_lived_access_token']}"
         fields = "fields=access_token"
 
         fb_request  = f"{fb_url}/{page_id}"
@@ -70,24 +74,23 @@ def GetPosts(config):
     response = GetPageToken(config=config)
     if response:
         page_access_token = response['access_token']
-        page_id= config['page_id']
+        page_id = config['page_id']
         fb_url = config['fb_url']
 
         fb_request = f'{fb_url}/v18.0/{page_id}/feed'
-        fb_request += '?fields=attachments,created_time,id,message,permalink_url'
+        fb_request += '?fields=attachments,created_time,updated_time,id,message,permalink_url'
         fb_request += f'&access_token={page_access_token}'
-        #fb_request += f'?access_token={page_access_token}'
 
         next = True
         pageno = 0
         while next:
             response = FacebookRequest(fb_request)
-            if response: 
+            if response:
                 pageno += 1
                 if 'data' in response.keys():
-                    json_file = config['facebook_posts'].replace('.json',f'{pageno}.json')
+                    json_file = config['facebook_posts'].replace('*.json', f'{pageno}.json')
                     json_data = response['data']
-                    SaveJson(fname=json_file,data=json_data)
+                    SaveJson(fname=json_file, data=json_data)
                 next = 'paging' in response.keys() and 'next' in response['paging']
                 if next:
                     fb_request = response['paging']['next']
@@ -105,4 +108,4 @@ if __name__ == "__main__":
     if facebook_config:
         GetFacebookPosts(fname=facebook_config)
     else:
-        print('FACEBOOK_CONFIG not set as an env variable') 
+        print('FACEBOOK_CONFIG not set as an env variable')

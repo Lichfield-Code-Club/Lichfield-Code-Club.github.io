@@ -1,11 +1,21 @@
 [
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-01-12T18:45:07+0000",
+    "updated_time": "2022-01-12T18:45:07+0000",
     "id": "1481985248595237_4487822634678135",
     "message": "Summary of this afternoons activity\nBuilt a model wind power turbine and manually generated enough output to turn an LED on. Had some fun with a meccano spider and our Unity project made good progress initially but then couldn't figure out how to not texture the sides of tiles",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4487822634678135"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4487822634678135",
+    "retrieved_time": "2025-10-20T17:30:47.643143+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -13,25 +23,31 @@
           "media": {
             "image": {
               "height": 361,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/15301370695935524516?url=https%3A%2F%2Fwww.raspberrypi.org%2Fpagekit-assets%2Fmedia%2Fimages%2F7bd734d6285cc84615aa.png&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p361x361_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdkzdETcGDJbt3lIdis7IOmulYlFb3ACs65WPfrx-207cQnFtmBIVdyIRqBdpZfCZsY&ccb=13-1&oh=06_Q3-4AZWyScC0J9Jj2VQB0aRgksGTISfSiQhm1HFV2H6TW9fo&oe=68F80CD8&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/15301370695935524516?url=https%3A%2F%2Fwww.raspberrypi.org%2Fpagekit-assets%2Fmedia%2Fimages%2F7bd734d6285cc84615aa.png&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p361x361_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdkzdETcGDJbt3lIdis7IOmulYlFb3ACs65WPfrx-207cQnFtmBIVdyIRqBdpZfCZsY&ccb=13-1&oh=06_Q3-4AdtlT-CFQnpblkcJkKgks7LDGV9XyXHGk9fdXpWxxbvJ&oe=68F84518&_nc_sid=ef6713",
               "width": 361
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT3ka_nWkvnRliwopu2it9bptaXou-0WnhO2La_j-Xddmj0oYBNE7_PThhoqr9t_94Qw5fk5viXJwzy74IszqBp7CkLmrL8ZyyTYiERPuQYPxnqWaOUvL3UMDfC_9qnh&s=1"
+            "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT2ZpQ_ZiZpPDn4VGpOBhxo1R_i4lLFIDA1Edt6cVUzV7NWbpxjxhW3TtQOR6Pac8Ttm-R7rt5HtdFSBYJ_uoTL5FSEJ9Jrpl_SN33uXExeVc8e4O4ng2thCGJQhUx81&s=1"
           },
           "title": "Teach, Learn, and Make with Raspberry Pi",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT3ka_nWkvnRliwopu2it9bptaXou-0WnhO2La_j-Xddmj0oYBNE7_PThhoqr9t_94Qw5fk5viXJwzy74IszqBp7CkLmrL8ZyyTYiERPuQYPxnqWaOUvL3UMDfC_9qnh&s=1"
+          "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT2ZpQ_ZiZpPDn4VGpOBhxo1R_i4lLFIDA1Edt6cVUzV7NWbpxjxhW3TtQOR6Pac8Ttm-R7rt5HtdFSBYJ_uoTL5FSEJ9Jrpl_SN33uXExeVc8e4O4ng2thCGJQhUx81&s=1"
         }
       ]
     },
     "created_time": "2022-01-12T05:48:29+0000",
+    "updated_time": "2022-01-12T05:48:29+0000",
     "id": "1481985248595237_4486212371505828",
     "message": "This may be of interest to our members and followers",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4486212371505828"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4486212371505828",
+    "retrieved_time": "2025-10-20T17:30:47.643176+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -42,10 +58,16 @@
       ]
     },
     "created_time": "2021-11-28T08:47:30+0000",
+    "updated_time": "2021-11-28T08:47:30+0000",
     "id": "1481985248595237_4330174617109605",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330174617109605"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330174617109605",
+    "retrieved_time": "2025-10-20T17:30:47.643185+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -56,10 +78,16 @@
       ]
     },
     "created_time": "2021-11-28T08:47:09+0000",
+    "updated_time": "2021-11-28T08:47:09+0000",
     "id": "1481985248595237_4330173910443009",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330173910443009"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330173910443009",
+    "retrieved_time": "2025-10-20T17:30:47.643191+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -70,8 +98,10 @@
       ]
     },
     "created_time": "2021-11-28T08:45:54+0000",
+    "updated_time": "2021-11-28T08:45:54+0000",
     "id": "1481985248595237_4330171377109929",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330171377109929"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4330171377109929",
+    "retrieved_time": "2025-10-20T17:30:47.643197+00:00"
   },
   {
     "attachments": {
@@ -84,8 +114,10 @@
       ]
     },
     "created_time": "2021-11-20T15:16:13+0000",
+    "updated_time": "2021-11-20T15:16:13+0000",
     "id": "1481985248595237_4305980312862369",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4305980312862369"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4305980312862369",
+    "retrieved_time": "2025-10-20T17:30:47.643203+00:00"
   },
   {
     "attachments": {
@@ -94,7 +126,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/476006981_8825900444203644_4699099733166498080_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2_p9-pHQbOUQ7kNvwHbvfNu&_nc_oc=Adm0MX_1fAX6az7_olGOZRQJ0JWkLCVQGDkyoYvA5DJuF_jjweeAXDM8jUpF8hc_KhA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AfcPGduottFKZp2RxaqvgNgZkXD_q5qsiOQKnOmfD73Fxg&oe=68FC1D20",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/476006981_8825900444203644_4699099733166498080_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2_p9-pHQbOUQ7kNvwHbvfNu&_nc_oc=Adm0MX_1fAX6az7_olGOZRQJ0JWkLCVQGDkyoYvA5DJuF_jjweeAXDM8jUpF8hc_KhA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfeiJSH6p6sDes8XWHLZ9ElhlBt9rWvdnNmthP_2gzZSXQ&oe=68FC5560",
               "width": 1280
             }
           },
@@ -104,7 +136,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/476006981_8825900444203644_4699099733166498080_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2_p9-pHQbOUQ7kNvwHbvfNu&_nc_oc=Adm0MX_1fAX6az7_olGOZRQJ0JWkLCVQGDkyoYvA5DJuF_jjweeAXDM8jUpF8hc_KhA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AfcPGduottFKZp2RxaqvgNgZkXD_q5qsiOQKnOmfD73Fxg&oe=68FC1D20",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/476006981_8825900444203644_4699099733166498080_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2_p9-pHQbOUQ7kNvwHbvfNu&_nc_oc=Adm0MX_1fAX6az7_olGOZRQJ0JWkLCVQGDkyoYvA5DJuF_jjweeAXDM8jUpF8hc_KhA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfeiJSH6p6sDes8XWHLZ9ElhlBt9rWvdnNmthP_2gzZSXQ&oe=68FC5560",
                     "width": 1280
                   }
                 },
@@ -119,7 +151,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/475974488_8825900150870340_221909244966653281_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fA3wXyxYrCoQ7kNvwHOdp6T&_nc_oc=AdnzKrCh0cixoCGZnewkPRPhEgluRsIHIUN-J8G-D2d23IkTWAuhZemoAtLrmNcSfDs&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AfdmmX68HSbhsb-oKrqUpqvyMsPFf73QaQQvMzENtLfqIg&oe=68FC1407",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/475974488_8825900150870340_221909244966653281_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fA3wXyxYrCoQ7kNvwHOdp6T&_nc_oc=AdnzKrCh0cixoCGZnewkPRPhEgluRsIHIUN-J8G-D2d23IkTWAuhZemoAtLrmNcSfDs&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfcPc83OFPe5gsoJVOXTwZIXl_67-tEkAmWJKiEx25smxA&oe=68FC4C47",
                     "width": 1280
                   }
                 },
@@ -134,7 +166,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/475897307_8825900470870308_1127652871910674400_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y89hFNYvSEMQ7kNvwE3IZCr&_nc_oc=AdnnAx7Sw6jpCQTgyFgN-b5X61SCJB-xooosHKlUeec9ZiB5HX2T_dfJyv5Dj6WvpOM&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AffHJubp6eLT5jNwsjQJFp0jJYzJAqIxO6Aud7tr-Lzx3A&oe=68FC0D83",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/475897307_8825900470870308_1127652871910674400_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y89hFNYvSEMQ7kNvwE3IZCr&_nc_oc=AdnnAx7Sw6jpCQTgyFgN-b5X61SCJB-xooosHKlUeec9ZiB5HX2T_dfJyv5Dj6WvpOM&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfeLzN9mQNRvv2i9ujWg63KvYu-Lf2f7gGVIZKEu0vjXeg&oe=68FC45C3",
                     "width": 1230
                   }
                 },
@@ -158,9 +190,11 @@
       ]
     },
     "created_time": "2021-11-11T12:56:11+0000",
+    "updated_time": "2021-11-11T12:56:11+0000",
     "id": "1481985248595237_4276650695795331",
     "message": "Here is our setup at Curborough now. We have tried to ensure we can socially distance and have plenty of hand sanitizer gel for use on keyboards and mice. Thank you to Ania for putting the posters up and to Mark for ensuring we have internet coverage.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4276650695795331"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4276650695795331",
+    "retrieved_time": "2025-10-20T17:30:47.643211+00:00"
   },
   {
     "attachments": {
@@ -170,7 +204,7 @@
           "media": {
             "image": {
               "height": 1280,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/476276822_8807379226055766_6939797057425189548_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=er9B7tiy3A4Q7kNvwFe9WqU&_nc_oc=AdkTnLx97C7EbwmkvPaR3Uvk5gOL0J8w6Mb7WRAQ5YBmpBiE_8PUVwaQ-PqWuUdcpBw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AfdpmrecMj-Jz_aRHZbYBwxKn87d7x5KeF4bzlkuDNhxGw&oe=68FC15EA",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/476276822_8807379226055766_6939797057425189548_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=er9B7tiy3A4Q7kNvwFe9WqU&_nc_oc=AdkTnLx97C7EbwmkvPaR3Uvk5gOL0J8w6Mb7WRAQ5YBmpBiE_8PUVwaQ-PqWuUdcpBw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfcXLBeF8KGnJv4mVhPosweziqBmctR0GApUEU0kkxHOMg&oe=68FC4E2A",
               "width": 720
             }
           },
@@ -184,15 +218,19 @@
       ]
     },
     "created_time": "2021-10-19T10:37:29+0000",
+    "updated_time": "2021-10-19T21:22:13+0000",
     "id": "1481985248595237_4205165246277210",
     "message": "Ready for action! Thank you to Chase Accounting for donating the PCs we will be using at our Code Club. Thank you to Terrafix Limited for supplying keyboard and mice as well as a PAT testing machine to enable us to keep our equipment electrically safety checked.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4205165246277210"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4205165246277210",
+    "retrieved_time": "2025-10-20T17:30:47.643217+00:00"
   },
   {
     "created_time": "2021-10-02T18:54:00+0000",
+    "updated_time": "2021-10-02T18:54:00+0000",
     "id": "1481985248595237_4152877918172610",
     "message": "Good news everyone. We will soon be able to continue our Code Club at the Curborough Community centre, who have kindly offered us a slot at 5pm on Wednesdays.\n\nWe did contact Lichfield Library and they issued the following statement regarding the current situation.\n\n                             \n\nThanks for calling into the library about code club today.  I hope you are keeping well. We are currently recovering our services slowly and risk assessing each area.  Unfortunately we cannot offer Code Club at this time as we are unable to offer socially distanced areas with computers for groups.  The session running at Stafford library is Raspberry Jam which is run by an independent group outside of library opening hours.  This is possible as the SP1 building is open during the evening.  Unfortunately this is not possible outside of opening hours in the Lichfield Library space.  Stafford\u2019s Code club is currently not running as they are not able to socially distance in their computer area.\n\nWe would like to re-instate Code Club at some point in the future, but the Staffordshire County Council Winter Plan is following Government guidelines and keeping social distancing, and mask wearing everywhere they can to reduce the Covid 19 risk.  When this changes we will look again at what we can offer.  It is unlikely that this will change until Spring 2022 at the earliest.\n\n===========================================\nIf you would be interested in joining us at Code Club, please leave a comment on this page. Age range is typically 7 - 14yrs old.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4152877918172610"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4152877918172610",
+    "retrieved_time": "2025-10-20T17:30:47.643224+00:00"
   },
   {
     "attachments": {
@@ -202,7 +240,7 @@
           "media": {
             "image": {
               "height": 944,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/474025700_8734634816663541_601919735520634043_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KnosPZhAwBQQ7kNvwFkREPI&_nc_oc=AdlF7Me5BvteuOZPxjYftfBlwyaR-orZI0mJU9X_iPDPh71ufUX0IJF-pvqHdl1BXnU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AffgI19D2H8fog4L_qNl3BdBMqqRntpnXdY3e5eOWG3D-Q&oe=68FC0359",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/474025700_8734634816663541_601919735520634043_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KnosPZhAwBQQ7kNvwFkREPI&_nc_oc=AdlF7Me5BvteuOZPxjYftfBlwyaR-orZI0mJU9X_iPDPh71ufUX0IJF-pvqHdl1BXnU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AffFR0iZ55h28Tz6MqDBQTusW7ZU4dy5F6ZP1iN0LSR2Kg&oe=68FC3B99",
               "width": 600
             }
           },
@@ -216,9 +254,11 @@
       ]
     },
     "created_time": "2021-09-19T17:31:02+0000",
+    "updated_time": "2021-09-19T17:31:02+0000",
     "id": "1481985248595237_4110035529123516",
     "message": "We visited Stafford Library on Tuesday 14th September where Cerys Lock was hosting a raspberry jam event.\nAlthough the visit was brief, it was a fact finding mission to see what restrictions were in place to enable\nthe group to meet. Mask wearing was encouraged and there were plenty of hand sanitizer stations dotted around.\nThe night saw around 15 attendees demonstrating various Raspberry Pi projects.\n\nWe are going to approach Lichfield Library in the coming week to see if are able to resume our Code Club meetings.\nI will post the outcome of our meeting as soon as I have any details.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4110035529123516"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4110035529123516",
+    "retrieved_time": "2025-10-20T17:30:47.643230+00:00"
   },
   {
     "attachments": {
@@ -227,7 +267,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/474384997_8734633689996987_2160312096085268665_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i-TnuuOYt7QQ7kNvwET-lbz&_nc_oc=AdlURk8_CNPm2HsQhF5eRcoW2sOedaNyxkHPR5pIAantijNMgh-MCsYt2B5eO1Wq9nw&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_Affj8j6WO7-n_pyOW3IAa1Wx5_P3oXi8Ued2RWn2oBbERA&oe=68FC1756",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/474384997_8734633689996987_2160312096085268665_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i-TnuuOYt7QQ7kNvwET-lbz&_nc_oc=AdlURk8_CNPm2HsQhF5eRcoW2sOedaNyxkHPR5pIAantijNMgh-MCsYt2B5eO1Wq9nw&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&oh=00_AfdUlCH0qMxMqjq_xLvDQ4EZaJqS4IsoBqJHZmeIZNOb7g&oe=68FC4F96",
               "width": 843
             }
           },
@@ -242,22 +282,36 @@
       ]
     },
     "created_time": "2021-09-19T16:52:39+0000",
+    "updated_time": "2021-09-19T16:52:39+0000",
     "id": "1481985248595237_1464345117417557",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/1464345117417557/?substory_index=1464345117417557"
+    "permalink_url": "https://www.facebook.com/1481985248595237/posts/1464345117417557/?substory_index=1464345117417557",
+    "retrieved_time": "2025-10-20T17:30:47.643236+00:00"
   },
   {
     "created_time": "2021-09-06T09:07:51+0000",
+    "updated_time": "2021-09-06T09:07:51+0000",
     "id": "1481985248595237_4067988389994897",
     "message": "Hi Everyone, trust you are all well. We will be investigating the clubs restart this September hopefully. Stafford Library are starting next week on Tuesday. Going to pop along to see what they are up to. \ud83d\ude0a",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4067988389994897"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4067988389994897",
+    "retrieved_time": "2025-10-20T17:30:47.643243+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2021-08-10T04:46:08+0000",
+    "updated_time": "2021-08-10T04:46:08+0000",
     "id": "1481985248595237_3986457061481364",
     "message": "Another great idea for our members ... https://www.facebook.com/diyodemag/videos/4712012332164561/",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3986457061481364"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3986457061481364",
+    "retrieved_time": "2025-10-20T17:30:47.643249+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -265,25 +319,31 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmEhKsW0tgwfRiMRGYTvxj-uocERX10ff4FyK9obe00rMY5280Swarf71D7jMXo3e8&ccb=13-1&oh=06_Q3-4AZfNCNEFA-TSuHe4MmcDmj8q47s3oO0aBNsAhbt0z-IW&oe=68F83442&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmEhKsW0tgwfRiMRGYTvxj-uocERX10ff4FyK9obe00rMY5280Swarf71D7jMXo3e8&ccb=13-1&oh=06_Q3-4AZr228keeLHKPC9ILEHrP-t0ucNxGK24uy4GHNweH3_Q&oe=68F83442&_nc_sid=ef6713",
               "width": 400
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT0QTYRDh_hW1lsTElpPwlVdzxYgS3qb26iOcFENVxPITBU_75CkNTkNvhZQnOmvf9xvYAg_ETp57Nh6HJiNZiK6rw38Ug-UTgwRh6TaSTfLBmCNVaQSoX5l4pXHowgr&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT0B_mLt1vQ9dcr4EyknzgL9O4JpUeURH2SW8aXIIW7lFZHjW8T_Nq5anNVagc5Fo0GoxiSxQcZMI_aqtI9FbCum7VDsulwAWqAzGCcao1yh5VFQ9wPpMA7bNHZGZqpc&s=1"
           },
           "title": "DIYODE Magazine",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT0QTYRDh_hW1lsTElpPwlVdzxYgS3qb26iOcFENVxPITBU_75CkNTkNvhZQnOmvf9xvYAg_ETp57Nh6HJiNZiK6rw38Ug-UTgwRh6TaSTfLBmCNVaQSoX5l4pXHowgr&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT0B_mLt1vQ9dcr4EyknzgL9O4JpUeURH2SW8aXIIW7lFZHjW8T_Nq5anNVagc5Fo0GoxiSxQcZMI_aqtI9FbCum7VDsulwAWqAzGCcao1yh5VFQ9wPpMA7bNHZGZqpc&s=1"
         }
       ]
     },
     "created_time": "2021-08-05T05:28:39+0000",
+    "updated_time": "2021-08-05T05:28:39+0000",
     "id": "1481985248595237_3971863472940723",
     "message": "Here's a chance for our youngsters to win a raspberry pi zero w ... ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3971863472940723"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3971863472940723",
+    "retrieved_time": "2025-10-20T17:30:47.643255+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -291,25 +351,31 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4Ab3bSWnSWtHGHKda3o3sbUmk_0W2p_dbECyeSJxO_fRc&oe=68F8330C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AaqzsHFjT6Cq42bfihHKjc7wtv-6K0BAMHHu72hY1UOb&oe=68F86B4C&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT07-cNv2pWr9DSajk-SKOKX0jNi9TnhNy-PcV_Tdj6Lm4ZCeSRs3TK9tWXx6Az35cvmChFXNQOE47nrAj2uVCLkMpkfWrQjiEgCHp05EXqB_HlD7W2p9hAdhcAwMp0L&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT1UViajAsu2LRwqCxAL6vryCH70WydpU80Cp8XzEAltQq7RqRbF_jwX4FZCgB94NYIPXPZcuRTVe_XKy6NxH3HpY8Ylj4dRHTxF-Lq-FPOtMEc2u8DI-1zCD10-Hm78&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT07-cNv2pWr9DSajk-SKOKX0jNi9TnhNy-PcV_Tdj6Lm4ZCeSRs3TK9tWXx6Az35cvmChFXNQOE47nrAj2uVCLkMpkfWrQjiEgCHp05EXqB_HlD7W2p9hAdhcAwMp0L&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT1UViajAsu2LRwqCxAL6vryCH70WydpU80Cp8XzEAltQq7RqRbF_jwX4FZCgB94NYIPXPZcuRTVe_XKy6NxH3HpY8Ylj4dRHTxF-Lq-FPOtMEc2u8DI-1zCD10-Hm78&s=1"
         }
       ]
     },
     "created_time": "2021-07-19T09:28:06+0000",
+    "updated_time": "2021-07-19T09:28:06+0000",
     "id": "1481985248595237_3923839611076443",
     "message": "With the school term coming to an end, STEM have some nice ideas of what our members can do over the summer holidays.\nhttps://www.stem.org.uk/news-and-views/news/top-summer-stem-tips\nhttps://www.stem.org.uk/national-stem-club\nhttps://www.stem.org.uk/stem-clubs\n\nIf members need any support please use Discord which is monitored and responded to almost daily. To connect to Discord, please use https://discord.gg/PAqSaqkddA",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3923839611076443"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3923839611076443",
+    "retrieved_time": "2025-10-20T17:30:47.643260+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -317,44 +383,56 @@
           "media": {
             "image": {
               "height": 600,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/10349656041546464755?url=https%3A%2F%2Fopengraph.githubassets.com%2F21854001198da7a933f855d73b94b712c451bcfffee47e11d3c9fa26106faad0%2FWireframe-Magazine%2FCode-the-Classics&fb_obo=1&utld=githubassets.com&stp=c0.5000x0.5000f_dst-emg0_p600x600_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmLB9EJ_31huHWmhY9JPtA3QxKlTdbtdm5oVnxEMDWbdVMV3j6zOZGVpRq8l8IiD94&ccb=13-1&oh=06_Q3-4AWqWoTWN1wBpKP8Sydcb327S0JobRp6ynJWlw0xm9bQD&oe=68F813AF&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/10349656041546464755?url=https%3A%2F%2Fopengraph.githubassets.com%2F21854001198da7a933f855d73b94b712c451bcfffee47e11d3c9fa26106faad0%2FWireframe-Magazine%2FCode-the-Classics&fb_obo=1&utld=githubassets.com&stp=c0.5000x0.5000f_dst-emg0_p600x600_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmLB9EJ_31huHWmhY9JPtA3QxKlTdbtdm5oVnxEMDWbdVMV3j6zOZGVpRq8l8IiD94&ccb=13-1&oh=06_Q3-4AX2BafIad8ljftGYtfy2ExTgF63JdV0jC4-CMeiX64ib&oe=68F84BEF&_nc_sid=ef6713",
               "width": 600
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2Q4zE3qe_wJ97_alaN-At6_nUVrLPIZrdmQ6zcYznpkkTTpiZG89V-dnhN_fT39EwGZdj6-3xXVw5MQYq0bGYLJWtcO55aZi1QeUqNDV5saT_Rsah52_JjxjQuLEVR&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2mCwFYwEoIdmBMlMGV9zqnjVGPL1KzLQOH4TlRQjmpRyQFIqAMSmml0kGyCOBeHpsqqwjMF6KImUPwDoAVijmhcOlOgY3y6wWjAr5BmZAdiFRA2vyDJiv0PQw4dWzq&s=1"
           },
           "title": "Wireframe-Magazine/Code-the-Classics",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2Q4zE3qe_wJ97_alaN-At6_nUVrLPIZrdmQ6zcYznpkkTTpiZG89V-dnhN_fT39EwGZdj6-3xXVw5MQYq0bGYLJWtcO55aZi1QeUqNDV5saT_Rsah52_JjxjQuLEVR&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2mCwFYwEoIdmBMlMGV9zqnjVGPL1KzLQOH4TlRQjmpRyQFIqAMSmml0kGyCOBeHpsqqwjMF6KImUPwDoAVijmhcOlOgY3y6wWjAr5BmZAdiFRA2vyDJiv0PQw4dWzq&s=1"
         }
       ]
     },
     "created_time": "2021-06-02T08:14:31+0000",
+    "updated_time": "2021-06-02T08:14:31+0000",
     "id": "1481985248595237_3797556867038052",
     "message": "Anyone remember Frogger, or would like to code one?\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3797556867038052"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3797556867038052",
+    "retrieved_time": "2025-10-20T17:30:47.643266+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "description": "Get a free initial interview where we will guarantee a tax saving and help you keep more of what you earn.",
           "target": {
-            "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT0eQ8hq9J-LYlmut39Wy0kn6htO_9sAOzmx-op5CTAkjTXJcSIMG70UD_m_e5uqQ8Gx2dyyJ_BgVJXqkjt5BWppIZYy0ZA9syiH6aYq9qfFC2Alykx4bCmAQVMC9Izp&s=1"
+            "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT12BMU_UZzpX8I4rE2ZPib_R8HMVl2QHVq3uKCIDPecR60komNt1xmZjBEFXWC9IBZwQdmO_b1d3WS5sc578gXmWhw0EDwKXJLzZZG4dG6-l7_HONdBv8sk3-ZZI2QN&s=1"
           },
           "title": "Chase Accounting \u00bb Hate Paying Tax",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT0eQ8hq9J-LYlmut39Wy0kn6htO_9sAOzmx-op5CTAkjTXJcSIMG70UD_m_e5uqQ8Gx2dyyJ_BgVJXqkjt5BWppIZYy0ZA9syiH6aYq9qfFC2Alykx4bCmAQVMC9Izp&s=1"
+          "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT12BMU_UZzpX8I4rE2ZPib_R8HMVl2QHVq3uKCIDPecR60komNt1xmZjBEFXWC9IBZwQdmO_b1d3WS5sc578gXmWhw0EDwKXJLzZZG4dG6-l7_HONdBv8sk3-ZZI2QN&s=1"
         }
       ]
     },
     "created_time": "2021-03-22T06:28:01+0000",
+    "updated_time": "2021-03-27T18:47:40+0000",
     "id": "1481985248595237_3589723751154699",
     "message": "Many thanks to Chase Accounting who have donated a number of old PC's to Lichfield Code Club. A few weeks ago we were contacted by Anna Kluk, one of the mum's whose son previously attended our weekly meetings at Lichfield Library, because she'd heard about a company who were looking to donate their old PC's to a worthy cause. After liaising with Councillor Dave Robertson and Sue Woodward we were put in contact with Ken Scott-Clegg at Chase Accounting in Cannock and, after the PC's had been scrubbed to reset them to a fresh start, we collected them just over a week ago.\n\nStewart and I are very happy to see that, even though they're old and maybe not up to scratch for accountancy work, they're perfectly capable of running software to help our members learn how to program. \n\nWe're thinking of installing Scratch, Python and Visual Studio Code.\nWe'll use the non-internet version of Scratch because using the internet version has always had performance issues.\nPython is a popular programming language in great demand in industry, but is also very easy to use at home by someone new to programming.\nVisual Studio Code is free, easy to use IDE also widely used by professional programmers.\n\nWe intend to loan the PC's out to club members who need machines of their own to work on, rather than mum or dad's laptop. We're not adverse to other software being installed because we will restore an image backup once the loan is over and get it ready for the next loan.\n\nLet us know if you would be interested in loaning one of the PC's.\nPlease note that they are small tower desktop systems which will need ethernet cables, there's no wifi adapters.\n\nOnce again, many thanks to Chase Accounting for such a wonderful gesture. We promise to make the most of their generosity.\n\nA special thank you to Anna Kluk, for thinking of us and making this possible.\n\nChase Accounting can be found at http://www.hatepayingtax.co.uk/\n\nLooking forward to when we can meet up again\n\nBest wishes\nStoo and Mark",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3589723751154699"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3589723751154699",
+    "retrieved_time": "2025-10-20T17:30:47.643272+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -362,25 +440,31 @@
           "media": {
             "image": {
               "height": 405,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17435381248865730092?url=https%3A%2F%2Fwww.instructables.com%2Fassets%2Fimg%2Fcontest%2Fcontests-preview.jpg&fb_obo=1&utld=instructables.com&stp=c0.5000x0.5000f_dst-emg0_p405x405_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdlwKTAKjH5SmqBm1XmPcq9ZX91IpKxUSfuvoeIMlKuJWIF-Jg3rcN97ox_O9C-DYLQ&ccb=13-1&oh=06_Q3-4AU4UWV1_0ARIIFamlVokMUc7v7-t47czZMHu6LaFa4X7&oe=68F810CC&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17435381248865730092?url=https%3A%2F%2Fwww.instructables.com%2Fassets%2Fimg%2Fcontest%2Fcontests-preview.jpg&fb_obo=1&utld=instructables.com&stp=c0.5000x0.5000f_dst-emg0_p405x405_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdlwKTAKjH5SmqBm1XmPcq9ZX91IpKxUSfuvoeIMlKuJWIF-Jg3rcN97ox_O9C-DYLQ&ccb=13-1&oh=06_Q3-4AcluzlinrsuS9ig4JQYwzGu-RrBE3KvWEU21SFzu2K7O&oe=68F8490C&_nc_sid=ef6713",
               "width": 405
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT20Dp1Qg73-EBUG80o7USTXNM9pCkqzN7ZDHQSB95xV4NEDmKpP3j2Qv0rhmuO154KFyVJbSh6gq4teYmrAclL7cofrPghBUHsGQRRqbA9V2Xy9DbDAnJXFZ6r_BHG8&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT36z_8SsvfLTJ_VpENps24DVKKPOtRQFogoZ0Xq6d5wMRhOtCWUuqoo056aN8VFoLHGNfM9IBy6Ud0NQPgkfaYKsoCQhb_qYnLGvwsBjnSLSQNR5OtvlaYG7F08eKJv&s=1"
           },
           "title": "Instructables Contests",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT20Dp1Qg73-EBUG80o7USTXNM9pCkqzN7ZDHQSB95xV4NEDmKpP3j2Qv0rhmuO154KFyVJbSh6gq4teYmrAclL7cofrPghBUHsGQRRqbA9V2Xy9DbDAnJXFZ6r_BHG8&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT36z_8SsvfLTJ_VpENps24DVKKPOtRQFogoZ0Xq6d5wMRhOtCWUuqoo056aN8VFoLHGNfM9IBy6Ud0NQPgkfaYKsoCQhb_qYnLGvwsBjnSLSQNR5OtvlaYG7F08eKJv&s=1"
         }
       ]
     },
     "created_time": "2021-02-02T04:53:51+0000",
+    "updated_time": "2021-02-02T04:53:51+0000",
     "id": "1481985248595237_3464334043693671",
     "message": "There are a number of competitions and projects on the instructables website that our members might be interested in.\nBesides programming, microcontrollers and IOT there's cooking, jewelry and many more.\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3464334043693671"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3464334043693671",
+    "retrieved_time": "2025-10-20T17:30:47.643277+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -388,48 +472,56 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4Ab3bSWnSWtHGHKda3o3sbUmk_0W2p_dbECyeSJxO_fRc&oe=68F8330C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AaqzsHFjT6Cq42bfihHKjc7wtv-6K0BAMHHu72hY1UOb&oe=68F86B4C&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT27VjS00fuyxmjB06aw14DsZebXtNWWmYXhYVARnDXWSoepGEEi_JFTn_2JzHB1y_u8lnGp7uROyasO5H0qzP988GAeyFZTSUwmZxwF55P9BvsUJ0ZqT2uqVJso8jzm&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT1KWq4cgOKYBGUTO8DghelOf4ONg7S2sVTTb01o_NdB539vwwbUhH7DY6VAryCZCjTMy8mFi0ULeL38OeUDwdqHX9j_lpV_4axXYiJKQzzzhNZ6xYBniPDYxykYY713&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT27VjS00fuyxmjB06aw14DsZebXtNWWmYXhYVARnDXWSoepGEEi_JFTn_2JzHB1y_u8lnGp7uROyasO5H0qzP988GAeyFZTSUwmZxwF55P9BvsUJ0ZqT2uqVJso8jzm&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT1KWq4cgOKYBGUTO8DghelOf4ONg7S2sVTTb01o_NdB539vwwbUhH7DY6VAryCZCjTMy8mFi0ULeL38OeUDwdqHX9j_lpV_4axXYiJKQzzzhNZ6xYBniPDYxykYY713&s=1"
         }
       ]
     },
     "created_time": "2021-02-01T07:08:27+0000",
+    "updated_time": "2021-02-01T07:09:59+0000",
     "id": "1481985248595237_3461848233942252",
     "message": "For those of us interested in making computers do things for us, take a look at the many projects at https://mailchi.mp/59219f67f93e/sparking-ideas-issue-41-of-diyode-magazine-available-now-249514?e=92180899ac\n\nRemember to use our Discord service if you need any help, https://discord.gg/x9Eqzpck",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3461848233942252"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3461848233942252",
+    "retrieved_time": "2025-10-20T17:30:47.643283+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7012666828657964948?url=https%3A%2F%2Fprojects.raspberrypi.org%2Fstatic%2Fmedia%2Flogomark.20300533.svg&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmL5OGJAvhoWWzlV29wBsUMtvlgsd1xYuJw93cVzk_-EeB780Rbj31h7DyFmw_c18Y&ccb=13-1&oh=06_Q3-4AWSuJml4YceE72S5k9Ui3aL3Jq8voZPOm5VzPtL4aly4&oe=68F81C3C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7012666828657964948?url=https%3A%2F%2Fprojects.raspberrypi.org%2Fstatic%2Fmedia%2Flogomark.20300533.svg&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmL5OGJAvhoWWzlV29wBsUMtvlgsd1xYuJw93cVzk_-EeB780Rbj31h7DyFmw_c18Y&ccb=13-1&oh=06_Q3-4Ae-AWQM0X2tg-u6d46OZxrwCP03m2sr5PsxFtWYdUHnW&oe=68F8547C&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT2Qqbk_QxeC8UUt-ElZgdkKqpFF1z1_DmiEYI9ZY6BQJ8QA4lPha2qHb3s4St5ZVitdiuwcASvRRC5wC6aLpy1ghSQpQkYLn8xrAi2V6gzdpgMDitFgpMdW0BSGIEW1&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT0-iVX6MV9VZhZPTQ99I4fgx9void4s_SC8w1juhVplTS7OcRmJBegwRKPmabVEI77-DYfsd_7HfUhu8m2TdS6-JXawfAYFFT8eNIkOYCHJ_UEiQVw9dk0KlFOGBP2y&s=1"
           },
           "title": "Projects | Raspberry Pi Projects",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT2Qqbk_QxeC8UUt-ElZgdkKqpFF1z1_DmiEYI9ZY6BQJ8QA4lPha2qHb3s4St5ZVitdiuwcASvRRC5wC6aLpy1ghSQpQkYLn8xrAi2V6gzdpgMDitFgpMdW0BSGIEW1&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT0-iVX6MV9VZhZPTQ99I4fgx9void4s_SC8w1juhVplTS7OcRmJBegwRKPmabVEI77-DYfsd_7HfUhu8m2TdS6-JXawfAYFFT8eNIkOYCHJ_UEiQVw9dk0KlFOGBP2y&s=1"
         }
       ]
     },
     "created_time": "2021-01-21T08:36:32+0000",
+    "updated_time": "2021-01-21T08:36:32+0000",
     "id": "1481985248595237_3432969276830148",
     "message": "For those keen to get started with programming, the main Code Club has some impressive projects with lots of support tutorials at ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3432969276830148"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3432969276830148",
+    "retrieved_time": "2025-10-20T17:30:47.643289+00:00"
   },
   {
     "attachments": {
@@ -438,25 +530,31 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6849981301606394634?url=https%3A%2F%2Fmaps.googleapis.com%2Fmaps%2Fapi%2Fstaticmap%3Fcenter%3D52.6834606%2C-1.8274373%26markers%3Dcolor%3Ared%7C52.6834606%2C-1.8274373%26key%3DAIzaSyDT0mMwhQaPf3J-DApAXMiPP5qYyj5lc5I%26scale%3D2%26size%3D600x400%26zoom%3D15&fb_obo=1&utld=googleapis.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=Adm-qzeURDlzOsCLiuAY8Cn3EtNa2_Ezq7EOP4EYHvwFBnGbm0HGbLzEqvaSFD0unaI&ccb=13-1&oh=06_Q3-4ATBLaorh9kAwOhQztkJdtt1YgqrTKnlGkm9pcakcjHXq&oe=68F821E9&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6849981301606394634?url=https%3A%2F%2Fmaps.googleapis.com%2Fmaps%2Fapi%2Fstaticmap%3Fcenter%3D52.6834606%2C-1.8274373%26markers%3Dcolor%3Ared%7C52.6834606%2C-1.8274373%26key%3DAIzaSyDT0mMwhQaPf3J-DApAXMiPP5qYyj5lc5I%26scale%3D2%26size%3D600x400%26zoom%3D15&fb_obo=1&utld=googleapis.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=Adm-qzeURDlzOsCLiuAY8Cn3EtNa2_Ezq7EOP4EYHvwFBnGbm0HGbLzEqvaSFD0unaI&ccb=13-1&oh=06_Q3-4Acg_nF7A25SZeDWv1DoKLB2moCp22G8pidyoC5kEMsUN&oe=68F85A29&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3WZqAjre5e34AqR9dRR1Ogt74uCb2Ly6EvSZ-31mQ22F2iRMgAdagc2Skk4W-wrdM5JGKglGSjlpq1q8_aAQ7BoOxGc9kpNVUrLX3RdeJX4KGdSDTroM1o5WCiGb5a&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3F3jwmTLZbakUpXoL1Il7H6456YpTkdZfm5mU_PxGyEgTn0dIbLjV1OH9YM-l7KegUwpaJhRtHNbqD89v7Bs6Ew4bibJN9yuV3hDIyJ5qBxAcpXA-8TCbCfIsJxZ0a&s=1"
           },
           "title": "Lichfield Library \u2014 Code Club",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3WZqAjre5e34AqR9dRR1Ogt74uCb2Ly6EvSZ-31mQ22F2iRMgAdagc2Skk4W-wrdM5JGKglGSjlpq1q8_aAQ7BoOxGc9kpNVUrLX3RdeJX4KGdSDTroM1o5WCiGb5a&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3F3jwmTLZbakUpXoL1Il7H6456YpTkdZfm5mU_PxGyEgTn0dIbLjV1OH9YM-l7KegUwpaJhRtHNbqD89v7Bs6Ew4bibJN9yuV3hDIyJ5qBxAcpXA-8TCbCfIsJxZ0a&s=1"
         }
       ]
     },
     "created_time": "2021-01-17T18:12:39+0000",
+    "updated_time": "2021-01-18T21:52:44+0000",
     "id": "1481985248595237_3423966971063712",
     "message": "https://codeclub.org/en/clubs/d3922adc-312e-49e5-8d80-90d2fe263bf5\n\nHi everyone, just a note to say we are working on our online presence and now have a Discord presence. This is a social media server that let's us exchange ideas and code. One of our young coders is trying their hand at web design. Check out lichfieldcodeclub.uk \n\nRemember, we have a Club Page on the main Code Club Site, where you can find lots of projects to have a go at. I am going to investigate the possibility of having virtual Code Club meetings on Zoom. This would allow us to see and speak to each other and share ideas and projects. I need to do a bit of research on this first to make sure we stick to the guidelines etc and that we can do this in a safe way that respects your privacy.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3423966971063712"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3423966971063712",
+    "retrieved_time": "2025-10-20T17:30:47.643295+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -464,25 +562,31 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/8094861047756141507?url=https%3A%2F%2Fimages.ctfassets.net%2F28643bqnqgzl%2F42TB41kM9DYONvrcLHjFjf%2Fdb683d6c9d6354586fe09d3cc415376d%2F10_free_courses_nzr4qp.jpg&fb_obo=1&utld=ctfassets.net&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=Adm18YN9E7-F9YBWHeJG46pn7ttc1jW8Xv_CbSFOvv13k270BkhpxU_07cY9RrTKWf4&ccb=13-1&oh=06_Q3-4AZ5r1B5VsjwJOBdjg7jPq1BTvzryF7UvwJp4ESL720lj&oe=68F810EC&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/8094861047756141507?url=https%3A%2F%2Fimages.ctfassets.net%2F28643bqnqgzl%2F42TB41kM9DYONvrcLHjFjf%2Fdb683d6c9d6354586fe09d3cc415376d%2F10_free_courses_nzr4qp.jpg&fb_obo=1&utld=ctfassets.net&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=Adm18YN9E7-F9YBWHeJG46pn7ttc1jW8Xv_CbSFOvv13k270BkhpxU_07cY9RrTKWf4&ccb=13-1&oh=06_Q3-4AS9O61aAh2cmjutYXUTJZZC2TS5PQZUdu-wuNEKdYAZI&oe=68F8492C&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT01hRfwUmyFLDlflDRiqUKcdJNdq1qrojeAAaviWG-Lqwjek_hFOjp4-0XBIO8mY_Wm02qBvDL9A6q3gDHLvY18bocBiwfz3teZuxktmfByKTKtJwGGIG-Lj0bofZpG&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT0mLjOhyTeWfZjhedcv9a1IFKpUm9JMqaQBZIvL6AheY0FWpFRajPm7T57W_n_rPqBJqG_tODU9BcDUsekOSVXve8Yl_sMc3TKCMITGlxJUG9SdlexCtJ50ukl8qquY&s=1"
           },
           "title": "10 Awesome Free Courses for Devs by Devs",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT01hRfwUmyFLDlflDRiqUKcdJNdq1qrojeAAaviWG-Lqwjek_hFOjp4-0XBIO8mY_Wm02qBvDL9A6q3gDHLvY18bocBiwfz3teZuxktmfByKTKtJwGGIG-Lj0bofZpG&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT0mLjOhyTeWfZjhedcv9a1IFKpUm9JMqaQBZIvL6AheY0FWpFRajPm7T57W_n_rPqBJqG_tODU9BcDUsekOSVXve8Yl_sMc3TKCMITGlxJUG9SdlexCtJ50ukl8qquY&s=1"
         }
       ]
     },
     "created_time": "2021-01-08T08:39:26+0000",
+    "updated_time": "2021-01-08T08:39:26+0000",
     "id": "1481985248595237_3399306986863044",
     "message": "A useful set of 10 free tutorials for coders,  including Python, Java, JavaScript and HTML. Some say that they're for complete beginners\n\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3399306986863044"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3399306986863044",
+    "retrieved_time": "2025-10-20T17:30:47.643300+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -490,47 +594,61 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdmEhKsW0tgwfRiMRGYTvxj-uocERX10ff4FyK9obe00rMY5280Swarf71D7jMXo3e8&ccb=13-1&oh=06_Q3-4AZfNCNEFA-TSuHe4MmcDmj8q47s3oO0aBNsAhbt0z-IW&oe=68F83442&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=bW_1RMXhx4r604hLrDVbZg&_nc_oc=AdmEhKsW0tgwfRiMRGYTvxj-uocERX10ff4FyK9obe00rMY5280Swarf71D7jMXo3e8&ccb=13-1&oh=06_Q3-4AZr228keeLHKPC9ILEHrP-t0ucNxGK24uy4GHNweH3_Q&oe=68F83442&_nc_sid=ef6713",
               "width": 400
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT3Bxg8vIojLvbUEK0uiIZQoXguVF3s1um95K9Q7JOywbbq4bs9W5XuQG4qncfvPe1-TceRLWf-bHZRsVZJiEGbg2fbZ_NHW5YETtO8mHH5CwJ3QM3unQ0qbHpH6_Kq3&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT1lfSzPmUCEuITyfcZM_8O7qYSvB0XKam4ShcVEDOKLjQ9LvEjeLjLH-vqYDG26zGdhudxa7JipdEKKIqCV9dqk6JH5M2c4TSGjYCvtcnsem96d_2jvmsf0yD86KTT6&s=1"
           },
           "title": "DIYODE Magazine",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT3Bxg8vIojLvbUEK0uiIZQoXguVF3s1um95K9Q7JOywbbq4bs9W5XuQG4qncfvPe1-TceRLWf-bHZRsVZJiEGbg2fbZ_NHW5YETtO8mHH5CwJ3QM3unQ0qbHpH6_Kq3&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT1lfSzPmUCEuITyfcZM_8O7qYSvB0XKam4ShcVEDOKLjQ9LvEjeLjLH-vqYDG26zGdhudxa7JipdEKKIqCV9dqk6JH5M2c4TSGjYCvtcnsem96d_2jvmsf0yD86KTT6&s=1"
         }
       ]
     },
     "created_time": "2021-01-07T08:22:32+0000",
+    "updated_time": "2021-01-07T08:22:32+0000",
     "id": "1481985248595237_3396858063774603",
     "message": "There's a chance to win a MicroBIT v2 courtesy of DIYODE\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3396858063774603"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3396858063774603",
+    "retrieved_time": "2025-10-20T17:30:47.643306+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "description": "This is our new, improved Arduino tutorial series.",
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT0BJt_MFL52VlyQjruaz1zH7x7fuLAqldKD4jy35GC5z-UPELUN4MWUn44FuQ57eOJOATK6AwN8_NcRUD8zhuWnbM8DduYnHaZ2m7Rgy7GEacbR_qMnnTHzgCbzTjUm&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT1LyvfkOTJeA6lRHGX64SPnUBAwg3y9I4Cd4RZWxva9uCBCrdUHuUw4mX9xlstP0iYeQCazxbOgc1C5W8Q89Q4vJgm_-7vxGG-SBoxs57fXyxqKHhf1yyP7MleqD8bv&s=1"
           },
           "title": "New Arduino Tutorials",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT0BJt_MFL52VlyQjruaz1zH7x7fuLAqldKD4jy35GC5z-UPELUN4MWUn44FuQ57eOJOATK6AwN8_NcRUD8zhuWnbM8DduYnHaZ2m7Rgy7GEacbR_qMnnTHzgCbzTjUm&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT1LyvfkOTJeA6lRHGX64SPnUBAwg3y9I4Cd4RZWxva9uCBCrdUHuUw4mX9xlstP0iYeQCazxbOgc1C5W8Q89Q4vJgm_-7vxGG-SBoxs57fXyxqKHhf1yyP7MleqD8bv&s=1"
         }
       ]
     },
     "created_time": "2021-01-03T16:54:42+0000",
+    "updated_time": "2021-01-03T16:54:42+0000",
     "id": "1481985248595237_3388460661281010",
     "message": "Hi Folks\nI would like to recommend a YouTube channel to help complete beginners to program computers ...\n\nPaul McWhorter has updated his Arduino tutorials on YouTube.\nIt's a very easy way to get to know how to program computers, or in this case microcontrollers.\nIt requires an Arduino kit from Elegoo, which sells on Amazon for \u00a331.50 which might sound a lot but there are hundreds of things that can be done using it. \nhttps://smile.amazon.co.uk/Project-Starter-Tutorial-Prototype-Expansion/dp/B01D8KOZF4/ref=sr_1_3?crid=2T17WWH7QOAUA&dchild=1&keywords=elegoo+arduino+uno+super+starter+kit&qid=1609692584&quartzVehicle=35-498&replacementKeywords=elegoo+arduino+super+starter+kit&sprefix=elegoo+arduino+super+starter+kit%2Caps%2C175&sr=8-3\n\nhttps://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP\n\nAlso, bear in mind that we help out with any problems via our Discord server.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3388460661281010"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3388460661281010",
+    "retrieved_time": "2025-10-20T17:30:47.643312+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2020-12-27T11:54:43+0000",
+    "updated_time": "2020-12-27T11:54:43+0000",
     "id": "1481985248595237_3371841929609550",
     "message": "I should have said that if you're interested then leave a message in the 'general' channel of our discord server",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371841929609550"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371841929609550",
+    "retrieved_time": "2025-10-20T17:30:47.643317+00:00"
   }
 ]

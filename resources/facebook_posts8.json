@@ -1,23 +1,33 @@
 [
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flichfield-code-club.github.io%2F&h=AT1HctegmPD5vcGIeVjrBGwVVTvyUoLlICtox0LN0gHATqSyrJpu38H3oMqMkmtiOjnpVGBSDVi02AhdMTrWPCwzJHX0y8t7RIF7KqZ9Pjk4wpWJTU2OknaSc68UXpAf&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flichfield-code-club.github.io%2F&h=AT2ou7BNixM6zGZKLn7wn1vhGQXuVBcXPdhHgqPDhC71FtM7YQxQtGY2JtQzdXhQvC1Kt8d7YzAeLCBX9NdyJhfpXB0wLg3nK_a0zI8WmG97_b0rrUQgOMTW36nSxZcU&s=1"
           },
           "title": "lichfield-code-club.github.io",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flichfield-code-club.github.io%2F&h=AT1HctegmPD5vcGIeVjrBGwVVTvyUoLlICtox0LN0gHATqSyrJpu38H3oMqMkmtiOjnpVGBSDVi02AhdMTrWPCwzJHX0y8t7RIF7KqZ9Pjk4wpWJTU2OknaSc68UXpAf&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flichfield-code-club.github.io%2F&h=AT2ou7BNixM6zGZKLn7wn1vhGQXuVBcXPdhHgqPDhC71FtM7YQxQtGY2JtQzdXhQvC1Kt8d7YzAeLCBX9NdyJhfpXB0wLg3nK_a0zI8WmG97_b0rrUQgOMTW36nSxZcU&s=1"
         }
       ]
     },
     "created_time": "2020-12-27T11:28:15+0000",
+    "updated_time": "2020-12-27T11:28:15+0000",
     "id": "1481985248595237_3371802869613456",
     "message": "Hi Lichfield Library Code Club members and anyone else who's interested. \nWe'd like people to help build our website, https://lichfield-code-club.github.io/\nIt'll be a good way to help youngsters learn how to code and develop collaboration skills.\nWe'll be using github to hold the files and serve the web pages.\nWe will be using Jekyll to create the web pages.\n\nIf interested please contact us on the discord channel, the link is in previous post.\n\nHope you all are having a good Christmas.\n\nMark",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371802869613456"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371802869613456",
+    "retrieved_time": "2025-10-20T17:30:49.834651+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -28,10 +38,16 @@
       ]
     },
     "created_time": "2020-12-27T11:21:37+0000",
+    "updated_time": "2020-12-27T11:21:37+0000",
     "id": "1481985248595237_3371791989614544",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371791989614544"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3371791989614544",
+    "retrieved_time": "2025-10-20T17:30:49.834684+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -39,25 +55,31 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AVQhMNHZMwzjsYkpLaWdHFcCDz5s96DsGUJK67sw1FmW&oe=68F8330C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AVhRJ1QHeMJD-UxxeK5XMFTJAvLL5UhGESaUNHD2WUAO&oe=68F86B4C&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT26hBDoqNZHpy-EQIjebshB7eM3ov2N0L5nu4_WMDGpgujiS0CWlhWR1bxQrSKjyU-3K_wVHkegKCsS5FL6IXgJcnoM-v25l7PohYMzFnk-abU6-th8DRLpEuwgomrf&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT11tERL5bD-_yF24bDmMmUUdNFx7DuQDwrZpvYVNVoREBFkAK_zeOtxZptVGgeqNwq5kKvRWpcdgiso9ellsFPd07kaevos8hMw08MIFqOKLAk240Q-St6GCSFFgkQi&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT26hBDoqNZHpy-EQIjebshB7eM3ov2N0L5nu4_WMDGpgujiS0CWlhWR1bxQrSKjyU-3K_wVHkegKCsS5FL6IXgJcnoM-v25l7PohYMzFnk-abU6-th8DRLpEuwgomrf&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT11tERL5bD-_yF24bDmMmUUdNFx7DuQDwrZpvYVNVoREBFkAK_zeOtxZptVGgeqNwq5kKvRWpcdgiso9ellsFPd07kaevos8hMw08MIFqOKLAk240Q-St6GCSFFgkQi&s=1"
         }
       ]
     },
     "created_time": "2020-12-07T05:33:06+0000",
+    "updated_time": "2020-12-07T05:33:06+0000",
     "id": "1481985248595237_3323599134433830",
     "message": "During the pandemic it's easier to get support and chat with us using discord. \n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3323599134433830"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3323599134433830",
+    "retrieved_time": "2025-10-20T17:30:49.834694+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -65,25 +87,31 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AVQhMNHZMwzjsYkpLaWdHFcCDz5s96DsGUJK67sw1FmW&oe=68F8330C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AVhRJ1QHeMJD-UxxeK5XMFTJAvLL5UhGESaUNHD2WUAO&oe=68F86B4C&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT33pjoHPLdo1ceHepoXNMV8zLOvjVXMv4EZErkHElYEDYSrXignkg85sCgSpljgXZN3pxddJHz743gYYZplrm1rDLLqdkQ6sK0flpIUqLNh1hqjdyqNoJjgyOwsoMHt&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT1CNuwLwxyMGsgSvXQo801vEiLGtWD-vD8kbuVbT9nMZcOBT176zANp9_jcESOHHWnAWKkx--6ltRy_NBnRKUnanNtazLzF3xajJMSOMl5Wz1L6jyohX62mBP4_awTe&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT33pjoHPLdo1ceHepoXNMV8zLOvjVXMv4EZErkHElYEDYSrXignkg85sCgSpljgXZN3pxddJHz743gYYZplrm1rDLLqdkQ6sK0flpIUqLNh1hqjdyqNoJjgyOwsoMHt&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT1CNuwLwxyMGsgSvXQo801vEiLGtWD-vD8kbuVbT9nMZcOBT176zANp9_jcESOHHWnAWKkx--6ltRy_NBnRKUnanNtazLzF3xajJMSOMl5Wz1L6jyohX62mBP4_awTe&s=1"
         }
       ]
     },
     "created_time": "2020-10-10T06:32:33+0000",
+    "updated_time": "2020-10-10T06:32:33+0000",
     "id": "1481985248595237_3170152423111836",
     "message": "Here's an invitation to join our discord channel that doesn't expire ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3170152423111836"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3170152423111836",
+    "retrieved_time": "2025-10-20T17:30:49.834701+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -91,25 +119,31 @@
           "media": {
             "image": {
               "height": 512,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p512x512_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AdAxIuvtBW-OumOfkpMZLnlbNFDb65TiB3ZYyhTL_9ux&oe=68F8330C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p512x512_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AWmV2H3jcyvgQuSKz7lkjIMJ8G9dFRxffQ-5YGeHD9HZ&oe=68F86B4C&_nc_sid=ef6713",
               "width": 512
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2F3D7zaZ&h=AT1n7CccosTPmXxzkB2IYUlqxNgjJbu5jgPVaCOJucb9-jlt8OfpmDZ2oZSYb4ZZxQMZPoto1bJ20muxMY2hu7gTowqNOp_TXStkV23LOVDVQ43fibZufk5kS3i_u6iE&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2F3D7zaZ&h=AT2uflzYJ4BQ0BjuQtQYaynhmpv3ZxdAi91VUZcObKF_irqTaNu3G1VLbYjaGxZDi7J2yCXLKXbM7n5bvXwAIJ5nKpCzCp2PWzrG-d5l0qyCxU7z6j5UpFWz_mtvG3tP&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2F3D7zaZ&h=AT1n7CccosTPmXxzkB2IYUlqxNgjJbu5jgPVaCOJucb9-jlt8OfpmDZ2oZSYb4ZZxQMZPoto1bJ20muxMY2hu7gTowqNOp_TXStkV23LOVDVQ43fibZufk5kS3i_u6iE&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2F3D7zaZ&h=AT2uflzYJ4BQ0BjuQtQYaynhmpv3ZxdAi91VUZcObKF_irqTaNu3G1VLbYjaGxZDi7J2yCXLKXbM7n5bvXwAIJ5nKpCzCp2PWzrG-d5l0qyCxU7z6j5UpFWz_mtvG3tP&s=1"
         }
       ]
     },
     "created_time": "2020-10-01T09:53:54+0000",
+    "updated_time": "2020-10-01T09:53:54+0000",
     "id": "1481985248595237_3142728399187572",
     "message": "To help Code Club and other people remotely during lock down we've create a discord channel. Discord allows us to communicate and help each other far more easily than email or WhatsApp.\n\nHere's a link to join\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3142728399187572"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3142728399187572",
+    "retrieved_time": "2025-10-20T17:30:49.834707+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -117,25 +151,31 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/105145902524689289?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fmedia%2Flogos%2Flogo-ms-social.png&fb_obo=1&utld=microsoft.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Admb91JsRG5rqsu7iEttnG2j9ldPspXzW8N4zqDd2uszURlO-0-E7yal1HsNMLOrSe0&ccb=13-1&oh=06_Q3-4Aco_jupXjKgRovO9KHv6xND1TWqn0xMbKoqPvPZBj00x&oe=68F818EB&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/105145902524689289?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fmedia%2Flogos%2Flogo-ms-social.png&fb_obo=1&utld=microsoft.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Admb91JsRG5rqsu7iEttnG2j9ldPspXzW8N4zqDd2uszURlO-0-E7yal1HsNMLOrSe0&ccb=13-1&oh=06_Q3-4AVZgdtxJUYM8ayfStV_LlP6HNKBL0Jf7KZRZG80h8Ynx&oe=68F8512B&_nc_sid=ef6713",
               "width": 400
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcore%2Ftutorials%2Fwith-visual-studio-code%3FWT.mc_id%3Demail&h=AT3n2ogjC4JFaWObXxMHf0tLvz4kG5MTV2s8AvLOJbFUOvVgr1XmvBdjWGc3TkxQe2ZuRyK1nCESRRBm9MmCbg8barT4TiMsmQ1ODHi_KHKXZVQKb0C7FJ65mQChJhiQ&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcore%2Ftutorials%2Fwith-visual-studio-code%3FWT.mc_id%3Demail&h=AT0Oq8HWjnPTnHd2xBx8ek5nV2nhQJBXnWFDGIApjTmxqPm2_Wgz8r0AkX6zGAXPbbIqX7bR7rZmkgELaZJdWsdciy6cocQ4UutCqd1MdwJRhrq4V8nX2ZKY841hqMsW&s=1"
           },
           "title": "Create a .NET Core console application using Visual Studio Code - .NET Core",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcore%2Ftutorials%2Fwith-visual-studio-code%3FWT.mc_id%3Demail&h=AT3n2ogjC4JFaWObXxMHf0tLvz4kG5MTV2s8AvLOJbFUOvVgr1XmvBdjWGc3TkxQe2ZuRyK1nCESRRBm9MmCbg8barT4TiMsmQ1ODHi_KHKXZVQKb0C7FJ65mQChJhiQ&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcore%2Ftutorials%2Fwith-visual-studio-code%3FWT.mc_id%3Demail&h=AT0Oq8HWjnPTnHd2xBx8ek5nV2nhQJBXnWFDGIApjTmxqPm2_Wgz8r0AkX6zGAXPbbIqX7bR7rZmkgELaZJdWsdciy6cocQ4UutCqd1MdwJRhrq4V8nX2ZKY841hqMsW&s=1"
         }
       ]
     },
     "created_time": "2020-08-22T21:41:19+0000",
+    "updated_time": "2020-08-22T21:41:19+0000",
     "id": "1481985248595237_3025397214254025",
     "message": "Follow the tutorial below to create a simple C# console program...\n\nCreate a .NET Core console application using Visual Studio Code - .NET Core | Microsoft Docs https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?WT.mc_id=email \n\nAny problems please post here",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3025397214254025"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3025397214254025",
+    "retrieved_time": "2025-10-20T17:30:49.834713+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -143,7 +183,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/118005860_3017964994997247_2352315816706414406_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T9NsAOcGfOgQ7kNvwFxYhMs&_nc_oc=AdmK7QZM6i5-EOxxSi_2uptzGnjR8daNXZDYvH6ou1-z2uwUSFDRNEmUQL5tfPZptis&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfedtKSD5jNKBJBhPkiD3IsvN_zmowV50BH5w4wVXpglmg&oe=691DB21E",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/118005860_3017964994997247_2352315816706414406_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T9NsAOcGfOgQ7kNvwFxYhMs&_nc_oc=AdmK7QZM6i5-EOxxSi_2uptzGnjR8daNXZDYvH6ou1-z2uwUSFDRNEmUQL5tfPZptis&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AffwrTiWAxwltGbP5Z5p8B2ZjqQrtE6wXNNw03zTi-MkmA&oe=691DEA5E",
               "width": 960
             }
           },
@@ -157,11 +197,17 @@
       ]
     },
     "created_time": "2020-08-20T10:10:16+0000",
+    "updated_time": "2020-08-20T10:10:16+0000",
     "id": "1481985248595237_3017995848327495",
     "message": "Connecting Visual Studio Code to GitHub\n===========================\nThis only has to be done once.\n\nFirstly, if you don't have your own GitHub account please email LichfieldCodeClub@gmail.com for a username and password.\n\nWith Visual Studio Code running it can be connected to our Code Club GitHub account by pressing Ctrl+Shift+G or by clicking on the 'Source Code' symbol, 3 connected circles, in the left hand  menu.\n\nClick on 'Clone Repository' and then 'Clone from GitHub', you'll be prompted to give permission for Visual Studio Code to connect to GitHub. Your browser will then open and again ask for Authorisation. Click on 'Continue'\n\nEnter the login details and click 'Authorize github'. \nIf you're asked which repository to clone, please use https://github.com/lichfieldcodeclub/hello-world.git\n\nThat should be it.\nLet us know, here, if you have any problems",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017995848327495"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017995848327495",
+    "retrieved_time": "2025-10-20T17:30:49.834719+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -169,25 +215,31 @@
           "media": {
             "image": {
               "height": 506,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6512927827096492298?url=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-home.png&fb_obo=1&utld=visualstudio.com&stp=c0.5000x0.5000f_dst-emg0_p506x506_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adk7YVruFsP8_vtAxa4M8rGmmbJ-16ccL_3M_BpNhvLHDmdy0oBDyyNEe8xzOilfSV0&ccb=13-1&oh=06_Q3-4ATlbjTtR_7yfXTFef-uvHos1iFZrZGUEZbpzJk1Xn8i6&oe=68F82CC5&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6512927827096492298?url=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-home.png&fb_obo=1&utld=visualstudio.com&stp=c0.5000x0.5000f_dst-emg0_p506x506_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adk7YVruFsP8_vtAxa4M8rGmmbJ-16ccL_3M_BpNhvLHDmdy0oBDyyNEe8xzOilfSV0&ccb=13-1&oh=06_Q3-4Ac0tVpv5-8CLHyCeB05ANpvei8NtOyXXNLDcDTK-Q1lc&oe=68F86505&_nc_sid=ef6713",
               "width": 506
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcode.visualstudio.com%2Fdownload&h=AT2NLB4PvoOCDo--lT3p5_dg2r6Imc-MM9-i8Yekyzm8CD9a3zJIfB6J5mEBKUWhFax_QNCW9PqGt9QKrKV0PqYgB0oLLWajkHjMtYkju1JxzEyp8aLZ1Ddu6I3jYWwA&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcode.visualstudio.com%2Fdownload&h=AT0r5YOsH06NzvDu6cY7RyPa52OsI0uvddfro22iUm39WXDBv_hVCVh_fZx0d7Ad7k9R0YAUsWpRt1tu5fsCYp-l45wtFKW7vs6YdEo2aH5kEsB8zyoo8v8Q-a9_vJse&s=1"
           },
           "title": "Download Visual Studio Code - Mac, Linux, Windows",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcode.visualstudio.com%2Fdownload&h=AT2NLB4PvoOCDo--lT3p5_dg2r6Imc-MM9-i8Yekyzm8CD9a3zJIfB6J5mEBKUWhFax_QNCW9PqGt9QKrKV0PqYgB0oLLWajkHjMtYkju1JxzEyp8aLZ1Ddu6I3jYWwA&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcode.visualstudio.com%2Fdownload&h=AT0r5YOsH06NzvDu6cY7RyPa52OsI0uvddfro22iUm39WXDBv_hVCVh_fZx0d7Ad7k9R0YAUsWpRt1tu5fsCYp-l45wtFKW7vs6YdEo2aH5kEsB8zyoo8v8Q-a9_vJse&s=1"
         }
       ]
     },
     "created_time": "2020-08-20T09:23:33+0000",
+    "updated_time": "2020-08-20T09:23:33+0000",
     "id": "1481985248595237_3017901791670234",
     "message": "Visual Studio Code is an IDE, Integrated Development Environment, that is free, easy to install and get started with, and is used by professional programmers.\n\nIt supports many programming languages, including C# for windows development, C++ which is popular for console game development, Python for scripting, Java for commercial development, and many more.\n\nIt can be downloaded from ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017901791670234"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017901791670234",
+    "retrieved_time": "2025-10-20T17:30:49.834725+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -195,23 +247,25 @@
           "media": {
             "image": {
               "height": 420,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdnZrTho_h4hVYRGyqOs5fR4sdFqxqHc1pffEC8dpagdiSae04ZgJe4xVL3SXCmQ4E8&ccb=13-1&oh=06_Q3-4Aewp_xPdDkuUJz8W5VogvhS4x6yMFMt3q1pI5zMHn2DZ&oe=68F8259F&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/4865698139169778473?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69750400%3Fs%3D280%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdnZrTho_h4hVYRGyqOs5fR4sdFqxqHc1pffEC8dpagdiSae04ZgJe4xVL3SXCmQ4E8&ccb=13-1&oh=06_Q3-4AUMuQwfykZSOrwsdSr1cZikONIun9qPDk6-NzCwWZxWu&oe=68F85DDF&_nc_sid=ef6713",
               "width": 420
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FLichfield-Code-Club&h=AT0MRADvCiXvy16ovlsN3peIAckVR5fKnQ51u4Y4U1ROdvTS1tmbb5xrDO1KclYnGrI9giI2oIcxDlk8vck_U581Kn7XKj3SnF-9qlxymCgl48EfFMSLh1giAikyLs8w&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FLichfield-Code-Club&h=AT1GeU0jNwZs7l1Rl2OfwPsPtW6YNV9fVWWJXCUCqqdKjcOOlgz9cauo-vfu6X6lZPzr1rGO7weRsyp79vo5mis5k9InI29IN22SONVqFkVvmGEjnpBMPn8UlRUP1x19&s=1"
           },
           "title": "Lichfield-Code-Club",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FLichfield-Code-Club&h=AT0MRADvCiXvy16ovlsN3peIAckVR5fKnQ51u4Y4U1ROdvTS1tmbb5xrDO1KclYnGrI9giI2oIcxDlk8vck_U581Kn7XKj3SnF-9qlxymCgl48EfFMSLh1giAikyLs8w&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FLichfield-Code-Club&h=AT1GeU0jNwZs7l1Rl2OfwPsPtW6YNV9fVWWJXCUCqqdKjcOOlgz9cauo-vfu6X6lZPzr1rGO7weRsyp79vo5mis5k9InI29IN22SONVqFkVvmGEjnpBMPn8UlRUP1x19&s=1"
         }
       ]
     },
     "created_time": "2020-08-20T07:26:02+0000",
+    "updated_time": "2020-08-20T07:26:02+0000",
     "id": "1481985248595237_3017688575024889",
     "message": "Hi Lichfield Code Club members\n\nStu and I have set up a GutHub group account where you can create programs and share them with other  Code Club members. This would allow us to help each other if we have problems.\n\nIf you already have a GitHub account, and it's better if you do, let us know your username and we'll add you to the group. If not, then send an email to LichfieldCodeClub@gmail.com and we'll send you a password so you can login to GitHub.\n\nThis is the GitHub link  for our group https://GitHub.com/Lichfield-Code-Club\n\nHope to see you there soon :-)\n\nMark",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017688575024889"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/3017688575024889",
+    "retrieved_time": "2025-10-20T17:30:49.834731+00:00"
   },
   {
     "attachments": {
@@ -221,7 +275,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QTdEjjIWX7cQ7kNvwEvlLOh&_nc_oc=AdkcCs4fyqqrH1V8DHv3mL-xhgnYIp2ZNeq0PKhSKJm7EgvlX52FOl7HY-KkeNN6tq8&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfcCLYGqEzUeIul75yNAylm6ViaaIGbBFzCsb9B6uJys7g&oe=691D9359",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/108002745_2913356888791392_129818066457733217_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QTdEjjIWX7cQ7kNvwEvlLOh&_nc_oc=AdkcCs4fyqqrH1V8DHv3mL-xhgnYIp2ZNeq0PKhSKJm7EgvlX52FOl7HY-KkeNN6tq8&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afet-7yplH2k-75lCz172nsZGdHW6NVT9ziofmFBMhjfNg&oe=691DCB99",
               "width": 1242
             }
           },
@@ -235,9 +289,11 @@
       ]
     },
     "created_time": "2020-07-13T19:03:10+0000",
+    "updated_time": "2020-07-13T19:17:36+0000",
     "id": "1481985248595237_2913359372124477",
     "message": "If you want to have a go at programming the VEX IQ robot, you no longer need a physical robot! Head over to https://vr.vex.com/ and start programming. Everything is free!",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2913359372124477"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2913359372124477",
+    "retrieved_time": "2025-10-20T17:30:49.834737+00:00"
   },
   {
     "attachments": {
@@ -246,7 +302,7 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=nlKdY4pTrrgQ7kNvwHIyp17&_nc_oc=AdkW4x1QYTFESUigNksiWAVcaAQSuHJeDrUO9BLx7DEgjrah4xSS6n_AzzvfxYkszVU&_nc_zt=24&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfeYf7WGybHbRFUcg2jFH7U25D1IRl7QFgqspRUDJ20oGA&oe=68FC0EC9",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=nlKdY4pTrrgQ7kNvwHIyp17&_nc_oc=AdkW4x1QYTFESUigNksiWAVcaAQSuHJeDrUO9BLx7DEgjrah4xSS6n_AzzvfxYkszVU&_nc_zt=24&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afe12S8wJ8k-ogLqlt9FgriG2mKrNGUO73Unjdq1NDkVRA&oe=68FC4709",
               "width": 200
             }
           },
@@ -257,72 +313,80 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17505087828569149953?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_large-kitronik-move-motor-for-bbc-microbit-buggy_1024x.jpg%3Fv%3D1593169205&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdldvZx6OTC896_-xP8_E9Kg8WptOfT8B7WN4TBJ6D38DGG8L_5_cCOnxzPOZe6G3Ck&ccb=13-1&oh=06_Q3-4ARwfLDaO79bWeWzn-JuwoKFR9oqSxa4LIOWNRiNOeusZ&oe=68F8129A&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17505087828569149953?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_large-kitronik-move-motor-for-bbc-microbit-buggy_1024x.jpg%3Fv%3D1593169205&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdldvZx6OTC896_-xP8_E9Kg8WptOfT8B7WN4TBJ6D38DGG8L_5_cCOnxzPOZe6G3Ck&ccb=13-1&oh=06_Q3-4AeEmH7bh5x217FOFBveqLwy2l1gb_EqI9mM6BP31P0VH&oe=68F84ADA&_nc_sid=ef6713",
                     "width": 720
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT35ofdiygO2faz16NPE6O2I0Dt5MCi6aA2J8Z_iDf9KrsyEWGyYBRvm4wv1DQJrSp8ywMHeY62FryHmofHEJ6E2CTpfuZkxOro58SYcYhlZSWJkzuhDJs3im__vY-2a&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT26MGeRuLu_QfuYjoB-UKmW3lAiAxNbd2RYaZlQGtfWXYacwswRSVNBCXGaD5VyerA7IBKxQbq4DKJ5BAD9zVIN3p8Z-q58c43huyNbAQj8ZWOLQ527Qx3NG_UIh0RJ&s=1"
                 },
                 "title": "Kitronik :MOVE Motor for the BBC micro:bit",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT35ofdiygO2faz16NPE6O2I0Dt5MCi6aA2J8Z_iDf9KrsyEWGyYBRvm4wv1DQJrSp8ywMHeY62FryHmofHEJ6E2CTpfuZkxOro58SYcYhlZSWJkzuhDJs3im__vY-2a&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT26MGeRuLu_QfuYjoB-UKmW3lAiAxNbd2RYaZlQGtfWXYacwswRSVNBCXGaD5VyerA7IBKxQbq4DKJ5BAD9zVIN3p8Z-q58c43huyNbAQj8ZWOLQ527Qx3NG_UIh0RJ&s=1"
               },
               {
                 "description": "The Kitronik :MOVE Motor for the BBC micro:bit provides a fun introduction to buggy robotics. More than just a programmable buggy, learning to use all of the included features will give the budding roboteer a solid grounding in robotics as a whole. No soldering and only minimal mechanical assembly r...",
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/16635160524036966423?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_additional-1-kitronik-move-motor-for-bbc-microbit-parts_1024x.jpg%3Fv%3D1593169216&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdmSpoRZcVMV5ccDpAg0RyRKvWi89zqY5JvWJbbmhCBNzrmvx440mHuK2-pC7fESUWw&ccb=13-1&oh=06_Q3-4AccNsFPshO9bCaKCOzFvH4EmUFv9ufUgVZfBT4yM95G4&oe=68F8197B&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/16635160524036966423?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_additional-1-kitronik-move-motor-for-bbc-microbit-parts_1024x.jpg%3Fv%3D1593169216&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdlYDDoKFIzibmLW8QVcbR868osF3OkG2w6opFyhh46HOPW8m8xgiFSgNDsEPoApeq8&ccb=13-1&oh=06_Q3-4AZnd0elqeAOg5dcoEdkGUfeMOTOWIVsgOZHTi2lLVGSD&oe=68F851BB&_nc_sid=ef6713",
                     "width": 720
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT3OpqINkmSRBZyLo6d25U6U4PYpAfiic0d6JgIi9ApKUqfIE3XqJXk0FUtzetCtPSxyYO7_KgwGo5NY9yvtt2G1A3qrx_GRxlFbmPHvZ3sQgdZF_Sjzq30FgeDU3kWO&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT1uORyWLUFpBNpHH36LC5CKDLyYYEMQJb_VET_TBS8lnGA1WcYJOiwenEacXduDXf8Y1z0TcQjCLeSzqd26ZXQyhBaUMq4BghY7CRX-1O7I-YFBTcB1D0aOG2GpyYlr&s=1"
                 },
                 "title": "Kitronik :MOVE Motor for the BBC micro:bit",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT3OpqINkmSRBZyLo6d25U6U4PYpAfiic0d6JgIi9ApKUqfIE3XqJXk0FUtzetCtPSxyYO7_KgwGo5NY9yvtt2G1A3qrx_GRxlFbmPHvZ3sQgdZF_Sjzq30FgeDU3kWO&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT1uORyWLUFpBNpHH36LC5CKDLyYYEMQJb_VET_TBS8lnGA1WcYJOiwenEacXduDXf8Y1z0TcQjCLeSzqd26ZXQyhBaUMq4BghY7CRX-1O7I-YFBTcB1D0aOG2GpyYlr&s=1"
               },
               {
                 "description": "The Kitronik :MOVE Motor for the BBC micro:bit provides a fun introduction to buggy robotics. More than just a programmable buggy, learning to use all of the included features will give the budding roboteer a solid grounding in robotics as a whole. No soldering and only minimal mechanical assembly r...",
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17166710333448432265?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_additional-2-kitronik-move-motor-for-bbc-microbit-drawing_1024x.jpg%3Fv%3D1593169231&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adl8G7IaRu1eYW3FlWfXYw34h71X30gWfLUOvfRAeRvi7Y8IN-HwQ704LFqUejICZRk&ccb=13-1&oh=06_Q3-4AdbOhRRpdI5LD26Zh8KnKUB_lLyaF306l4YU6vepZvZk&oe=68F80722&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17166710333448432265?url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0254%2F1191%2F1743%2Fproducts%2F5683_additional-2-kitronik-move-motor-for-bbc-microbit-drawing_1024x.jpg%3Fv%3D1593169231&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adl8G7IaRu1eYW3FlWfXYw34h71X30gWfLUOvfRAeRvi7Y8IN-HwQ704LFqUejICZRk&ccb=13-1&oh=06_Q3-4AVIuX3pwYX8REtD3c5qhmhXIRYxgRUcfg-zj7GloW2xX&oe=68F83F62&_nc_sid=ef6713",
                     "width": 720
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT0TaW5sVQSMuebZHhODtGH7-gd453fPFQxCs8Vy51NBH8g8LUvR71Fsp3rbqXKg5o4r1hgdkTkL3MX6NY6CX63kHk2BqRAPFW0a9hk8VOEFczw32Tkiovrqhkaw2hkX&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT1l8mHE5k6Yod3-8P-mjooBSBPYOqrKJhQbZXET2ZuZq9XnCdaChBR9FBDsgCZQmHliV0Rjp9L3REBLoDj9179d1EVDsGGaCsSWgyjMT6Sk4C8qXXvKeORncxk--Jpx&s=1"
                 },
                 "title": "Kitronik :MOVE Motor for the BBC micro:bit",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT0TaW5sVQSMuebZHhODtGH7-gd453fPFQxCs8Vy51NBH8g8LUvR71Fsp3rbqXKg5o4r1hgdkTkL3MX6NY6CX63kHk2BqRAPFW0a9hk8VOEFczw32Tkiovrqhkaw2hkX&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT1l8mHE5k6Yod3-8P-mjooBSBPYOqrKJhQbZXET2ZuZq9XnCdaChBR9FBDsgCZQmHliV0Rjp9L3REBLoDj9179d1EVDsGGaCsSWgyjMT6Sk4C8qXXvKeORncxk--Jpx&s=1"
               }
             ]
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT2b-ybx5RaiBHxWXrhLTv3uz5WybbTKN-GswVk0F8lykqiLtaaPW3lkwR5eOh_nIfa1rWQB-G-Xt5u2d-wrJx5LiyEZvCbwiQIkUWSmOvzl2-xfV2CLOH-Tmbecv9kD&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT2H9a2sza0UkhQ6uaJg3kmay0qB2nr1hlWKOFprBWnWOzpMRzx6XsvUMIoGrlKTc7g6B8VGVR4QWOTwtMQ6r7U-X-VknUj23Y0ATmdGs1sBd-DhtMKnZPgDnsyxRYmb&s=1"
           },
           "title": "Kitronik :MOVE Motor for the BBC micro:bit",
           "type": "multi_share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT2b-ybx5RaiBHxWXrhLTv3uz5WybbTKN-GswVk0F8lykqiLtaaPW3lkwR5eOh_nIfa1rWQB-G-Xt5u2d-wrJx5LiyEZvCbwiQIkUWSmOvzl2-xfV2CLOH-Tmbecv9kD&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fkitronik.co.uk%2Fproducts%2F5683-kitronik-move-motor-for-the-bbc-micro-bit%3F_pos%3D1%26_sid%3Dd0308aa85%26_ss%3Dr&h=AT2H9a2sza0UkhQ6uaJg3kmay0qB2nr1hlWKOFprBWnWOzpMRzx6XsvUMIoGrlKTc7g6B8VGVR4QWOTwtMQ6r7U-X-VknUj23Y0ATmdGs1sBd-DhtMKnZPgDnsyxRYmb&s=1"
         }
       ]
     },
     "created_time": "2020-07-01T19:08:36+0000",
+    "updated_time": "2020-07-01T19:08:36+0000",
     "id": "1481985248595237_2882075738586174",
     "message": "Kitronik have got a new buggy that can be controlled by the BBC Micro bit. It has:\n\n2 Motors.\n4 Multi-colour LEDs.\nUltra Sonic Distance Sensors. \nOutputs to drive up to 3 Servo motors.\n\nhttps://kitronik.co.uk/products/5683-kitronik-move-motor-for-the-bbc-micro-bit?_pos=1&_sid=d0308aa85&_ss=r",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2882075738586174"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2882075738586174",
+    "retrieved_time": "2025-10-20T17:30:49.834743+00:00"
   },
   {
     "created_time": "2020-07-01T13:06:49+0000",
+    "updated_time": "2020-07-01T13:06:49+0000",
     "id": "1481985248595237_2881332761993805",
     "message": "Good news everybody. Lichfield Library are re-opening on Monday 20th July. We won't be able to host Code Club just yet, however, the situation is being reviewed. Our apologies for not having any online activities. Hopefully those of you are keen about programming have been using Scratch and searching the internet for interesting things to do. I am going to post some BBC Micro bit stuff as there are some new kits available that are pocket money priced and I will be demonstrating these when we next meet. Please feel free to message us with any Code Club type questions. Kind regards to you all. Stay Safe.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2881332761993805"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2881332761993805",
+    "retrieved_time": "2025-10-20T17:30:49.834749+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -330,29 +394,33 @@
           "media": {
             "image": {
               "height": 250,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/3241344452188835468?url=https%3A%2F%2Fwww.raspberrypi.org%2Fapp%2Fuploads%2F2020%2F03%2F4227_Digital_Making_BLOG-500x250.png&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p250x250_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdkHWivf-3VGTvssPvB6XtYR6iPyf5QQlkk-GEal8L4KymXTHaUtWvoufHusqARcjqc&ccb=13-1&oh=06_Q3-4ASLdcbwlOMfDv-WAdwtxQ7rdNRPZzw7guheukuVTIH1N&oe=68F80B53&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/3241344452188835468?url=https%3A%2F%2Fwww.raspberrypi.org%2Fapp%2Fuploads%2F2020%2F03%2F4227_Digital_Making_BLOG-500x250.png&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p250x250_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdkHWivf-3VGTvssPvB6XtYR6iPyf5QQlkk-GEal8L4KymXTHaUtWvoufHusqARcjqc&ccb=13-1&oh=06_Q3-4ARQrnBBZghDJClDM5V_dhPTERMBIB0h_bjTo7MyLWjA3&oe=68F84393&_nc_sid=ef6713",
               "width": 250
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.raspberrypi.org%2Fblog%2Fdigital-making-at-home-making-games%2F&h=AT2hHHx0rfJJYp_H9pMOYxvjM5dz9AluO11Pe0Q6f3BkJZMF3iAdHhRrm7FNu6JMdmHbZflA_t0exmDqr1BWHaqwiW1bXz5-8zuSjrH5cdhdQAPCKL4QMJU7Q3LG7MF1&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.raspberrypi.org%2Fblog%2Fdigital-making-at-home-making-games%2F&h=AT30-rcZgKyZexLHd3KnMFjq-Ba5mTIdn8xpZxbBkzBIdODZmZAONVA7D1FzWz3EOLBmJ_nSEToL2VL_mMrPLJ3RDyNzvoM87IPcLuwL69lwQ7Gv81tETrl9NXa8jR6z&s=1"
           },
           "title": "Digital Making at Home: Making games - Raspberry Pi",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.raspberrypi.org%2Fblog%2Fdigital-making-at-home-making-games%2F&h=AT2hHHx0rfJJYp_H9pMOYxvjM5dz9AluO11Pe0Q6f3BkJZMF3iAdHhRrm7FNu6JMdmHbZflA_t0exmDqr1BWHaqwiW1bXz5-8zuSjrH5cdhdQAPCKL4QMJU7Q3LG7MF1&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.raspberrypi.org%2Fblog%2Fdigital-making-at-home-making-games%2F&h=AT30-rcZgKyZexLHd3KnMFjq-Ba5mTIdn8xpZxbBkzBIdODZmZAONVA7D1FzWz3EOLBmJ_nSEToL2VL_mMrPLJ3RDyNzvoM87IPcLuwL69lwQ7Gv81tETrl9NXa8jR6z&s=1"
         }
       ]
     },
     "created_time": "2020-04-04T05:30:44+0000",
+    "updated_time": "2020-04-04T05:30:44+0000",
     "id": "1481985248595237_2670440239749726",
     "message": "Whilst we're in lock down take a look at online courses for budding computer engineers like the one from the raspberry pi organisation:\n ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2670440239749726"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2670440239749726",
+    "retrieved_time": "2025-10-20T17:30:49.834757+00:00"
   },
   {
     "created_time": "2020-03-16T20:38:36+0000",
+    "updated_time": "2020-03-17T09:23:02+0000",
     "id": "1481985248595237_2630842913709459",
     "message": "Hi Everyone. I think Code Club should stop meeting for a while following government advice. Please check with the Library for access to computers. Take care everyone. Stewart and Mark \ud83d\ude0a",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2630842913709459"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2630842913709459",
+    "retrieved_time": "2025-10-20T17:30:49.834763+00:00"
   },
   {
     "attachments": {
@@ -361,7 +429,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbuC1LfAARcQ7kNvwFHScVG&_nc_oc=AdnvovL-ev2VcnYRA4xg0IUYF8GOPXL1OqyKjSOHMRvm8ExjQc7s4bqqMR4_n7lOEKI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Affu2A9p_wYO4vV2lCmtcsmeCekUAvE06oYBjGLoteyibA&oe=691DBE21",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbuC1LfAARcQ7kNvwFHScVG&_nc_oc=AdnvovL-ev2VcnYRA4xg0IUYF8GOPXL1OqyKjSOHMRvm8ExjQc7s4bqqMR4_n7lOEKI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afc2UOf8Jox0l8gbPx4OXS99nn-Ne1e_oWQGU2EuV8FR7A&oe=691DF661",
               "width": 960
             }
           },
@@ -371,7 +439,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbuC1LfAARcQ7kNvwFHScVG&_nc_oc=AdnvovL-ev2VcnYRA4xg0IUYF8GOPXL1OqyKjSOHMRvm8ExjQc7s4bqqMR4_n7lOEKI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Affu2A9p_wYO4vV2lCmtcsmeCekUAvE06oYBjGLoteyibA&oe=691DBE21",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89142065_2619610371499380_6957497722714718208_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbuC1LfAARcQ7kNvwFHScVG&_nc_oc=AdnvovL-ev2VcnYRA4xg0IUYF8GOPXL1OqyKjSOHMRvm8ExjQc7s4bqqMR4_n7lOEKI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afc2UOf8Jox0l8gbPx4OXS99nn-Ne1e_oWQGU2EuV8FR7A&oe=691DF661",
                     "width": 960
                   }
                 },
@@ -386,7 +454,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89354028_2619610381499379_1856391689757786112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Bod-Sy3Xa_wQ7kNvwFGYeZT&_nc_oc=AdlDrUSdqaqnuuXYwnNn1s1xLlOAOmqihTHDejwjck5gdmUb42Vjl2lwVrXA9e2-aBw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Afd3nheiD_L-dz6u4IphgJzdgU-a4zqUr02O_Sggz6rsxw&oe=691DABB9",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/89354028_2619610381499379_1856391689757786112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Bod-Sy3Xa_wQ7kNvwFGYeZT&_nc_oc=AdlDrUSdqaqnuuXYwnNn1s1xLlOAOmqihTHDejwjck5gdmUb42Vjl2lwVrXA9e2-aBw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AfebXaPqD2CKm5kDrOS9-YeRZTI5i6K4zyiwuq0BEAWh9Q&oe=691DE3F9",
                     "width": 960
                   }
                 },
@@ -401,7 +469,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/89436758_2619610464832704_3088625808504258560_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FlQ8qw4VHK4Q7kNvwE5Niru&_nc_oc=Adl_hySOWxaNuXjtcyCLakKsP0CjVxxCyvuKc9H2V6D7RIVPCsOgKHktDFnM6DYYX7M&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Afd4vc-YvFTwaCAbmZf-5xHi4Wz_1XNFjpZqS09QOX0PbQ&oe=691DBE8F",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/89436758_2619610464832704_3088625808504258560_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FlQ8qw4VHK4Q7kNvwE5Niru&_nc_oc=Adl_hySOWxaNuXjtcyCLakKsP0CjVxxCyvuKc9H2V6D7RIVPCsOgKHktDFnM6DYYX7M&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afc0H74J7KFv46vDwbuyMCIFGHIQ17SGOpcQ80uqlZImWw&oe=691DF6CF",
                     "width": 960
                   }
                 },
@@ -425,9 +493,11 @@
       ]
     },
     "created_time": "2020-03-11T12:14:16+0000",
+    "updated_time": "2020-03-11T12:14:16+0000",
     "id": "1481985248595237_2619615164832234",
     "message": "More BBC Micro BIT programming last night. Controlling a line following buggy and a multicolour LED using a Scratch like interface. We also viewed our code as Java Script. Next week we shall be demonstrating a Raspberry PI for those that are thinking of buying one for themselves. \ud83d\ude0a",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2619615164832234"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2619615164832234",
+    "retrieved_time": "2025-10-20T17:30:49.834769+00:00"
   },
   {
     "attachments": {
@@ -436,7 +506,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NWUTUBLiu0sQ7kNvwEh9Nbc&_nc_oc=AdlKBL8yXPafhuJATMpqMOEHW1vEcKxJGEATGZ6hvjyG9t4RoGl-Y1IQ0r9nGeFA-VI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Afdz0i804ETCnh3NdBfQ9F3z1ZibulZYcL9q9T_j7GPIAg&oe=691DA72E",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NWUTUBLiu0sQ7kNvwEh9Nbc&_nc_oc=AdlKBL8yXPafhuJATMpqMOEHW1vEcKxJGEATGZ6hvjyG9t4RoGl-Y1IQ0r9nGeFA-VI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AfeWq4kR1CUNV9myXBlFywgBt1k3PWrGFcDfL7GdW9rC-Q&oe=691DDF6E",
               "width": 960
             }
           },
@@ -446,7 +516,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NWUTUBLiu0sQ7kNvwEh9Nbc&_nc_oc=AdlKBL8yXPafhuJATMpqMOEHW1vEcKxJGEATGZ6hvjyG9t4RoGl-Y1IQ0r9nGeFA-VI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Afdz0i804ETCnh3NdBfQ9F3z1ZibulZYcL9q9T_j7GPIAg&oe=691DA72E",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/88237727_2603892453071172_8057173770428743680_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NWUTUBLiu0sQ7kNvwEh9Nbc&_nc_oc=AdlKBL8yXPafhuJATMpqMOEHW1vEcKxJGEATGZ6hvjyG9t4RoGl-Y1IQ0r9nGeFA-VI&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AfeWq4kR1CUNV9myXBlFywgBt1k3PWrGFcDfL7GdW9rC-Q&oe=691DDF6E",
                     "width": 960
                   }
                 },
@@ -461,7 +531,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/89233376_2603892479737836_4326527153777672192_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JRgZeJ_ZigIQ7kNvwGOd2eQ&_nc_oc=AdkbTQDdvbH1xDbJzgICDlKTORQRvESErm95YCZ8SYF-e2ZyL9ChDZysBtMxY62aibs&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfdN_dk7rbA9UP2CdPlcIp5Mrub5ANyqZ24VVOXxxnVkFA&oe=691DBBF0",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/89233376_2603892479737836_4326527153777672192_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JRgZeJ_ZigIQ7kNvwGOd2eQ&_nc_oc=AdkbTQDdvbH1xDbJzgICDlKTORQRvESErm95YCZ8SYF-e2ZyL9ChDZysBtMxY62aibs&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afc1NYSHe1LAAb6UNRCUcJ_ivVye9RjxRhabAofMqbO5HQ&oe=691DF430",
                     "width": 960
                   }
                 },
@@ -476,7 +546,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/88111784_2603892563071161_7956944854536159232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XIpDhZbhdwMQ7kNvwEBTTwE&_nc_oc=AdmxkOCl_wsMAdH6TGFVw2wOQpXKgnciDeW0ZLOW4SFzDuVY4a7i6DZvGPoxZhX_Ulc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AffZWlJQ3Z-8tICk3LtQBd3iUozBwxFfIbFp2QCfA0Ss1w&oe=691DA388",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/88111784_2603892563071161_7956944854536159232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XIpDhZbhdwMQ7kNvwEBTTwE&_nc_oc=AdmxkOCl_wsMAdH6TGFVw2wOQpXKgnciDeW0ZLOW4SFzDuVY4a7i6DZvGPoxZhX_Ulc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AfeNmBHPzqykYn8gmMD-lFJGjPL6QRE7_wIGDM0LEKQhhA&oe=691DDBC8",
                     "width": 960
                   }
                 },
@@ -491,7 +561,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/87463065_2603892573071160_5488569403689664512_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Zuf8zUIvRBwQ7kNvwH3WTC5&_nc_oc=AdlOTofCOXnQzD_0mNboDG4f53E9OT7kjKsZ-JHEWZ3O2LlRiU3KsiGopjf9cl07GkA&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfflMSkepM5wmz9HzyTzKBkAJOFDrHsYcdgB1DlCG_INzQ&oe=691DB7A3",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/87463065_2603892573071160_5488569403689664512_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Zuf8zUIvRBwQ7kNvwH3WTC5&_nc_oc=AdlOTofCOXnQzD_0mNboDG4f53E9OT7kjKsZ-JHEWZ3O2LlRiU3KsiGopjf9cl07GkA&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afcb623F-T5vq68Yac-dBtVm8Rtv5qV334LfR6ml7danmQ&oe=691DEFE3",
                     "width": 960
                   }
                 },
@@ -506,7 +576,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/88347103_2603892673071150_935449756879028224_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W8KclXT86-AQ7kNvwEkOyLE&_nc_oc=AdmFCaHR6o2DbGcxoIoROMlY5CngZ5m8p8p9z0JADeTG6qIUSYqfVYGrsxaGbN_MMgk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_Afc7j2niKNZH20hUU6wOObcCsvRxZZ9gAe_0st53dJAtcg&oe=691D9EB2",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/88347103_2603892673071150_935449756879028224_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W8KclXT86-AQ7kNvwEkOyLE&_nc_oc=AdmFCaHR6o2DbGcxoIoROMlY5CngZ5m8p8p9z0JADeTG6qIUSYqfVYGrsxaGbN_MMgk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AffQX7IZcu_RqIwKlcEeH5OBfG8cefkOQZCPkXK4sV8zPA&oe=691DD6F2",
                     "width": 960
                   }
                 },
@@ -530,11 +600,17 @@
       ]
     },
     "created_time": "2020-03-03T20:07:35+0000",
+    "updated_time": "2020-03-03T20:07:35+0000",
     "id": "1481985248595237_2603898853070532",
     "message": "Great session tonight. Scratch, HTML, BBC Micro BIT. We had Alexa created with Scratch, a line following robot, some demonstrations of changing HTML on the fly \ud83d\ude09 and as ever some great Scratch games programming. Brilliant effort guys and gals, thanks for attending.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2603898853070532"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2603898853070532",
+    "retrieved_time": "2025-10-20T17:30:49.834775+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -542,32 +618,38 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17046974441265039860?url=http%3A%2F%2Fredmonk.com%2Fsogrady%2Ffiles%2F2020%2F02%2Flang.rank_.120.wm_-1024x805.png&fb_obo=1&utld=redmonk.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdkYQJvYPlnmz_9H6jWET0-Dms4qIO_PIjcJdEH9_y-maTkA1hux-PIvQa_uqAyn4eg&ccb=13-1&oh=06_Q3-4AehUYwy-R3MR-CuUwDdZWWUGXlsD56QIPbzaNIgtcUiT&oe=68F8359B&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17046974441265039860?url=http%3A%2F%2Fredmonk.com%2Fsogrady%2Ffiles%2F2020%2F02%2Flang.rank_.120.wm_-1024x805.png&fb_obo=1&utld=redmonk.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdkYQJvYPlnmz_9H6jWET0-Dms4qIO_PIjcJdEH9_y-maTkA1hux-PIvQa_uqAyn4eg&ccb=13-1&oh=06_Q3-4AZIxfszApE-IqjPWK5LaJ9ViSXyR3JnOhpflcCWXkUAt&oe=68F8359B&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fredmonk.com%2Fsogrady%2F2020%2F02%2F28%2Flanguage-rankings-1-20%2F&h=AT0vsu-pf6gS3UGqvFjlcMsZfv8YDF2ssutJNRzexEBTvmNpUnD6fnT6qMbLE8G66Dbay6fm3-P1hl8iLgXh1vXfsvChcp7UQcEeGCI_eYJx15I5OyqhdhsBlxJTXDEd&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fredmonk.com%2Fsogrady%2F2020%2F02%2F28%2Flanguage-rankings-1-20%2F&h=AT3UJqGy9rgY-lNml73BCA5WvQkC9pLgV7yitjhJjqNTJ7VCZWBbbKeaVSm44nzRvJitP8b1J1pTDKnVoR1vUp_u1qG5e7buBmWEsx0RHn33_FZGVUM2Z7tiyzVBuUke&s=1"
           },
           "title": "The RedMonk Programming Language Rankings: January 2020",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fredmonk.com%2Fsogrady%2F2020%2F02%2F28%2Flanguage-rankings-1-20%2F&h=AT0vsu-pf6gS3UGqvFjlcMsZfv8YDF2ssutJNRzexEBTvmNpUnD6fnT6qMbLE8G66Dbay6fm3-P1hl8iLgXh1vXfsvChcp7UQcEeGCI_eYJx15I5OyqhdhsBlxJTXDEd&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fredmonk.com%2Fsogrady%2F2020%2F02%2F28%2Flanguage-rankings-1-20%2F&h=AT3UJqGy9rgY-lNml73BCA5WvQkC9pLgV7yitjhJjqNTJ7VCZWBbbKeaVSm44nzRvJitP8b1J1pTDKnVoR1vUp_u1qG5e7buBmWEsx0RHn33_FZGVUM2Z7tiyzVBuUke&s=1"
         }
       ]
     },
     "created_time": "2020-02-29T05:39:47+0000",
+    "updated_time": "2020-02-29T05:39:47+0000",
     "id": "1481985248595237_2596452640481820",
     "message": "It's interesting to see which programming languages are popular. Red Monk show that Python and JavaScript are near the top\n\n",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2596452640481820"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2596452640481820",
+    "retrieved_time": "2025-10-20T17:30:49.834781+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 200,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=nlKdY4pTrrgQ7kNvwHIyp17&_nc_oc=AdkW4x1QYTFESUigNksiWAVcaAQSuHJeDrUO9BLx7DEgjrah4xSS6n_AzzvfxYkszVU&_nc_zt=24&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfeYf7WGybHbRFUcg2jFH7U25D1IRl7QFgqspRUDJ20oGA&oe=68FC0EC9",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-1/303246001_588675982950827_6220443957268084166_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=nlKdY4pTrrgQ7kNvwHIyp17&_nc_oc=AdkW4x1QYTFESUigNksiWAVcaAQSuHJeDrUO9BLx7DEgjrah4xSS6n_AzzvfxYkszVU&_nc_zt=24&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Afe12S8wJ8k-ogLqlt9FgriG2mKrNGUO73Unjdq1NDkVRA&oe=68FC4709",
               "width": 200
             }
           },
@@ -578,80 +660,82 @@
                 "media": {
                   "image": {
                     "height": 525,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6768891619360449696?url=https%3A%2F%2Fthonny.org%2Fimg%2Fscreenshot.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p525x525_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdnhJMgXPSRQ2heVRlUvRseyKiYa0JNwSUxOMFLlaBH2t1AcNLxH2cQrhxv1_TKpuxw&ccb=13-1&oh=06_Q3-4AZSndIi9V_R8FgOqcb9Ysbu43OZLwi28OtQAUdVPUFCo&oe=68F82C2D&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6768891619360449696?url=https%3A%2F%2Fthonny.org%2Fimg%2Fscreenshot.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p525x525_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdnhJMgXPSRQ2heVRlUvRseyKiYa0JNwSUxOMFLlaBH2t1AcNLxH2cQrhxv1_TKpuxw&ccb=13-1&oh=06_Q3-4AZigR30vXJ0j7ipn9AOHRrsk0eR373jpFGo0VeoogtLK&oe=68F8646D&_nc_sid=ef6713",
                     "width": 525
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3pz_uTLW0ueA8y6ZiQ-afjtdVRWuPg7czkONs8OPrSL-a0_vjq6mNEeEcoZ2gZ4MKenHDTQEheImlRh73j5lWZUUpRfsPifsp9Q7YaKDrhu0eNMpgvdUaV9qCHATEj&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT10Yg_lLH9t-xBp8sR4oQZsFMBI36KxgquJ87DosHFaKRthFb_ySaF8h7w40NcKnVyJb3p73w4PNsnKnklPD329ApmWI0cg4CNPbIRBP8ea3I-NTn5KJwK97OJIarfb&s=1"
                 },
                 "title": "Thonny, Python IDE for beginners",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3pz_uTLW0ueA8y6ZiQ-afjtdVRWuPg7czkONs8OPrSL-a0_vjq6mNEeEcoZ2gZ4MKenHDTQEheImlRh73j5lWZUUpRfsPifsp9Q7YaKDrhu0eNMpgvdUaV9qCHATEj&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT10Yg_lLH9t-xBp8sR4oQZsFMBI36KxgquJ87DosHFaKRthFb_ySaF8h7w40NcKnVyJb3p73w4PNsnKnklPD329ApmWI0cg4CNPbIRBP8ea3I-NTn5KJwK97OJIarfb&s=1"
               },
               {
                 "description": "Easy to get started. Thonny comes with Python 3.7 built in, so just one simple installer is needed and you're ready to learn programming. (You can also use a separate Python installation, if necessary.) The initial user interface is stripped of all features that may distract beginners.",
                 "media": {
                   "image": {
                     "height": 252,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6528694441279703124?url=https%3A%2F%2Fthonny.org%2Fimg%2Fget_started.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p252x252_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adnt9QSYcuSUtcbU9MvYCMQWZq62lkpP9gyu5Y215dqYqeuVh_l2emDCO_e6K_ptauQ&ccb=13-1&oh=06_Q3-4ASb7kIQOKm-_ZngAnJaU0pRnYur0iW6iMYuvObYbHB3P&oe=68F8130A&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/6528694441279703124?url=https%3A%2F%2Fthonny.org%2Fimg%2Fget_started.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p252x252_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adnt9QSYcuSUtcbU9MvYCMQWZq62lkpP9gyu5Y215dqYqeuVh_l2emDCO_e6K_ptauQ&ccb=13-1&oh=06_Q3-4AUlt2UUUD-cheD96KyC-bgeZalU-T7LcoWaDkDZd2N-G&oe=68F84B4A&_nc_sid=ef6713",
                     "width": 252
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1VRV3QAdU40qMlP_DiDUyvpsSGXWSsKOPW0S-0lAsc6i6KiI2UtDy_n-F4dzNn5zE-HnsQAvMJaMI34sYxgvji6dLrLZOI_zg-tW0Q6x1dt3D0Cjdp4CiPM57z77Vn&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3WpQG1D-bspr9dXCE63Wukj1IjuSxLsTxuHqVnjpQsNaVBfJdvOmshNX-YXTLEhydMQYwCGPg_Z4eOP-xYjo0m6OiBpFXTHhDyNpaiCT3wPNvlVcfT0tVCDVJ8PY57&s=1"
                 },
                 "title": "Thonny, Python IDE for beginners",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1VRV3QAdU40qMlP_DiDUyvpsSGXWSsKOPW0S-0lAsc6i6KiI2UtDy_n-F4dzNn5zE-HnsQAvMJaMI34sYxgvji6dLrLZOI_zg-tW0Q6x1dt3D0Cjdp4CiPM57z77Vn&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3WpQG1D-bspr9dXCE63Wukj1IjuSxLsTxuHqVnjpQsNaVBfJdvOmshNX-YXTLEhydMQYwCGPg_Z4eOP-xYjo0m6OiBpFXTHhDyNpaiCT3wPNvlVcfT0tVCDVJ8PY57&s=1"
               },
               {
                 "description": "Easy to get started. Thonny comes with Python 3.7 built in, so just one simple installer is needed and you're ready to learn programming. (You can also use a separate Python installation, if necessary.) The initial user interface is stripped of all features that may distract beginners.",
                 "media": {
                   "image": {
                     "height": 250,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/14343859727702055377?url=https%3A%2F%2Fthonny.org%2Fimg%2Fcalls.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p250x250_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdmqxGdfFlkz_0u_2gHxG_3DRjw9ldDcy2SVwAjvsQkKoVLEit8ExSaknvV-90R5p6I&ccb=13-1&oh=06_Q3-4AfveJwLvo89t3mbXwfXtBJOk7lVv1WFs3CDHKv2C9aRv&oe=68F809D6&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/14343859727702055377?url=https%3A%2F%2Fthonny.org%2Fimg%2Fcalls.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p250x250_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdmqxGdfFlkz_0u_2gHxG_3DRjw9ldDcy2SVwAjvsQkKoVLEit8ExSaknvV-90R5p6I&ccb=13-1&oh=06_Q3-4ARvRsnml-z2NABs0R6ZsNnvp2JvaTvE1ENavo7AdnccE&oe=68F84216&_nc_sid=ef6713",
                     "width": 250
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1lsXlvgpZLw5CdDdGnNRj2L0C7qy0nfMbsnmiI_IlPAE_HFPFyyWS7eq5AbdEvKzt8ukDf1T5xFH_N1mtC_1VxYeLWmDO62JgrE1fsmJNR403cmE-850kOX_c2fQTD&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3oNnMPvlS8PYbJA7Ix6AEz35mS5AmiebGjdfmGs_-U1iVJcNPI__R6MNnCO1f-J9MvB2VacNcfw8Unv0egk3VPhpOZDVIVps-hJNDA9QpTaDZGLQpfFqVAbQAvFrax&s=1"
                 },
                 "title": "Thonny, Python IDE for beginners",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1lsXlvgpZLw5CdDdGnNRj2L0C7qy0nfMbsnmiI_IlPAE_HFPFyyWS7eq5AbdEvKzt8ukDf1T5xFH_N1mtC_1VxYeLWmDO62JgrE1fsmJNR403cmE-850kOX_c2fQTD&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3oNnMPvlS8PYbJA7Ix6AEz35mS5AmiebGjdfmGs_-U1iVJcNPI__R6MNnCO1f-J9MvB2VacNcfw8Unv0egk3VPhpOZDVIVps-hJNDA9QpTaDZGLQpfFqVAbQAvFrax&s=1"
               },
               {
                 "description": "Easy to get started. Thonny comes with Python 3.7 built in, so just one simple installer is needed and you're ready to learn programming. (You can also use a separate Python installation, if necessary.) The initial user interface is stripped of all features that may distract beginners.",
                 "media": {
                   "image": {
                     "height": 230,
-                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/14054653918775482502?url=https%3A%2F%2Fthonny.org%2Fimg%2Fheap.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p230x230_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdliHk9Iwneg0HfXF-hPBLH1suDEESqPyU_L_Mj21phb0XmJEvJlBwdi4e3GlY0NBHk&ccb=13-1&oh=06_Q3-4AffDN5OXW4M0fAOqs7i9S5lMXXl_duMLILPnkQjoHThT&oe=68F809F4&_nc_sid=ef6713",
+                    "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/14054653918775482502?url=https%3A%2F%2Fthonny.org%2Fimg%2Fheap.png&fb_obo=1&utld=thonny.org&stp=c0.5000x0.5000f_dst-emg0_p230x230_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdliHk9Iwneg0HfXF-hPBLH1suDEESqPyU_L_Mj21phb0XmJEvJlBwdi4e3GlY0NBHk&ccb=13-1&oh=06_Q3-4AeAtmeQQTIfGmTpzCCDwh-zRyJEucfPDpu5Lh7t03za-&oe=68F84234&_nc_sid=ef6713",
                     "width": 230
                   }
                 },
                 "target": {
-                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1XieYZUE4vaBVObybJGvM3mNpLBZM9hSzgb0SL2w-csk2mQI_L2k1CgkBWzpaTJXx7rR8lFAs7y1yBlH1m5Fel6aHw0It_14qXKwZbTl3jNksAIIA1vIyRskWBBQ0a&s=1"
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT166vnNFSxO9FXSBR8hBZMWOi11sx6JsYDbBhq8Y-bwtMpJqQRyxwzuyP6f07cXy-uSj12eX6tmAFFJ-qCiAsAT7OaDrPOGSM4B3g26RQv1nvleGwGl8vVs8nl4MYjy&s=1"
                 },
                 "title": "Thonny, Python IDE for beginners",
                 "type": "share",
-                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1XieYZUE4vaBVObybJGvM3mNpLBZM9hSzgb0SL2w-csk2mQI_L2k1CgkBWzpaTJXx7rR8lFAs7y1yBlH1m5Fel6aHw0It_14qXKwZbTl3jNksAIIA1vIyRskWBBQ0a&s=1"
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT166vnNFSxO9FXSBR8hBZMWOi11sx6JsYDbBhq8Y-bwtMpJqQRyxwzuyP6f07cXy-uSj12eX6tmAFFJ-qCiAsAT7OaDrPOGSM4B3g26RQv1nvleGwGl8vVs8nl4MYjy&s=1"
               }
             ]
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1l4Mt7f84ET-p9NVAFZ8tL5t_2hRVP_QCz4t1Gv8vhDzgU80Kci3U6N8GyYi_gEpx_p9T05e7PnajlUlRUrbpVyKvBr36jKAoMRIg8lZ2ZVesuNHD3FQ72zJpKVIr9&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3RsOoVq1ZVVHg_HTQ5wdEh2S5Wgfe0msgl7c7BNeFo7UC2scrtZ_z3lxVs1zUmEgyo5yfHwztP48bhaHN7ovhQ1Y-QVNCiJv6Q6MIbZUnEQwff6wnuKtT9Cuo1Bsm6&s=1"
           },
           "title": "Thonny, Python IDE for beginners",
           "type": "multi_share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT1l4Mt7f84ET-p9NVAFZ8tL5t_2hRVP_QCz4t1Gv8vhDzgU80Kci3U6N8GyYi_gEpx_p9T05e7PnajlUlRUrbpVyKvBr36jKAoMRIg8lZ2ZVesuNHD3FQ72zJpKVIr9&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthonny.org%2F&h=AT3RsOoVq1ZVVHg_HTQ5wdEh2S5Wgfe0msgl7c7BNeFo7UC2scrtZ_z3lxVs1zUmEgyo5yfHwztP48bhaHN7ovhQ1Y-QVNCiJv6Q6MIbZUnEQwff6wnuKtT9Cuo1Bsm6&s=1"
         }
       ]
     },
     "created_time": "2020-01-29T19:29:52+0000",
+    "updated_time": "2020-01-29T19:29:52+0000",
     "id": "1481985248595237_2535192743274477",
     "message": "For those who want to get familiar with Python using an IDE, Integrated Development Environment.\nI would recommend Thonny.\nHere's how to install it and get started with a 2D game:\n\nTHONNY\n======\nDownload and install Thonny: https://thonny.org/\nInstall pygame from Tools->Manage Packages\n\nPygame tutorial video\nThere are 10 vidoes which help build a functional game @ https://www.youtube.com/watch?v=i6xMBig-pP4\n\nAny problems ask here or at our next meeting in Lichfield Library\n\nMark",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2535192743274477"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2535192743274477",
+    "retrieved_time": "2025-10-20T17:30:49.834787+00:00"
   },
   {
     "attachments": {
@@ -660,7 +744,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/82825840_2503623969764688_7450092959321554944_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=toUN_RZk9z8Q7kNvwFIlELY&_nc_oc=AdkXfnLU98j6x1fM0D0vE2pfaiiuxCEvLctr6vQwkfFO0vD9c6QyuFj_6LbNkwBgoso&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfcASqny7orsxG4sBWk2WNYZzaxMnRM1aHM6XC5hshIaeA&oe=691DB279",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/82825840_2503623969764688_7450092959321554944_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=toUN_RZk9z8Q7kNvwFIlELY&_nc_oc=AdkXfnLU98j6x1fM0D0vE2pfaiiuxCEvLctr6vQwkfFO0vD9c6QyuFj_6LbNkwBgoso&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Aff-QhARbu5HG7DRtLrp4eZfbRD2Br4Ol_WVC-LKimM10g&oe=691DEAB9",
               "width": 960
             }
           },
@@ -670,7 +754,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/82825840_2503623969764688_7450092959321554944_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=toUN_RZk9z8Q7kNvwFIlELY&_nc_oc=AdkXfnLU98j6x1fM0D0vE2pfaiiuxCEvLctr6vQwkfFO0vD9c6QyuFj_6LbNkwBgoso&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfcASqny7orsxG4sBWk2WNYZzaxMnRM1aHM6XC5hshIaeA&oe=691DB279",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/82825840_2503623969764688_7450092959321554944_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=toUN_RZk9z8Q7kNvwFIlELY&_nc_oc=AdkXfnLU98j6x1fM0D0vE2pfaiiuxCEvLctr6vQwkfFO0vD9c6QyuFj_6LbNkwBgoso&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_Aff-QhARbu5HG7DRtLrp4eZfbRD2Br4Ol_WVC-LKimM10g&oe=691DEAB9",
                     "width": 960
                   }
                 },
@@ -685,7 +769,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/82428893_2503623979764687_8962918549941125120_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hXzqrp5S-EsQ7kNvwFizOq8&_nc_oc=AdlvdXRpOnfEPbCjMzu8IF8IH4b3cmxscitsJ5_XwZx71DKkygXeZAqqaFCRzEZHuao&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfcUNB9AK6miAlLnjgLWBCGIpxvGY5UuRt8qIum8kjzwGg&oe=691D955B",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/82428893_2503623979764687_8962918549941125120_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hXzqrp5S-EsQ7kNvwFizOq8&_nc_oc=AdlvdXRpOnfEPbCjMzu8IF8IH4b3cmxscitsJ5_XwZx71DKkygXeZAqqaFCRzEZHuao&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AffeNthVwKcX0FrrkurfihuOyXZIB8KIm4rw89iTZP_d-Q&oe=691DCD9B",
                     "width": 960
                   }
                 },
@@ -700,7 +784,7 @@
                 "media": {
                   "image": {
                     "height": 700,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/82288152_2503624073098011_8918047295727992832_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=znFliKZWMp4Q7kNvwH3iZlS&_nc_oc=AdlXPhlnGFJwbJXY1t1KegUjqMvrRgQWgyKPCbaNCRpA1odQkDZUuvw3AZEaE7KeLRk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&oh=00_AfftasQB2oyUU9UYFn_Gr7OIILQA96DcHZ0-vPwcGUrdEA&oe=691D9B38",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/82288152_2503624073098011_8918047295727992832_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=znFliKZWMp4Q7kNvwH3iZlS&_nc_oc=AdlXPhlnGFJwbJXY1t1KegUjqMvrRgQWgyKPCbaNCRpA1odQkDZUuvw3AZEaE7KeLRk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&oh=00_AfckaAs_OV0wyl1MNUXFF8wgKVb5EJJDC1n-yXvP294FMw&oe=691DD378",
                     "width": 960
                   }
                 },
@@ -724,17 +808,25 @@
       ]
     },
     "created_time": "2020-01-13T20:31:26+0000",
+    "updated_time": "2020-01-14T06:23:32+0000",
     "id": "1481985248595237_2503628716430880",
     "message": "Thank you to Tim, Bill and Sean for bringing this OWI Robot Arm in last session. We should be able to control it using a Raspberry Pi and either a Motor Controller Board or relays to simulate the switches on the remote controller.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2503628716430880"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2503628716430880",
+    "retrieved_time": "2025-10-20T17:30:49.834793+00:00"
   },
   {
     "created_time": "2020-01-06T11:54:00+0000",
+    "updated_time": "2020-02-29T23:44:02+0000",
     "id": "1481985248595237_2487485588045193",
     "message": "Code Club starts again Tomorrow at Lichfield Library. 16:50 - 17:50\n\ud83d\ude0a",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2487485588045193"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2487485588045193",
+    "retrieved_time": "2025-10-20T17:30:49.834799+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -742,25 +834,31 @@
           "media": {
             "image": {
               "height": 420,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/10769396810181609814?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F231856%3Fs%3D400%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adkqz9gG128oSHDhpjSOSV5d4IiIeV7rmmSVbIBD7yajCNaXPT-fE478bpr1N0r99dQ&ccb=13-1&oh=06_Q3-4AaTtxR6aeYoN98L05HcNCOrCT4cmh79_k5L2P9AwhESj&oe=68F82320&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/10769396810181609814?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F231856%3Fs%3D400%26v%3D4&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p420x420_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adkqz9gG128oSHDhpjSOSV5d4IiIeV7rmmSVbIBD7yajCNaXPT-fE478bpr1N0r99dQ&ccb=13-1&oh=06_Q3-4AWxwk6OxCo7i3CHEbBuMVdpAl3oN02NGhhbSw82JIaJl&oe=68F85B60&_nc_sid=ef6713",
               "width": 420
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fboppreh%2Fkeyboard%23api&h=AT0DBVfnWQTC6AFveMl_jKaHklerScxtL7Z4220MHnnGjNZPBPH8NWmhDI-sWi3fhUF53m6Q5IrrXbxoAwOELf9m3p6yFsGL4uadyOTsVRt7CPXUwevG4FPYqdw6y1Xr&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fboppreh%2Fkeyboard%23api&h=AT1GodXCNImBAwEDWJSg_tz3MDIAwhE_HPolQWUxIXI2gn6F2Z7069kLO9amg6fs9sR4tHCGuf--SFr_x9U-nmGTz7RqtGbu9gXCJADnHlZph2Psiu61zBf74d3qtnh_&s=1"
           },
           "title": "boppreh/keyboard",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fboppreh%2Fkeyboard%23api&h=AT0DBVfnWQTC6AFveMl_jKaHklerScxtL7Z4220MHnnGjNZPBPH8NWmhDI-sWi3fhUF53m6Q5IrrXbxoAwOELf9m3p6yFsGL4uadyOTsVRt7CPXUwevG4FPYqdw6y1Xr&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fboppreh%2Fkeyboard%23api&h=AT1GodXCNImBAwEDWJSg_tz3MDIAwhE_HPolQWUxIXI2gn6F2Z7069kLO9amg6fs9sR4tHCGuf--SFr_x9U-nmGTz7RqtGbu9gXCJADnHlZph2Psiu61zBf74d3qtnh_&s=1"
         }
       ]
     },
     "created_time": "2019-12-18T12:33:19+0000",
+    "updated_time": "2019-12-18T12:33:19+0000",
     "id": "1481985248595237_2445918752201877",
     "message": "The following is a simple program where the user has to reach the ! by pressing keys to move up, down, left and right.\nIt uses the input function which requires the user to press enter. This proves the logic of the game.\nThe challenge is to replace the input function with something that does not requires the user to press enter, eg keyboard \nhttps://github.com/boppreh/keyboard#api\nCopy and paste the following into Idle and run\n\nfrom random import randint\n\nmaze = [\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    [\"X\",\"X\",\"X\",\"X\",],\n    ]\nxmax = len(maze[0]) - 1\nymax = len(maze) - 1\n\ndef move(xcur,ycur,xpos,ypos):\n    done = False\n    if xpos >= 0 and xpos <= xmax:\n        if ypos >= 0 and ypos <= ymax:\n            maze[ycur][xcur] = \"X\"\n            done = maze[ypos][xpos] == '!'\n            maze[ypos][xpos] = \"?\"\n    draw()\n    return done\n\ndef draw():\n    for line in maze:\n        l = ''\n        for xp in line: l += xp\n        print(l)\n\ndef init():\n    x = randint(0,xmax)\n    y = randint(0,ymax)\n    maze[y][x] = \"!\"\n    xcur = xpos = randint(0,xmax)\n    ycur = ypos = randint(0,ymax)\n    move(xcur,ycur,xpos,ypos)\n    return xcur,ycur\n\nxpos, ypos = xcur,ycur = init()\ndone = False\nwhile not done:\n    newpos = False\n    \n    print('Next Move')\n    key=input()\n    \n    if key == 'W':\n        if ypos < ymax:\n            ypos += 1\n            newpos = True\n    if key == 'S':\n        if ypos > 0:\n            ypos -= 1\n            newpos = True\n    if key == 'A':\n        if xpos > 0:\n            xpos -= 1\n            newpos = True\n    if key == 'D':\n        if xpos < xmax:\n            xpos += 1\n            newpos = True\n    if newpos:\n        done = move(xcur,ycur,xpos,ypos)\n        xcur = xpos\n        ycur = ypos\nif done:\n    print('Game Over!!')",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445918752201877"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445918752201877",
+    "retrieved_time": "2025-10-20T17:30:49.834806+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -768,43 +866,55 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adk_nnIdBdOa_LDpdP7Z0VLyfD3huyEh5Ouv-ZDXidCQD4Dtbv3aSyU22R26vlPDpRA&ccb=13-1&oh=06_Q3-4Acp7epLG8cpHNTC9hzcoxSX8mJtVZfHal8Oc6wQE9fpd&oe=68F802BE&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/4079515239697501368?url=https%3A%2F%2Fwww.pygame.org%2F_static%2Fpygame_tiny.png&fb_obo=1&utld=pygame.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adk_nnIdBdOa_LDpdP7Z0VLyfD3huyEh5Ouv-ZDXidCQD4Dtbv3aSyU22R26vlPDpRA&ccb=13-1&oh=06_Q3-4Ae2Km2Xg7wkRRj3Meb2uVrJaTQf7DO9kS38014YVxLsX&oe=68F83AFE&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pygame.org%2Fdocs%2Ftut%2FPygameIntro.html&h=AT1p_Mj0XK40_8kRGI53LpdO2KDmtgXCdhvSe9t5_D8hcA6JLpJ--yQDeMH0ZqFQm-0lXfzqqCIZWiQYkFSyvXCtqpP8FC4DDClT8O-gAV9wrfXaHgaL88gKna6d8O2J&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pygame.org%2Fdocs%2Ftut%2FPygameIntro.html&h=AT1BjzGtJ3Ra0qpMJlFLH8aTGvcss1pfgLe5XnF8YBQncrkbVEqAl2cQGMW0GyHc9YaDGlUShZPkJfJNrfAtgEnDZVpqzvTO_O-_2u3b34nswZeD_Lucnep2Lv9OFjZx&s=1"
           },
           "title": "Pygame Intro \u2014 pygame v2.0.0.dev5 documentation",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pygame.org%2Fdocs%2Ftut%2FPygameIntro.html&h=AT1p_Mj0XK40_8kRGI53LpdO2KDmtgXCdhvSe9t5_D8hcA6JLpJ--yQDeMH0ZqFQm-0lXfzqqCIZWiQYkFSyvXCtqpP8FC4DDClT8O-gAV9wrfXaHgaL88gKna6d8O2J&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pygame.org%2Fdocs%2Ftut%2FPygameIntro.html&h=AT1BjzGtJ3Ra0qpMJlFLH8aTGvcss1pfgLe5XnF8YBQncrkbVEqAl2cQGMW0GyHc9YaDGlUShZPkJfJNrfAtgEnDZVpqzvTO_O-_2u3b34nswZeD_Lucnep2Lv9OFjZx&s=1"
         }
       ]
     },
     "created_time": "2019-12-18T09:34:52+0000",
+    "updated_time": "2019-12-18T09:34:52+0000",
     "id": "1481985248595237_2445661612227591",
     "message": "To get started with pygame\nOpen a command window, type cmd in the windows search\ntype: pip install pygame\nclose the command window: exit\n\nUsing the python IDE called 'Idle' type:\n import pygame.examples.aliens as aliens\n aliens.main()\nPlay the game, to end or 'get out' type: exit()\nThere's a nice tutorial here: ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445661612227591"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445661612227591",
+    "retrieved_time": "2025-10-20T17:30:49.834812+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT24JgrFUhPTBmkxCpib2kdHf1LgUxCRWTsOOSkGNZYddRFYV7fS-SmTNbjDB_WMmrVwvoR1bJBJha7yj3VR92M9p1GE8r8Kjzh2Vezp1_1QDkHLeQ66pHNZKROqPaVV&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT039o9TwR1t8CaAKt0Grzmk02uYe6ocFpm8B2E_-pzeKex-KehLBeVV6hCmvKe7t3H8BQ5Q1lPk6xbf0y8AFaRPZg-QHnjXnY9hiRuzfOUbC4vqV3KHot1LY6T2M_Q7&s=1"
           },
           "title": "www.python.org",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT24JgrFUhPTBmkxCpib2kdHf1LgUxCRWTsOOSkGNZYddRFYV7fS-SmTNbjDB_WMmrVwvoR1bJBJha7yj3VR92M9p1GE8r8Kjzh2Vezp1_1QDkHLeQ66pHNZKROqPaVV&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT039o9TwR1t8CaAKt0Grzmk02uYe6ocFpm8B2E_-pzeKex-KehLBeVV6hCmvKe7t3H8BQ5Q1lPk6xbf0y8AFaRPZg-QHnjXnY9hiRuzfOUbC4vqV3KHot1LY6T2M_Q7&s=1"
         }
       ]
     },
     "created_time": "2019-12-18T09:33:05+0000",
+    "updated_time": "2019-12-18T09:33:05+0000",
     "id": "1481985248595237_2445657738894645",
     "message": "Further to the suggestion to install Python on your laptop, here are the steps I went through\nUsing web browser, download the installer: https://www.python.org/ftp/python/3.8.0/python-3.8.0-webinstall.exe\nDouble click on the downloaded file to make it run\nCheck the 'Add Python 3.8 to PATH' at the bottom of the page\nChoose the 'Install Now' option\nAfter a few minutes there will be the option to 'Disable path length limit' which should be done, by clicking on it.\nThere's an IDE (Integrated Development Environment) called 'Idle' but I couldn't find a desktop icon, so I typed 'idle' in the windows search bar, look for a magnifying glass, I then 'pinned to task bar' and 'opened' it\nType this, and press enter, to prove it works:    print('Hello World')\nTo end or 'get out' type: exit()",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445657738894645"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445657738894645",
+    "retrieved_time": "2025-10-20T17:30:49.834818+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -812,25 +922,31 @@
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adnm7CDtrffrz6Fzy-pWIB36u1wC_nhYsszOGHh3REjMZMdyun0dj8Ft6W7EXpijynU&ccb=13-1&oh=06_Q3-4AeJuDAc9LggYRN_POkfSd-OE4H-LktJGUQza_T6jD_NI&oe=68F824A8&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=Adnm7CDtrffrz6Fzy-pWIB36u1wC_nhYsszOGHh3REjMZMdyun0dj8Ft6W7EXpijynU&ccb=13-1&oh=06_Q3-4ARiRtO42qIZO7vdrRxh9zW3LvUs7NsIDuynqS7nPorYG&oe=68F85CE8&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT1fn8bkgqbFeMThTJmXJ1rj1kfEnp0Q5NXxqexRtprJGUAHhhMSFfaagIy5LkKl9GW6dEw7tme5e74LysrMnGfjCNJJVxzDUntCkcjmH7hL3M_FPAywr_9ratY64hT7&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT0Igcg0tM3Ng4FN0QHT6F3G5tSvuCkhAYywfNCEHVFOK6SLSU0msPrKecnb_18K4MI2DqfdFNli7SPefG3us7-KxRWX2aZgoZOeTmC8bVxa6-p2MXsu_cw0NVICBRLl&s=1"
           },
           "title": "Python Releases for Windows",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT1fn8bkgqbFeMThTJmXJ1rj1kfEnp0Q5NXxqexRtprJGUAHhhMSFfaagIy5LkKl9GW6dEw7tme5e74LysrMnGfjCNJJVxzDUntCkcjmH7hL3M_FPAywr_9ratY64hT7&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT0Igcg0tM3Ng4FN0QHT6F3G5tSvuCkhAYywfNCEHVFOK6SLSU0msPrKecnb_18K4MI2DqfdFNli7SPefG3us7-KxRWX2aZgoZOeTmC8bVxa6-p2MXsu_cw0NVICBRLl&s=1"
         }
       ]
     },
     "created_time": "2019-12-18T08:49:20+0000",
+    "updated_time": "2019-12-18T08:49:20+0000",
     "id": "1481985248595237_2445603555566730",
     "message": "Yesterday's club meeting at Lichfield Library, Tuesday 17th of December, was the last one before the Christmas break. The next will be Tuesday 7th of January 2020.\n\nOne youngster used scratch to create a Christmas scene with a countryside back drop, a central doughnut and holly in each of the corners. We made the holly move in towards the doughnut and back out to the corners, and so hopefully gained some insight into screen coordinates and forever loops.\n\nAnother youngster connected to YouTube and played Christmas music, which the library staff said was okay on this occasion. This got everyone into festive spirit .\n\nTwo other youngsters worked independently on their own scratch based project and seem to be doing well making objects move around a maze.\n\nLast, but not least, another youngster was keen to push forward with using repl.it to create his own maze based python program but we found that it did not allow key presses to be captured and acted upon, a limitation of using a cloud based service. To overcome this we will need to download Python for Windows onto his laptop. This can be found at https://www.python.org/downloads/windows/ .\nFor those who want to make games please download the latest version, 3.8.0. During the installation there are options to download it 'for everyone' and that's the best option. You also should install a desktop icon and the pip program. Any questions please ask here or in person next time we meet.\n\nHope you all have a great Christmas, enjoy coding and feel free to ask questions. See you all in 2020.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445603555566730"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2445603555566730",
+    "retrieved_time": "2025-10-20T17:30:49.834823+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -838,22 +954,24 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/3805970848012387675?url=https%3A%2F%2Frepl.it%2Fpublic%2Fimages%2Fsm.png&fb_obo=1&utld=repl.it&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=AdkJomi-SZEXDjrro-Cri9LDXTTfRbO2DerG-QsTYvDBreem0WAE4lix4avoCL3vXaw&ccb=13-1&oh=06_Q3-4AV6sg3n5K_X32Hd7aGWAxSC7CgBQv1Vp14YG4S_z5cAB&oe=68F817AC&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/3805970848012387675?url=https%3A%2F%2Frepl.it%2Fpublic%2Fimages%2Fsm.png&fb_obo=1&utld=repl.it&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=sILJtvZRxKkem2Yof6qDvQ&_nc_oc=AdkJomi-SZEXDjrro-Cri9LDXTTfRbO2DerG-QsTYvDBreem0WAE4lix4avoCL3vXaw&ccb=13-1&oh=06_Q3-4AZdx6qYyBaaYXcVb5qIjB6njnH7LzmPRtA4-qg5zDJsh&oe=68F84FEC&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT1j7Bf1Eqft3piFNHV22jHFCPjvpca1lhRFeVvvhxI7ALdjIBLvBmbMg9RCLHp-fCxdDwLfaHQv017mFZ-7QziJ4D3D2-31bYlBYWyxBw7Y4L6X1-mCbKBWSLrWbDEt&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT2YUjynPDKYXlS4JbjhNjY8bVU9oqtpURB7ko9ibOfbuUBHKSsak5NSxIsecCh4JbQPc7AddXlMaEsB6okpxFqMFJQbubC0rOSR7qixk3HXZ8q5-ijioBZR043PgNFa&s=1"
           },
           "title": "The world's leading online coding platform",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT1j7Bf1Eqft3piFNHV22jHFCPjvpca1lhRFeVvvhxI7ALdjIBLvBmbMg9RCLHp-fCxdDwLfaHQv017mFZ-7QziJ4D3D2-31bYlBYWyxBw7Y4L6X1-mCbKBWSLrWbDEt&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Frepl.it%2F&h=AT2YUjynPDKYXlS4JbjhNjY8bVU9oqtpURB7ko9ibOfbuUBHKSsak5NSxIsecCh4JbQPc7AddXlMaEsB6okpxFqMFJQbubC0rOSR7qixk3HXZ8q5-ijioBZR043PgNFa&s=1"
         }
       ]
     },
     "created_time": "2019-12-11T17:57:41+0000",
+    "updated_time": "2019-12-11T17:57:41+0000",
     "id": "1481985248595237_2431888463604906",
     "message": "On Tuesday, despite heavy rain several youngsters attended Code Club at Lichfield Library. Where we took a look at Python in particular using the free 'repl' services at https://repl.it/. The site lets you create programs in C#, C++, C, Python, Java, JavaScript and many more.\nWe looked at defining functions,  looping through lists and lists of list to create a maze program and started to add keyboard interaction.\nAnother lad looked at using pygame, but the startup learning curve was quite steep and so next time we'll provide a skeletal game and add functionality.\nThank you to all who came and look forward to seeing you next week.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/2431888463604906"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/2431888463604906",
+    "retrieved_time": "2025-10-20T17:30:49.834829+00:00"
   }
 ]

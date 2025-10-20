@@ -1,5 +1,9 @@
 [
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -10,10 +14,16 @@
       ]
     },
     "created_time": "2022-05-13T00:31:16+0000",
+    "updated_time": "2022-05-13T00:31:16+0000",
     "id": "1481985248595237_4845863988873996",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4845863988873996"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4845863988873996",
+    "retrieved_time": "2025-10-20T17:30:45.399230+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -24,17 +34,23 @@
       ]
     },
     "created_time": "2022-05-13T00:31:16+0000",
+    "updated_time": "2022-05-13T00:31:16+0000",
     "id": "1481985248595237_4845863982207330",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4845863982207330"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4845863982207330",
+    "retrieved_time": "2025-10-20T17:30:45.399261+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 203,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486379999_9097876220339397_6905256653672391538_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6Zqcm09eyhAQ7kNvwEQWmVa&_nc_oc=AdkDsy_P6hX9ol1YktJWJJoVg2L3C0XfOtTsx_Iq9opvzz-tw9QOZjUCAFR_Qe09Bds&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffWySEGu5tC2adYpMs0Cn4JnTor1iBtmIO6AAUAgcbaNA&oe=68FC07B2",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486379999_9097876220339397_6905256653672391538_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6Zqcm09eyhAQ7kNvwEQWmVa&_nc_oc=AdkDsy_P6hX9ol1YktJWJJoVg2L3C0XfOtTsx_Iq9opvzz-tw9QOZjUCAFR_Qe09Bds&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afegb1KOnncWvOze2ValuGsi04eQd5JoH_Eeq3jfGogppw&oe=68FC3FF2",
               "width": 316
             }
           },
@@ -44,7 +60,7 @@
                 "media": {
                   "image": {
                     "height": 203,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486379999_9097876220339397_6905256653672391538_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6Zqcm09eyhAQ7kNvwEQWmVa&_nc_oc=AdkDsy_P6hX9ol1YktJWJJoVg2L3C0XfOtTsx_Iq9opvzz-tw9QOZjUCAFR_Qe09Bds&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffWySEGu5tC2adYpMs0Cn4JnTor1iBtmIO6AAUAgcbaNA&oe=68FC07B2",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486379999_9097876220339397_6905256653672391538_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6Zqcm09eyhAQ7kNvwEQWmVa&_nc_oc=AdkDsy_P6hX9ol1YktJWJJoVg2L3C0XfOtTsx_Iq9opvzz-tw9QOZjUCAFR_Qe09Bds&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afegb1KOnncWvOze2ValuGsi04eQd5JoH_Eeq3jfGogppw&oe=68FC3FF2",
                     "width": 316
                   }
                 },
@@ -59,7 +75,7 @@
                 "media": {
                   "image": {
                     "height": 238,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486353229_9097876417006044_5143978024972921441_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=alkrtktt5GgQ7kNvwGPnHus&_nc_oc=AdltNerVEmv8W10vH-bq4ppY5IqpQf_Ft6lHj_KM5JQYHhB4590066Dd5pCB9wyLKCQ&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Aff7X485CWuWpwNKerT_JCoI4vr1wn1jELFmleONpLY1Yg&oe=68FC02A5",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486353229_9097876417006044_5143978024972921441_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=alkrtktt5GgQ7kNvwGPnHus&_nc_oc=AdltNerVEmv8W10vH-bq4ppY5IqpQf_Ft6lHj_KM5JQYHhB4590066Dd5pCB9wyLKCQ&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdLOktZu64NpTtuOeub5mu-Wzx89FMW65MyrOrcfaG2ig&oe=68FC3AE5",
                     "width": 318
                   }
                 },
@@ -74,7 +90,7 @@
                 "media": {
                   "image": {
                     "height": 220,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486322510_9097876437006042_7526202391618560964_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7kNQZRxXHZwQ7kNvwFu-fM4&_nc_oc=Adke8u_3JmXtmlNCMaOAY-bNBk956cW5rWo95ee2P3IU4athOLMu0WCerNcJIE70JMo&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcaZCHP0fqS91fxd-0d6Gr5-tgqZMZdg_C-JJjedTyWjQ&oe=68FC0A3A",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486322510_9097876437006042_7526202391618560964_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7kNQZRxXHZwQ7kNvwFu-fM4&_nc_oc=Adke8u_3JmXtmlNCMaOAY-bNBk956cW5rWo95ee2P3IU4athOLMu0WCerNcJIE70JMo&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afd5t-S-vC-8Bg5PVukcOk-d1jLFiuxJgwq8s4aMOGXHrA&oe=68FC427A",
                     "width": 294
                   }
                 },
@@ -89,7 +105,7 @@
                 "media": {
                   "image": {
                     "height": 217,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486156286_9097876467006039_3820278084638785711_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CbAgTEAzXV0Q7kNvwH6Yb_N&_nc_oc=AdkHnmuVOOxBiCXxkkTI4p0yvQ_QlLnDKua2ofiL_oUQv7GRNCM4HDqwOyc1lTvVtNU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcNWaNcuCfYUZLvdE0kZXyhvnCCrM8NljueSB7HS7UlRw&oe=68FC0E06",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486156286_9097876467006039_3820278084638785711_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CbAgTEAzXV0Q7kNvwH6Yb_N&_nc_oc=AdkHnmuVOOxBiCXxkkTI4p0yvQ_QlLnDKua2ofiL_oUQv7GRNCM4HDqwOyc1lTvVtNU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afck2CWsi8LkpNOWAUE2FNkCNEXfn0p4lbq4CqWFE5947g&oe=68FC4646",
                     "width": 289
                   }
                 },
@@ -113,18 +129,24 @@
       ]
     },
     "created_time": "2022-05-10T07:24:08+0000",
+    "updated_time": "2022-05-10T07:24:08+0000",
     "id": "1481985248595237_4838414016285660",
     "message": "We will have a stand at RAF Cosford Air Show. It's the first since 2019 due to the covid epidemic.\n\nWe're trying to spread the message about how we operate and what our youngsters do and enjoy.\n\nPLEASE COME AND SAY HELLO\n\nWe will have a number of computers with simple things for people to try out. \n\nHere are some photos of us at the show in 2019\n\nhttps://www.cosfordairshow.co.uk/",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4838414016285660"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4838414016285660",
+    "retrieved_time": "2025-10-20T17:30:45.399271+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 460,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wxoCczHqbX0Q7kNvwEH731g&_nc_oc=AdkaG-OGCZ1kni8xMFwOWDKabbVk8REyc9mw4rEFhBy2HDoVIKVjZ_pwRvL8pIGfhOg&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffaJpKXtM9EJCp5y7_9DdmLV0i_S-r3RW2JQIXhwuZ3Lg&oe=68FC1D07",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wxoCczHqbX0Q7kNvwEH731g&_nc_oc=AdkaG-OGCZ1kni8xMFwOWDKabbVk8REyc9mw4rEFhBy2HDoVIKVjZ_pwRvL8pIGfhOg&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdoiCuPnCY_QP9KzVoxJUj9hictKXyV02k-45P45ccaCQ&oe=68FC5547",
               "width": 373
             }
           },
@@ -134,7 +156,7 @@
                 "media": {
                   "image": {
                     "height": 460,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wxoCczHqbX0Q7kNvwEH731g&_nc_oc=AdkaG-OGCZ1kni8xMFwOWDKabbVk8REyc9mw4rEFhBy2HDoVIKVjZ_pwRvL8pIGfhOg&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffaJpKXtM9EJCp5y7_9DdmLV0i_S-r3RW2JQIXhwuZ3Lg&oe=68FC1D07",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/279857782_4838378642955864_7749275923365282789_n.png?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wxoCczHqbX0Q7kNvwEH731g&_nc_oc=AdkaG-OGCZ1kni8xMFwOWDKabbVk8REyc9mw4rEFhBy2HDoVIKVjZ_pwRvL8pIGfhOg&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdoiCuPnCY_QP9KzVoxJUj9hictKXyV02k-45P45ccaCQ&oe=68FC5547",
                     "width": 373
                   }
                 },
@@ -149,7 +171,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486275884_9097875013672851_4021957488592229299_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PuSt8y1QWc0Q7kNvwEiFEfW&_nc_oc=AdlaEwVxgw2aUkA0yo9_dR_6E2FPLtdeWfs6m01wTETsldtxcg2RTkBKJGHXPpRYhWE&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afd-APB1mXNyFYegAFNbbafqDPKrGeYoePnWAlyOwNE6JQ&oe=68FC09CF",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486275884_9097875013672851_4021957488592229299_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PuSt8y1QWc0Q7kNvwEiFEfW&_nc_oc=AdlaEwVxgw2aUkA0yo9_dR_6E2FPLtdeWfs6m01wTETsldtxcg2RTkBKJGHXPpRYhWE&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfepCYpKnhigbLMw3KW2HiNDAeGriA-D8MJeRY0Wtp_t3w&oe=68FC420F",
                     "width": 1599
                   }
                 },
@@ -173,15 +195,23 @@
       ]
     },
     "created_time": "2022-05-10T07:04:26+0000",
+    "updated_time": "2022-05-10T19:38:18+0000",
     "id": "1481985248595237_4838378876289174",
     "message": "Summary of May 3rd meeting\n\nAnother very busy meeting. \nLots of support needed, and given. \nBill's Unity project is doing very well with recognisable blossom on his trees. \nAlex and Thomas made some progress with python \nPav and Tim considered how we might connect a robot arm to a nano or raspberry pi\nHenry and Nathaniel investigated the Microbit sensors a bit more and seemed to be enjoying making thinks blink and whir\nNatan installed Unity on a linux server\nIgor gave lots of support and encouragement to all.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4838378876289174"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4838378876289174",
+    "retrieved_time": "2025-10-20T17:30:45.399277+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-04-29T10:14:14+0000",
+    "updated_time": "2022-04-29T10:14:14+0000",
     "id": "1481985248595237_4808903852570010",
     "message": "Summary of  meeting on Tuesday 26th April\n\nA very busy meeting. \n\nThere's a growing interest in the BBC microbit with two young lads enjoying using scratch to program patterns on the LED matrix and testing out sensors.\n\nBill had an issue with is Unity project but seemed to make good progress. The tree he's working on certainly looks like a tree.\n\nWe had some issues with two PC's not connecting to the internet which marred two lads efforts to learn some python programming. They'll bring their own laptops to the next meeting and we'll get Code, Github and Python setup.\n\nWe'll make sure we have some offline projects that people can work on, as a fall back for when the internet is not available.\n\nTim made good progress on our robot tank, despite a spillage of shrink wrap tubing!\n\nI didn't get time to take any photos :-(",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4808903852570010"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4808903852570010",
+    "retrieved_time": "2025-10-20T17:30:45.399283+00:00"
   },
   {
     "attachments": {
@@ -191,29 +221,33 @@
           "media": {
             "image": {
               "height": 480,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/858750436345909077?url=https%3A%2F%2Fmcusercontent.com%2F54fbc2c9ac9d9dd634725107a%2Fimages%2F3547b9cd-ce69-2a5b-0c70-ddc9db5723f5.png&fb_obo=1&utld=mcusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p480x480_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&_nc_oc=Adnyj1c9o9ULzgnXNeMOC2vwPDMig7VOoqJJyJfzDBgfKFkz1vv1cy5f9amk8Uluzf8&ccb=13-1&oh=06_Q3-4Ae-IAalO8L0TcZNJOfo2l0O5kfn1p5z1REkhPs6qI-q0&oe=68F82A1C&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/858750436345909077?url=https%3A%2F%2Fmcusercontent.com%2F54fbc2c9ac9d9dd634725107a%2Fimages%2F3547b9cd-ce69-2a5b-0c70-ddc9db5723f5.png&fb_obo=1&utld=mcusercontent.com&stp=c0.5000x0.5000f_dst-emg0_p480x480_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&_nc_oc=Adnyj1c9o9ULzgnXNeMOC2vwPDMig7VOoqJJyJfzDBgfKFkz1vv1cy5f9amk8Uluzf8&ccb=13-1&oh=06_Q3-4AQQzv1ZFHXZyDPZ9VoB16C8mdcEyDBZYzh4Icjyn-vf4&oe=68F8625C&_nc_sid=ef6713",
               "width": 480
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww3.raspberrypi.org%2Fwebmail%2F800983%2F304984883%2F82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e&h=AT3GxinRVVEKIWOoFqERDx80LIq73Pxv9vbfYsJ2MYyEmoNkdUTZdIuGnwWpLDkSbb_s-jiIcbMsPgeLmBAkjHI7fg2dACSYZY4bjveF2NqlO3cwk0sOWcECRLQI2VHf&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww3.raspberrypi.org%2Fwebmail%2F800983%2F304984883%2F82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e&h=AT33LhYSLLxjuRjsVEJpNMfkIGJ8ZDk95kQGEkzPDiW9OUUPQlfwCc5Q4h3J4ZztJr8pwVvaonjDBVRz35D1hvVeMQz6UbxP08LvjEFVwevCvl8seSyP3iXjVPwKy9O4&s=1"
           },
           "title": "Code Club News",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww3.raspberrypi.org%2Fwebmail%2F800983%2F304984883%2F82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e&h=AT3GxinRVVEKIWOoFqERDx80LIq73Pxv9vbfYsJ2MYyEmoNkdUTZdIuGnwWpLDkSbb_s-jiIcbMsPgeLmBAkjHI7fg2dACSYZY4bjveF2NqlO3cwk0sOWcECRLQI2VHf&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww3.raspberrypi.org%2Fwebmail%2F800983%2F304984883%2F82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e&h=AT33LhYSLLxjuRjsVEJpNMfkIGJ8ZDk95kQGEkzPDiW9OUUPQlfwCc5Q4h3J4ZztJr8pwVvaonjDBVRz35D1hvVeMQz6UbxP08LvjEFVwevCvl8seSyP3iXjVPwKy9O4&s=1"
         }
       ]
     },
     "created_time": "2022-04-27T13:53:34+0000",
+    "updated_time": "2022-04-27T13:53:34+0000",
     "id": "1481985248595237_4803989063061489",
     "message": "https://www3.raspberrypi.org/webmail/800983/304984883/82b3cc74d954109051664b81a6041b221d5cc5534eb1def746b3beaaea16f34e",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4803989063061489"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4803989063061489",
+    "retrieved_time": "2025-10-20T17:30:45.399289+00:00"
   },
   {
     "created_time": "2022-04-13T13:07:33+0000",
+    "updated_time": "2022-04-13T13:07:33+0000",
     "id": "1481985248595237_4768058389987890",
     "message": "Please note we will not be meeting on April 19th due to the Easter holidays. The next scheduled meeting is Tuesday April 26th at 5pm-6pm. Happy Easter everyone.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4768058389987890"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4768058389987890",
+    "retrieved_time": "2025-10-20T17:30:45.399295+00:00"
   },
   {
     "attachments": {
@@ -222,10 +256,10 @@
           "media": {
             "image": {
               "height": 320,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c3bc4c&_nc_ohc=VnM1XjyJXagQ7kNvwG9unGa&_nc_oc=Adlx8SGN2DeeOonlNUXmWMAtusoFde4cXSapQha3CEsouwJ2WE3bxbR_DDNIgYlj_OA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afdil-j6FFmpGcm588qXaR9JrR_u7VnZteG7u4_b5d2L9w&oe=68FBFA29",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/278211195_691481555332506_5211073081674861408_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c3bc4c&_nc_ohc=VnM1XjyJXagQ7kNvwG9unGa&_nc_oc=Adlx8SGN2DeeOonlNUXmWMAtusoFde4cXSapQha3CEsouwJ2WE3bxbR_DDNIgYlj_OA&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffgcridkjLGUGKdUJVTPxEarQkMIIz44wvf-Y3nDnc9Sw&oe=68FC3269",
               "width": 568
             },
-            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMWnpD0GiZD3VNo_cfmmt8P0ZL3omdBdvoUin-UbwjyJxc-P47JhMQFBUErlNl-0beGnP8X3Y2Jqmzc6RKw4uzh.mp4?_nc_cat=110&_nc_oc=AdkGIJHPbJEW4puI-GL2gf_jSDVY6vWW2hdKzWw6vH3OtrcS9qEcWdSSq8gXfpNJoew&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=pNtuxQ9L7w4Q7kNvwHB_AuT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzJlLjQyNi5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjE3MTIxMjg0ODI0NTIzOTYsImFzc2V0X2FnZV9kYXlzIjoxMjg2LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHY3w7sy-XJl-6gCsxXnaLKlb0jB89VdWbQej6J8u8yTa0sk4_X4DPY0jmxwyvFcUkMuYbrNA8K_g&oh=00_AfdVoTZMxZ_oIuY1en0_hu701LwoRUoutWLrxbT2HlO6qw&oe=68FC1BB3&bitrate=196102&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMWnpD0GiZD3VNo_cfmmt8P0ZL3omdBdvoUin-UbwjyJxc-P47JhMQFBUErlNl-0beGnP8X3Y2Jqmzc6RKw4uzh.mp4?_nc_cat=110&_nc_oc=AdkGIJHPbJEW4puI-GL2gf_jSDVY6vWW2hdKzWw6vH3OtrcS9qEcWdSSq8gXfpNJoew&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=pNtuxQ9L7w4Q7kNvwHB_AuT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcxMjEyODQ4MjQ1MjM5NiwiYXNzZXRfYWdlX2RheXMiOjEyODYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=D6WqsMliwrgGhUkq37QR-A&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFl16NvXZRUJJ3e1ftj3W4od02718aoBmQL_yv0uZKf-QCJ3Y7LIDsLQMr6xF7qLcHSrBzYn49_7w&oh=00_Affs38jU0IaiozruU7WeFzVI9JnQXH3kmCAshRiVV2_YFQ&oe=68FC53F3&bitrate=196102&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
           },
           "target": {
             "id": "518948193146038",
@@ -237,9 +271,11 @@
       ]
     },
     "created_time": "2022-04-13T13:04:42+0000",
+    "updated_time": "2022-04-13T13:04:42+0000",
     "id": "1481985248595237_4768051243321938",
     "message": "BBC Micro BIT reading and displaying a voltage from a mini potentiometer (Trim Pot).",
-    "permalink_url": "https://www.facebook.com/720665616418529/videos/518948193146038"
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/518948193146038",
+    "retrieved_time": "2025-10-20T17:30:45.399303+00:00"
   },
   {
     "attachments": {
@@ -248,7 +284,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484806206_9067907916669561_6715515410733229391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKuTfHutspUQ7kNvwEENN9K&_nc_oc=AdmuFu-4cNiit3K7ZHFZ8UikUKreIE0Z5lSEUcZcD2GADL7dXgAUnAcNE9Aq6cQd6I4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfdhsTLwI_UtVImp9GWygbHP5yhxpNpmzJqUIK3f2e_ATA&oe=68FC2350",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484806206_9067907916669561_6715515410733229391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKuTfHutspUQ7kNvwEENN9K&_nc_oc=AdmuFu-4cNiit3K7ZHFZ8UikUKreIE0Z5lSEUcZcD2GADL7dXgAUnAcNE9Aq6cQd6I4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfcmiXJwdvJRZbPPlwQ4DpLYS3MKZjQOveHZZOHv4Ca1Fg&oe=68FC5B90",
               "width": 1259
             }
           },
@@ -258,7 +294,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484806206_9067907916669561_6715515410733229391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKuTfHutspUQ7kNvwEENN9K&_nc_oc=AdmuFu-4cNiit3K7ZHFZ8UikUKreIE0Z5lSEUcZcD2GADL7dXgAUnAcNE9Aq6cQd6I4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfdhsTLwI_UtVImp9GWygbHP5yhxpNpmzJqUIK3f2e_ATA&oe=68FC2350",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484806206_9067907916669561_6715515410733229391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKuTfHutspUQ7kNvwEENN9K&_nc_oc=AdmuFu-4cNiit3K7ZHFZ8UikUKreIE0Z5lSEUcZcD2GADL7dXgAUnAcNE9Aq6cQd6I4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfcmiXJwdvJRZbPPlwQ4DpLYS3MKZjQOveHZZOHv4Ca1Fg&oe=68FC5B90",
                     "width": 1259
                   }
                 },
@@ -273,7 +309,7 @@
                 "media": {
                   "image": {
                     "height": 280,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484848448_9067907876669565_4005780583932539719_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=69u_lCHA3Q0Q7kNvwFXyLOA&_nc_oc=Adkv8jJEAH5KoQdhNOM3lytTL1apqGmJAF-uxbS3IHZl2cLL6QuuPXcLa6VsgVqJj2c&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfebVRhoEFZGNZL02d6NFg4-vuWx-054jZDc--Svvl13bg&oe=68FC0495",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484848448_9067907876669565_4005780583932539719_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N97p6aLGvXkQ7kNvwH0kQiv&_nc_oc=Adk6-uMdbqbbTvoq_cIVRiS-fjWNL56aHx-Ux-GSTa3PO_yQ2wwftJe9fDzpaO4vAB4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfcD66tBeRMtf9zYFJxIqBS4lnXnNBUHZZPRMDO-r9JNVw&oe=68FC3CD5",
                     "width": 622
                   }
                 },
@@ -288,7 +324,7 @@
                 "media": {
                   "image": {
                     "height": 280,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484858898_9067907820002904_6722206563573059734_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXADv2i_X7UQ7kNvwHheUqL&_nc_oc=Adnc94I7DmOBYGQehjbCH0PmRL_vDHcSlttEhCMg0dWAw3BeW1YWeXfSJbdueIegYqk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afey_2duA-8ITO39wPzgY7Rn6OtTNyU54HUzMYpB-UgrQw&oe=68FC24FB",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484858898_9067907820002904_6722206563573059734_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXADv2i_X7UQ7kNvwHheUqL&_nc_oc=Adnc94I7DmOBYGQehjbCH0PmRL_vDHcSlttEhCMg0dWAw3BeW1YWeXfSJbdueIegYqk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdVY-3fK7ClLiICUhPtAKH1DZaXiI9KXzR-vvKBpmECgg&oe=68FC5D3B",
                     "width": 622
                   }
                 },
@@ -303,7 +339,7 @@
                 "media": {
                   "image": {
                     "height": 625,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/485092926_9067907580002928_813476222250578541_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G8agoNnfyQcQ7kNvwF4U1Zw&_nc_oc=AdlDOcN4uAoHq-LvnhIoekJS2VtpAl-l9ca-qUoOaOEczcrStafKiu8lp3cC5XHCpU8&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffgUzfiweXO364kFoth0qzPLaRFDgg2IwWoDWCAD7BG9A&oe=68FC15D0",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/485092926_9067907580002928_813476222250578541_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G8agoNnfyQcQ7kNvwF4U1Zw&_nc_oc=AdlDOcN4uAoHq-LvnhIoekJS2VtpAl-l9ca-qUoOaOEczcrStafKiu8lp3cC5XHCpU8&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfemhY-Bz7pDQzN_AWN818zmYXGDC-LILG9o2VwelgD6VA&oe=68FC4E10",
                     "width": 280
                   }
                 },
@@ -318,7 +354,7 @@
                 "media": {
                   "image": {
                     "height": 280,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484509058_9067907576669595_3283251652672441593_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LHTrdjUHj2UQ7kNvwEejRQB&_nc_oc=Adk62Kd7KIDHusEPal8jk8Q2CQ4Dfeht4g0zR5cTm-PIPTz02WeLm37350Co1OO0kyQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Aff2DkJlWvxV_sY3eEkbvmIo8lJqvFvv_Uy0CvsBZ66F3w&oe=68FBFB46",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484509058_9067907576669595_3283251652672441593_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LHTrdjUHj2UQ7kNvwEejRQB&_nc_oc=Adk62Kd7KIDHusEPal8jk8Q2CQ4Dfeht4g0zR5cTm-PIPTz02WeLm37350Co1OO0kyQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdpM1bj6OoGXUBueDjQP4szznTMOWXWnnytLzNyrYJWaA&oe=68FC3386",
                     "width": 622
                   }
                 },
@@ -333,7 +369,7 @@
                 "media": {
                   "image": {
                     "height": 280,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484827900_9067907830002903_8803326140840287453_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZCTbJHsx_5gQ7kNvwE7Or4j&_nc_oc=AdlGzRPN7WnnUhvF6E4FNC78Vs2C-1n7_Tx-0tBWb2-Jyfum5kYjZSOZAYFvQ1U_gVg&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afc9SPsVxUQ52tQuVPt3ZdgW0AQ_KudUwjt4QiLcp3UmzQ&oe=68FC1D4A",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484827900_9067907830002903_8803326140840287453_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZCTbJHsx_5gQ7kNvwE7Or4j&_nc_oc=AdlGzRPN7WnnUhvF6E4FNC78Vs2C-1n7_Tx-0tBWb2-Jyfum5kYjZSOZAYFvQ1U_gVg&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfcnF1tL5EAht6B_KyEEz3vnPPcHS1oXqeT3YsgzayyvnA&oe=68FC558A",
                     "width": 622
                   }
                 },
@@ -357,9 +393,11 @@
       ]
     },
     "created_time": "2022-04-13T13:01:47+0000",
+    "updated_time": "2022-04-13T13:01:47+0000",
     "id": "1481985248595237_4768044069989322",
     "message": "Code Club activities for April 12th\nThis week we saw the Micro BIT being used with an electronics kit to read and display the voltage from a potentiometer. Thank you to Craig and Henry for building and demonstrating this project.\nMark was not with us tonight, so we will bring news of the Robot Tank when we meet again on April 26th.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4768044069989322"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4768044069989322",
+    "retrieved_time": "2025-10-20T17:30:45.399309+00:00"
   },
   {
     "attachments": {
@@ -368,7 +406,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484181517_9061020304024989_7888719328022739886_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2TgYWGWasgQ7kNvwF148g1&_nc_oc=AdmqcL_HI52KLMwX1MDgSn30763ALTvlc8HP2Cy-oV0QNaW8BMsfIrxlSoZXxNyBQDc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe7X3HuJlYa_tSroWZGZKtNFgTlF3Jx8MsHJ-1J9v26TA&oe=68FC1968",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484181517_9061020304024989_7888719328022739886_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2TgYWGWasgQ7kNvwF148g1&_nc_oc=AdmqcL_HI52KLMwX1MDgSn30763ALTvlc8HP2Cy-oV0QNaW8BMsfIrxlSoZXxNyBQDc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdtYOhPz57mBpryXBMogB8fL8Dm7C47754RsJ4N5TvCyw&oe=68FC51A8",
               "width": 877
             }
           },
@@ -378,7 +416,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484181517_9061020304024989_7888719328022739886_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2TgYWGWasgQ7kNvwF148g1&_nc_oc=AdmqcL_HI52KLMwX1MDgSn30763ALTvlc8HP2Cy-oV0QNaW8BMsfIrxlSoZXxNyBQDc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe7X3HuJlYa_tSroWZGZKtNFgTlF3Jx8MsHJ-1J9v26TA&oe=68FC1968",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484181517_9061020304024989_7888719328022739886_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2TgYWGWasgQ7kNvwF148g1&_nc_oc=AdmqcL_HI52KLMwX1MDgSn30763ALTvlc8HP2Cy-oV0QNaW8BMsfIrxlSoZXxNyBQDc&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdtYOhPz57mBpryXBMogB8fL8Dm7C47754RsJ4N5TvCyw&oe=68FC51A8",
                     "width": 877
                   }
                 },
@@ -393,7 +431,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484801359_9061019917358361_432798225417815102_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NVekjyWX6lUQ7kNvwHWUSev&_nc_oc=Adk5H4Z4to2IkEMAJkqDFh_c_wYVU2ARu4OyvcMfOxOR8dogJ284yU_FJwqHLAPhSIQ&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcB2TxnUymIsaAhgGKZ-m-wVbsrUznFOeGqt3JwFfXFMg&oe=68FC2514",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484801359_9061019917358361_432798225417815102_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NVekjyWX6lUQ7kNvwHWUSev&_nc_oc=Adk5H4Z4to2IkEMAJkqDFh_c_wYVU2ARu4OyvcMfOxOR8dogJ284yU_FJwqHLAPhSIQ&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfebmnEkchSZ3sgCZ60abOk17810yiIcHpwcNmrPm0rgvA&oe=68FC5D54",
                     "width": 861
                   }
                 },
@@ -408,7 +446,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484088518_9061020257358327_3389541423464243935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WJ-f4wc2Ov4Q7kNvwHiKciK&_nc_oc=AdmhjpQXz603I0Zv1-3Z6UZbDGOT4KmBK8mbEhP5SVu4cgQjpAqQpMnzjELExpFcO9I&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfdE5N1nWPIurLtWzAWmgMBN2inBg_5MGvfT4YQnCU1OXg&oe=68FC2090",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484088518_9061020257358327_3389541423464243935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WJ-f4wc2Ov4Q7kNvwHiKciK&_nc_oc=AdmhjpQXz603I0Zv1-3Z6UZbDGOT4KmBK8mbEhP5SVu4cgQjpAqQpMnzjELExpFcO9I&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffstzzQr7MLpiu25ogP08RkIVfu03KD-JwaVITMYcIjfQ&oe=68FC58D0",
                     "width": 960
                   }
                 },
@@ -423,7 +461,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484941505_9061020317358321_6801305528129874944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uOtX8WWb_2YQ7kNvwG5hqd4&_nc_oc=AdksZSn3ALS61o4ntKm4AbCD31bzrNUbiNzSCVl-NcAutVDXIUAhi0B1XYkuPn2rNvs&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffIaUf2tbOrJSGPo_J_wxu_8oGYBJGmpnTOtPhPmEXlVA&oe=68FBFD03",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484941505_9061020317358321_6801305528129874944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uOtX8WWb_2YQ7kNvwG5hqd4&_nc_oc=AdksZSn3ALS61o4ntKm4AbCD31bzrNUbiNzSCVl-NcAutVDXIUAhi0B1XYkuPn2rNvs&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afc3gYmtve6aFX_3pipjH_PJSb5yMMa9mDYGxitY7lEbwA&oe=68FC3543",
                     "width": 960
                   }
                 },
@@ -447,9 +485,11 @@
       ]
     },
     "created_time": "2022-04-05T20:46:18+0000",
+    "updated_time": "2022-04-05T20:46:18+0000",
     "id": "1481985248595237_4748347381958991",
     "message": "Summary of Code club activities for 5th April.\n\nTonight we welcomed another new member Henry. \nHenry got straight into Scratch and BBC Micro Bit \nprogramming. Bill continued with his Blender project,\n\nAlex and Thomas wrote some more interesting Python scripts\nand Nathaniel programmed the VEX IQ robot. Natan helped set up\nand assisted with various IT problems including installing\ndrivers for our wireless dongles. Great job Natan!\n\nMark, Tim and Igor continued development of the Robot Tank.\nWe will include an in depth look at this next weeks post.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4748347381958991"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4748347381958991",
+    "retrieved_time": "2025-10-20T17:30:45.399315+00:00"
   },
   {
     "attachments": {
@@ -458,7 +498,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484070994_9056556311138055_3265003551532876312_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WeXqvLptl4IQ7kNvwGYi0qM&_nc_oc=AdlIW2oJBYQAr199QZ2QYlZmObLBpAVN1rnEcXf1SUxwMoE47OteM5kMf-qxWRAQVl0&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe-55gCWeTU5mDlimxGZNhJ5dvHXKWvPI9dvfOojtiSLQ&oe=68FC12C0",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484070994_9056556311138055_3265003551532876312_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WeXqvLptl4IQ7kNvwGYi0qM&_nc_oc=AdlIW2oJBYQAr199QZ2QYlZmObLBpAVN1rnEcXf1SUxwMoE47OteM5kMf-qxWRAQVl0&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffVwPCJFF0rmYypxgwmnB5LQonU1s_JZFzhxCkXFlU3kA&oe=68FC4B00",
               "width": 864
             }
           },
@@ -468,7 +508,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484070994_9056556311138055_3265003551532876312_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WeXqvLptl4IQ7kNvwGYi0qM&_nc_oc=AdlIW2oJBYQAr199QZ2QYlZmObLBpAVN1rnEcXf1SUxwMoE47OteM5kMf-qxWRAQVl0&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe-55gCWeTU5mDlimxGZNhJ5dvHXKWvPI9dvfOojtiSLQ&oe=68FC12C0",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484070994_9056556311138055_3265003551532876312_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WeXqvLptl4IQ7kNvwGYi0qM&_nc_oc=AdlIW2oJBYQAr199QZ2QYlZmObLBpAVN1rnEcXf1SUxwMoE47OteM5kMf-qxWRAQVl0&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffVwPCJFF0rmYypxgwmnB5LQonU1s_JZFzhxCkXFlU3kA&oe=68FC4B00",
                     "width": 864
                   }
                 },
@@ -483,7 +523,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/480991036_9056556047804748_3991303868755474134_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tkuwvfz7l6QQ7kNvwHBOufH&_nc_oc=AdnZylr_bVe90QkZA_9SLcD9ZDilkRkyta9kMOvRhKW0AvObw7M6CgKGsiRn-ISPD1Y&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffYMOG-WVisu0Si8z9tEZjnbVAEZpAS-PJS6sP6K7aHkw&oe=68FBF95C",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/480991036_9056556047804748_3991303868755474134_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tkuwvfz7l6QQ7kNvwHBOufH&_nc_oc=AdnZylr_bVe90QkZA_9SLcD9ZDilkRkyta9kMOvRhKW0AvObw7M6CgKGsiRn-ISPD1Y&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Aff441OKbI_-NuPGg_MzA4wp1_2x7EbE-F2bk9eYfajHtA&oe=68FC319C",
                     "width": 960
                   }
                 },
@@ -498,7 +538,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484036631_9056556371138049_6317406751118675640_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zmBcORqTbjEQ7kNvwFVESS0&_nc_oc=AdkMz93atZ2ESCq0fmjj6nahBG7-_CJsNGFuqbCmXMirlFjBNc5iwqSCVHjTT4dZxGk&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfeAyAfL7ks0kFsj-InC-wauLiifDljuks_TiOD1DipCUA&oe=68FC0D8A",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484036631_9056556371138049_6317406751118675640_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zmBcORqTbjEQ7kNvwFVESS0&_nc_oc=AdkMz93atZ2ESCq0fmjj6nahBG7-_CJsNGFuqbCmXMirlFjBNc5iwqSCVHjTT4dZxGk&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfemIJBAWQ0AMPvWJA6w4v-B1ngK1Aw4j_S5AJOsOEvLRw&oe=68FC45CA",
                     "width": 960
                   }
                 },
@@ -513,7 +553,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484050131_9056556407804712_9191255761080017512_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X6B2D7WpiBoQ7kNvwHJIFxM&_nc_oc=AdksHDRQKSvMS-21XnsFcuv6eomb-Hx4VpyMAsbE3g6dUxJfBrM5B-f1mWrUo1vBfG0&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcQZ3FpdmgTxWWd0LIYN0wbsKiaATPiLeAEk_Gs-gqNVA&oe=68FBF456",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484050131_9056556407804712_9191255761080017512_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X6B2D7WpiBoQ7kNvwHJIFxM&_nc_oc=AdksHDRQKSvMS-21XnsFcuv6eomb-Hx4VpyMAsbE3g6dUxJfBrM5B-f1mWrUo1vBfG0&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfceEwNdq7Rs7ZS3m_LD5egYIHgP9AUW0VmtuO9t94SxhQ&oe=68FC2C96",
                     "width": 960
                   }
                 },
@@ -528,7 +568,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/480734725_9056556131138073_3540132324777489646_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0fIc9KeHtbkQ7kNvwHhpZJH&_nc_oc=AdnikCqa01BEJAB_okMsOpqm0bGBIaM5aJ5-PgceDKnHpcMMAfntH0IP1xM87Na62ZQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe0DMAG3H5EE-G0x8pW5DvSuPcoXHYNohVGeoPce2NvvQ&oe=68FC0467",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/480734725_9056556131138073_3540132324777489646_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0fIc9KeHtbkQ7kNvwHhpZJH&_nc_oc=AdnikCqa01BEJAB_okMsOpqm0bGBIaM5aJ5-PgceDKnHpcMMAfntH0IP1xM87Na62ZQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdD8hWlbraLhMbWTmFyjoloXRFJ-dQKWtUyOEIF9_wGdw&oe=68FC3CA7",
                     "width": 960
                   }
                 },
@@ -552,27 +592,39 @@
       ]
     },
     "created_time": "2022-03-29T18:42:35+0000",
+    "updated_time": "2022-03-29T18:42:35+0000",
     "id": "1481985248595237_4729988837128179",
     "message": "Summary of meeting on Tuesday 29th March 2022\n\nTonight saw another new member, Nathan. Nathan built his own Scratch project and his own Micro BIT project during the hour long session. Welcome aboard Nathan. Alex and Thomas were using Python to write a Rock, Paper, Scissors game and a turtle racing game. Bill continued work on his Blender project and Natan continued to investigate the world of Minecraft servers.\n\nWork on the remote control Tank continued with Tim working out what connectors we need for the motors. Mark could not be with us tonight so we are looking forward to more progress next week.\n\nAs ever, thankyou to Pawel and Ania for hosting us and setting up for us.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4729988837128179"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4729988837128179",
+    "retrieved_time": "2025-10-20T17:30:45.399321+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-03-23T05:32:20+0000",
+    "updated_time": "2022-03-23T05:32:20+0000",
     "id": "1481985248595237_4713046115489118",
     "message": "Summary of meeting on Tuesday 22nd March 2022\n\nBill seems to be getting on nicely with his Blender work, although I wish I knew more about blender in order to help him :-( \n\nNatan started building an online minecraft server which he intends to setup MySQL and some anticheat services. \n\nPav helped build an IDC cable for the robotic arm. Much trickier than expected and some good practical skills developed. \n\nTim fitted two motors to the Robot Tank and determined we didn't have the right connectors to connect to the rest if the circuitry. These are on order and should be with us by the next meeting. \n\nTwo new lads joined and worked on scratch and python. They came on a busy day and hopefully got enough attention for them to come again.\n\nA busy but productive session, no time for photos!",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4713046115489118"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4713046115489118",
+    "retrieved_time": "2025-10-20T17:30:45.399327+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/275783981_271916701776034_5793640493590311713_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=bFgcdm0eqUgQ7kNvwEN-oyP&_nc_oc=AdkXlYlAqG_7cyUvxVNMvz_cmc35AwvwtnNOVzmwTbzEbhVmAAAl6Z1nWpAKqUU7aWU&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcZlKocBDNJ7Cu7FUcrqs3yqA5e93BirS8k_vUVDp2ZeQ&oe=68FC14EB",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/275783981_271916701776034_5793640493590311713_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=bFgcdm0eqUgQ7kNvwEN-oyP&_nc_oc=AdkXlYlAqG_7cyUvxVNMvz_cmc35AwvwtnNOVzmwTbzEbhVmAAAl6Z1nWpAKqUU7aWU&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Affs2FWh8kDIi40pXU7am_fuFYP3QbVVEpER6Zro-Vmwog&oe=68FC4D2B",
               "width": 350
             },
-            "source": "https://scontent.fbhx4-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQOOGxW4jdQOz6-jiS-MPJM00TP4yjjZNmVbRGOplBS9H4rANEVMDgrCcyeGrQH3ddd5fRni0urAaytfjpeAAYg.mp4?_nc_cat=101&_nc_oc=AdkJmM7L8_5vmQufEspGNBT_bDmL6ltp2AQVosqCsfzsQCw-DwX0XqzK2kwLJgzCG1M&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-2.fna.fbcdn.net&_nc_ohc=RJkVY6VlU_cQ7kNvwFdfku8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzJlLjIwNi5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjE3NjgwMTM2NzM2ODI1NTMsImFzc2V0X2FnZV9kYXlzIjoxMzEzLCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFqxATdyavhEkec70G0lmr0hlC3QEDojpi76Jo0PE16cxMKLydHSQdsrgDceofTBtsRmrkm6ZTerg&oh=00_AfdKLIGNu7nyqAleEXblBTFj3HkLRcgagbJC0VYah8uxGQ&oe=68FC152D&bitrate=249990&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+            "source": "https://scontent.fbhx4-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQOOGxW4jdQOz6-jiS-MPJM00TP4yjjZNmVbRGOplBS9H4rANEVMDgrCcyeGrQH3ddd5fRni0urAaytfjpeAAYg.mp4?_nc_cat=101&_nc_oc=AdkJmM7L8_5vmQufEspGNBT_bDmL6ltp2AQVosqCsfzsQCw-DwX0XqzK2kwLJgzCG1M&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-2.fna.fbcdn.net&_nc_ohc=RJkVY6VlU_cQ7kNvwFdfku8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMjA2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc2ODAxMzY3MzY4MjU1MywiYXNzZXRfYWdlX2RheXMiOjEzMTMsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=D6WqsMliwrgGhUkq37QR-A&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEl5y2r6yK-bK81XMoi8pJ6PPdDXHmZmZhax49xNlIF10QMm6neT5mp3N2aEKD6JZCdYVQwAsdKvQ&oh=00_AfeV-vYKKTLiYyj6m0GGs7kG12cTZ2__tePqED1OI5s6qw&oe=68FC4D6D&bitrate=249990&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
           },
           "target": {
             "id": "332747225497664",
@@ -584,18 +636,24 @@
       ]
     },
     "created_time": "2022-03-16T18:44:43+0000",
+    "updated_time": "2022-03-16T18:44:43+0000",
     "id": "1481985248595237_4696452550481808",
     "message": "Video didn't upload with previous post ...",
-    "permalink_url": "https://www.facebook.com/720665616418529/videos/332747225497664"
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/332747225497664",
+    "retrieved_time": "2025-10-20T17:30:45.399333+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 965,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484075971_9049040825222937_7133850019704085834_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vUJW27DeP14Q7kNvwF42es2&_nc_oc=AdnDXtVr60ExARIp5Fuay5b3_Sz-dMG1mxML5jIDVL__D5WtEbv0dPL6-QhjktHYhhY&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcFAX0S-sG84sKN_yBb3VOJkpS7E5ke5eTWqWojypGq6Q&oe=68FC09CB",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484075971_9049040825222937_7133850019704085834_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vUJW27DeP14Q7kNvwF42es2&_nc_oc=AdnDXtVr60ExARIp5Fuay5b3_Sz-dMG1mxML5jIDVL__D5WtEbv0dPL6-QhjktHYhhY&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffEo8obDio3BjeboF8GkDJQyTck2_4K6NxCayaS1A4slw&oe=68FC420B",
               "width": 720
             }
           },
@@ -605,7 +663,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484075971_9049040825222937_7133850019704085834_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vUJW27DeP14Q7kNvwF42es2&_nc_oc=AdnDXtVr60ExARIp5Fuay5b3_Sz-dMG1mxML5jIDVL__D5WtEbv0dPL6-QhjktHYhhY&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcFAX0S-sG84sKN_yBb3VOJkpS7E5ke5eTWqWojypGq6Q&oe=68FC09CB",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/484075971_9049040825222937_7133850019704085834_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vUJW27DeP14Q7kNvwF42es2&_nc_oc=AdnDXtVr60ExARIp5Fuay5b3_Sz-dMG1mxML5jIDVL__D5WtEbv0dPL6-QhjktHYhhY&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffEo8obDio3BjeboF8GkDJQyTck2_4K6NxCayaS1A4slw&oe=68FC420B",
                     "width": 720
                   }
                 },
@@ -620,7 +678,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482984899_9049041685222851_1818953376786602857_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4h0GLSVissAQ7kNvwFw599R&_nc_oc=AdmXL238ZhxXk9upfaKt2VfYkU3VvtlRhBK-GOcfxmdkYWmsoLlGr_5htI5hqExfmuY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfeRX_Gp_QDeOTCXgZqAq85jfzpOWx6j3tm5PkyavKUb8A&oe=68FC0EA6",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482984899_9049041685222851_1818953376786602857_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4h0GLSVissAQ7kNvwFw599R&_nc_oc=AdmXL238ZhxXk9upfaKt2VfYkU3VvtlRhBK-GOcfxmdkYWmsoLlGr_5htI5hqExfmuY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffAhvUhkwFWar5sp54O47SdrGjNO4zc1THmBFls508ltQ&oe=68FC46E6",
                     "width": 720
                   }
                 },
@@ -635,7 +693,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482978483_9049041505222869_2424816813672867365_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z_Po7S5qsQ0Q7kNvwFOKFlz&_nc_oc=Admmkbw2C9Mlv7Xdx0hz2fLHF-5juhFbqyUOn1uNUldZT1keeMKkmrNaapEs6zg_Erg&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afct8GIp2_2dOet7nUZH2_XDqJ6drIFyYXA4bCFXynz8MA&oe=68FC2161",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482978483_9049041505222869_2424816813672867365_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=egzzjZJCdQsQ7kNvwFUPEOl&_nc_oc=AdlXdIbY_AMIZ4FqwhhsVnkizkb7W_uhgpLeMY4Ld_vC9y28CjcLw4shhn21WpnHfwE&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfeWtM9Xk-B7-nzm-gLO2_B28Oc_DUM5Uvh-zvKDmB20iw&oe=68FC59A1",
                     "width": 720
                   }
                 },
@@ -650,7 +708,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482980930_9049041488556204_3711165291547348496_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PLWpuVE5QHkQ7kNvwFwlho_&_nc_oc=Adk3v9DojiKOuiTSYsFdIkJ-qSRpZEs5O35YcJ-e4JBXGbo2BVF-E_ob4B7S8QljSeY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afdm0wz8_L72-rXdYwk5jL6wWFUrkDe0UsuIxSZW_mnTGg&oe=68FC1969",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482980930_9049041488556204_3711165291547348496_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PLWpuVE5QHkQ7kNvwFwlho_&_nc_oc=Adk3v9DojiKOuiTSYsFdIkJ-qSRpZEs5O35YcJ-e4JBXGbo2BVF-E_ob4B7S8QljSeY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfckQw6mskOTvT8D-xRZQNpA4Y_IzMQfl2sTu_tn0Kpm3Q&oe=68FC51A9",
                     "width": 720
                   }
                 },
@@ -665,7 +723,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482976513_9049041578556195_316066393678749845_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qoqjGXG-GIIQ7kNvwFSZkzm&_nc_oc=AdmjLVnxnQcVLNa4Kk5Z5c9x3gTW7wUB6rOSp44oP3Ez-F84OmR_ICNUUcBqWgIQKfo&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Aff5Q3r4QH0xv8EWL2PjvCGmbdFY4JIRS-6mjTZxo5ql1w&oe=68FC0C71",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482976513_9049041578556195_316066393678749845_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qoqjGXG-GIIQ7kNvwFSZkzm&_nc_oc=AdmjLVnxnQcVLNa4Kk5Z5c9x3gTW7wUB6rOSp44oP3Ez-F84OmR_ICNUUcBqWgIQKfo&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdUl7AItlDSvEidCSCm47DHsOaKqd601-6oIgX8MtA39Q&oe=68FC44B1",
                     "width": 720
                   }
                 },
@@ -680,7 +738,7 @@
                 "media": {
                   "image": {
                     "height": 965,
-                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/482975189_9049041575222862_3965061741672232586_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ldm90HGG6m4Q7kNvwG7RQBp&_nc_oc=AdloY1tMZt6-DT1mDo4pG1TAULRuHpzHGa55BZ8_2oisk9xDiwGxQ89JoWS2Cj8rdQ8&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcSubEM8s8NnA2eirTnMwfVHuVExNni7SLKedfHSwyXmQ&oe=68FBFB4B",
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/482975189_9049041575222862_3965061741672232586_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ldm90HGG6m4Q7kNvwG7RQBp&_nc_oc=AdloY1tMZt6-DT1mDo4pG1TAULRuHpzHGa55BZ8_2oisk9xDiwGxQ89JoWS2Cj8rdQ8&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AffBAYQjclZfd85QTm0TN-vqyBbtElsynhngPQX1WF-rJQ&oe=68FC338B",
                     "width": 720
                   }
                 },
@@ -704,9 +762,11 @@
       ]
     },
     "created_time": "2022-03-16T18:39:18+0000",
+    "updated_time": "2022-03-16T18:41:16+0000",
     "id": "1481985248595237_4696443343816062",
     "message": "Summary of our meeting on Tuesday 15th of March\n\nThe only PC capable of running Unity was playing up and refused to boot. It kept restarting, so Bill was unable to make any progress on his tree objects. However, he and Stoo had last weeks version and were able to integrate it with Stoo's Oculus VR (Virtual Reality) head set and they had some fun moving around the virtual scene. \n\nTim made great progress on the Robot tank and the main body is now assembled. The motors are next. Unfortunately we didn't have the exact motors that the design called for and the motor spindles are a little shorter than expected. Tim will investigate heating the locking nut hot enough tho melt the PLA (plastic) and embed it in the cog that it needs to hold. \n\nPav and Natan further investigated minecraft anti-cheats and now Stoo and I have a reasonable grasp over what they are and why they're needed. \n\nGreat support, as always, from the community centre staff and mums. Thank you :-)",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4696443343816062"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4696443343816062",
+    "retrieved_time": "2025-10-20T17:30:45.399339+00:00"
   },
   {
     "attachments": {
@@ -715,10 +775,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.13418-10/275234206_909870766348453_1806713722414446307_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=ace027&_nc_ohc=JfgknI97SDkQ7kNvwF2dgIq&_nc_oc=AdkjgctBbPfNNFf-AzUiAudIy_LT-Dvk8mV5vl8RacZBJXCq-fFRwBrUBdXraA76NwI&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfdIZ2ZHiwqa3WDaZFgPFR6uFhtAidVy-EzWk83pzNp3Iw&oe=68FBF951",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.13418-10/275234206_909870766348453_1806713722414446307_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=ace027&_nc_ohc=JfgknI97SDkQ7kNvwF2dgIq&_nc_oc=AdkjgctBbPfNNFf-AzUiAudIy_LT-Dvk8mV5vl8RacZBJXCq-fFRwBrUBdXraA76NwI&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afd7g9V77NANEg5QXYmlNmTR-AJ0GuT8CrBC5Vi-l4bugQ&oe=68FC3191",
               "width": 720
             },
-            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQN9xzXv4nh28ENBGNkyRzZfJv_1J9oL8J84IF7ftVStFawhbkULq7CG4Db070xwczSyAlySkqQJIs_MhDq650M.mp4?_nc_cat=105&_nc_oc=AdkZA-2K9hrIqUF7-q3CeADuoJxscCFa-7nYub8Qo_1eWr3eBLIkZhHuIu7oKgtWRQw&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=V5jmU1iN4eMQ7kNvwHC6rrR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzJlLjQyNi5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjEzMjU3OTE5MDQ3Mzk3NTcsImFzc2V0X2FnZV9kYXlzIjoxMzE2LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6MTE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGyOZnueXyf4xPbqGf4kJ4_JKASSXoRlxF3VMVjfeR8nBpx28pRDSCDj-QL28JitK6zxXKrJat80g&oh=00_AfcwUqucAAHdEGwsboh4LQo2q1yuIQRov5Ep6OzF4AFMaQ&oe=68FC00E5&bitrate=269687&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQN9xzXv4nh28ENBGNkyRzZfJv_1J9oL8J84IF7ftVStFawhbkULq7CG4Db070xwczSyAlySkqQJIs_MhDq650M.mp4?_nc_cat=105&_nc_oc=Adlq0TmLZfW3aF6cF-nMD_BUmmg-TxTjgQi8YsPnMkbt8SIhsp0IVB4OCodJDqRF-_c&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=e5oKqiAL7pgQ7kNvwHF6DW1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMyNTc5MTkwNDczOTc1NywiYXNzZXRfYWdlX2RheXMiOjEzMTYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxMTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=D6WqsMliwrgGhUkq37QR-A&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEWWf616amwzXOpESh1cs5CKGIp8u3dMwsMRtO8urJZWEvozEgyjtbpbkNwxxBLSq_EvJ0tYdtyMw&oh=00_AfeuB2hdXYpTnGidYent0MAJDsqCAF7r9AhBQt8k2eTZmw&oe=68FC3925&bitrate=269687&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
           },
           "target": {
             "id": "269989481964896",
@@ -730,33 +790,51 @@
       ]
     },
     "created_time": "2022-03-13T18:29:46+0000",
+    "updated_time": "2022-03-13T18:29:46+0000",
     "id": "1481985248595237_4688570197936710",
     "message": "Finally managed to use Bill's trees created with Blender, inside a Unity project to run on the Oculus Quest II.",
-    "permalink_url": "https://www.facebook.com/720665616418529/videos/269989481964896"
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/269989481964896",
+    "retrieved_time": "2025-10-20T17:30:45.399345+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-03-09T06:07:02+0000",
+    "updated_time": "2022-03-09T06:07:02+0000",
     "id": "1481985248595237_4676517582475305",
     "message": "Summary of meeting Tuesday 8th March \n\nTim discovered the delights of removing supports from the 3D printed tank hull, very small spaces and precious little room to manoeuvre! \nBill made nice progress on extending his tree objects in Blender \nNatan had fun updating our linux server, downloading minecraft client and trying to explain to Stoo and I what anti-cheats were all about, with very little comprehension on my part \nWe thought we might get to the mechanical construction of the robot tank but found that the printed instructions kept referring to YouTube videos BUT ... we had no speakers!! \n\nAll in all a great meeting with some learning opportunities for Stoo and myself.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4676517582475305"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4676517582475305",
+    "retrieved_time": "2025-10-20T17:30:45.399351+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-03-09T05:53:05+0000",
+    "updated_time": "2022-03-09T05:53:05+0000",
     "id": "1481985248595237_4676494612477602",
     "message": "Summary of Code Club meeting at Curborough Community Centre Tuesday 8th March\n\nTim discovered the delights of removing supports from the 3D printed tank hull, very small spaces and precious little room to manoeuvre!\n Bill made nice progress on extending his tree objects in Blender \nNatan had fun updating our linux server, downloading minecraft client and trying to explain to Stoo and I what anti-cheats were all about, with very little comprehension on my part\n We thought we might get to the mechanical construction of the robot tank but found that the printed instructions kept referring to YouTube videos BUT ... we had no speakers!!\n\n All in all a great meeting with some learning opportunities for Stoo and myself.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4676494612477602"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4676494612477602",
+    "retrieved_time": "2025-10-20T17:30:45.399358+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/273823912_297568618958269_7446965957801624383_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=282d23&_nc_ohc=MsUydpzBcxoQ7kNvwHF_7LX&_nc_oc=AdmCSjusZ--PwAAc9eZhd5Ckxoa5KqPOwvWC6VpzdNUL0C1zfrI3WNnok0aJAdnTx7M&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afc7dUUyMrpUgJtM_H139wCMvklaCNgP6txPJ4TWkzV_jw&oe=68FC0B69",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/273823912_297568618958269_7446965957801624383_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=282d23&_nc_ohc=MsUydpzBcxoQ7kNvwHF_7LX&_nc_oc=AdmCSjusZ--PwAAc9eZhd5Ckxoa5KqPOwvWC6VpzdNUL0C1zfrI3WNnok0aJAdnTx7M&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfdHcehlV6QtOIo0_nsggDiMMBEBXpf93lwxgTzMAwiH7w&oe=68FC43A9",
               "width": 350
             },
-            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMMthmT0e0D7gWMlUrr-rIxSLafuESu8au-9BT5qGykrrmzvr6-CFr1Hl5WhOz1eTqxPyrCxNBHdCziBLHKak4.mp4?_nc_cat=110&_nc_oc=AdnwdZTztH-LGVZX28Pexizko1WbPTRN8l3Cvd-VyUban55Arr4IrZ1dT30bclTvxOs&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=2FYBtH4DyY0Q7kNvwHAMUjR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzJlLjIwNi5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjkwNzQwODIwNzQzMTQ3NywiYXNzZXRfYWdlX2RheXMiOjEzMzIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHWWV_-06b1xggLdqLrYP9X5WFksu7djCe2S6sGegygji8DhhTiMgnQj7eW7BwxcQosqBLZzRPsgQ&oh=00_Affjy7vUkcqGiYJRyGcMPerAVW8AR_KwwIx90O-J-JvmBw&oe=68FC19C0&bitrate=196863&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMMthmT0e0D7gWMlUrr-rIxSLafuESu8au-9BT5qGykrrmzvr6-CFr1Hl5WhOz1eTqxPyrCxNBHdCziBLHKak4.mp4?_nc_cat=110&_nc_oc=AdnwdZTztH-LGVZX28Pexizko1WbPTRN8l3Cvd-VyUban55Arr4IrZ1dT30bclTvxOs&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=2FYBtH4DyY0Q7kNvwHAMUjR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMjA2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTA3NDA4MjA3NDMxNDc3LCJhc3NldF9hZ2VfZGF5cyI6MTMzMywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=D6WqsMliwrgGhUkq37QR-A&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFQYeEXDRWhXu0F3EpnrdN14kTEUa-gD7h-llxkabAl4VjIobGxHFkk74eS9pn1MQyaOtUx-7itnw&oh=00_AfeuWhq8HQ1mNjsYvuFkUusp2qpmrH-YwDYLVW1AJkFlWg&oe=68FC5200&bitrate=196863&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
           },
           "target": {
             "id": "473984350726655",
@@ -769,17 +847,23 @@
       ]
     },
     "created_time": "2022-02-25T17:09:59+0000",
+    "updated_time": "2022-02-25T17:09:59+0000",
     "id": "1481985248595237_4645251378935259",
-    "permalink_url": "https://www.facebook.com/720665616418529/videos/473984350726655"
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/473984350726655",
+    "retrieved_time": "2025-10-20T17:30:45.399364+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482344612_9026012390859114_5501532757941864293_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6n4UlZyQgEwQ7kNvwE_tsCu&_nc_oc=AdlNX6Ls_2zmEmX50y-ltHzqJ_X9mOFpbPvAkz2V1zUFgHATtsCWeNBojq7yao6WwM4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffOAp5yvSmGy8G-ZI7d_wl6_H3Qsi_lXGH8W4NmTq06zw&oe=68FBF4AD",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482344612_9026012390859114_5501532757941864293_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6n4UlZyQgEwQ7kNvwE_tsCu&_nc_oc=AdlNX6Ls_2zmEmX50y-ltHzqJ_X9mOFpbPvAkz2V1zUFgHATtsCWeNBojq7yao6WwM4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfeDAkpPNNUntXRhZDE8ZHRPSsQRVbs5HGSs1CJK_HUdvA&oe=68FC2CED",
               "width": 883
             }
           },
@@ -789,7 +873,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482344612_9026012390859114_5501532757941864293_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6n4UlZyQgEwQ7kNvwE_tsCu&_nc_oc=AdlNX6Ls_2zmEmX50y-ltHzqJ_X9mOFpbPvAkz2V1zUFgHATtsCWeNBojq7yao6WwM4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AffOAp5yvSmGy8G-ZI7d_wl6_H3Qsi_lXGH8W4NmTq06zw&oe=68FBF4AD",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/482344612_9026012390859114_5501532757941864293_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6n4UlZyQgEwQ7kNvwE_tsCu&_nc_oc=AdlNX6Ls_2zmEmX50y-ltHzqJ_X9mOFpbPvAkz2V1zUFgHATtsCWeNBojq7yao6WwM4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfeDAkpPNNUntXRhZDE8ZHRPSsQRVbs5HGSs1CJK_HUdvA&oe=68FC2CED",
                     "width": 883
                   }
                 },
@@ -804,7 +888,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484042953_9026012377525782_1142280412395520905_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UhKl0tY9-mwQ7kNvwHz36to&_nc_oc=AdlqGiwmL2o_ODQImnwjgjLLgbPRS3EN1ux7zkq9uynTBsLXjHakWn2mmoeKy8nDxKE&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afe-kvjlUEbErDLimFcGZrl9UH8qW-dI5rTGkDnx6di73g&oe=68FC03FA",
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484042953_9026012377525782_1142280412395520905_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UhKl0tY9-mwQ7kNvwHz36to&_nc_oc=AdlqGiwmL2o_ODQImnwjgjLLgbPRS3EN1ux7zkq9uynTBsLXjHakWn2mmoeKy8nDxKE&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfecC7fpyg_eZMuwSZ2nem0bySd20821Yee6smeZFh6-vg&oe=68FC3C3A",
                     "width": 1106
                   }
                 },
@@ -828,22 +912,40 @@
       ]
     },
     "created_time": "2022-02-25T17:06:28+0000",
+    "updated_time": "2022-02-25T17:06:28+0000",
     "id": "1481985248595237_4645244508935946",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4645244508935946"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4645244508935946",
+    "retrieved_time": "2025-10-20T17:30:45.399370+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-02-25T17:05:50+0000",
+    "updated_time": "2022-02-25T17:05:50+0000",
     "id": "1481985248595237_4645243245602739",
     "message": "Summary of the 23rd February club meeting\n\nBill worked on modifying a tree created in blender Blender, using private web browsing and drawing graphs in Windows calculator.\n\nNatan and Stoo had some fun with 2 BBC microbits. \nUsing one to trigger alarms on the other and considered how to handle 'contact bounce' which made the transmitter send multiple connection messages.\n\nPav sorted our printed parts for the robot tank and determined that we had all the plastic parts.\nHowever, Tim decided to reprint the tank hull because one of the key gear supports had partly broken off.\n\nPav went through the electronic components, identifying what each one was and ticking them off the list. \nIt looks like we're missing a few key parts which we'll get before the next meeting.\n\nAll in all, a very good, productive and enjoyable activity.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4645243245602739"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4645243245602739",
+    "retrieved_time": "2025-10-20T17:30:45.399376+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-02-17T10:58:30+0000",
+    "updated_time": "2022-02-17T10:58:30+0000",
     "id": "1481985248595237_4619841314809599",
     "message": "Summary of 16th February meeting\nBill had issues retrieving his work and looked at a few aspects of Blender. Natan and Igor worked on updating our linux server and investigating some network connection issues. Tim and I reviewed the progress on our robot tank and identified what still needed to be 3d printed and which electronic components we had.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4619841314809599"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4619841314809599",
+    "retrieved_time": "2025-10-20T17:30:45.399382+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -851,25 +953,31 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7658439881717117096?url=https%3A%2F%2Fimages.ctfassets.net%2F2lpsze4g694w%2F53roSEAbDZ23jLukjs7zjm%2Ff20ac9e9a16a497f80ac299120e179ba%2F001_MagPi114_COVER-MOCKUP.jpg%3Fw%3D800&fb_obo=1&utld=ctfassets.net&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&_nc_oc=AdlkSfgFXnyNv107cKKR8VUBsD3C7rnW0KIwoT9gZ9KFl7Bs6S9g7qdAasvXBNNfZeY&ccb=13-1&oh=06_Q3-4AbT-fVuXyuFwIBqyJp7IamPEp2jq0KR5dJ6JtdwaET7L&oe=68F833B6&_nc_sid=ef6713",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/7658439881717117096?url=https%3A%2F%2Fimages.ctfassets.net%2F2lpsze4g694w%2F53roSEAbDZ23jLukjs7zjm%2Ff20ac9e9a16a497f80ac299120e179ba%2F001_MagPi114_COVER-MOCKUP.jpg%3Fw%3D800&fb_obo=1&utld=ctfassets.net&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&_nc_oc=AdlkSfgFXnyNv107cKKR8VUBsD3C7rnW0KIwoT9gZ9KFl7Bs6S9g7qdAasvXBNNfZeY&ccb=13-1&oh=06_Q3-4AaM2nLNf-htBBz6RE_qQQ0dxOPqC5EvqHyrGMgV4mU8E&oe=68F86BF6&_nc_sid=ef6713",
               "width": 720
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmagpi.raspberrypi.com%2Farticles%2Fdiscover-practical-programming-in-the-magpi-magazine-issue-114&h=AT31P9t-4fbsKxjx1915xvIJ0yOBf40KxkeInTsjyosPAebpfHX69plmM8ylou3U4zOcdDsltrrHfym786eVwI8LmwB83lMm06sLM3v5-YR8PldlqKiPEDQhNCOOQZ_d&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmagpi.raspberrypi.com%2Farticles%2Fdiscover-practical-programming-in-the-magpi-magazine-issue-114&h=AT1ruVXq5EqdvDbiozSbIXsr8pqrdnSyvm199etoWfTzWfCYd9JbZ09mqamLrYSakIxp34mhs9b8LPahgD27FW-S2HjJL6edYIP1jdBemvIfLpX0_rSbSJUimY9xp5F-&s=1"
           },
           "title": "Discover Practical Programming in The MagPi magazine issue #114 \u2014 The MagPi magazine",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmagpi.raspberrypi.com%2Farticles%2Fdiscover-practical-programming-in-the-magpi-magazine-issue-114&h=AT31P9t-4fbsKxjx1915xvIJ0yOBf40KxkeInTsjyosPAebpfHX69plmM8ylou3U4zOcdDsltrrHfym786eVwI8LmwB83lMm06sLM3v5-YR8PldlqKiPEDQhNCOOQZ_d&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmagpi.raspberrypi.com%2Farticles%2Fdiscover-practical-programming-in-the-magpi-magazine-issue-114&h=AT1ruVXq5EqdvDbiozSbIXsr8pqrdnSyvm199etoWfTzWfCYd9JbZ09mqamLrYSakIxp34mhs9b8LPahgD27FW-S2HjJL6edYIP1jdBemvIfLpX0_rSbSJUimY9xp5F-&s=1"
         }
       ]
     },
     "created_time": "2022-01-29T05:46:08+0000",
+    "updated_time": "2022-01-29T05:46:08+0000",
     "id": "1481985248595237_4560747080719023",
     "message": "A great source of ideas for all skill levels.  Highly recommended ",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4560747080719023"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4560747080719023",
+    "retrieved_time": "2025-10-20T17:30:45.399388+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
@@ -877,7 +985,7 @@
           "media": {
             "image": {
               "height": 960,
-              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/481081639_8969811256479228_9037173467106170622_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XyjUkk5Xqc0Q7kNvwGF-AFG&_nc_oc=AdkCTtjph2DOWTnLGIzRZQ3ZRcqh8rd6CkOSTSm4PIgIofNT_9Vin5IUVwGLWN3NkNQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_Afd_lRLnLWtpAJbJ9NQtuudWE_LK0gK6SQjS0hjsV-77Sg&oe=68FBF724",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/481081639_8969811256479228_9037173467106170622_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XyjUkk5Xqc0Q7kNvwGF-AFG&_nc_oc=AdkCTtjph2DOWTnLGIzRZQ3ZRcqh8rd6CkOSTSm4PIgIofNT_9Vin5IUVwGLWN3NkNQ&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_AfcN9YxJ7N1R5tgPOH5NWfYwhYUCVDKfdG1e2DJodHDCyg&oe=68FC2F64",
               "width": 720
             }
           },
@@ -891,21 +999,27 @@
       ]
     },
     "created_time": "2022-01-27T08:40:47+0000",
+    "updated_time": "2022-01-27T08:40:47+0000",
     "id": "1481985248595237_4552256054901459",
     "message": "A picture of the tank track, printed in one go, by Tim\nEach link moves freely, incredible!",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4552256054901459"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4552256054901459",
+    "retrieved_time": "2025-10-20T17:30:45.399394+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "attachments": {
       "data": [
         {
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/272788629_1253461081812258_8908253531086011971_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=282d23&_nc_ohc=rGJWZPQPPpcQ7kNvwEkKi6W&_nc_oc=AdkcNFHfOiLOfKvQs2SZ-LSSxlSJX3cVIJLelX-2ByyZ_c6eN0XVArMTQSXNLlpHHtU&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfcRObb6ry-KLytyuUHFQQVt1lgCUMJHeC4nC9_BThajvg&oe=68FC0567",
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/272788629_1253461081812258_8908253531086011971_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=282d23&_nc_ohc=rGJWZPQPPpcQ7kNvwEkKi6W&_nc_oc=AdkcNFHfOiLOfKvQs2SZ-LSSxlSJX3cVIJLelX-2ByyZ_c6eN0XVArMTQSXNLlpHHtU&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=D6WqsMliwrgGhUkq37QR-A&oh=00_Afesj1I4URD0k2DE-2eOTesutiyonGKWsZ7GPAh-EOhqVg&oe=68FC3DA7",
               "width": 405
             },
-            "source": "https://scontent.fbhx4-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQOdIcPtel2WUbNSJbxEhLp65H4DMVpYtv3qifieXRtDgH8MuoszUdhDAt1MSX7_HiIHutQzSExYhnUGefUJViJ8.mp4?strext=1&_nc_cat=102&_nc_oc=AdleMHooVvS2ESx74MAXKd6WZOfW0aRUDyPn9EJv2DqdpSZAnzgiw1atjEARIgXSZms&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-2.fna.fbcdn.net&_nc_ohc=TwvygAsh4PsQ7kNvwGqA0fr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzJlLjI0MC5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjM2MzM1NjQ5OTk0NDIxNCwiYXNzZXRfYWdlX2RheXMiOjEzNjIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo3NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFZbIP-9Gopffv0c8IPmWrXQbzLS_5RLC-S_8ra-YyatKpilDaXPh3gHQqa8OCZmkiBOM8MqNPLJw&oh=00_Aff_WO0BcCSMBRINCTJ2-uEAKMkYVB9fz5Q8Ma2Ys8h9zg&oe=68FC0424&bitrate=226982&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+            "source": "https://scontent.fbhx4-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQOdIcPtel2WUbNSJbxEhLp65H4DMVpYtv3qifieXRtDgH8MuoszUdhDAt1MSX7_HiIHutQzSExYhnUGefUJViJ8.mp4?strext=1&_nc_cat=102&_nc_oc=AdleMHooVvS2ESx74MAXKd6WZOfW0aRUDyPn9EJv2DqdpSZAnzgiw1atjEARIgXSZms&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-2.fna.fbcdn.net&_nc_ohc=TwvygAsh4PsQ7kNvwGqA0fr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYzMzU2NDk5OTQ0MjE0LCJhc3NldF9hZ2VfZGF5cyI6MTM2MiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=D6WqsMliwrgGhUkq37QR-A&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFeEa-MWYZmZLbi7K8705a4KjBNvjr1RoQGV98KRewuR8hkSLsmWaGB8SU2o72FGLVtBSY_d4IL3Q&oh=00_Afd4nG5br9Hga1o21YV5UU8Se9-58_zWA1tmMW6UROxr9Q&oe=68FC3C64&bitrate=226982&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
           },
           "target": {
             "id": "1253457315145968",
@@ -917,14 +1031,22 @@
       ]
     },
     "created_time": "2022-01-27T08:07:09+0000",
+    "updated_time": "2022-01-27T08:11:21+0000",
     "id": "1481985248595237_4552150318245366",
     "message": "A summary of the meeting on Wednesday 26th January ...\n\nBill worked on Blender creating tree/grass assets to use with Unity\n\nIgor used Fusion360 and adjusted his design of our robot arm support to accommodate the signal connector we'd not seen in the original image. We'll print this on a resin 3D printer and hopefully have something to hold up a camera and, using computer vision, identify and follow a person in a crowded room.\n\nPav and Igor worked on making a robot arm move properly, found where the unfitted gear should be and got everything working nicely.\n\nStoo had managed to get hold of a microbit v2, which Natan had great fun with, using scratch to write programs that tested sound thresholds for triggering responses. \n\nTim had used his Creatility 3D printer to create some tank tracks for a robot tank project we've started to work on, based on an instructables guide. https://www.instructables.com/3D-Printed-FPV-Arduino-RC-Tank-With-Controller/ The tracks were amazing, printed as a single print the linkages worked, as in moved fairly easily, we'll need to add some grease to make the track move more freely but unbelievable that you can print something with moving parts.",
-    "permalink_url": "https://www.facebook.com/720665616418529/videos/1253457315145968"
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/1253457315145968",
+    "retrieved_time": "2025-10-20T17:30:45.399400+00:00"
   },
   {
+    "admin_creator": {
+      "name": "Mark Pritchett",
+      "id": "4496072770415091"
+    },
     "created_time": "2022-01-20T07:27:11+0000",
+    "updated_time": "2022-01-20T07:27:11+0000",
     "id": "1481985248595237_4520716994722032",
     "message": "A summary of January 19th meeting ...\n\nThe model wind power turbine is now at one of the club members home and being used to charge a rechargeable battery. \n\nFusion360 model housing for stepper motor adjusted as the 3D printer slicing software, chitubox, was unhappy with the length of the Y axis. Will test later to see if it's now accepted \n\nThe terrain textures component of Unity was investigated to produce grass in various shades and lighting conditions. Two of the club members worked together, one more experienced and one younger, it was rewarding to see them working collaboratively. \n\nA wifi dongle was fitted and configured on the single linux box we have. This allowed the OS to be updated and used to update one of the members own website.",
-    "permalink_url": "https://www.facebook.com/720665616418529/posts/4520716994722032"
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4520716994722032",
+    "retrieved_time": "2025-10-20T17:30:45.399406+00:00"
   }
 ]

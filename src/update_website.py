@@ -4,25 +4,28 @@ from datetime import datetime
 from glob import glob
 
 md_template = """---
-Topic:  #TOPIC#
-Content: #CONTENT#
 layout: post
-author: Mark
+title: "Club Meeting: #DATE#"
+date: #DATE#
+Topic: "#TOPIC#"
+categories: [Code Club]
+tags: [Coding, Kids, Education, Community]
 ---
 #BODY#
 
-#IMAGE#
+#CONTENT#
 
-* [Facebook Link](#PERMALINK#)
+* [Facebook Post](#PERMALINK#)
 
-## Location
+## 📍 Location
 
-* Curborough Community Centre
-* WS13 7NY
-* Code Club
-* Wednesdays 5:30 - 6:30pm
-* 7 - 15 year olds welcome
+Curborough Community Centre  
+WS13 7NY  
+Code Club  
+Wednesdays 5:30 - 6:30 PM  
+7 - 15 year olds welcome  
 
+---
 """
 
 def ReadJson(fname):
@@ -58,26 +61,26 @@ def CreateWebPost(fname):
                 content = HandleAttachments(post_data=post)
 
                 md_date = post['created_time'].split('+')[0].replace('T','-')
-                meeting_date = post['created_time'].split('T')[0]
-                md_file = f'_posts/{meeting_date}-Meeting.md'
-
+                md_day  = post['created_time'].split('T')[0]
+                md_file = f'_posts/{md_day}-Meeting.md'
                 web_post = md_template
-                web_post = web_post.replace('#IMAGE#',content)
+                web_post = web_post.replace('#DATE#',md_day)
+                # web_post = web_post.replace('#IMAGE#',content)
                 web_post = web_post.replace('#PERMALINK#',post['permalink_url'])
                 web_post = web_post.replace('#TOPIC#','Club Meeting')
-                web_post = web_post.replace('#CONTENT#','Summary')
+                web_post = web_post.replace('#CONTENT#',content)
                 if 'message' in post.keys():
                     web_post = web_post.replace('#BODY#',post['message'])
                     tag_line = ' '.join(post['message'].split(' ')[0:4])
-                    if not 'http' in tag_line:
-                        md_file = f'_posts/{meeting_date}-{tag_line}.md'
+                    # if not 'http' in tag_line:
+                    #     md_file = f'_posts/{meeting_date}-{tag_line}.md'
                 else:
                     web_post = web_post.replace('#BODY#','')
                 if os.path.exists(md_file):
                     os.remove(md_file)
                 with open(md_file,'w') as fw:
                     fw.write(web_post)
-                #more = False
+                # more = False
 
 def UpdateWebsite(fname):
     config = ReadJson(fname)
