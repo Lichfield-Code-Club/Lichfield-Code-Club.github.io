@@ -9,7 +9,7 @@ Built a model wind power turbine and manually generated enough output to turn an
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4487822634678135/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4487822634678135)
 
 ## Location
 

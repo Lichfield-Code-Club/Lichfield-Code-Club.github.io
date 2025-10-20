@@ -1,0 +1,20 @@
+---
+Topic:  Club Meeting
+Content: Summary
+layout: post
+author: Mark
+---
+Quiet night last night, so have now put the upgraded Vex IQ Code application on most of our laptops. This version allows us to use C to program the Claw Bot as well as the familiar blocks application.
+
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/1252159476602471)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/522666897_1252159603269125_3397730005566008629_n.jpg?stp=cp1_dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=F2VB-3YG5WIQ7kNvwGzIh9v&_nc_oc=AdnMSwX4yKrSPRddy5Vg9G8ZwQ_3SU3rtdVYVae3qT2WGwjG5ZxFa7WmU0PWXFitcbE&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=8m_k3Hl0vmzeyCPo1jX4-g&oh=00_AfeQgNwVdCjFDFkGhco5yLoycNkDHmXflSXlM_A_Dsl7SQ&oe=68FBFF9C)
+
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1252159476602471)
+
+## Location
+
+* Curborough Community Centre
+* WS13 7NY
+* Code Club
+* Wednesdays 5:30 - 6:30pm
+* 7 - 15 year olds welcome
+

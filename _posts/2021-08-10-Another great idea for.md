@@ -8,7 +8,7 @@ Another great idea for our members ... https://www.facebook.com/diyodemag/videos
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/3986457061481364/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/3986457061481364)
 
 ## Location
 

@@ -8,9 +8,9 @@ Code Club activities for April 12th
 This week we saw the Micro BIT being used with an electronics kit to read and display the voltage from a potentiometer. Thank you to Craig and Henry for building and demonstrating this project.
 Mark was not with us tonight, so we will bring news of the Robot Tank when we meet again on April 26th.
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/1481985248595237/posts/4768044069989322/)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/278115883_4768029116657484_4760378206245439102_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=w-t2cbKz198AX_2F6yH&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDVRNbIIWJct4D2xclEnRWkYr7_UQQwklHJR_DmO-Jmww&oe=652C96F2)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/4768044069989322)![ALT TEXT](https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484806206_9067907916669561_6715515410733229391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKuTfHutspUQ7kNvwEENN9K&_nc_oc=AdmuFu-4cNiit3K7ZHFZ8UikUKreIE0Z5lSEUcZcD2GADL7dXgAUnAcNE9Aq6cQd6I4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=3WdyMYVNcNwbQ5nDMmkCXg&oh=00_AfdhsTLwI_UtVImp9GWygbHP5yhxpNpmzJqUIK3f2e_ATA&oe=68FC2350)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4768044069989322/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4768044069989322)
 
 ## Location
 

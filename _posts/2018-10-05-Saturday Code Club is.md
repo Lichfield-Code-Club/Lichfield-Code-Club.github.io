@@ -13,7 +13,7 @@ We will be showing Raspberry Pi, Micro Bit, Scratch and the VEX IQ Robot.
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1735232553270504/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1735232553270504)
 
 ## Location
 

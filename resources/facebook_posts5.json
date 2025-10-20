@@ -6,127 +6,8 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t15.5256-10/272788629_1253461081812258_8908253531086011971_n.jpg?stp=dst-jpg_s720x720&_nc_cat=111&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=g2xxbMTtJcAAX__fvGy&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCnD85aQohHeJWf1eM7hopfuiFNcZ4t28P_K3QSroBo7g&oe=652B8E67",
-              "width": 405
-            }
-          },
-          "target": {
-            "id": "1253457315145968",
-            "url": "https://www.facebook.com/720665616418529/videos/1253457315145968"
-          },
-          "type": "video_inline",
-          "url": "https://www.facebook.com/720665616418529/videos/1253457315145968"
-        }
-      ]
-    },
-    "created_time": "2022-01-27T08:07:09+0000",
-    "id": "1481985248595237_4552150318245366",
-    "message": "A summary of the meeting on Wednesday 26th January ...\n\nBill worked on Blender creating tree/grass assets to use with Unity\n\nIgor used Fusion360 and adjusted his design of our robot arm support to accommodate the signal connector we'd not seen in the original image. We'll print this on a resin 3D printer and hopefully have something to hold up a camera and, using computer vision, identify and follow a person in a crowded room.\n\nPav and Igor worked on making a robot arm move properly, found where the unfitted gear should be and got everything working nicely.\n\nStoo had managed to get hold of a microbit v2, which Natan had great fun with, using scratch to write programs that tested sound thresholds for triggering responses. \n\nTim had used his Creatility 3D printer to create some tank tracks for a robot tank project we've started to work on, based on an instructables guide. https://www.instructables.com/3D-Printed-FPV-Arduino-RC-Tank-With-Controller/ The tracks were amazing, printed as a single print the linkages worked, as in moved fairly easily, we'll need to add some grease to make the track move more freely but unbelievable that you can print something with moving parts.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4552150318245366/"
-  },
-  {
-    "created_time": "2022-01-20T07:27:11+0000",
-    "id": "1481985248595237_4520716994722032",
-    "message": "A summary of January 19th meeting ...\n\nThe model wind power turbine is now at one of the club members home and being used to charge a rechargeable battery. \n\nFusion360 model housing for stepper motor adjusted as the 3D printer slicing software, chitubox, was unhappy with the length of the Y axis. Will test later to see if it's now accepted \n\nThe terrain textures component of Unity was investigated to produce grass in various shades and lighting conditions. Two of the club members worked together, one more experienced and one younger, it was rewarding to see them working collaboratively. \n\nA wifi dongle was fitted and configured on the single linux box we have. This allowed the OS to be updated and used to update one of the members own website.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4520716994722032/"
-  },
-  {
-    "created_time": "2022-01-12T18:45:07+0000",
-    "id": "1481985248595237_4487822634678135",
-    "message": "Summary of this afternoons activity\nBuilt a model wind power turbine and manually generated enough output to turn an LED on. Had some fun with a meccano spider and our Unity project made good progress initially but then couldn't figure out how to not texture the sides of tiles",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4487822634678135/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. Join the global Raspberry Pi community.",
-          "media": {
-            "image": {
-              "height": 361,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/15301370695935524516?url=https%3A%2F%2Fwww.raspberrypi.org%2Fpagekit-assets%2Fmedia%2Fimages%2F7bd734d6285cc84615aa.png&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p361x361_q75&ccb=13-1&oh=06_AbF4_sNSzFaGxOzwLv5vpgycA_xOiuaWtsRKs3WEcIFQWw&oe=65283E98&_nc_sid=e609ca",
-              "width": 361
-            }
-          },
-          "target": {
-            "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT1ASO3RcL3bzgwLz2Xd_bGw8cLzVNBp7zq2ZZBL1wP7_ako_SthDJnGXdVm4gFLOIOKoFA-c9yVuja6Rq7eVGcb_dtb8Jo-6UEG0o2dOD-SV44iObaISJ8cW7xVHeue&s=1"
-          },
-          "title": "Teach, Learn, and Make with Raspberry Pi",
-          "type": "share",
-          "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fraspberrypi.org%2F&h=AT1ASO3RcL3bzgwLz2Xd_bGw8cLzVNBp7zq2ZZBL1wP7_ako_SthDJnGXdVm4gFLOIOKoFA-c9yVuja6Rq7eVGcb_dtb8Jo-6UEG0o2dOD-SV44iObaISJ8cW7xVHeue&s=1"
-        }
-      ]
-    },
-    "created_time": "2022-01-12T05:48:29+0000",
-    "id": "1481985248595237_4486212371505828",
-    "message": "This may be of interest to our members and followers",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4486212371505828/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "When this happens, it's usually because the owner only shared it with a small group of people or changed who can see it, or it's been deleted.",
-          "title": "This content isn't available at the moment",
-          "type": "native_templates"
-        }
-      ]
-    },
-    "created_time": "2021-11-28T08:47:30+0000",
-    "id": "1481985248595237_4330174617109605",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4330174617109605/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "When this happens, it's usually because the owner only shared it with a small group of people or changed who can see it, or it's been deleted.",
-          "title": "This content isn't available at the moment",
-          "type": "native_templates"
-        }
-      ]
-    },
-    "created_time": "2021-11-28T08:47:09+0000",
-    "id": "1481985248595237_4330173910443009",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4330173910443009/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "When this happens, it's usually because the owner only shared it with a small group of people or changed who can see it, or it's been deleted.",
-          "title": "This content isn't available at the moment",
-          "type": "native_templates"
-        }
-      ]
-    },
-    "created_time": "2021-11-28T08:45:54+0000",
-    "id": "1481985248595237_4330171377109929",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4330171377109929/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "When this happens, it's usually because the owner only shared it with a small group of people or changed who can see it, or it's been deleted.",
-          "title": "This content isn't available at the moment",
-          "type": "native_templates"
-        }
-      ]
-    },
-    "created_time": "2021-11-20T15:16:13+0000",
-    "id": "1481985248595237_4305980312862369",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4305980312862369/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/256017420_4276621689131565_1671921897017772208_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B-waBJ27ROEAX-L_vOd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC5OFWLGF2Ak6utH0RU7ZWo6r9e75msMsSCKIwf0CaMqw&oe=652BE060",
-              "width": 1280
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486370002_9107783486015337_6431789436749432712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A_QoGIeHzRMQ7kNvwHYlci5&_nc_oc=Adl3xGydbfocYxB4_TGClyEfGVQGJIf_qfcfjl4FevHNHLhNOLb-osipCF8_d2GOBqw&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdYODVmPciT0Z_J_YAXfQiIJXcpVrLQ_yTG9gw105aC_g&oe=68FC1C0D",
+              "width": 960
             }
           },
           "subattachments": {
@@ -135,408 +16,810 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/256017420_4276621689131565_1671921897017772208_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B-waBJ27ROEAX-L_vOd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC5OFWLGF2Ak6utH0RU7ZWo6r9e75msMsSCKIwf0CaMqw&oe=652BE060",
-                    "width": 1280
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486370002_9107783486015337_6431789436749432712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A_QoGIeHzRMQ7kNvwHYlci5&_nc_oc=Adl3xGydbfocYxB4_TGClyEfGVQGJIf_qfcfjl4FevHNHLhNOLb-osipCF8_d2GOBqw&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdYODVmPciT0Z_J_YAXfQiIJXcpVrLQ_yTG9gw105aC_g&oe=68FC1C0D",
+                    "width": 960
                   }
                 },
                 "target": {
-                  "id": "4276621732464894",
-                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621732464894/?type=3"
+                  "id": "4942910972502630",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910972502630/?type=3"
                 },
                 "type": "photo",
-                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621732464894/?type=3"
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910972502630/?type=3"
               },
               {
                 "media": {
                   "image": {
-                    "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/255734561_4276621709131563_3941602503031766536_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=V2J7Xu7pLtoAX8wMUCd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBNxsjKaaIkXTw0nMiKDK4rYjeu_RFIYbbQRyhawOnvKw&oe=652C2574",
-                    "width": 1280
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486618002_9107783632681989_7663726663232935835_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7ZTMwW6dQzMQ7kNvwHOwAmN&_nc_oc=Adns9Gslw_sWNx5Qm2nhZBSf9XazCi-8atAuvG-4xpS9NoBEI6W8NQ4q4OQxz4wlzMM&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afd9WAXebYUlNfugo2IuPEBg7B9N5DdrtsRRpeSZmL8iUQ&oe=68FBF9D9",
+                    "width": 1080
                   }
                 },
                 "target": {
-                  "id": "4276621775798223",
-                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621775798223/?type=3"
+                  "id": "4942910929169301",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910929169301/?type=3"
                 },
                 "type": "photo",
-                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621775798223/?type=3"
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910929169301/?type=3"
               },
               {
                 "media": {
                   "image": {
-                    "height": 720,
-                    "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/255753571_4276621712464896_2997039118703566050_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9l0iN62MQ6sAX_CO1LX&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCJuHUeZC1tky9pXRtuea1dlR52qp11nXevamGWfItqpQ&oe=652AD373",
-                    "width": 1230
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486547457_9107783759348643_6317066111959812595_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BenmZ9PUg48Q7kNvwEP6p2A&_nc_oc=AdkUWVeBjoOIctZCWe6Bx9VF5mTwlvctCQsJyQIdl1K-_H6CK7_zIKy9ZvYDLzvUhL4&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Affu1uTsUYSqO2IzVHfQFA8rzUyyg2ZiD3BOJViNpWAIIw&oe=68FC2141",
+                    "width": 1080
                   }
                 },
                 "target": {
-                  "id": "4276621779131556",
-                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621779131556/?type=3"
+                  "id": "4942910935835967",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910935835967/?type=3"
                 },
                 "type": "photo",
-                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4276621779131556/?type=3"
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4942910935835967/?type=3"
               }
             ]
           },
           "target": {
-            "id": "4276650695795331",
-            "url": "https://www.facebook.com/1481985248595237/posts/4276650695795331/"
+            "id": "4942912172502510",
+            "url": "https://www.facebook.com/720665616418529/posts/4942912172502510"
           },
           "title": "Photos from Curborough Community Centre Code Club's post",
           "type": "album",
-          "url": "https://www.facebook.com/1481985248595237/posts/4276650695795331/"
+          "url": "https://www.facebook.com/720665616418529/posts/4942912172502510"
         }
       ]
     },
-    "created_time": "2021-11-11T12:56:11+0000",
-    "id": "1481985248595237_4276650695795331",
-    "message": "Here is our setup at Curborough now. We have tried to ensure we can socially distance and have plenty of hand sanitizer gel for use on keyboards and mice. Thank you to Ania for putting the posters up and to Mark for ensuring we have internet coverage.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4276650695795331/"
+    "created_time": "2022-06-16T03:51:23+0000",
+    "id": "1481985248595237_4942912172502510",
+    "message": "Tuesday's meeting was a much quieter event which meant time could be spent talking with club members and seeing what they were working on.\n\nPaul, Aleks and Thomasz have done some really good progressive random spiral coding in python as well as making good progress on programming the Raspberry Pi Pico and learning about diodes only allowing current to flow one way. Really good to see them learning so much and becoming more and more confident.\n\nSome really in depth coding of a BBC microbit by Nathaniel. He's really quite adept with the whole microbit programnming interfaces.\n\nBill did some more work on the Unity system and took photos of our meeting.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4942912172502510"
   },
   {
     "attachments": {
       "data": [
         {
-          "description": "Ready for action! Thank you to Chase Accounting for donating the PCs we will be using at our Code Club. Thank you to Terrafix Limited for supplying keyboard and mice as well as a PAT testing machine to enable us to keep our equipment electrically safety checked.",
+          "description": "Thanks to Mark, Anna and Pawel for taking the club to RAF Cosford Airshow last weekend. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+          "media": {
+            "image": {
+              "height": 1305,
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486236258_9107778236015862_2008436303582683544_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=iYJNLBuMn6sQ7kNvwHyxDgu&_nc_oc=Adm-iJAUSj-Y0bg_xgykreIAtoOc4zSQYqg5KS3DtQ9gMwfHOTXEgVIisWJxm8BQjOY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Affx6zsDVzqq4rzhrOUmdfWh4fYV8KUMbjo7isgb45ZFOw&oe=68FC166F",
+              "width": 720
+            }
+          },
+          "target": {
+            "id": "4941642452629482",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4941642452629482/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4941642452629482/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-06-15T16:30:45+0000",
+    "id": "1481985248595237_4941646729295721",
+    "message": "Thanks to Mark, Anna and Pawel for taking the club to RAF Cosford Airshow last weekend. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4941646729295721"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 960,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486376292_9107761472684205_1983454137073290628_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JoE8nFj22sAQ7kNvwFSm743&_nc_oc=AdkV_77jxz0Cxjss8a1Y-FabmSefduDMXFi_fP4yxt8ikwj8pvUJVICYHVqts4X3-EU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afcv7d6-mvTjNeAmbJ3_Y_GJziZNuAfrXl88EUMgKkQaIA&oe=68FC0C3A",
+              "width": 720
+            }
+          },
+          "subattachments": {
+            "data": [
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486376292_9107761472684205_1983454137073290628_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JoE8nFj22sAQ7kNvwFSm743&_nc_oc=AdkV_77jxz0Cxjss8a1Y-FabmSefduDMXFi_fP4yxt8ikwj8pvUJVICYHVqts4X3-EU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afcv7d6-mvTjNeAmbJ3_Y_GJziZNuAfrXl88EUMgKkQaIA&oe=68FC0C3A",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4935460636580997",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460636580997/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460636580997/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 720,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486286912_9107761379350881_7358297484021623510_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wsFyQQN4b44Q7kNvwH07zc8&_nc_oc=AdnRhXAEOaoRWU4FSFDzONCuhKLgCMVS86nk8PXcvzaeBNDeExoVgp9c83iA9vXPcc8&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Affwa0dtf3-S5enY6mndH3B3toxHNyyc5RawR8Pzn0wTOA&oe=68FC1B39",
+                    "width": 960
+                  }
+                },
+                "target": {
+                  "id": "4935460323247695",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460323247695/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460323247695/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486665736_9107761856017500_1315593752399591515_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kcOwOi0-S9gQ7kNvwHKlTqY&_nc_oc=AdkFF1lYTdafkUrYOQ5Su_M8KCMzMXbRFYGDJERGR-G-7z0JVjnP9D3hSfsPi9Bh65U&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afek6YHWCVbOWuInfD8UJcS2_IeaAQ7nk-D5qXNqHi0pKQ&oe=68FC18D1",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4935464769913917",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935464769913917/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935464769913917/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486598861_9107761386017547_2383130103438694202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qVSwPSxBOPoQ7kNvwGxBhTp&_nc_oc=Admy9V2NklyYOZqypruk-Rp0IxGyOh63nBzTBIQiyxTIcIJvt_ZbXaES8-jCaz6yUO4&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfePEzQzEkCKLWn_sjEoaPzOM3r_5uTlOlSNg6k42qmr4w&oe=68FBF6B6",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4935458099914584",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935458099914584/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935458099914584/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486672573_9107761749350844_7936061869076543487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TB6Y94OXCmAQ7kNvwGE71t1&_nc_oc=AdmFqDI9--xGFpm1UcVlsMx3Fj0GnPwI4P8v5uJ-DFL_e1SlzsvZPGDmSeIp2GpoUo4&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdakycaEVUGQkCcB4hj2eBnO9FInxV8yVXGRsCoGqJEuA&oe=68FC038A",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4935459773247750",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935459773247750/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935459773247750/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 720,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486608507_9107761819350837_5881544915357617094_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mtRHhBKTzrEQ7kNvwGAjoOl&_nc_oc=Adn1jsTkdjjhhYXBYfvpHnZF6wg7kkIXAFBaBgYm7lUDw05f9gBFnwOTIzMdbApLoSY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdM9QmgBUhdZcQFIyxGwV7DeKUEHNYklu-BgKFqXWmTpg&oe=68FC0216",
+                    "width": 960
+                  }
+                },
+                "target": {
+                  "id": "4935460819914312",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460819914312/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4935460819914312/?type=3"
+              }
+            ]
+          },
+          "target": {
+            "id": "4935466286580432",
+            "url": "https://www.facebook.com/720665616418529/posts/4935466286580432"
+          },
+          "title": "Photos from Curborough Community Centre Code Club's post",
+          "type": "album",
+          "url": "https://www.facebook.com/720665616418529/posts/4935466286580432"
+        }
+      ]
+    },
+    "created_time": "2022-06-13T10:07:23+0000",
+    "id": "1481985248595237_4935466286580432",
+    "message": "On Sunday our Club represented Staffordshire STEM at the Cosford Air Show.\n\nWe were in hangar 15 and  had a fair bit of interest in what a code club is and where people could find their nearest one, and at least three people were from Lichfield and so may join us.\n\nThe favourite activity was either the robot spider or the mechanical arm. The spider was most popular with the younger children, whilst the mechanical arm was enjoyed by a wide range of age groups and parents :-)\n\nOur slide presentations were running most of the time and many people stood and watched for a while. They sparked a few questions and gave people something to watch whilst waiting for children or friends to finish with the spider or mechanical arm.\n\nWe were unable to get the 3D printer running due to it not being able to read the SD card. Pawel and I tried to get OctoPrint running but the internet connection was far to poor for us to download the software that was needed.\n\nThe show itself was well attended with around 50,000 guests. It was very busy in the hangar most of the time but cleared quite quickly whilst there was an aerial display in progress.\n\nWe were able to look at other exhibits and get some ideas for next time. The main point was that visitors are most receptive when they have something practical to do, and these things need to not need internet connectivity.\n\nMany thanks to Annia and her son Pawel for getting up at 5am and helping throughout the day. It was a great day, but also a long one too..",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4935466286580432"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486754349_9107230972737255_1867287962320502020_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FSYIj0mLnaYQ7kNvwHcB0pa&_nc_oc=AdntnHeAtZx8Y_hwL9Se8gZ6IDgcwKMiTcmChBPBHuZS9JZOG1Jjq49OZvqdxyo32Ts&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffxOOKSAs7GsIYPgBBoUIp_i3m5p8bZiZDocWx6QB4cEg&oe=68FC27C5",
+              "width": 960
+            }
+          },
+          "subattachments": {
+            "data": [
+              {
+                "media": {
+                  "image": {
+                    "height": 720,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486754349_9107230972737255_1867287962320502020_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FSYIj0mLnaYQ7kNvwHcB0pa&_nc_oc=AdntnHeAtZx8Y_hwL9Se8gZ6IDgcwKMiTcmChBPBHuZS9JZOG1Jjq49OZvqdxyo32Ts&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffxOOKSAs7GsIYPgBBoUIp_i3m5p8bZiZDocWx6QB4cEg&oe=68FC27C5",
+                    "width": 960
+                  }
+                },
+                "target": {
+                  "id": "4923129371147457",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923129371147457/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923129371147457/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486094923_9107231252737227_2684533563737818741_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=uMW9CX5pFpcQ7kNvwGcSKA1&_nc_oc=AdljFIqR965EaatWc9ZVcnW4tuFecNd-r59LIZYhk2cexMGZ3ZYi4pB-5IefTMqqrCI&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfcZJcjHZQ7jXreNVXAanLFvNrV6uK8_MpUQI6GL0QRt-Q&oe=68FC1B72",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4923129557814105",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923129557814105/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923129557814105/?type=3"
+              }
+            ]
+          },
+          "target": {
+            "id": "4923129621147432",
+            "url": "https://www.facebook.com/720665616418529/posts/4923129621147432"
+          },
+          "title": "Photos from Curborough Community Centre Code Club's post",
+          "type": "album",
+          "url": "https://www.facebook.com/720665616418529/posts/4923129621147432"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T19:32:30+0000",
+    "id": "1481985248595237_4923129621147432",
+    "message": "Missed 2\nBill's Unity PC and Blender and Pico programming",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4923129621147432"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "description": "3D printer\n... and that is all of the exhibits for the Cosford Air Show \ud83d\ude0a",
+          "media": {
+            "image": {
+              "height": 960,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486095143_9107230976070588_6459944679560203848_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZAsMZ9AYKvQQ7kNvwFu9KkR&_nc_oc=AdkUNMGj0OmvwDcvuvPOsOs9rmxAmIvOVRosdXdyGBjILZKfDHVDB6pz40p_8ai8wi8&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfcLc1JdomfuBucEm-Yc6o3YytDAg_qO8xh_qZxvZklmuw&oe=68FC0D3B",
+              "width": 720
+            }
+          },
+          "target": {
+            "id": "4923071501153244",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923071501153244/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923071501153244/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T19:04:23+0000",
+    "id": "1481985248595237_4923071574486570",
+    "message": "3D printer\n... and that is all of the exhibits for the Cosford Air Show \ud83d\ude0a",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4923071574486570"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "description": "Comments from members and parents",
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486823304_9107231259403893_6854857549388320376_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pouj_tZ5YiIQ7kNvwFkCEse&_nc_oc=Adn-xh9KlFvXl4xm8th5TZOX8z_xuscX4K6boLyUjjTvqN9G1tYUWNIUzHrrfpArHWU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdG2Em9aM9-yhQ1FbTRoeXfVXB84pMUmic0toPvUtUhgA&oe=68FBF482",
+              "width": 960
+            }
+          },
+          "target": {
+            "id": "4923066901153704",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923066901153704/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923066901153704/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T19:02:07+0000",
+    "id": "1481985248595237_4923066967820364",
+    "message": "Comments from members and parents",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4923066967820364"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "description": "Useful magazines and book",
+          "media": {
+            "image": {
+              "height": 960,
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486140053_9107231299403889_8042760790402656072_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=w_itHn6AQyMQ7kNvwHsXqJn&_nc_oc=AdnF340ZDfFTlv0XMZ2gJJEkBn7m-FioFPUmCMyFjU5O8U4FQl--a1NnLT7WiAB9GIs&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afc4FCWI2QOqw-wjoh7Sl0G5sMP9MnqdQ5gHFvZcNZuMZw&oe=68FC05A1",
+              "width": 720
+            }
+          },
+          "target": {
+            "id": "4923063904487337",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923063904487337/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1494843043976124/4923063904487337/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T19:00:38+0000",
+    "id": "1481985248595237_4923063967820664",
+    "message": "Useful magazines and book",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4923063967820664"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 350,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t15.5256-10/285830789_5492652014080659_146219236315141629_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=282d23&_nc_ohc=7klBxwlgSaoQ7kNvwHl7ES3&_nc_oc=AdkYaAFWD284h3tHrFUXamPJBEbZ9I_xP_CUlThICxSuiSx4c99QJaLataJ8_IQLheY&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afet09fUN7mjFJcIW0hWZIPB3D9N8Xue9jIRXcOgGqli5A&oe=68FC25A5",
+              "width": 720
+            },
+            "source": "https://scontent.fbhx4-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQM6sUQwlBQR2dD6JYOvXKLH9dvmqElJ2LsMZP1MUcP9PQ19OTAMb1GnjnaOFbNJoWgJoKYtH-gSDVTBL2FC0_8.mp4?_nc_cat=100&_nc_oc=AdkrO6HQtiJSoGhxJXpv-Jv1DgTgUfCoXRBMVO8RALjZf5XuNJ9ohwNRs8ldopsdA10&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-2.fna.fbcdn.net&_nc_ohc=d4KrCsayXwoQ7kNvwFw26aN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzQyMTE5NjE1NDEyMDI3LCJhc3NldF9hZ2VfZGF5cyI6MTIyOSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEL1YMitvn1DY1Y4nKQ3T8YZ3NtcXU3JaVkQCU93kQxH3JMjAEYSKlH0Rgluzn7hnYnYkZQR9robQ&oh=00_AffhR5pdaquUJszXWuqbOLVPRSHMCZDHAV7EUCsV5M6sRQ&oe=68FBFD4A&bitrate=187178&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+          },
+          "target": {
+            "id": "488935679656922",
+            "url": "https://www.facebook.com/720665616418529/videos/488935679656922"
+          },
+          "type": "video_inline",
+          "url": "https://www.facebook.com/720665616418529/videos/488935679656922"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T18:52:01+0000",
+    "id": "1481985248595237_4923046207822440",
+    "message": "Line following robot car",
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/488935679656922"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 350,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t15.13418-10/283645995_730291321614482_5021123997497998073_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ace027&_nc_ohc=99qAtxozI-0Q7kNvwEf9yrB&_nc_oc=AdnpjJhQH5tAqyoa4pCEABJ_USykwy5WxotRTCEhPUdwW8amDSLhjifRqgtg4KXCI6A&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfeZ9lyW0tju1EvbfxhsX6E1EGuIxdmxBNtDqTt4Uiq2aA&oe=68FBFEF3",
+              "width": 720
+            },
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQPrVC_8Q9n2Tpxyy7nOrN_zoeI1DeOYkP4gHNSatVS_FwybZhij87l-gtRjM3kbzQIlDkrVtfebmfhoGprLBEVe.mp4?strext=1&_nc_cat=104&_nc_oc=Adl8HaBTq9x85RY425dTUV3ynBS7ODZYj12bYiZB9IQ1jQb_ea65il37Xzdovvma7O8&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=T_YcfXWzIywQ7kNvwEAquoS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE2OTU0MjQzNDM2NDY0MiwiYXNzZXRfYWdlX2RheXMiOjEyMjksInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEHKHjpV20YvgqkvDu5GgMN54ykOg7Ex7OTp0aKe1jBbPQN2rih9Ye3uUTmhghwrhLTAODj834DRw&oh=00_Afcj2n08YmRMsTsdZsmbeAJ4y91n4-f6LwmMuE_hMYSwgw&oe=68FC1FEE&bitrate=199164&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+          },
+          "target": {
+            "id": "3178700759015726",
+            "url": "https://www.facebook.com/720665616418529/videos/3178700759015726"
+          },
+          "type": "video_inline",
+          "url": "https://www.facebook.com/720665616418529/videos/3178700759015726"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T18:46:48+0000",
+    "id": "1481985248595237_4923035424490185",
+    "message": "Face recognition and tracking project by Igor",
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/3178700759015726"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 350,
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t15.5256-10/286291454_550746959957526_3926131700769695421_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c3bc4c&_nc_ohc=PF2yLDeJ8OUQ7kNvwG7FeaS&_nc_oc=AdmS2GI5fhu5DQGKp-dmwVvWA9T2lx3AWc-Et-eReGZ8-OvAJwCYvC5CMP3nAmv_ICE&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afdn3gb0ekNFIxWXFRhF-Logsbq3sY7D0_6YquRIodymew&oe=68FC28AE",
+              "width": 720
+            },
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMvT9GcEzyJ1PJZG0f64Xh4acjS0z8_aLjworUT00xZbOL3n2Aj-hHCrCd5TWtWn3F-FJ2ZmU-cQquWi4j43aWY.mp4?_nc_cat=109&_nc_oc=AdmMwruntK795hXTrAuZXGmY6hfLrwPmGsgpsIaLpmVGuAmmFcoqXtQ5DKjak8tHF9g&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=y62_NwC3pxQQ7kNvwHlf5ZL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjE1NTg1MTY5NDI1NzY4LCJhc3NldF9hZ2VfZGF5cyI6MTIyOSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGcaCezm3Gcso8EPpp7jJDRBsGr8yJq0ykBqNSmMK4dJ_7NC-mf1YDDthcZ7zsCtpP4HQzTjTffPA&oh=00_AfdzTCPa9Haa158CIqmSamm3KzY6Io1QnBla1x4hCvIlFQ&oe=68FC181E&bitrate=200133&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+          },
+          "target": {
+            "id": "732665541212161",
+            "url": "https://www.facebook.com/720665616418529/videos/732665541212161"
+          },
+          "type": "video_inline",
+          "url": "https://www.facebook.com/720665616418529/videos/732665541212161"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T18:05:07+0000",
+    "id": "1481985248595237_4922951844498543",
+    "message": "Another of our displays for Cosford Air Show",
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/732665541212161"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 350,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t15.5256-10/281255168_386727170158542_8358218543587262907_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c3bc4c&_nc_ohc=vw5D-aCBqK4Q7kNvwF2Rt3i&_nc_oc=Adl5LYHPmTFqcnjSO7XYBbOeu-AjcNtaw9lXeyASN4hNy9Wm5fwHkYh0zxYXA_RmfXE&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Affk5wL6t97TQOThXx0qBNtRFPhig339XH28C6ManZcSHQ&oe=68FBFF29",
+              "width": 720
+            },
+            "source": "https://scontent.fbhx4-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQN1g_3ZElrCdqWBD72NxLM542_KPII98RjYY8CP4Vnh2lH1WMMGRmh1UmGYBRaFxVwdoIbzbB-3rDS0asunxf61.mp4?strext=1&_nc_cat=111&_nc_oc=Adnz5SAoHt8KEVIqJj07c0XqcRmCjbB--kDjf9BgwDNhMdS4LJrV7zxiTnlXveXFWvc&_nc_sid=8bf8fe&_nc_ht=scontent.fbhx4-1.fna.fbcdn.net&_nc_ohc=7kicX_Vb-aoQ7kNvwEUKHY4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4MjQzOTg1NTU5Mjc4NCwiYXNzZXRfYWdlX2RheXMiOjEyMjksInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&edm=AKK4YLsEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE_5sOOihI3r1FY7mEFKH9VVpVEPuHnX3lSf6V5Bmeh5e9YivJDH2yKXFVrHFJIgWix_Jt4GRZ8Ng&oh=00_AfcB9w9KOo6R5W3hlUbCcewH878ZG71WJI5jztG5wdNlqQ&oe=68FC1F6F&bitrate=280462&tag=sve_sd&mve_delivery_dr_simulation=dr_test_1003%3Acontrol"
+          },
+          "target": {
+            "id": "551803336518003",
+            "url": "https://www.facebook.com/720665616418529/videos/551803336518003"
+          },
+          "type": "video_inline",
+          "url": "https://www.facebook.com/720665616418529/videos/551803336518003"
+        }
+      ]
+    },
+    "created_time": "2022-06-08T17:16:50+0000",
+    "id": "1481985248595237_4922848381175556",
+    "message": "One of our exhibits for the Cosford Air Show on Sunday",
+    "permalink_url": "https://www.facebook.com/720665616418529/videos/551803336518003"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "description": "Let\u2019s hook up some common components to the new Raspberry Pi Pico and see how to code for them in MicroPython!Detailed Article with Code downloads: https://d...",
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/4403361163191830620?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZy64kZEM_bg%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&_nc_oc=AdnEWGb8sApBXgIuaD-jPcom1FQVm8HAh_gqzmraKbQnW6M2rfQzDAs-v_HCTjU1npQ&ccb=13-1&oh=06_Q3-4AQvCLjeZ2LTCaw8VjrSeQ36S4Io_jPmSB5tWlCAjoG7x&oe=68F80547&_nc_sid=ef6713",
+              "width": 720
+            },
+            "source": "https://www.youtube.com/embed/Zy64kZEM_bg?autoplay=1"
+          },
+          "target": {
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZy64kZEM_bg&h=AT2py5W2ai_t2rcljlsJqDGKeo8qLud0pJhljGlAlipqe6NaF8zF5pz7hL348AU6IuRo6_KnxserPrzVVfbwji9DtWs3BlwpGSOOwG-cxCGebq60s2jJ7MkGOjgs-J7X&s=1"
+          },
+          "title": "Raspberry Pi Pico - Control the (I/O) World",
+          "type": "share",
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZy64kZEM_bg&h=AT2py5W2ai_t2rcljlsJqDGKeo8qLud0pJhljGlAlipqe6NaF8zF5pz7hL348AU6IuRo6_KnxserPrzVVfbwji9DtWs3BlwpGSOOwG-cxCGebq60s2jJ7MkGOjgs-J7X&s=1"
+        }
+      ]
+    },
+    "created_time": "2022-06-03T06:39:48+0000",
+    "id": "1481985248595237_4907690179358043",
+    "message": "Continuing with the information about the Raspberry Pi Pico \nHere are a few YouTube videos which  will explain how to use the Pico in some interesting projects\n\nhttps://www.youtube.com/watch?v=Zy64kZEM_bg\n\nhttps://www.youtube.com/watch?v=k2thJQxO17w\n\nhttps://www.youtube.com/watch?v=TDj2kcSA-68&t=12s\n\nhttps://www.youtube.com/watch?v=L03jT5slW",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4907690179358043"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486420722_9103265699800449_1165907287374610929_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iS80-4JahVYQ7kNvwH4SXfc&_nc_oc=AdmhNGHrtdMfVHG3Hvgr3Om3b6XzuB1Bi29ekyU8XduHeHAxQnhsEcz2V6JUiJjt2uA&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afe1svZcR0TxgSOi413GJAkDxrxAkb9MUiwb9xH0lOD-1w&oe=68FC0A7F",
+              "width": 960
+            }
+          },
+          "subattachments": {
+            "data": [
+              {
+                "media": {
+                  "image": {
+                    "height": 720,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486420722_9103265699800449_1165907287374610929_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iS80-4JahVYQ7kNvwH4SXfc&_nc_oc=AdmhNGHrtdMfVHG3Hvgr3Om3b6XzuB1Bi29ekyU8XduHeHAxQnhsEcz2V6JUiJjt2uA&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Afe1svZcR0TxgSOi413GJAkDxrxAkb9MUiwb9xH0lOD-1w&oe=68FC0A7F",
+                    "width": 960
+                  }
+                },
+                "target": {
+                  "id": "4904791662981228",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904791662981228/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904791662981228/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 960,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486315355_9103265676467118_7217792503002620567_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OwB1Ne8euBsQ7kNvwER6mL8&_nc_oc=AdmxlugKtmKk4J-t7uajn--hJ_hJlbBh_13_ivjcP2H282zLYFk6GHH5g8vqZCc8G7M&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdWHoRLekyr-Vkm_SvDqR89Fj0bfSDIHsI0uA7sclqLqg&oe=68FBFA5A",
+                    "width": 720
+                  }
+                },
+                "target": {
+                  "id": "4904791646314563",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904791646314563/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904791646314563/?type=3"
+              }
+            ]
+          },
+          "target": {
+            "id": "4904794099647651",
+            "url": "https://www.facebook.com/720665616418529/posts/4904794099647651"
+          },
+          "title": "Photos from Curborough Community Centre Code Club's post",
+          "type": "album",
+          "url": "https://www.facebook.com/720665616418529/posts/4904794099647651"
+        }
+      ]
+    },
+    "created_time": "2022-06-02T06:28:17+0000",
+    "id": "1481985248595237_4904794099647651",
+    "message": "Controlling devices using computers is fun and easy. At the club, which is part of the Raspberry Pi foundation, we naturally favour the Raspberry Pi Pico, although historically the arduino has been the main stay of our projects.\n\nIt's nice that the Pico only costs 6 GBP.\n\nhttps://projects.raspberrypi.org/en/projects/getting-started-with-the-pico\nhttps://www.arduino.cc/en/Guide\nhttps://thepihut.com/products/raspberry-pi-pico-with-pre-soldered-headers\n\nThe photos show the pico and an LCD screen. The screen also has switches and a joystick and so could be used to create hand held games.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4904794099647651"
+  },
+  {
+    "created_time": "2022-06-02T06:10:28+0000",
+    "id": "1481985248595237_4904761136317614",
+    "message": "Comments from our members and their parents\n\nAleks, age 13\nI enjoy learning something new each week. I have more time to work on projects than at school which is never in much detail\n\nIgor, age 20\nI helped people out with problems regarding different softwares\n\nPaul, parent\nCoding club is a great way for my boys to concentrate on programming computers. Here, they can focus without distraction and receive expert and friendly advice.\n\nNatan, age 11\nI'm making a montage. I like code club because we get to code and experiment and destroy computers (digitally).\n\nBill, age 13\nNatan, Igor, Mark, and Stoo are good friends and Mark and Stoo are both knowledgeable about code which is helpful when I have an issue.\n\nThomasz, age 13\nI have enjoyed learning more about Python language and have used it to draw incredible pictures!\n\nThese cards will be on display at the Cosford Air Show where we hope to promote Code Club and encourage other youngsters to join clubs close to where they live.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4904761136317614"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 608,
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486572305_9103265583133794_6336557427882508114_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pjBPyBKEh50Q7kNvwET3YH7&_nc_oc=AdnfpG8aofbJVrbeAYS3_KZZvC24AmewHIVAF1Nk75Dn5-01iuLVvmzIOTVm7O6IF1A&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffOAl41v44vMjl_iTsq-_l7XrC9tBpTQ-3CQ7fIZ3ATwg&oe=68FC27D4",
+              "width": 1080
+            }
+          },
+          "subattachments": {
+            "data": [
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486572305_9103265583133794_6336557427882508114_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pjBPyBKEh50Q7kNvwET3YH7&_nc_oc=AdnfpG8aofbJVrbeAYS3_KZZvC24AmewHIVAF1Nk75Dn5-01iuLVvmzIOTVm7O6IF1A&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffOAl41v44vMjl_iTsq-_l7XrC9tBpTQ-3CQ7fIZ3ATwg&oe=68FC27D4",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738309653230",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738309653230/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738309653230/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486439666_9103265633133789_1970651357572659851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=44p2aAot7iIQ7kNvwH8unoD&_nc_oc=AdmkAJo5IR4jT7y5xvVagVyRC8HWIJkDZgmg0Fk3DuwK3oiioQGIepG6Bs9nUI2IrRo&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfcnfuXMb7yFaM9N8J7v47woBCeyJCSnnf4pVkTI4uBLDw&oe=68FC2064",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738312986563",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738312986563/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738312986563/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/485838335_9103265636467122_3283780741246204255_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ekA7xNSWRC8Q7kNvwFUl7Uy&_nc_oc=AdmBKFwsEhEeFEt2xuI3El3lM5tNGcGpwu35U8qRsA1BP7nIe6af2CLUMB9PDM8_2bY&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffQ6QNd7cQEkHptCjsrCHxArb-j7VQpK04zYvrIOqoMzA&oe=68FC1915",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738316319896",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738316319896/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738316319896/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486552426_9103265616467124_3730220935678797762_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7C5U8ZtB2_IQ7kNvwHeWxGU&_nc_oc=AdnXMssKL1SSmNe1tqaGOlDep3CsHRWriZ2dZtUYjNse9AwN34o1h-uf2Tq_qHybhtc&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffdffjhWDxD1ULS0o0tzG7HlYRJjJfwWcPTG0iKFLnXqQ&oe=68FC0115",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738329653228",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738329653228/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738329653228/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486333727_9103265589800460_486458660983390903_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=43ni6GryFRMQ7kNvwGMYcoi&_nc_oc=AdkD67ViZF63qlFeyFIGjQU35fd7Y9wz9uZzslKMGs1Ugw9QRpx5FYNyl0JA3Eg7i_k&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfcP7VWdIhc-MUguZ7OPzQAEUli_kE8jXO4B91AxDwN5jA&oe=68FC1F4A",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738306319897",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738306319897/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738306319897/?type=3"
+              },
+              {
+                "media": {
+                  "image": {
+                    "height": 608,
+                    "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486252431_9103265659800453_1946996056678766774_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=enJMrP4dhGcQ7kNvwFxX_Mm&_nc_oc=Adn5Y3daEzdbUG14quRB3tjLyDe-3TpKbCyIdAEJZgvppgIat7FelLW9FYXZMcsDMjg&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfdFit7kasep3IPXmikHwwkwhYRJK0Rm8w7RxMVza5XyLQ&oe=68FC133E",
+                    "width": 1080
+                  }
+                },
+                "target": {
+                  "id": "4904738439653217",
+                  "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738439653217/?type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4904738439653217/?type=3"
+              }
+            ]
+          },
+          "target": {
+            "id": "4904743072986087",
+            "url": "https://www.facebook.com/720665616418529/posts/4904743072986087"
+          },
+          "title": "Photos from Curborough Community Centre Code Club's post",
+          "type": "album",
+          "url": "https://www.facebook.com/720665616418529/posts/4904743072986087"
+        }
+      ]
+    },
+    "created_time": "2022-06-02T06:00:33+0000",
+    "id": "1481985248595237_4904743072986087",
+    "message": "Summary of meeting on Tuesday 31st of May\n\nIt was half term and so a few members were not able to attend, we hope they had a good time and look forward to seeing them next week.\n\nPaul, Aleks and Thomasz made good progress on using Thonny to program a Raspberry Pi Pico and created the usual blinking LED and went on to follow the tutorials that came with the pico\n\nBill worked on the Cosford Air Show presentation slides making them far more presentable. Bill also took some photos of the meeting.\n\nWe got club members to fill in some cards to say what they like about the club and why they come. We'll post those separately.\n\nAll in all another good meeting and looking forward to the next one.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4904743072986087"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "description": "Curborough Community Centre Code Club Cosford Air Show 2022",
+          "target": {
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fycx5f27h&h=AT1GuGNnSpDerrwkwHuEYUiz365BPyCj_Na1Z6bQy-L38l0v7E2A9W4vtyzz9JtQsKMHcUmACRZMeA_9jtHIKdxHng_wOb068stu8NbNu5dsZd1p7_0SKZ65uF24jNXZ&s=1"
+          },
+          "title": "Curborough Community Centre Code Club",
+          "type": "share",
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fycx5f27h&h=AT1GuGNnSpDerrwkwHuEYUiz365BPyCj_Na1Z6bQy-L38l0v7E2A9W4vtyzz9JtQsKMHcUmACRZMeA_9jtHIKdxHng_wOb068stu8NbNu5dsZd1p7_0SKZ65uF24jNXZ&s=1"
+        }
+      ]
+    },
+    "created_time": "2022-05-31T11:42:15+0000",
+    "id": "1481985248595237_4899611766832551",
+    "message": "We have created two presentations to use at the Cosford Air Show and would like feedback on whether they work and any comments.\n\nhttps://tinyurl.com/mwz57tsm\nhttps://tinyurl.com/ycx5f27h",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4899611766832551"
+  },
+  {
+    "created_time": "2022-05-30T09:48:59+0000",
+    "id": "1481985248595237_4896456010481460",
+    "message": "It would be nice if parents of our club members could say what they like about our club,  why their children attend and what benefits there are, or could be.\n\nThe intent would be to have these comments on display at the Cosford Air show and help promote our club and encourage others to join clubs near to where they live.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4896456010481460"
+  },
+  {
+    "created_time": "2022-05-29T06:59:09+0000",
+    "id": "1481985248595237_4892879030839158",
+    "message": "As an example of how we help club members outside of the meeting.  This week we have helped Bill with his Unity project, helped Paul get started with micro python on a Raspberry Pi Pico and installed Unity on the linux PC for Natan.\n\nWe're planning what to put on our stand at the Cosford Air Show in two weeks time and will post a write up after the big day.\n\nMany thanks to Entrust and Code Club UK for promotional materials, such as pens, badges and leaflets which we will give away at the air show.\n\nWish us luck as we try to spread the word of what Code Club can do for our members.",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4892879030839158"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486384065_9102994609827558_2249630975850104988_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LmoqaDyP_QUQ7kNvwHx4a5C&_nc_oc=Adno8oA1KGWp9JPH0DBdwL3M5C0Ek_fAXuzdcmOJmfyq8lAeu7AeZ8DfofrAYSeGpHw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AffguEJTlmf41kb2_KFMA3f-lVwOWw6NyQSZIMkDM6BHlg&oe=68FC1C0D",
+              "width": 1280
+            }
+          },
+          "target": {
+            "id": "4882949251832136",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882949251832136/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882949251832136/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-05-25T16:47:16+0000",
+    "id": "1481985248595237_4882949398498788",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4882949398498788"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 720,
+              "src": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/486446099_9102994636494222_3221982548931043399_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0GLdPmPM7gcQ7kNvwGVqegG&_nc_oc=Admm_ShITdbqt0ueBp7CucJ15T16tdNwfTcSA51BhH3x8Tq0BfVKRMFz0Rm2azVFYqI&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_Affw9FU1Yqyc-4jraXIZ_TK49D1FIxtha4Oq66lt1KjqKA&oe=68FC1CEB",
+              "width": 1280
+            }
+          },
+          "target": {
+            "id": "4882946368499091",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882946368499091/?type=3"
+          },
+          "type": "photo",
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882946368499091/?type=3"
+        }
+      ]
+    },
+    "created_time": "2022-05-25T16:45:58+0000",
+    "id": "1481985248595237_4882946651832396",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4882946651832396"
+  },
+  {
+    "attachments": {
+      "data": [
+        {
           "media": {
             "image": {
               "height": 1280,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/245625972_4205157536277981_6870090380244443917_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3FHlqdPbTlwAX8KY419&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCXoIeTUYe54Yr0Sc_9JlBuK6cd08bEAIqYhebkBWTftw&oe=652ACAAD",
+              "src": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/282023357_4882942188499509_3414709620957492988_n.png?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OfP2dqOMS64Q7kNvwGuDG04&_nc_oc=AdkF9U84DqTPnJ_87wtrkEClpO5CPEkZEb7NGWModHB6HZqnmNu14uYPFSXCLjw8JBs&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&oh=00_AfeCg0wKCbD_nmiDtOyBYSi2J8BDIxwRthvjiSHQfBU8KQ&oe=68FC0C1A",
               "width": 720
             }
           },
           "target": {
-            "id": "4205157542944647",
-            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4205157542944647/?type=3"
+            "id": "4882942195166175",
+            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882942195166175/?type=3"
           },
           "type": "photo",
-          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4205157542944647/?type=3"
+          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4882942195166175/?type=3"
         }
       ]
     },
-    "created_time": "2021-10-19T10:37:29+0000",
-    "id": "1481985248595237_4205165246277210",
-    "message": "Ready for action! Thank you to Chase Accounting for donating the PCs we will be using at our Code Club. Thank you to Terrafix Limited for supplying keyboard and mice as well as a PAT testing machine to enable us to keep our equipment electrically safety checked.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4205165246277210/"
-  },
-  {
-    "created_time": "2021-10-02T18:54:00+0000",
-    "id": "1481985248595237_4152877918172610",
-    "message": "Good news everyone. We will soon be able to continue our Code Club at the Curborough Community centre, who have kindly offered us a slot at 5pm on Wednesdays.\n\nWe did contact Lichfield Library and they issued the following statement regarding the current situation.\n\n                             \n\nThanks for calling into the library about code club today.  I hope you are keeping well. We are currently recovering our services slowly and risk assessing each area.  Unfortunately we cannot offer Code Club at this time as we are unable to offer socially distanced areas with computers for groups.  The session running at Stafford library is Raspberry Jam which is run by an independent group outside of library opening hours.  This is possible as the SP1 building is open during the evening.  Unfortunately this is not possible outside of opening hours in the Lichfield Library space.  Stafford\u2019s Code club is currently not running as they are not able to socially distance in their computer area.\n\nWe would like to re-instate Code Club at some point in the future, but the Staffordshire County Council Winter Plan is following Government guidelines and keeping social distancing, and mask wearing everywhere they can to reduce the Covid 19 risk.  When this changes we will look again at what we can offer.  It is unlikely that this will change until Spring 2022 at the earliest.\n\n===========================================\nIf you would be interested in joining us at Code Club, please leave a comment on this page. Age range is typically 7 - 14yrs old.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4152877918172610/"
+    "created_time": "2022-05-25T16:43:59+0000",
+    "id": "1481985248595237_4882942518499476",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4882942518499476"
   },
   {
     "attachments": {
       "data": [
         {
-          "description": "We visited Stafford Library on Tuesday 14th September where Cerys Lock was hosting a raspberry jam event.\nAlthough the visit was brief, it was a fact finding mission to see what restrictions were in place to enable\nthe group to meet. Mask wearing was encouraged and there were plenty of hand sanitizer stations dotted around.\nThe night saw around 15 attendees demonstrating various Raspberry Pi projects.\n\nWe are going to approach Lichfield Library in the coming week to see if are able to resume our Code Club meetings.\nI will post the outcome of our meeting as soon as I have any details.",
-          "media": {
-            "image": {
-              "height": 944,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/242548874_4110035109123558_3923072716531802706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DjvJAJnLtEQAX-5natc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPhCzr1ICCtuXXbubNAOJY7XPeaDFwiNjjs0S594An_Q&oe=652AE45C",
-              "width": 600
-            }
-          },
-          "target": {
-            "id": "4110035105790225",
-            "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4110035105790225/?type=3"
-          },
-          "type": "photo",
-          "url": "https://www.facebook.com/LichfieldCoders/photos/a.1482002635260165/4110035105790225/?type=3"
-        }
-      ]
-    },
-    "created_time": "2021-09-19T17:31:02+0000",
-    "id": "1481985248595237_4110035529123516",
-    "message": "We visited Stafford Library on Tuesday 14th September where Cerys Lock was hosting a raspberry jam event.\nAlthough the visit was brief, it was a fact finding mission to see what restrictions were in place to enable\nthe group to meet. Mask wearing was encouraged and there were plenty of hand sanitizer stations dotted around.\nThe night saw around 15 attendees demonstrating various Raspberry Pi projects.\n\nWe are going to approach Lichfield Library in the coming week to see if are able to resume our Code Club meetings.\nI will post the outcome of our meeting as soon as I have any details.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4110035529123516/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/242346946_4109937825799953_1848658322154768456_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=gdBdZnUarlwAX9PUHlX&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfA8NNZWCvyDJp94eZOXFmPe0uVaWhW7ff6eifX0_D3UFQ&oe=652C0A03",
-              "width": 843
-            }
-          },
-          "target": {
-            "id": "1481985248595237",
-            "url": "https://facebook.com/LichfieldCoders"
-          },
-          "title": "Curborough Community Centre Code Club's cover photo",
-          "type": "cover_photo",
-          "url": "https://facebook.com/LichfieldCoders"
-        }
-      ]
-    },
-    "created_time": "2021-09-19T16:52:39+0000",
-    "id": "1481985248595237_1464345117417557",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/1464345117417557/?substory_index=1464345117417557"
-  },
-  {
-    "created_time": "2021-09-06T09:07:51+0000",
-    "id": "1481985248595237_4067988389994897",
-    "message": "Hi Everyone, trust you are all well. We will be investigating the clubs restart this September hopefully. Stafford Library are starting next week on Tuesday. Going to pop along to see what they are up to. \ud83d\ude0a",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/4067988389994897/"
-  },
-  {
-    "created_time": "2021-08-10T04:46:08+0000",
-    "id": "1481985248595237_3986457061481364",
-    "message": "Another great idea for our members ... https://www.facebook.com/diyodemag/videos/4712012332164561/",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3986457061481364/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "DIYODE Magazine is a print and digital publication supporting electronics enthusiasts and makers.",
-          "media": {
-            "image": {
-              "height": 400,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbGKEc-McW_EowI-5H29ImDyK_rAJwuxoVDCBp1NHJQKCA&oe=65286602&_nc_sid=e609ca",
-              "width": 400
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT1wWa_LSlfE7y0Ir6adix633sHF3-KDFnoSn_wC63STlQB-UD72fE400TPHYM5mrOOL_sbPandzeSdBuSxENj6vnouLEYotZIplOcGW_p0u0tWwKb1P1m5Ew08SHvOs&s=1"
-          },
-          "title": "DIYODE Magazine",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fwin_1_or_5_raspberry_pi_w&h=AT1wWa_LSlfE7y0Ir6adix633sHF3-KDFnoSn_wC63STlQB-UD72fE400TPHYM5mrOOL_sbPandzeSdBuSxENj6vnouLEYotZIplOcGW_p0u0tWwKb1P1m5Ew08SHvOs&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-08-05T05:28:39+0000",
-    "id": "1481985248595237_3971863472940723",
-    "message": "Here's a chance for our youngsters to win a raspberry pi zero w ... https://diyodemag.com/win/win_1_or_5_raspberry_pi_w",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3971863472940723/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "Check out the Lichfield Code Club community on Discord - hang out with 7 other members and enjoy free voice and text chat.",
+          "description": "Check out the Lichfield Code Club community on Discord - hang out with 10 other members and enjoy free voice and text chat.",
           "media": {
             "image": {
               "height": 200,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbGIcl6VqTpIf00Bin7d_ToFUbcq_hCUJ6ZaI4zJTKO3zw&oe=65289D0C&_nc_sid=e609ca",
+              "src": "https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AWqfmBY5FqhJeTl4A4q6cpzijZx_VUt9Gxkj-NPyuVyy&oe=68F8330C&_nc_sid=ef6713",
               "width": 200
             }
           },
           "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT0FGy3cQNu1yrtraOZmpLWMhab4gEFdQem-PMZI2uKueSPSoEpyUyMG6T03pjW4Y2DfCNACbXbCvOwGF1z_9ijyqXEj50beH0bO8tTz9rFN3fJacgoVEOu2Y2IVdp5_&s=1"
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT092xFgKhTWwY1nVMwmwnXkNZ9WF_aoD-zrp12C_P1-CwB0-bW38Q_fct-GGg9f7m3kgCd0GjPuCj75Ft2-5M_rhoLTQt1WyaKNC9PDXuGHTAaBoVXWBC26ZmVzAnx5&s=1"
           },
           "title": "Join the Lichfield Code Club Discord Server!",
           "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FPAqSaqkddA&h=AT0FGy3cQNu1yrtraOZmpLWMhab4gEFdQem-PMZI2uKueSPSoEpyUyMG6T03pjW4Y2DfCNACbXbCvOwGF1z_9ijyqXEj50beH0bO8tTz9rFN3fJacgoVEOu2Y2IVdp5_&s=1"
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT092xFgKhTWwY1nVMwmwnXkNZ9WF_aoD-zrp12C_P1-CwB0-bW38Q_fct-GGg9f7m3kgCd0GjPuCj75Ft2-5M_rhoLTQt1WyaKNC9PDXuGHTAaBoVXWBC26ZmVzAnx5&s=1"
         }
       ]
     },
-    "created_time": "2021-07-19T09:28:06+0000",
-    "id": "1481985248595237_3923839611076443",
-    "message": "With the school term coming to an end, STEM have some nice ideas of what our members can do over the summer holidays.\nhttps://www.stem.org.uk/news-and-views/news/top-summer-stem-tips\nhttps://www.stem.org.uk/national-stem-club\nhttps://www.stem.org.uk/stem-clubs\n\nIf members need any support please use Discord which is monitored and responded to almost daily. To connect to Discord, please use https://discord.gg/PAqSaqkddA",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3923839611076443/"
+    "created_time": "2022-05-25T07:31:11+0000",
+    "id": "1481985248595237_4881774435282951",
+    "message": "Summary of Tuesday 24th of May meeting\n\nIt was a meeting when not a lot of coding was done but a lot of social interaction occurred, which is equally as good.\n\nNatan was trying to install Unity on his linux server but he keeps running out of time. So we'll do that from home and before the next meeting.\n\nBill has found that his Unity and Blender projects are too large to upload to GitHub so we'll look at Google Drive and similar.\n\nPaul, Thomasz and Aleks had issues trying to get started with the Raspberry Pi Pico and installing micropython. We will also tackle this before the next meeting\n\nAnia was off and Kasia helped us out nicely. Thanks to Kasia we will be able to have a meeting next Tuesday, even though it's half term for many schools.\n\nSome great photos were taken but I don't know how to get them off of our Discord server.  For those who have already joined the Discord channel https://cdn.discordapp.com/attachments/752788182436675646/978731348766384209/unknown.png\nAll are welcome to join https://discord.gg/szz6xGK\n\nIf anyone has any odeas about what they would like to try out at our meetings, please leave comments",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4881774435282951"
   },
   {
-    "attachments": {
-      "data": [
-        {
-          "description": "Assets from Code the Classics. Contribute to Wireframe-Magazine/Code-the-Classics development by creating an account on GitHub.",
-          "media": {
-            "image": {
-              "height": 600,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/10349656041546464755?url=https%3A%2F%2Fopengraph.githubassets.com%2F21854001198da7a933f855d73b94b712c451bcfffee47e11d3c9fa26106faad0%2FWireframe-Magazine%2FCode-the-Classics&fb_obo=1&utld=githubassets.com&stp=c0.5000x0.5000f_dst-emg0_p600x600_q75&ccb=13-1&oh=06_AbFFzIp04h5hFv7teVukjNF9kUTWYIDxRQWE9TsTt3H-IQ&oe=65287DAF&_nc_sid=e609ca",
-              "width": 600
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2Ki7Tbpnt58qH_yBgwI_bQNw5LfYyZrijjSkTpJr_g4oG9UiGB_kFdQAwLaLxgd8k4zMsaD9YS6gCQkuY9mOHyjbkxIBO2h1MoHen7erQQyxXvGEdcdr7lf9A5Bgz3&s=1"
-          },
-          "title": "Wireframe-Magazine/Code-the-Classics",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FWireframe-Magazine%2FCode-the-Classics%2Ftree%2Fmaster%2Fbunner-master&h=AT2Ki7Tbpnt58qH_yBgwI_bQNw5LfYyZrijjSkTpJr_g4oG9UiGB_kFdQAwLaLxgd8k4zMsaD9YS6gCQkuY9mOHyjbkxIBO2h1MoHen7erQQyxXvGEdcdr7lf9A5Bgz3&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-06-02T08:14:31+0000",
-    "id": "1481985248595237_3797556867038052",
-    "message": "Anyone remember Frogger, or would like to code one?\nhttps://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/bunner-master",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3797556867038052/"
+    "created_time": "2022-05-24T18:03:17+0000",
+    "id": "1481985248595237_4880321122094949",
+    "message": "Even though it's a school half term, there will still be a Code Club meeting next Tuesday",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4880321122094949"
   },
   {
-    "attachments": {
-      "data": [
-        {
-          "description": "Get a free initial interview where we will guarantee a tax saving and help you keep more of what you earn.",
-          "target": {
-            "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT1mMdvp6ZktOSko9_uaxR0mX1mDlxTXz6UblmdYkVbrKTrkSQRI2jb_890OYPVYPqoLkJjNOOmHd-LlW0Ec5uPElO63kBOXQZbQjAkci24k3uo81RM2njwfQU90Inzy&s=1"
-          },
-          "title": "Chase Accounting \u00bb Hate Paying Tax",
-          "type": "share",
-          "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hatepayingtax.co.uk%2F&h=AT1mMdvp6ZktOSko9_uaxR0mX1mDlxTXz6UblmdYkVbrKTrkSQRI2jb_890OYPVYPqoLkJjNOOmHd-LlW0Ec5uPElO63kBOXQZbQjAkci24k3uo81RM2njwfQU90Inzy&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-03-22T06:28:01+0000",
-    "id": "1481985248595237_3589723751154699",
-    "message": "Many thanks to Chase Accounting who have donated a number of old PC's to Lichfield Code Club. A few weeks ago we were contacted by Anna Kluk, one of the mum's whose son previously attended our weekly meetings at Lichfield Library, because she'd heard about a company who were looking to donate their old PC's to a worthy cause. After liaising with Councillor Dave Robertson and Sue Woodward we were put in contact with Ken Scott-Clegg at Chase Accounting in Cannock and, after the PC's had been scrubbed to reset them to a fresh start, we collected them just over a week ago.\n\nStewart and I are very happy to see that, even though they're old and maybe not up to scratch for accountancy work, they're perfectly capable of running software to help our members learn how to program. \n\nWe're thinking of installing Scratch, Python and Visual Studio Code.\nWe'll use the non-internet version of Scratch because using the internet version has always had performance issues.\nPython is a popular programming language in great demand in industry, but is also very easy to use at home by someone new to programming.\nVisual Studio Code is free, easy to use IDE also widely used by professional programmers.\n\nWe intend to loan the PC's out to club members who need machines of their own to work on, rather than mum or dad's laptop. We're not adverse to other software being installed because we will restore an image backup once the loan is over and get it ready for the next loan.\n\nLet us know if you would be interested in loaning one of the PC's.\nPlease note that they are small tower desktop systems which will need ethernet cables, there's no wifi adapters.\n\nOnce again, many thanks to Chase Accounting for such a wonderful gesture. We promise to make the most of their generosity.\n\nA special thank you to Anna Kluk, for thinking of us and making this possible.\n\nChase Accounting can be found at http://www.hatepayingtax.co.uk/\n\nLooking forward to when we can meet up again\n\nBest wishes\nStoo and Mark",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3589723751154699/"
+    "created_time": "2022-05-24T11:36:24+0000",
+    "id": "1481985248595237_4879475885512806",
+    "message": "Summary of Club Meeting on Tuesday 17th May\n\nWelcome to our latest new member Adiel, who was initially interested in designing clothes in scratch but chose to switch to programming a robot car. Quite different, but that's partly what we're about, to provide multiple avenues to explore the uses to which computers can be applied,\n\nWe're planning what to put on, and who can do what at the Cosford  Air show next month.\n\nIt was a nice hum of activity with members helping each other out and generally getting on with their projects.\n\nBusy times",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4879475885512806"
   },
   {
-    "attachments": {
-      "data": [
-        {
-          "description": "We\u2019ve run 1005 contests with 16,649 winners to date. Join the winner\u2019s circle! Publish your project to enter one of our current contests for your chance to win a fabulous prize.",
-          "media": {
-            "image": {
-              "height": 405,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17435381248865730092?url=https%3A%2F%2Fwww.instructables.com%2Fassets%2Fimg%2Fcontest%2Fcontests-preview.jpg&fb_obo=1&utld=instructables.com&stp=c0.5000x0.5000f_dst-emg0_p405x405_q75&ccb=13-1&oh=06_AbEReDcjzEKRm40E8ULcvwNNuCjqYZdgOTUgo769TopsVA&oe=65280A4C&_nc_sid=e609ca",
-              "width": 405
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT3-sUqOBMfZR8L6AlmLHg2wUd3idiiY8-Ha9iTxgevt1McidIFmIfduauKovTt-6rNpuEyolT0oPRNOCO2lxpt1MEz-rlIO8s8ggnRGfUp-Vtq8acCR8QIOJXnaCL6X&s=1"
-          },
-          "title": "Instructables Contests",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT3-sUqOBMfZR8L6AlmLHg2wUd3idiiY8-Ha9iTxgevt1McidIFmIfduauKovTt-6rNpuEyolT0oPRNOCO2lxpt1MEz-rlIO8s8ggnRGfUp-Vtq8acCR8QIOJXnaCL6X&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-02-02T04:53:51+0000",
-    "id": "1481985248595237_3464334043693671",
-    "message": "There are a number of competitions and projects on the instructables website that our members might be interested in.\nBesides programming, microcontrollers and IOT there's cooking, jewelry and many more.\nhttps://www.instructables.com/contest/",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3464334043693671/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "Check out the Lichfield Code Club community on Discord - hang out with 6 other members and enjoy free voice and text chat.",
-          "media": {
-            "image": {
-              "height": 200,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbGIcl6VqTpIf00Bin7d_ToFUbcq_hCUJ6ZaI4zJTKO3zw&oe=65289D0C&_nc_sid=e609ca",
-              "width": 200
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT1rdviiGzym13gp6Q1bt5RTHjQv12iK388-obFTBuqIe6qIe-RwwLTapYwbwvJcCi4PRmf7-RXB59_Kng-P-tY1_AVTJDTE2A1Gsa7fUSE-pnS4PzSt27rTKcOnnMlf&s=1"
-          },
-          "title": "Join the Lichfield Code Club Discord Server!",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fx9Eqzpck&h=AT1rdviiGzym13gp6Q1bt5RTHjQv12iK388-obFTBuqIe6qIe-RwwLTapYwbwvJcCi4PRmf7-RXB59_Kng-P-tY1_AVTJDTE2A1Gsa7fUSE-pnS4PzSt27rTKcOnnMlf&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-02-01T07:08:27+0000",
-    "id": "1481985248595237_3461848233942252",
-    "message": "For those of us interested in making computers do things for us, take a look at the many projects at https://mailchi.mp/59219f67f93e/sparking-ideas-issue-41-of-diyode-magazine-available-now-249514?e=92180899ac\n\nRemember to use our Discord service if you need any help, https://discord.gg/x9Eqzpck",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3461848233942252/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/7012666828657964948?url=https%3A%2F%2Fprojects.raspberrypi.org%2Fstatic%2Fmedia%2Flogomark.20300533.svg&fb_obo=1&utld=raspberrypi.org&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbHcBPE9shtjZWEnDqEw9kchc8s08IkYrhnlXchoU1vNIg&oe=6528863C&_nc_sid=e609ca",
-              "width": 720
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT1GULjR_KZ5nhWPX__K1rsjtJ4bDXcySLM-VRRp57xtNOCop2Ju8CL9RIgvs6PPA7v6MNntEkIbRGp6tLo7UvnXJ7vjAqnDeR27WcYeeNwkhomavaWaEm7Y4bqdR1ab&s=1"
-          },
-          "title": "Projects | Raspberry Pi Projects",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fprojects.raspberrypi.org%2Fen&h=AT1GULjR_KZ5nhWPX__K1rsjtJ4bDXcySLM-VRRp57xtNOCop2Ju8CL9RIgvs6PPA7v6MNntEkIbRGp6tLo7UvnXJ7vjAqnDeR27WcYeeNwkhomavaWaEm7Y4bqdR1ab&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-01-21T08:36:32+0000",
-    "id": "1481985248595237_3432969276830148",
-    "message": "For those keen to get started with programming, the main Code Club has some impressive projects with lots of support tutorials at https://projects.raspberrypi.org/en",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3432969276830148/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/6849981301606394634?url=https%3A%2F%2Fmaps.googleapis.com%2Fmaps%2Fapi%2Fstaticmap%3Fcenter%3D52.6834606%2C-1.8274373%26markers%3Dcolor%3Ared%7C52.6834606%2C-1.8274373%26key%3DAIzaSyDT0mMwhQaPf3J-DApAXMiPP5qYyj5lc5I%26scale%3D2%26size%3D600x400%26zoom%3D15&fb_obo=1&utld=googleapis.com&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbHA3X2kjchIy_sMM8dTbo3EYgj4NM6Pkdxl79oxse9Eyw&oe=652853A9&_nc_sid=e609ca",
-              "width": 720
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3BZSYzyPuxmu139k9Gw8dn4PU3O1Xl9igven-aRfASqS29oCsHu_wKT7AbiVSJd53aQbsZ4Aa0vDYC7z2HR8duMiGO95uTGMHi5Gf0Vuk2Fhq4EPMd4_-YV-8lQkHT&s=1"
-          },
-          "title": "Lichfield Library \u2014 Code Club",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeclub.org%2Fen%2Fclubs%2Fd3922adc-312e-49e5-8d80-90d2fe263bf5&h=AT3BZSYzyPuxmu139k9Gw8dn4PU3O1Xl9igven-aRfASqS29oCsHu_wKT7AbiVSJd53aQbsZ4Aa0vDYC7z2HR8duMiGO95uTGMHi5Gf0Vuk2Fhq4EPMd4_-YV-8lQkHT&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-01-17T18:12:39+0000",
-    "id": "1481985248595237_3423966971063712",
-    "message": "https://codeclub.org/en/clubs/d3922adc-312e-49e5-8d80-90d2fe263bf5\n\nHi everyone, just a note to say we are working on our online presence and now have a Discord presence. This is a social media server that let's us exchange ideas and code. One of our young coders is trying their hand at web design. Check out lichfieldcodeclub.uk \n\nRemember, we have a Club Page on the main Code Club Site, where you can find lots of projects to have a go at. I am going to investigate the possibility of having virtual Code Club meetings on Zoom. This would allow us to see and speak to each other and share ideas and projects. I need to do a bit of research on this first to make sure we stick to the guidelines etc and that we can do this in a safe way that respects your privacy.",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3423966971063712/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "Looking for the best courses for developers? Look no further, here are some awesome courses by awesome developers!",
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/8094861047756141507?url=https%3A%2F%2Fimages.ctfassets.net%2F28643bqnqgzl%2F42TB41kM9DYONvrcLHjFjf%2Fdb683d6c9d6354586fe09d3cc415376d%2F10_free_courses_nzr4qp.jpg&fb_obo=1&utld=ctfassets.net&stp=c0.5000x0.5000f_dst-emg0_p720x720_q75&ccb=13-1&oh=06_AbGRx9YgJf55QfW2ptgp2LqRLIDYgKLWQYRJf-YGTmIKbg&oe=652842AC&_nc_sid=e609ca",
-              "width": 720
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT09w8ha5OlJpEm1raURnLA82xs90x81O_1CLqzIzxeC5jEa4bt-_S9KfhvZgBpY6sXHc8C9XkQK1iw5hNshm5BAd6i5oOnhg3rjyulWn15DwkikMv2GPMCEBwTAdQOM&s=1"
-          },
-          "title": "10 Awesome Free Courses for Devs by Devs",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fthesmartcoder.dev%2Fawesome-free-courses-for-devs-by-devs%2F&h=AT09w8ha5OlJpEm1raURnLA82xs90x81O_1CLqzIzxeC5jEa4bt-_S9KfhvZgBpY6sXHc8C9XkQK1iw5hNshm5BAd6i5oOnhg3rjyulWn15DwkikMv2GPMCEBwTAdQOM&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-01-08T08:39:26+0000",
-    "id": "1481985248595237_3399306986863044",
-    "message": "A useful set of 10 free tutorials for coders,  including Python, Java, JavaScript and HTML. Some say that they're for complete beginners\n\nhttps://thesmartcoder.dev/awesome-free-courses-for-devs-by-devs/",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3399306986863044/"
-  },
-  {
-    "attachments": {
-      "data": [
-        {
-          "description": "DIYODE Magazine is a print and digital publication supporting electronics enthusiasts and makers.",
-          "media": {
-            "image": {
-              "height": 400,
-              "src": "https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/7801953715571185587?url=https%3A%2F%2Fdiyodemag.com%2F_images%2F5989687fc672e0e229c39da9%2C400%2C400&fb_obo=1&utld=diyodemag.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbGKEc-McW_EowI-5H29ImDyK_rAJwuxoVDCBp1NHJQKCA&oe=65286602&_nc_sid=e609ca",
-              "width": 400
-            }
-          },
-          "target": {
-            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT3McGxFMbVGI03HC_njlqXST7aQr5tzAr6B1cMwYWROADPwJY87ZF9cE4R3IeS-wJJVf_aaTRSArqeq8vgyNnl_VAwfRNaU7MeijXPWiTlXQTbnBYHk9HarGK0Xv5oH&s=1"
-          },
-          "title": "DIYODE Magazine",
-          "type": "share",
-          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdiyodemag.com%2Fwin%2Fmicrobitv2_go_starter_kit&h=AT3McGxFMbVGI03HC_njlqXST7aQr5tzAr6B1cMwYWROADPwJY87ZF9cE4R3IeS-wJJVf_aaTRSArqeq8vgyNnl_VAwfRNaU7MeijXPWiTlXQTbnBYHk9HarGK0Xv5oH&s=1"
-        }
-      ]
-    },
-    "created_time": "2021-01-07T08:22:32+0000",
-    "id": "1481985248595237_3396858063774603",
-    "message": "There's a chance to win a MicroBIT v2 courtesy of DIYODE\nhttps://diyodemag.com/win/microbitv2_go_starter_kit",
-    "permalink_url": "https://www.facebook.com/1481985248595237/posts/3396858063774603/"
+    "created_time": "2022-05-13T03:13:31+0000",
+    "id": "1481985248595237_4846242022169526",
+    "message": "Summary of Tuesday 10th May Meeting\n\nAnother very busy meeting. \nNatan updated his linux server and sorted out some ethernet driver issues \nBill's Unity project is doing very well , the blossom on his trees is still impressive. \nAleks and Tomasz made some progress with python \nTim had some conundrums with the robot tank and resolved to contact the instructables author. \nThe two youngest members were absent due to ill health.\n\nA lot of thought went into what we need to do to be ready for the Cosford Air show",
+    "permalink_url": "https://www.facebook.com/720665616418529/posts/4846242022169526"
   }
 ]

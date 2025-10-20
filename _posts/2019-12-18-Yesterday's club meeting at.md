@@ -17,9 +17,9 @@ For those who want to make games please download the latest version, 3.8.0. Duri
 
 Hope you all have a great Christmas, enjoy coding and feel free to ask questions. See you all in 2020.
 
-[Python Releases for Windows](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT2SQdVZPuiX9R9my0FNTRezv0nhtaUZbKoh7FBeo_UtaiNJ1wW-2dn7BpMwLR3OrKZV82W_VJgkTvXyGU-Ayr43SrdkMsSfMOpaHmTjuici5Mqhdxy-4xrjLqtaB5aA&s=1)![ALT TEXT](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbF59fQPHMxZORc8-oN5cvE9azj31Ls_a194iyRJGaZXmA&oe=65285668&_nc_sid=e609ca)
+[Python Releases for Windows](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fdownloads%2Fwindows%2F&h=AT1fn8bkgqbFeMThTJmXJ1rj1kfEnp0Q5NXxqexRtprJGUAHhhMSFfaagIy5LkKl9GW6dEw7tme5e74LysrMnGfjCNJJVxzDUntCkcjmH7hL3M_FPAywr_9ratY64hT7&s=1)![ALT TEXT](https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17832389882323649001?url=https%3A%2F%2Fwww.python.org%2Fstatic%2Fopengraph-icon-200x200.png&fb_obo=1&utld=python.org&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=PPVs8SG5YpiG-h17jw7STA&_nc_oc=Adnm7CDtrffrz6Fzy-pWIB36u1wC_nhYsszOGHh3REjMZMdyun0dj8Ft6W7EXpijynU&ccb=13-1&oh=06_Q3-4AeJuDAc9LggYRN_POkfSd-OE4H-LktJGUQza_T6jD_NI&oe=68F824A8&_nc_sid=ef6713)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2445603555566730/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2445603555566730)
 
 ## Location
 

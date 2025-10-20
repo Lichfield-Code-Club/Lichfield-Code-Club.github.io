@@ -8,7 +8,7 @@ Hope you have all had nice holidays. Tuesday Code Club will start on September 1
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2244442152349539/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2244442152349539)
 
 ## Location
 

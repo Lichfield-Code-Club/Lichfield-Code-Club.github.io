@@ -8,7 +8,7 @@ Hi Everyone. I think Code Club should stop meeting for a while following governm
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2630842913709459/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2630842913709459)
 
 ## Location
 

@@ -82,8 +82,8 @@ def CreateWebPost(fname):
 def UpdateWebsite(fname):
     config = ReadJson(fname)
     if config:
-        filelist = glob('resources/facebook_posts*.json')
-        filelist.sort()
+        filelist = glob(config['facebook_posts'])
+        filelist.sort(key=lambda x: int(os.path.basename(x).replace('facebook_posts', '').replace('.json', '')))
         for file in filelist:
             CreateWebPost(fname=file)
     else:

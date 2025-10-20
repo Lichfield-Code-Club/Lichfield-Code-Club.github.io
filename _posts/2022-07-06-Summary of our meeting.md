@@ -14,9 +14,9 @@ Alekx and Thomasz further progressed their pico electronics where they were emul
 
 Nataniel and his Dad investigated two BBC MicroBits talking, wirelessly, to each other.
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/1481985248595237/posts/4998740306919696/)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/292376239_4998739490253111_1387848272642480253_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q8tV92Oh7kgAX8uP1Kd&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfC5xWf3XEYm-XG5kQg2z-4CONvY_plwS35BJ0QxDA6Wfg&oe=652C5D1C)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/4998740306919696)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/486263871_9112972432163109_3620877343635838448_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=h7IyDsSXsuQQ7kNvwELhg_K&_nc_oc=AdlHo6vyKK_hIptk6VnfgvMkv29UMU1VyLGObZnw-00zLom6bDtwpmykFCEoPJqRWRk&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=8g2iVBR5koV6lJlvj_lnOQ&oh=00_AfforwwSxbInPpohRN7ACaa72lusNp966qKOt6ZuA4xmZw&oe=68FC11C4)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4998740306919696/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4998740306919696)
 
 ## Location
 

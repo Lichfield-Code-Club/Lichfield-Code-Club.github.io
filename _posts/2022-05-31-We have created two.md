@@ -9,9 +9,9 @@ We have created two presentations to use at the Cosford Air Show and would like 
 https://tinyurl.com/mwz57tsm
 https://tinyurl.com/ycx5f27h
 
-[Curborough Community Centre Code Club](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fycx5f27h&h=AT0WNuEnNtD5ur7Eb0mf6oF_THs8MRfz0-lgY-SN1C9CS3ph7vE_7y-ZWzoaGIMCTzZIJ1ctiWJAzf4S-SdFaxEW5oucXioBgrdweCzHRB15lZ-C5UL8NO0AP7PuCaIV&s=1)
+[Curborough Community Centre Code Club](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fycx5f27h&h=AT1GuGNnSpDerrwkwHuEYUiz365BPyCj_Na1Z6bQy-L38l0v7E2A9W4vtyzz9JtQsKMHcUmACRZMeA_9jtHIKdxHng_wOb068stu8NbNu5dsZd1p7_0SKZ65uF24jNXZ&s=1)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4899611766832551/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4899611766832551)
 
 ## Location
 

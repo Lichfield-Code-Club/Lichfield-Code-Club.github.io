@@ -14,9 +14,9 @@ There's an IDE (Integrated Development Environment) called 'Idle' but I couldn't
 Type this, and press enter, to prove it works:    print('Hello World')
 To end or 'get out' type: exit()
 
-[www.python.org](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT3xHiG8TLFGHQNG0_7gKkrEpigFRshoSnb08vgPVAm92iK0J57T86M9V0QsGjgTCcijqxysUq9VePRgb14sQG8eFCFruscWl9YSGYjhfBxXz52ZCY-ycRHdvSKRtZaT&s=1)
+[www.python.org](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.python.org%2Fftp%2Fpython%2F3.8.0%2Fpython-3.8.0-webinstall.exe&h=AT24JgrFUhPTBmkxCpib2kdHf1LgUxCRWTsOOSkGNZYddRFYV7fS-SmTNbjDB_WMmrVwvoR1bJBJha7yj3VR92M9p1GE8r8Kjzh2Vezp1_1QDkHLeQ66pHNZKROqPaVV&s=1)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2445657738894645/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2445657738894645)
 
 ## Location
 

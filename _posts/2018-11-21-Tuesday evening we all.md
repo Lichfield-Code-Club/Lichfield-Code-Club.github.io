@@ -7,7 +7,7 @@ author: Mark
 Tuesday evening we all had a go at BBC Micro Bit programming. Everybody got the hang of it real quick and we had some brilliant creations.
 We will be using the BBC Micro Bit more next year, so get your thinking caps on.
 
-[Tuesday Codeclub](https://www.facebook.com/media/set/?set=ms.c.eJxFy8kNACAMA8GOUGLjHP03xiMIvqNdzy6GBAZYyeUXGK2E6YFPsR%7E%3BYwC9iFhzenxFF.bps.a.1798365466957212&type=1)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/46496295_1798365530290539_903528022336864256_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=24CiJSdTjQQAX8CTmR_&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfDaIo7y_9ADSrm7AFLb0PsIeoc9YAqZtfZfBkAfVzacUg&oe=654E2F69)
+[Tuesday Codeclub](https://www.facebook.com/media/set/?set=ms.c.eJxFy8kNACAMA8GOUGLjHP03xiMIvqNdzy6GBAZYyeUXGK2E6YFPsR%7E%3BYwC9iFhzenxFF.bps.a.1798365466957212&type=1)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/46496295_1798365530290539_903528022336864256_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=H6QBQ19uwJsQ7kNvwEwjQ6_&_nc_oc=Adnl0ftHmKxdTjdl1BUqQ1Uz_qLmZmrOjZKom3NmnU_f1RBpBqHWX3FHOfHhvjyC46M&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=FQ5nqBufam355_c8c7ppCA&oh=00_AfezFaUG_ZTRhK0ltBF9vAdIdDvTVW-xCgR_9ztp5a0Onw&oe=691DC569)
 
 * [Facebook Link](https://www.facebook.com/LichfieldCoders/photos/a.1798365466957212/1798365523623873/?type=3)
 

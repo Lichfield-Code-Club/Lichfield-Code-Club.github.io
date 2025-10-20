@@ -15,7 +15,7 @@ Natan had fun updating our linux server, downloading minecraft client and trying
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4676494612477602/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4676494612477602)
 
 ## Location
 

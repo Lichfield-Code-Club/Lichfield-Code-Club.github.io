@@ -16,7 +16,7 @@ A wifi dongle was fitted and configured on the single linux box we have. This al
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4520716994722032/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4520716994722032)
 
 ## Location
 

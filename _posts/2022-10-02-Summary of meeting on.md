@@ -16,7 +16,7 @@ All in all, I'd say that we were working nicely as a group and long may it last.
 
 We are open to new members and if you're interested please come along to the Curborough Community Centre Code Club at 5pm on each Tuesday. Look forward to meeting you :-)
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/606283887856703)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/310101422_606283751190050_2055031401775929040_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yXd84kDnyiUAX8PpG13&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBm1ORKAqSQYMQOaNXa46Y2CxCCLHij5dOfUdRdFFeZVw&oe=652B623F)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/606283887856703)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/472786815_1108084534343300_5589483665070847460_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gFYshfFfB5QQ7kNvwGsJyPE&_nc_oc=AdkVo4jpeogrV9C1TuP2n1n1IOM5TGP1CLY760Aj9meAZeK3m8YYLgUpleQ-KWlSszo&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=8g2iVBR5koV6lJlvj_lnOQ&oh=00_AfexQCy7IC43f96hi43LlIQYz2vQsyJPz6IVg1Mdby9E5Q&oe=68FC2678)
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/606283887856703)
 

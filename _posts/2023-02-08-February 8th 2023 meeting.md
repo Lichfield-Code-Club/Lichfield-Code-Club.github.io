@@ -6,7 +6,7 @@ author: Mark
 ---
 February 8th 2023 meeting
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/698970861921338)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/328254691_3284154465169559_2274310479871101387_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KD0RECLEJ98AX8c83VZ&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBPV0Dl-0Xq5WK70WDXJiGWzbHIZUrB_0a-Fkl-9hQIYA&oe=652B7044)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/698970861921338)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/475371373_1124453272706426_2078293062345442770_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XTZe4HYruIYQ7kNvwHmXgVO&_nc_oc=AdnIHtp9AJIjQDgRbbkGS5h9m-7G5QjkMc5L6pqrwXngTbBMgCou1BG8iwGqbxxoCRw&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=SviUWI1W45YN8lQ97QKp3A&oh=00_AffE80U0B42HDsO3-CmeZltho1ZghUoDA8eHeNPm1366AQ&oe=68FC13BF)
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/698970861921338)
 

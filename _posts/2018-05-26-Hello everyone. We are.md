@@ -8,7 +8,7 @@ Hello everyone. We are starting a new session on Tuesday June 5th. Please contac
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1555180067942421/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1555180067942421)
 
 ## Location
 

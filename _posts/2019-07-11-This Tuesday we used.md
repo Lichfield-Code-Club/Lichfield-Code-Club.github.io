@@ -6,9 +6,9 @@ author: Mark
 ---
 This Tuesday we used the Micro BIT to measure the speed of a toy car. We also programmed the Kitronic buggy to respond to the G sensor in the Micro BIT so that it reversed up when it hit the wall. Well done Natan! 😊
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/1481985248595237/posts/2141745239285898/)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=nnWNQVxKS9cAX9d_P1j&_nc_oc=AQlhbpyiF-wSI5QoMLQpW-9PYenT5Wr9TeXgK5p5yRwwzRavXf6wq4P_NsZEX2tWHhk&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAx28YvNfVW1Xfad2bx-1ClPXdn94Ef-TbFdgIrlnun4A&oe=654E3CEE)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/2141745239285898)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/64973889_2141741499286272_2202044137979510784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Qndv-Zw09cQ7kNvwHtMvci&_nc_oc=AdkUI35j5QG_8iBbM88Qyv5UZ59g8BpRgfjUsHEeCjE9q5undIO0zouSrsQ8NMpKL0k&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=-FV9iJCrXk1qTHDi7Xz-_A&oh=00_AfdO_tkQwPHZoWR_sE5tIzi6mcnli9A0wPPCVcqPIXJliA&oe=691D9AAE)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2141745239285898/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2141745239285898)
 
 ## Location
 

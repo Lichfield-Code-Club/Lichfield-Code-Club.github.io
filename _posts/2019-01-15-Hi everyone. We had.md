@@ -10,9 +10,9 @@ It was nice to see some of you coding with the BBC Micro Bits and some of you ha
 
 Some of you asked where the BBC Micro Bits can be purchased. Try the following store: https://shop.pimoroni.com/  Also https://cpc.Farnell.com and https://www.rapidonline.com
 
-[The best for Raspberry Pi, micro:bit, and Arduino – Pimoroni](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.pimoroni.com%2F&h=AT1UFtZKBrRrlgRHi_TZygbW4QUjCuJG49Lpr9Ec4KIWKSVY5dhDNGNG8J8-kSvN3sPpJ0UV6kmdXXaIRqqxprow0oHke8EiTJUWxynJv-jddKNBR2QWuRJ_sYCz2yhK&s=1)![ALT TEXT](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/13488464029031095584?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0174%2F1800%2Fcollections%2Fmicrobit_1_of_1_large_04e1fb41-5af1-4f02-a893-695b355573d9_200x200.jpg%3Fv%3D1508321112&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbHG6kH3rc05av1j99dEf1yjQmToXbLTc_PRMoPUUxzagw&oe=652846DB&_nc_sid=e609ca)
+[The best for Raspberry Pi, micro:bit, and Arduino – Pimoroni](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.pimoroni.com%2F&h=AT1L-N4aZnVWYKvS4bG0QJTiAOBc-UfTTowKPEzyw8n_X6eAYdCwHUuTRqjiWjkBdrWlh8FecYebO5IpBs77XKEsow4guIGXl9ZPWgrMdu3ZA5YjrhGNEeHcEsmQfShz&s=1)![ALT TEXT](https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13488464029031095584?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0174%2F1800%2Fcollections%2Fmicrobit_1_of_1_large_04e1fb41-5af1-4f02-a893-695b355573d9_200x200.jpg%3Fv%3D1508321112&fb_obo=1&utld=shopify.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=tsuW1ba0qto3-17OVXUh-g&_nc_oc=AdlcrkAizZ_kNzejoLeEwmjjwCjT2JhhABSgIj-cqJUFp-C_28ztvRVNc2Y4d84iEmM&ccb=13-1&oh=06_Q3-4AdP8_e_4zGexA-9Oyh8E_66e8SAgaCksvbrXcXvtZZes&oe=68F8151B&_nc_sid=ef6713)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1872548622872229/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1872548622872229)
 
 ## Location
 

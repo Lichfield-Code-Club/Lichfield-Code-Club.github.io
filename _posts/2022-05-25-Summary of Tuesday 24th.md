@@ -21,9 +21,9 @@ All are welcome to join https://discord.gg/szz6xGK
 
 If anyone has any odeas about what they would like to try out at our meetings, please leave comments
 
-[Join the Lichfield Code Club Discord Server!](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT117hNFonlwVrkAbhd21wAYcOVjsxsI_m7x4Q17mNmIjxcQHTc1bDLl6btremQWzBUVclw9woTEJj7Vj103RABNlYMMy5Zoj6Bh3bnOtwS6vOFn0ORAdHTLUlH_-vna&s=1)![ALT TEXT](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75&ccb=13-1&oh=06_AbGIcl6VqTpIf00Bin7d_ToFUbcq_hCUJ6ZaI4zJTKO3zw&oe=65289D0C&_nc_sid=e609ca)
+[Join the Lichfield Code Club Discord Server!](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fszz6xGK&h=AT092xFgKhTWwY1nVMwmwnXkNZ9WF_aoD-zrp12C_P1-CwB0-bW38Q_fct-GGg9f7m3kgCd0GjPuCj75Ft2-5M_rhoLTQt1WyaKNC9PDXuGHTAaBoVXWBC26ZmVzAnx5&s=1)![ALT TEXT](https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/13957814808962068580?url=https%3A%2F%2Fcdn.discordapp.com%2Ficons%2F752788181954461750%2Fffc72da0d75123f00019873ad95b9e43.jpg%3Fsize%3D256&fb_obo=1&utld=discordapp.com&stp=c0.5000x0.5000f_dst-emg0_p200x200_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=Of2BKOv_Vdui_2Z3gE0c6Q&_nc_oc=AdmFThP60Y9YraNBOQ6TxZhbQX48qjzKA4gN4wAUh0BXC5-L1-ixnA9RKoIBuv2anUE&ccb=13-1&oh=06_Q3-4AWqfmBY5FqhJeTl4A4q6cpzijZx_VUt9Gxkj-NPyuVyy&oe=68F8330C&_nc_sid=ef6713)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4881774435282951/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4881774435282951)
 
 ## Location
 

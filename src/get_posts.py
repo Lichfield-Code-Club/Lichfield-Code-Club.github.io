@@ -61,9 +61,10 @@ def GetPageToken(config):
         fb_request += f"&{access_token}"
 
         response = FacebookRequest(fb_request)
-        if response: 
+        if response and isinstance(response, dict) and 'access_token' in response:
             return response
-        print('GetPageToken','Failed')
+        print('GetPageToken failed or unexpected response:', response)
+        return None
 
 def GetPosts(config):
     response = GetPageToken(config=config)

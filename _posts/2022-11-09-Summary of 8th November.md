@@ -13,7 +13,7 @@ Paul used PurpleMash, whilst Aleks and Natan coded an analogue clock.
 Nathaniel and Tomaz programmed the BBC Microbit.
 This week's meeting turned out well. 😀
 
-![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/313390981_635061748312250_1880116480714937660_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YIiWC5hGz4QAX-7Faks&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfBF-JEaHd6HfEshSaZzKOhAlqdQxbjWQ_mr-rxpasnJGQ&oe=652B0F3A)
+![ALT TEXT](https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/473733959_1116385353513218_1608493573815225289_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wE2pxtmiWIIQ7kNvwH1-pa_&_nc_oc=Adn6vmjd-lhQFuE8QxlmU5D1HJ50l5vJPKhvCAYK4F0MEpxM5h91llQEtBaAsay7nCk&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=8g2iVBR5koV6lJlvj_lnOQ&oh=00_AfdgFUylKaNHSD-VcTGNc9T8XozlRt9989V_8xlrLOjtPA&oe=68FC2925)
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/635061861645572)
 

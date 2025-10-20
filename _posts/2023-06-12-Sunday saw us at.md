@@ -6,7 +6,7 @@ author: Mark
 ---
 Sunday saw us at RAF Cosford providing some coding activities. The 1981 BBC Micro was probably the star of the show and attracted a lot of visitors who remembered the start of the home computing era. 😊
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/767816035036820)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/353447754_767816105036813_6590245260006161544_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_ohc=nwBApVSR6LAAX8GCYCF&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfAzhRGJbFQmbB2IqmTnZ3WWf5qxQ8slkP8L8VJNGkqiqQ&oe=652BBD86)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/767816035036820)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/476678971_1129806485504438_4154516036845381226_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AzsXBhltTq4Q7kNvwEbX5t1&_nc_oc=AdmoyPXCoZgpPUj5xPGgLk14emloitTOwNI2MBmGDolu0St5edrQ2QMkpa4AyDctHEo&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=SviUWI1W45YN8lQ97QKp3A&oh=00_AffaxObXXIaDagRi_z9mJkz3ivHtyy9lCk-aHaKcrHJVWA&oe=68FC22A5)
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/767816035036820)
 

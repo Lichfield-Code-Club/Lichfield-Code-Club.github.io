@@ -8,7 +8,7 @@ Sorry Folks Code Club is cancelled tonight. See you all next week.
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1524990984294663/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1524990984294663)
 
 ## Location
 

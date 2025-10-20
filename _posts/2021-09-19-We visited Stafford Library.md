@@ -12,9 +12,9 @@ The night saw around 15 attendees demonstrating various Raspberry Pi projects.
 We are going to approach Lichfield Library in the coming week to see if are able to resume our Code Club meetings.
 I will post the outcome of our meeting as soon as I have any details.
 
-![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/242548874_4110035109123558_3923072716531802706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DjvJAJnLtEQAX-5natc&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfCPhCzr1ICCtuXXbubNAOJY7XPeaDFwiNjjs0S594An_Q&oe=652AE45C)
+![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/474025700_8734634816663541_601919735520634043_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KnosPZhAwBQQ7kNvwFkREPI&_nc_oc=AdlF7Me5BvteuOZPxjYftfBlwyaR-orZI0mJU9X_iPDPh71ufUX0IJF-pvqHdl1BXnU&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&oh=00_AffgI19D2H8fog4L_qNl3BdBMqqRntpnXdY3e5eOWG3D-Q&oe=68FC0359)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4110035529123516/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4110035529123516)
 
 ## Location
 

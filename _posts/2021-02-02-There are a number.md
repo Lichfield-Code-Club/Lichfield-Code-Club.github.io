@@ -6,11 +6,11 @@ author: Mark
 ---
 There are a number of competitions and projects on the instructables website that our members might be interested in.
 Besides programming, microcontrollers and IOT there's cooking, jewelry and many more.
-https://www.instructables.com/contest/
 
-[Instructables Contests](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT3-sUqOBMfZR8L6AlmLHg2wUd3idiiY8-Ha9iTxgevt1McidIFmIfduauKovTt-6rNpuEyolT0oPRNOCO2lxpt1MEz-rlIO8s8ggnRGfUp-Vtq8acCR8QIOJXnaCL6X&s=1)![ALT TEXT](https://external.fbhx6-1.fna.fbcdn.net/emg1/v/t13/17435381248865730092?url=https%3A%2F%2Fwww.instructables.com%2Fassets%2Fimg%2Fcontest%2Fcontests-preview.jpg&fb_obo=1&utld=instructables.com&stp=c0.5000x0.5000f_dst-emg0_p405x405_q75&ccb=13-1&oh=06_AbEReDcjzEKRm40E8ULcvwNNuCjqYZdgOTUgo769TopsVA&oe=65280A4C&_nc_sid=e609ca)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/3464334043693671/)
+[Instructables Contests](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instructables.com%2Fcontest%2F&h=AT20Dp1Qg73-EBUG80o7USTXNM9pCkqzN7ZDHQSB95xV4NEDmKpP3j2Qv0rhmuO154KFyVJbSh6gq4teYmrAclL7cofrPghBUHsGQRRqbA9V2Xy9DbDAnJXFZ6r_BHG8&s=1)![ALT TEXT](https://external.fbhx4-2.fna.fbcdn.net/emg1/v/t13/17435381248865730092?url=https%3A%2F%2Fwww.instructables.com%2Fassets%2Fimg%2Fcontest%2Fcontests-preview.jpg&fb_obo=1&utld=instructables.com&stp=c0.5000x0.5000f_dst-emg0_p405x405_q75_tt6&edm=AKK4YLsEAAAA&_nc_gid=x3HUv9IhLuyr6svLPkoItQ&_nc_oc=AdlwKTAKjH5SmqBm1XmPcq9ZX91IpKxUSfuvoeIMlKuJWIF-Jg3rcN97ox_O9C-DYLQ&ccb=13-1&oh=06_Q3-4AU4UWV1_0ARIIFamlVokMUc7v7-t47czZMHu6LaFa4X7&oe=68F810CC&_nc_sid=ef6713)
+
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/3464334043693671)
 
 ## Location
 

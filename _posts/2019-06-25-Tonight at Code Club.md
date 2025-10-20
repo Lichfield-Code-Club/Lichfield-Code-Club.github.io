@@ -8,7 +8,7 @@ Tonight at Code Club we measured magnetic fields with the BBC Micro BIT and Our 
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/2113774852082937/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/2113774852082937)
 
 ## Location
 

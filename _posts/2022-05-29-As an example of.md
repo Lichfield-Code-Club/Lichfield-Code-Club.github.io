@@ -14,7 +14,7 @@ Wish us luck as we try to spread the word of what Code Club can do for our membe
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4892879030839158/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4892879030839158)
 
 ## Location
 

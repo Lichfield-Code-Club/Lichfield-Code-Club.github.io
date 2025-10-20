@@ -10,7 +10,7 @@ We will be looking at the new Scratch 3 editor
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/1862606550533103/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1862606550533103)
 
 ## Location
 

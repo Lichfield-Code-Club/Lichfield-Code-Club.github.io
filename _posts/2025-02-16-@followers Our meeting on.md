@@ -1,0 +1,24 @@
+---
+Topic:  Club Meeting
+Content: Summary
+layout: post
+author: Mark
+---
+@followers Our meeting on the 12th saw Mark and Natan unpacking the parts for our Ceilometer project and installing the required drivers. Natan has done a lot of research in the days following and we will have a catch up on Wednesday 19th February. Our other members continue to code with Unity and C#. We currently have six regular members, but could accommodate another four at least. So, if you fancy having a go at computer coding, then please get in touch. We have Mac Books suitable for running Unity, but can also offer Python, Scratch, Micro Python. We have BBC Micro Bits and Raspberry Pico boards if you want to experiment with interfacing to the outside world. 
+
+We are FREE to attend and all the tools and software we use is free to download from the World Wide Web.   
+
+We have two STEM Ambassadors with experience of Software Development and Electronic Engineering to assist where possible.
+
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/1135953981556355)![ALT TEXT](https://scontent.fbhx4-1.fna.fbcdn.net/v/t39.30808-6/484054446_1156935716124848_4374413775727974655_n.jpg?stp=cp1_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wPeAH0TEHKEQ7kNvwGG0-qp&_nc_oc=AdmnvEu5TWnm9d0WH2qaikU_y62g_gXkx5xsl0A81cJwr4lflgUHW4KcQGS2xsdB--U&_nc_zt=23&_nc_ht=scontent.fbhx4-1.fna&edm=AKK4YLsEAAAA&_nc_gid=8m_k3Hl0vmzeyCPo1jX4-g&oh=00_AfeVND9IZ7oKfNEcgIoW89voxhNSzX3ZaYGUV_5SDNLoZA&oe=68FC0CFE)
+
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/1135953981556355)
+
+## Location
+
+* Curborough Community Centre
+* WS13 7NY
+* Code Club
+* Wednesdays 5:30 - 6:30pm
+* 7 - 15 year olds welcome
+

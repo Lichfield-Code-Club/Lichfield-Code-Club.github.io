@@ -1,0 +1,40 @@
+---
+Topic:  Club Meeting
+Content: Summary
+layout: post
+author: Mark
+---
+Summary of Club Meeting on Wednesday 12th June
+
+A good week for sorting out 'bugs' in the members code.
+
+Natan found why his SDR, Software Defined Radio, wasn't connecting to flight information services.
+Max sorted out some resizing issues in his HTML image pictures of Liverpool Football team.
+Bill is really quit adept at using Unity for his 3D program and he sorted out some physics effect that just didn't look right.
+Aleks enhanced his sprite animations and sorted out some sizing issue in the explosion sequences.
+Tomasz resolved his data issues and was able to use Plotly Express to draw pie charts, bar charts, line charts and scatter graphs.
+
+Team work is always nice to see in action.
+It was good to see Igor helping Max and others. 
+
+I like the fact that we're using multiple programming languages
+  Python        - Plotly Express and pygame space invaders
+  C#              - Unity 2D platform game
+  Java/Node - Software Defined Radio
+  Javascript  - Displaying graphs
+  HTML        -  Liverpool Football club web site
+
+All in all a good meeting with members collectively fixing many issues and having cleaner, functioning code.
+
+
+
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/975063310978757)
+
+## Location
+
+* Curborough Community Centre
+* WS13 7NY
+* Code Club
+* Wednesdays 5:30 - 6:30pm
+* 7 - 15 year olds welcome
+

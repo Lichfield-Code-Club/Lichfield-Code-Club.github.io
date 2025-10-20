@@ -8,7 +8,7 @@ Hope you all had a good summer break and are ready to resume normal activities, 
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/5167482523378806/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/5167482523378806)
 
 ## Location
 

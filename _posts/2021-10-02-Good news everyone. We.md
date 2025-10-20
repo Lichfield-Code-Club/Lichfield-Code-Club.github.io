@@ -19,7 +19,7 @@ If you would be interested in joining us at Code Club, please leave a comment on
 
 
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/4152877918172610/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/4152877918172610)
 
 ## Location
 

@@ -16,9 +16,9 @@ https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
 
 Also, bear in mind that we help out with any problems via our Discord server.
 
-[New Arduino Tutorials](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT1bcj9qIpZMtSSaIwlUizRtz2O1a-1e9BmiiMZVYxgLziR8-Y5slt6GFdKmkScZ1ypx0_51z-aJFcKtk_5gNQ8d305QagtApkSDKzHBrZrTAs2p_Q9pqWexhlQJNaML&s=1)
+[New Arduino Tutorials](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&h=AT0BJt_MFL52VlyQjruaz1zH7x7fuLAqldKD4jy35GC5z-UPELUN4MWUn44FuQ57eOJOATK6AwN8_NcRUD8zhuWnbM8DduYnHaZ2m7Rgy7GEacbR_qMnnTHzgCbzTjUm&s=1)
 
-* [Facebook Link](https://www.facebook.com/1481985248595237/posts/3388460661281010/)
+* [Facebook Link](https://www.facebook.com/720665616418529/posts/3388460661281010)
 
 ## Location
 

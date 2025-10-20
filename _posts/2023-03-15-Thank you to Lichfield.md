@@ -6,7 +6,7 @@ author: Mark
 ---
 Thank you to Lichfield City Council and Curborough Community Centre for our new equipment 😊😊😊 💻
 
-[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/719794693172288)![ALT TEXT](https://scontent.fbhx6-1.fna.fbcdn.net/v/t39.30808-6/336082243_751673879797924_7537163271248675242_n.jpg?stp=cp1_dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=5614bc&_nc_ohc=mpSQ-bbo_wQAX_NiBrs&_nc_ht=scontent.fbhx6-1.fna&edm=AKK4YLsEAAAA&oh=00_AfD4Vcz6-wmglykSYEIsqN_12-v87Q48B4x8kb5Wssx6WA&oe=652C3410)
+[Photos from Curborough Community Centre Code Club's post](https://www.facebook.com/720665616418529/posts/719794693172288)![ALT TEXT](https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/475848069_1126467539171666_5210933300202233596_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lVlUdN7zTL0Q7kNvwEfIAvk&_nc_oc=AdkkTlkI9fPxTw6ZKdOKnsy5G1oIatw_qsvH6p64lh1y4YkjRRAWNjR5GEsPqB3_dRM&_nc_zt=23&_nc_ht=scontent.fbhx4-2.fna&edm=AKK4YLsEAAAA&_nc_gid=SviUWI1W45YN8lQ97QKp3A&oh=00_Afc5oANezoZkJWFuMiDH4sRRiAeFib-YhFQ9jkQZ32Vhmw&oe=68FC0FD3)
 
 * [Facebook Link](https://www.facebook.com/720665616418529/posts/719794693172288)
 
