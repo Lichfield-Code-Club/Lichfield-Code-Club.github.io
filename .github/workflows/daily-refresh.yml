@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
       - name: Rebuild Facebook config
         run: |
           mkdir -p src/config
