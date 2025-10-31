@@ -49,6 +49,9 @@ jobs:
       - name: Update website content
         run: python src/update_website.py
 
+      - name: List content
+        run: ls -l _posts
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
