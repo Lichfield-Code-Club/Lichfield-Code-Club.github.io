@@ -1,0 +1,56 @@
+name: Daily Site Refresh
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 6:00 UTC
+  workflow_dispatch:      # Allows manual triggering from GitHub UI
+
+jobs:
+  refresh-site:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+      - name: Rebuild Facebook config
+        run: |
+          mkdir -p src/config
+          cat <<EOF > src/config/facebook.json
+          {
+            "app_id": "${{ secrets.FB_APP_ID }}",
+            "app_secret": "${{ secrets.FB_APP_SECRET }}",
+            "facebook_posts": "data/posts.json",
+            "fb_url": "https://graph.facebook.com",
+            "long_lived_access_token": "${{ secrets.FB_LONG_LIVED_ACCESS_TOKEN }}",
+            "name": "Lichfield Code Club",
+            "page_id": "${{ secrets.FB_PAGE_ID }}"
+          }
+          EOF
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Pull Facebook posts
+        run: python src/get_posts.py
+
+      - name: Update website content
+        run: python src/update_website.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Automated daily site refresh"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
