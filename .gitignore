@@ -4,5 +4,4 @@ _site
 .secrets*
 facebook_posts.json
 website
-#_posts/
-#resources/
+resources/
