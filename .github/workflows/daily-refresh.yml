@@ -28,8 +28,8 @@ jobs:
 
       - name: Create working folders
         run: |
-        mkdir -p resources
-        mkdir -p _posts
+          mkdir -p resources
+          mkdir -p _posts
 
       - name: Checkout repository
         uses: actions/checkout@v4
