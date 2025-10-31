@@ -80,12 +80,17 @@ def CreateWebPost(fname):
                     os.remove(md_file)
                 with open(md_file,'w') as fw:
                     fw.write(web_post)
+                if os.path.exists(md_file):
+                    print('Web Post Created',md_file)
                 # more = False
 
 def UpdateWebsite(fname):
     config = ReadJson(fname)
     if config:
         filelist = glob(config['facebook_posts'])
+        if not filelist:
+            print('No Facebook Post files found', config['facebook_posts'])
+            return
         filelist.sort(key=lambda x: int(os.path.basename(x).replace('facebook_posts', '').replace('.json', '')))
         for file in filelist:
             CreateWebPost(fname=file)
@@ -94,8 +99,8 @@ def UpdateWebsite(fname):
 
 
 if __name__ == "__main__":
-    facebook_config = os.environ['FACEBOOK_CONFIG']
-    if facebook_config:
+    facebook_config = 'src/config/facebook.json'
+    if os.path.exists(facebook_config):
         UpdateWebsite(fname=facebook_config)
     else:
-        print('FACEBOOK_CONFIG not set as an env variable') 
+        print(f'FACEBOOK_CONFIG file not found', facebook_config) 

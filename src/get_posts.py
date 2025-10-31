@@ -1,5 +1,4 @@
 import urllib3
-import os
 import json
 from datetime import datetime, timezone
 
@@ -34,24 +33,6 @@ def FacebookRequest(url):
         r = http.request('GET', url)
         if r.status == 200:
             return json.loads(r.data.decode('utf-8'))
-
-def GetAccessToken(fb_url, config):
-    if config:
-        grant_type = 'grant_type=fb_exchange_token'
-        client_id = f"client_id={config['app_id']}"
-        client_secret = f"client_secret={config['app_secret']}"
-        fb_exchange_token = f"fb_exchange_token={config['short_lived_access_token']}"
-
-        fb_request  = f"{fb_url}/oauth/access_token"
-        fb_request += f"?{grant_type}"
-        fb_request += f"&{client_id}"
-        fb_request += f"&{client_secret}"
-        fb_request += f"&{fb_exchange_token}"
-
-        response = FacebookRequest(fb_request)
-        if response: 
-            return response
-        print('GetAccessToken', 'Failed')
 
 def GetPageToken(config):
     if config:
@@ -104,8 +85,8 @@ def GetFacebookPosts(fname):
 
 
 if __name__ == "__main__":
-    facebook_config = os.environ['FACEBOOK_CONFIG']
+    facebook_config = 'src/config/facebook.json'
     if facebook_config:
         GetFacebookPosts(fname=facebook_config)
     else:
-        print('FACEBOOK_CONFIG not set as an env variable')
+        print(f'FACEBOOK CONFIG not found: {facebook_config}')
