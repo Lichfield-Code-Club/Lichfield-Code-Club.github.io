@@ -1,5 +1,6 @@
 import urllib3
 import json
+import os
 from datetime import datetime, timezone
 
 Usage = """
@@ -85,8 +86,8 @@ def GetFacebookPosts(fname):
 
 
 if __name__ == "__main__":
-    facebook_config = 'src/config/facebook.json'
-    if facebook_config:
-        GetFacebookPosts(fname=facebook_config)
+    config = 'src/config/facebook.json'
+    if os.path.exists(config):
+        GetFacebookPosts(fname=config)
     else:
-        print(f'FACEBOOK CONFIG not found: {facebook_config}')
+        print(f'FACEBOOK CONFIG not found: {config}')

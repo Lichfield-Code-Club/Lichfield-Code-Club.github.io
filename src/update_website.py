@@ -99,8 +99,8 @@ def UpdateWebsite(fname):
 
 
 if __name__ == "__main__":
-    facebook_config = 'src/config/facebook.json'
-    if os.path.exists(facebook_config):
-        UpdateWebsite(fname=facebook_config)
+    config = 'src/config/facebook.json'
+    if os.path.exists(config):
+        UpdateWebsite(fname=config)
     else:
-        print(f'FACEBOOK_CONFIG file not found', facebook_config) 
+        print(f'FACEBOOK_CONFIG file not found', config) 
