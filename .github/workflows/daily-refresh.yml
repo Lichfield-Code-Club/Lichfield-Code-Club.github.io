@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: After checkout
+        run: |
+          find src
+
       - name: Rebuild Facebook config
         run: |
           mkdir -p src/config
@@ -24,13 +31,6 @@ jobs:
             "page_id": "${{ secrets.FB_PAGE_ID }}"
           }
           EOF
-          find src
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: After checkout
-        run: |
           find src
 
       - name: Set up Python
