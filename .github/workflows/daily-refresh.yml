@@ -24,7 +24,7 @@ jobs:
           {
             "app_id": "${{ secrets.FB_APP_ID }}",
             "app_secret": "${{ secrets.FB_APP_SECRET }}",
-            "facebook_posts": "data/posts.json",
+            "facebook_posts": "resources/facebook_posts*.json",
             "fb_url": "https://graph.facebook.com",
             "long_lived_access_token": "${{ secrets.FB_LONG_LIVED_ACCESS_TOKEN }}",
             "name": "Lichfield Code Club",
