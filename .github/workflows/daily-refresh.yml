@@ -24,10 +24,12 @@ jobs:
             "page_id": "${{ secrets.FB_PAGE_ID }}"
           }
           EOF
-          ls -ld src
+          find src
 
       - name: Checkout repository
         uses: actions/checkout@v4
+        run: |
+          find src
 
       - name: Set up Python
         uses: actions/setup-python@v5
