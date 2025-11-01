@@ -43,9 +43,8 @@ jobs:
           mkdir -p resources
           pwd
           ls -ld resources
-          ls -l
-          echo "Looking for _posts"
-          env
+          ls -ld _posts
+          find _posts
 
       - name: Pull Facebook posts
         run: python src/get_posts.py
