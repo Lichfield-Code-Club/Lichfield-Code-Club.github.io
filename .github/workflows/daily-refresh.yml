@@ -45,6 +45,7 @@ jobs:
           ls -ld resources
           ls -l
           echo "Looking for _posts"
+          env
 
       - name: Pull Facebook posts
         run: python src/get_posts.py
