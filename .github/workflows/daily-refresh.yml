@@ -24,6 +24,7 @@ jobs:
             "page_id": "${{ secrets.FB_PAGE_ID }}"
           }
           EOF
+          ls -ld src
 
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +45,8 @@ jobs:
           pwd
           ls -ld resources
           ls -ld _posts
-          find _posts
+          ls -ld src
+          find src
 
       - name: Pull Facebook posts
         run: python src/get_posts.py
