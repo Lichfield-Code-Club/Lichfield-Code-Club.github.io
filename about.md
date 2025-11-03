@@ -2,12 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# layout: home
-
 layout: page
 title: About
 ---
 
 # About Page
 
-This is an about page
+This is an about page.
+
+_Last updated: {{ site.time | date: "%A, %d %B %Y at %H:%M %Z" }}_
+
