@@ -1,0 +1,9 @@
+{
+  "app_id": "1618738431910657",
+  "app_secret": "a012ce721bd34366e4dc539d9329ea2d",
+  "facebook_posts": "resources/facebook_posts*.json",
+  "fb_url": "https://graph.facebook.com",
+  "long_lived_access_token": "EAAXAOZBk34wEBP7xSstZAQpkfz0m4X0NfXObaNd5ACDZAGgREWDgu1xS6yveHY3F8tcQbFW46ZB6QDcVdGmWYqf8ZAFgNQwfzqTYZAR1aIpcFhRIUAwFF2b46p2ZBnScHZBEAbCLuTEoFojDyQplZCnEUe3DjZBHvNMZC00ARyOktcHvct3e7c9966AlyoKdeop3ifCBZAgR2DiD9rO4reBIZBlnK",
+  "name": "Lichfield Code Club",
+  "page_id": "1481985248595237"
+}
