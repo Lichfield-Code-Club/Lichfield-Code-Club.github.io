@@ -29,7 +29,6 @@ markdown: kramdown
 #remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
 
